@@ -6,8 +6,11 @@
 //
 
 #if os(macOS)
+
 import Cocoa
+
 public extension NSImageView {
+    
     convenience init(sfsymbol: SFSymbol) {
         if let image = sfsymbol.image {
             self.init(image: image)
@@ -18,6 +21,12 @@ public extension NSImageView {
     
     convenience init(sfname: SFName) {
         self.init(image: NSImage(systemSymbolName: sfname.rawValue) ?? NSImage())
+    }
+}
+
+public extension SFSymbol {
+    var imageView: NSImageView {
+        return NSImageView(sfsymbol: self)
     }
 }
 
@@ -39,9 +48,9 @@ public extension UIImageView {
     }
 }
 
-public extension UIImage {
-    func withSymbolConfiguration(_ configuration: UIImage.Configuration) -> UIImage? {
-        return self.withConfiguration(configuration)
+public extension SFSymbol {
+    var imageView: UIImageView {
+        return UIImageView(sfsymbol: self)
     }
 }
 

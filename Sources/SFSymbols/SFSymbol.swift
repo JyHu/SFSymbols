@@ -6,31 +6,9 @@
 //
 
 #if os(macOS)
-
 import Cocoa
-
-public typealias _SFSymbolFont = NSFont
-public typealias _SFSymbolImage = NSImage
-public typealias _SFSymbolColor = NSColor
-public typealias _SFImageView = NSImageView
-public typealias _SFSymbolFontWeight = NSFont.Weight
-public typealias _SFSymbolScale = NSImage.SymbolScale
-public typealias _SFSymbolTextStyle = NSFont.TextStyle
-public typealias _SFSymbolConfiguration = NSImage.SymbolConfiguration
-
 #else
-
 import UIKit
-
-public typealias _SFSymbolFont = UIFont
-public typealias _SFSymbolImage = UIImage
-public typealias _SFSymbolColor = UIColor
-public typealias _SFImageView = UIImageView
-public typealias _SFSymbolScale = UIImage.SymbolScale
-public typealias _SFSymbolTextStyle = UIFont.TextStyle
-public typealias _SFSymbolFontWeight = UIImage.SymbolWeight
-public typealias _SFSymbolConfiguration = UIImage.SymbolConfiguration
-
 #endif
 
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
@@ -49,14 +27,18 @@ public struct SFSymbol {
     /// Whether multi colors are supported.
     public let multiColored: Bool
     
-    /// The configuration details for a symbol image.
-    public private(set) var configuration: _SFSymbolConfiguration?
-    
 #if !os(macOS)
     private var variableValue: Double?
+    
+    /// The configuration details for a symbol image.
+    public private(set) var configuration: UIImage.SymbolConfiguration?
+    
 #if os(iOS)
     private var traitCollection: UITraitCollection?
 #endif
+#else
+    /// The configuration details for a symbol image.
+    public private(set) var configuration: NSImage.SymbolConfiguration?
 #endif
     
     /// Create a SF Symbol model.
@@ -74,8 +56,15 @@ public struct SFSymbol {
 }
 
 public extension SFSymbol {
-    var image: _SFSymbolImage? {
-        func createImage() ->_SFSymbolImage? {
+    
+#if os(macOS)
+    typealias SymbolImage = NSImage
+#else
+    typealias SymbolImage = UIImage
+#endif
+    
+    var image: SymbolImage? {
+        func createImage() -> SymbolImage? {
 #if os(macOS)
             return NSImage(systemSymbolName: name, accessibilityDescription: nil)
 #else
@@ -102,57 +91,68 @@ public extension SFSymbol {
         
         return createImage()
     }
-    
-    var imageView: _SFImageView {
-        return _SFImageView(sfsymbol: self)
-    }
 }
 
 public extension SFSymbol {
-    func applying(pointSize: CGFloat, weight: _SFSymbolFontWeight, scale: _SFSymbolScale? = nil) -> SFSymbol {
+#if os(macOS)
+    typealias SymbolWeight = NSFont.Weight
+    typealias SymbolScale = NSImage.SymbolScale
+    typealias SymbolColor = NSColor
+    typealias SymbolTextStyle = NSFont.TextStyle
+    typealias SymbolConfiguration = NSImage.SymbolConfiguration
+#else
+    typealias SymbolWeight = UIImage.SymbolWeight
+    typealias SymbolScale = UIImage.SymbolScale
+    typealias SymbolColor = UIColor
+    typealias SymbolTextStyle = UIFont.TextStyle
+    typealias SymbolConfiguration = UIImage.SymbolConfiguration
+#endif
+    
+    
+    func applying(pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale? = nil) -> SFSymbol {
         if let scale = scale {
-            return applying(_SFSymbolConfiguration(pointSize: pointSize, weight: weight, scale: scale))
+            return applying(SymbolConfiguration(pointSize: pointSize, weight: weight, scale: scale))
         } else {
-            return applying(_SFSymbolConfiguration(pointSize: pointSize, weight: weight))
+            return applying(SymbolConfiguration(pointSize: pointSize, weight: weight))
         }
     }
     
-    func applying(textStyle style: _SFSymbolTextStyle, scale: _SFSymbolScale? = nil) -> SFSymbol {
+    func applying(textStyle style: SymbolTextStyle, scale: SymbolScale? = nil) -> SFSymbol {
         if let scale = scale {
-            return applying(_SFSymbolConfiguration(textStyle: style, scale: scale))
+            return applying(SymbolConfiguration(textStyle: style, scale: scale))
         } else {
-            return applying(_SFSymbolConfiguration(textStyle: style))
+            return applying(SymbolConfiguration(textStyle: style))
         }
     }
     
-    func applying(scale: _SFSymbolScale) -> SFSymbol {
-        return applying(_SFSymbolConfiguration(scale: scale))
+    func applying(scale: SymbolScale) -> SFSymbol {
+        return applying(SymbolConfiguration(scale: scale))
     }
     
     @available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
-    func applying(hierarchicalColor: _SFSymbolColor) -> SFSymbol {
-        return applying(_SFSymbolConfiguration(hierarchicalColor: hierarchicalColor))
+    func applying(hierarchicalColor: SymbolColor) -> SFSymbol {
+        return applying(SymbolConfiguration(hierarchicalColor: hierarchicalColor))
     }
     
     @available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
-    func applying(paletteColors: [_SFSymbolColor]) -> SFSymbol {
-        return applying(_SFSymbolConfiguration(paletteColors: paletteColors))
+    func applying(paletteColors: [SymbolColor]) -> SFSymbol {
+        return applying(SymbolConfiguration(paletteColors: paletteColors))
     }
     
 #if !os(macOS)
     func applying(pointSize: CGFloat) -> SFSymbol {
-        return applying(_SFSymbolConfiguration(pointSize: pointSize))
+        return applying(SymbolConfiguration(pointSize: pointSize))
     }
     
     func applying(weight: UIImage.SymbolWeight) -> SFSymbol {
-        return applying(_SFSymbolConfiguration(weight: weight))
+        return applying(SymbolConfiguration(weight: weight))
     }
     
     func applying(font: UIFont, scale: UIImage.SymbolScale? = nil) -> SFSymbol {
         if let scale = scale {
-            return applying(_SFSymbolConfiguration(font: font, scale: scale))
+            return applying(SymbolConfiguration(font: font, scale: scale))
         } else {
-            return applying(_SFSymbolConfiguration(font: font))
+            return applying(SymbolConfiguration(font: font))
         }
     }
     
@@ -175,7 +175,7 @@ public extension SFSymbol {
 }
 
 private extension SFSymbol {
-    func applying(_ configuration: _SFSymbolConfiguration) -> Self {
+    func applying(_ configuration: SymbolConfiguration) -> Self {
         var mutableSelf = self
         
         if let cachedConfiguration = self.configuration {

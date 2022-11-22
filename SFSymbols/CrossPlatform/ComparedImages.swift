@@ -7,8 +7,10 @@
 
 #if os(macOS)
 import Cocoa
+typealias _SFSymbolImage = NSImage
 #else
 import UIKit
+typealias _SFSymbolImage = UIImage
 #endif
 
 import SFSymbols
