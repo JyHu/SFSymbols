@@ -10072,6 +10072,10 @@ public enum SFName: String, CaseIterable, Identifiable {
     /// Availables: iOS 15.0, macOS 12.0, watchOS 8.0, tvOS 15.0
     case rectangleLeadingthirdInsetFilled = "rectangle.leadingthird.inset.filled"
 
+    /// SF Name: rectangle.lefthalf.fill
+    /// Availables: iOS 14.0, macOS 11.0, watchOS 7.0, tvOS 14.0
+    case rectangleLefthalfFill = "rectangle.lefthalf.fill"
+    
     /// SF Name: rectangle.lefthalf.filled;
     /// Availables: iOS 15.0, macOS 12.0, watchOS 8.0, tvOS 15.0
     case rectangleLefthalfFilled = "rectangle.lefthalf.filled"

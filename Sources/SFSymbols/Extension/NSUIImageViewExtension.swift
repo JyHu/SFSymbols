@@ -22,6 +22,11 @@ public extension NSImageView {
     convenience init(sfname: SFName) {
         self.init(image: NSImage(systemSymbolName: sfname.rawValue) ?? NSImage())
     }
+    
+    var sfsymbol: SFSymbol? {
+        set { image = newValue?.image }
+        get { return nil }
+    }
 }
 
 public extension SFSymbol {
@@ -45,6 +50,11 @@ public extension UIImageView {
     
     convenience init(sfname: SFName) {
         self.init(image: UIImage(systemSymbolName: sfname.rawValue) ?? UIImage())
+    }
+    
+    var sfsymbol: SFSymbol? {
+        set { image = newValue?.image }
+        get { return nil }
     }
 }
 

@@ -14,9 +14,7 @@ import UIKit
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
 public struct SFSymbol {
     /// The names of SF Symbol.
-    public var name: String { symbolName.rawValue }
-    
-    public let symbolName: SFName
+    public let name: String
     
     /// The categories of SF Symbol
     public let category: Set<Category>
@@ -48,9 +46,16 @@ public struct SFSymbol {
     ///   - category: The categories of SF Symbol
     ///   - multiColored: Whether multi colors are supported
     internal init(_ sfname: SFName, availables: Availables, category: Set<Category> = [], multiColored: Bool = false) {
-        self.symbolName = sfname
+        self.name = sfname.rawValue
         self.category = category
         self.availables = availables
+        self.multiColored = multiColored
+    }
+    
+    public init(_ name: String, availables: Availables? = nil, category: Set<Category> = [], multiColored: Bool = false) {
+        self.name = name
+        self.category = category
+        self.availables = availables ?? .any
         self.multiColored = multiColored
     }
 }

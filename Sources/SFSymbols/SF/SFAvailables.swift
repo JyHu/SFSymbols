@@ -17,6 +17,8 @@ extension SFSymbol {
         public var macOS: Double
         public var watchOS: Double
         
+        static let any = Availables(iOS: 0, tvOS: 0, catalyst: 0, macOS: 0, watchOS: 0)
+        
         /// iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0
         static let _13_0_11_0_6_0 = Availables(iOS: 13.0, tvOS: 13.0, catalyst: 13.0, macOS: 11.0, watchOS: 6.0)
         

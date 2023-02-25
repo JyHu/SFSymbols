@@ -6829,6 +6829,9 @@ public extension SFSymbolNSUIImages {
     /// Symbol Name: rectangle.fill.badge.plus
     static let rectangleFillBadgePlus = SymbolImage(sfname: .rectangleFillBadgePlus)
     
+    /// SF Name: rectangle.lefthalf.fill
+    static let rectangleLefthalfFill = SymbolImage(sfname: .rectangleLefthalfFill)
+    
     /// Symbol Name: rectangle.on.rectangle.slash
     static let rectangleOnRectangleSlash = SymbolImage(sfname: .rectangleOnRectangleSlash)
     

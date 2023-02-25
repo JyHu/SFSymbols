@@ -6816,6 +6816,9 @@ public extension SFSymbol {
     /// Symbol Name: rectangle.fill.badge.plus
     static let rectangleFillBadgePlus = SFSymbol(.rectangleFillBadgePlus, availables: ._14_0_11_0_7_0, multiColored: true)
     
+    /// SF Name: rectangle.lefthalf.fill
+    static let rectangleLefthalfFill = SFSymbol(.rectangleLefthalfFill, availables: ._14_0_11_0_7_0)
+    
     /// Symbol Name: rectangle.on.rectangle.slash
     static let rectangleOnRectangleSlash = SFSymbol(.rectangleOnRectangleSlash, availables: ._14_0_11_0_7_0)
     
@@ -9110,7 +9113,7 @@ public extension SFSymbol {
     
     /// Symbol Name: rectangle.leadingthird.inset.filled
     static let rectangleLeadingthirdInsetFilled = SFSymbol(.rectangleLeadingthirdInsetFilled, availables: ._15_0_12_0_8_0)
-    
+        
     /// Symbol Name: rectangle.lefthalf.filled
     static let rectangleLefthalfFilled = SFSymbol(.rectangleLefthalfFilled, availables: ._15_0_12_0_8_0)
     

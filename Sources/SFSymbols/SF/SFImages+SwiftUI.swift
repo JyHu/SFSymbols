@@ -6824,6 +6824,9 @@ public extension SFSymbolSwiftUIImages {
     /// Symbol Name: rectangle.fill.badge.minus
     static let rectangleFillBadgeMinus = Image(sfname: .rectangleFillBadgeMinus)
     
+    /// SF Name: rectangle.lefthalf.fill
+    static let rectangleLefthalfFill = Image(sfname: .rectangleLefthalfFill)
+    
     /// Symbol Name: rectangle.fill.badge.plus
     static let rectangleFillBadgePlus = Image(sfname: .rectangleFillBadgePlus)
     

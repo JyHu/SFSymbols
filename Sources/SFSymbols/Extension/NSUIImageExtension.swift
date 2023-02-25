@@ -21,6 +21,12 @@ public extension NSImage {
     }
 }
 
+extension SFName {
+    var image: NSImage? {
+        return NSImage(sfname: self)
+    }
+}
+
 #elseif canImport(UIKit)
 
 import UIKit
@@ -40,6 +46,12 @@ public extension UIImage {
 public extension UIImage {
     func withSymbolConfiguration(_ configuration: UIImage.Configuration) -> UIImage? {
         return self.withConfiguration(configuration)
+    }
+}
+
+public extension SFName {
+    var image: UIImage? {
+        return UIImage(sfname: self)
     }
 }
 
