@@ -47,7 +47,7 @@ public struct SFSymbol {
     ///   - availables: Supported system versions
     ///   - category: The categories of SF Symbol
     ///   - multiColored: Whether multi colors are supported
-    public init(_ sfname: SFName, availables: Availables, category: Set<Category> = [], multiColored: Bool = false) {
+    internal init(_ sfname: SFName, availables: Availables, category: Set<Category> = [], multiColored: Bool = false) {
         self.symbolName = sfname
         self.category = category
         self.availables = availables
@@ -129,14 +129,23 @@ public extension SFSymbol {
         return applying(SymbolConfiguration(scale: scale))
     }
     
-    @available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
+    /// 仅支持 (iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
+    /// 低于上述版本的都会直接返回self，没有任何效果
     func applying(hierarchicalColor: SymbolColor) -> SFSymbol {
-        return applying(SymbolConfiguration(hierarchicalColor: hierarchicalColor))
+        if #available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *) {
+            return applying(SymbolConfiguration(hierarchicalColor: hierarchicalColor))
+        }
+        
+        return self
     }
     
-    @available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
+    /// 仅支持 (iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
+    /// 低于上述版本的都会直接返回self，没有任何效果
     func applying(paletteColors: [SymbolColor]) -> SFSymbol {
-        return applying(SymbolConfiguration(paletteColors: paletteColors))
+        if #available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *) {
+            return applying(SymbolConfiguration(paletteColors: paletteColors))
+        }
+        return self
     }
     
 #if !os(macOS)
@@ -165,11 +174,16 @@ public extension SFSymbol {
         return mutableSelf
     }
 #endif
-    @available(iOS 16.0, watchOS 9.0, tvOS 16.0, *)
+    /// 仅支持 (iOS 16.0, watchOS 9.0, tvOS 16.0, *)
+    /// 低于上述版本的都会直接返回self，没有任何效果
     func initial(variableValue: Double) -> SFSymbol {
-        var mutableSelf = self
-        mutableSelf.variableValue = variableValue
-        return mutableSelf
+        if #available(iOS 16.0, watchOS 9.0, tvOS 16.0, *) {
+            var mutableSelf = self
+            mutableSelf.variableValue = variableValue
+            return mutableSelf
+        } else {
+            return self
+        }
     }
 #endif
 }
