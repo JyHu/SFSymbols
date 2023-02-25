@@ -5,7 +5,7 @@
 //  Created by Jo on 2022/11/7.
 //
 
-#if os(macOS)
+#if canImport(Cocoa)
 
 import Cocoa
 
@@ -30,7 +30,7 @@ public extension SFSymbol {
     }
 }
 
-#else
+#elseif canImport(UIKit)
 
 import UIKit
 

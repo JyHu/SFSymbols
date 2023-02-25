@@ -5,7 +5,7 @@
 //  Created by Jo on 2022/11/22.
 //
 
-#if os(macOS)
+#if canImport(Cocoa)
 
 import Cocoa
 
@@ -21,7 +21,7 @@ public extension NSImage {
     }
 }
 
-#else
+#elseif canImport(UIKit)
 
 import UIKit
 

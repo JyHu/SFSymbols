@@ -5,9 +5,9 @@
 //  Created by Jo on 2022/11/6.
 //
 
-#if os(macOS)
+#if canImport(Cocoa)
 import Cocoa
-#else
+#elseif canImport(UIKit)
 import UIKit
 #endif
 

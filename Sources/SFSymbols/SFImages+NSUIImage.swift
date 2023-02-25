@@ -5,9 +5,9 @@
 //  Created by Jo on 2022/11/7.
 //
 
-#if os(macOS)
+#if canImport(Cocoa)
 import Cocoa
-#else
+#elseif canImport(UIKit)
 import UIKit
 #endif
 
@@ -16,9 +16,9 @@ public struct SFSymbolNSUIImages { }
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
 public extension SFSymbolNSUIImages {
     
-#if os(macOS)
+#if canImport(Cocoa)
     typealias SymbolImage = NSImage
-#else
+#elseif canImport(UIKit)
     typealias SymbolImage = UIImage
 #endif
     
