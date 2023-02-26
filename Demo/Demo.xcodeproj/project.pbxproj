@@ -322,7 +322,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C875C65B2918B920002A0FDB /* Build configuration list for PBXProject "SFSymbols" */;
+			buildConfigurationList = C875C65B2918B920002A0FDB /* Build configuration list for PBXProject "Demo" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -1131,7 +1131,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C875C65B2918B920002A0FDB /* Build configuration list for PBXProject "SFSymbols" */ = {
+		C875C65B2918B920002A0FDB /* Build configuration list for PBXProject "Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C875C65C2918B920002A0FDB /* Debug */,

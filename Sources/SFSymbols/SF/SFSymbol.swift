@@ -20,10 +20,7 @@ public struct SFSymbol {
     public let category: Set<Category>
     
     /// Supported system versions
-    public let availables: Availables
-    
-    /// Whether multi colors are supported.
-    public let multiColored: Bool
+    public let releaseYear: ReleaseYear
     
 #if !os(macOS)
     private var variableValue: Double?
@@ -44,19 +41,16 @@ public struct SFSymbol {
     ///   - name: The name of SF Symbol
     ///   - availables: Supported system versions
     ///   - category: The categories of SF Symbol
-    ///   - multiColored: Whether multi colors are supported
-    internal init(_ sfname: SFName, availables: Availables, category: Set<Category> = [], multiColored: Bool = false) {
+    internal init(_ sfname: SFName, releaseYear: ReleaseYear, category: Set<Category> = []) {
         self.name = sfname.rawValue
         self.category = category
-        self.availables = availables
-        self.multiColored = multiColored
+        self.releaseYear = releaseYear
     }
     
-    public init(_ name: String, availables: Availables? = nil, category: Set<Category> = [], multiColored: Bool = false) {
+    public init(_ name: String, releaseYear: ReleaseYear = ._2019, availables: Availables? = nil, category: Set<Category> = []) {
         self.name = name
         self.category = category
-        self.availables = availables ?? .any
-        self.multiColored = multiColored
+        self.releaseYear = releaseYear
     }
 }
 

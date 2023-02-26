@@ -1,34 +1,29 @@
-//
-//  File.swift
-//  
-//
-//  Created by Jo on 2022/11/6.
-//
-
 import Foundation
 
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
 public extension SFSymbol {
     enum Category: String {
+        case arrows
+        case commerce
+        case communication
         case connectivity
         case devices
-        case gaming
-        case weather
-        case arrows
         case editing
-        case shapes
-        case transportation
+        case gaming
         case health
-        case keyboard
-        case indices
-        case media
-        case textFormatting
-        case commerce
-        case times
-        case math
-        case objectsTools
-        case communication
         case human
+        case indices
+        case keyboard
+        case math
+        case media
+        case multicolor
         case nature
+        case objectsandtools
+        case shapes
+        case textformatting
+        case time
+        case transportation
+        case weather
+        case whatsnew
     }
 }
