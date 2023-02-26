@@ -10,8 +10,6 @@
 import Cocoa
 
 public extension NSImage {
-    static let SF = SFSymbolNSUIImages.self
-    
     convenience init?(sfname: SFName) {
         self.init(systemSymbolName: sfname.rawValue)
     }
@@ -31,9 +29,7 @@ extension SFName {
 
 import UIKit
 
-public extension UIImage {
-    static let SF = SFSymbolNSUIImages.self
-    
+public extension UIImage {    
     convenience init?(sfname: SFName) {
         self.init(systemSymbolName: sfname.rawValue)
     }

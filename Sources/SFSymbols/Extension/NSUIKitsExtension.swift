@@ -10,11 +10,13 @@
 import Cocoa
 
 public extension NSButton {
+    /// set only
     var sfsymbol: SFSymbol? {
         set { self.image = newValue?.image }
         get { return nil }
     }
     
+    /// set only
     var sfname: SFName? {
         set { self.image = newValue?.image }
         get { return nil }
