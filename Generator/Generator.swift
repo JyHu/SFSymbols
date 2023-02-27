@@ -112,6 +112,9 @@ struct SFSymbol {
     func comments(prefix: String, releaseYears: [String: [ApplePlatform: String]]) -> String {
         var stringValues: [String] = []
         stringValues.append(prefix + "/// - Symbol Name: \(name)")
+        if let alias = alias {
+            stringValues.append(prefix + "/// - Alias: \(alias)")
+        }
         if category.count > 0 {
             stringValues.append("\(prefix)/// - Category: \(category.sorted { $0 < $1}.joined(separator: ", "))")
         }
@@ -311,7 +314,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
                         \(releaseYears.availabilities(of: monoYear))
-                        case \(sfsymbol.name.codeName) = "\(sfsymbol.name)"
+                        case \(sfsymbol.name.codeName()) = "\(sfsymbol.name)"
                     """
             }
         }.joined(separator: "\n\n")
@@ -339,11 +342,10 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
         let groupedString = yearGroupedSymbols.map { (monoYear, sortedSymbols) in
             let availabily = releaseYears.availabilities(of: monoYear)
             let symbolStrings = sortedSymbols.map { sfsymbol in
-                let codeName = sfsymbol.name.codeName
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
-                        static let \(codeName) = SymbolImage(sfname: .\(codeName))
+                        static let \(sfsymbol.name.codeName()) = SymbolImage(sfname: .\(sfsymbol.name.codeName(escaped: false))
                     """
             }.joined(separator: "\n\n")
             
@@ -386,11 +388,10 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
         let groupedString = yearGroupedSymbols.map { (monoYear, sortedSymbols) in
             let availabily = releaseYears.availabilities(of: monoYear)
             let symbolStrings = sortedSymbols.map { sfsymbol in
-                let codeName = sfsymbol.name.codeName
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
-                        static let \(codeName) = Image(sfname: .\(codeName))
+                        static let \(sfsymbol.name.codeName()) = Image(sfname: .\(sfsymbol.name.codeName(escaped: false)))
                     """
             }.joined(separator: "\n\n")
             
@@ -434,7 +435,6 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
         let groupedString = yearGroupedSymbols.map { (monoYear, sortedSymbols) in
             let availabily = releaseYears.availabilities(of: monoYear)
             let symbolStrings = sortedSymbols.map { sfsymbol in
-                let codeName = sfsymbol.name.codeName
                 let categories = sfsymbol.category.map { ".\($0)" }
                 let categoryStr = categories.count > 0 ? categories.joined(separator: ", ") : ""
                 let releaseYear = sfsymbol.monochromeYearStr.releaseYear
@@ -442,7 +442,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
-                        static let \(codeName) = SFSymbol(.\(codeName), releaseYear: .\(releaseYear), category: [ \(categoryStr) ])
+                        static let \(sfsymbol.name.codeName()) = SFSymbol(.\(sfsymbol.name.codeName(escaped: false)), releaseYear: .\(releaseYear), category: [ \(categoryStr) ])
                     """
             }.joined(separator: "\n\n")
             
@@ -489,7 +489,7 @@ extension Dictionary where Key == String, Value == [ApplePlatform: String] {
     }
     
     func toComment(of availables: [String: String], spacing: String = "    ") -> String? {
-        guard count > 0 else { return nil }
+        guard availables.count > 0 else { return nil }
         var avas = availables.sorted(by: { $0.key < $1.key }).compactMap { (available, releaseYear) -> String? in
             guard let verStrs = self[releaseYear]?.versionStrs().joined(separator: ", ") else { return nil }
             return "\(spacing)///   - \(available): \(verStrs)"
@@ -509,7 +509,7 @@ extension Dictionary where Key == ApplePlatform, Value == String {
 }
 
 extension String {
-    var codeName: String {
+    func codeName(escaped: Bool = true) -> String {
         let name = split(separator: ".")
             .enumerated()
             .map({ $0 == 0 ? String($1) : String($1).capitalized })
@@ -517,7 +517,7 @@ extension String {
         
         let cname = (first?.isNumber ?? false) ? "_\(name)" : name
         
-        if ["repeat", "return", "case"].contains(cname) {
+        if escaped && ["repeat", "return", "case"].contains(cname) {
             return "`\(cname)`"
         }
         

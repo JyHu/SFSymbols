@@ -354,7 +354,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: 1.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case _1Magnifyingglass = "1.magnifyingglass"
 
@@ -1934,7 +1933,7 @@ public enum SFName: String, Identifiable {
     case _9SquareFill = "9.square.fill"
 
     /// - Symbol Name: a
-    /// - Availabilities:
+    /// - Alias: character
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case a = "a"
 
@@ -1970,17 +1969,14 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: airplane
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case airplane = "airplane"
 
     /// - Symbol Name: airplayaudio
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case airplayaudio = "airplayaudio"
 
     /// - Symbol Name: airplayvideo
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case airplayvideo = "airplayvideo"
 
@@ -1994,19 +1990,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: alarm.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case alarmFill = "alarm.fill"
 
     /// - Symbol Name: alt
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case alt = "alt"
 
     /// - Symbol Name: ant
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case ant = "ant"
 
@@ -2027,7 +2020,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: ant.fill
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case antFill = "ant.fill"
 
@@ -2041,7 +2033,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: app
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case app = "app"
 
@@ -2063,72 +2054,63 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: app.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case appFill = "app.fill"
 
     /// - Symbol Name: app.gift
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case appGift = "app.gift"
 
     /// - Symbol Name: app.gift.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case appGiftFill = "app.gift.fill"
 
     /// - Symbol Name: archivebox
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case archivebox = "archivebox"
 
     /// - Symbol Name: archivebox.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case archiveboxFill = "archivebox.fill"
 
     /// - Symbol Name: arkit
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arkit = "arkit"
 
     /// - Symbol Name: arrow.2.circlepath
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrow2Circlepath = "arrow.2.circlepath"
 
     /// - Symbol Name: arrow.2.circlepath.circle
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.circle
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrow2CirclepathCircle = "arrow.2.circlepath.circle"
 
     /// - Symbol Name: arrow.2.circlepath.circle.fill
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.circle.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrow2CirclepathCircleFill = "arrow.2.circlepath.circle.fill"
 
     /// - Symbol Name: arrow.2.squarepath
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrow2Squarepath = "arrow.2.squarepath"
 
     /// - Symbol Name: arrow.3.trianglepath
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrow3Trianglepath = "arrow.3.trianglepath"
 
     /// - Symbol Name: arrow.branch
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.branch
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowBranch = "arrow.branch"
 
     /// - Symbol Name: arrow.clockwise
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowClockwise = "arrow.clockwise"
 
@@ -2163,7 +2145,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.counterclockwise
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowCounterclockwise = "arrow.counterclockwise"
 
@@ -2198,7 +2179,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowDown = "arrow.down"
 
@@ -2233,7 +2213,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.down.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowDownLeft = "arrow.down.left"
 
@@ -2282,13 +2261,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.down.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowDownRight = "arrow.down.right"
 
     /// - Symbol Name: arrow.down.right.and.arrow.up.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowDownRightAndArrowUpLeft = "arrow.down.right.and.arrow.up.left"
 
@@ -2337,24 +2314,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.down.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowDownToLine = "arrow.down.to.line"
 
     /// - Symbol Name: arrow.down.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.down.to.line.compact
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowDownToLineAlt = "arrow.down.to.line.alt"
 
     /// - Symbol Name: arrow.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowLeft = "arrow.left"
 
     /// - Symbol Name: arrow.left.and.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowLeftAndRight = "arrow.left.and.right"
 
@@ -2418,48 +2392,46 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.left.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowLeftToLine = "arrow.left.to.line"
 
     /// - Symbol Name: arrow.left.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.left.to.line.compact
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowLeftToLineAlt = "arrow.left.to.line.alt"
 
     /// - Symbol Name: arrow.merge
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.merge
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowMerge = "arrow.merge"
 
     /// - Symbol Name: arrow.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRight = "arrow.right"
 
     /// - Symbol Name: arrow.right.arrow.left
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRightArrowLeft = "arrow.right.arrow.left"
 
     /// - Symbol Name: arrow.right.arrow.left.circle
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.circle
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRightArrowLeftCircle = "arrow.right.arrow.left.circle"
 
     /// - Symbol Name: arrow.right.arrow.left.circle.fill
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.circle.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRightArrowLeftCircleFill = "arrow.right.arrow.left.circle.fill"
 
     /// - Symbol Name: arrow.right.arrow.left.square
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.square
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRightArrowLeftSquare = "arrow.right.arrow.left.square"
 
     /// - Symbol Name: arrow.right.arrow.left.square.fill
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.square.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRightArrowLeftSquareFill = "arrow.right.arrow.left.square.fill"
 
@@ -2494,77 +2466,66 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.right.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRightToLine = "arrow.right.to.line"
 
     /// - Symbol Name: arrow.right.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.right.to.line.compact
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowRightToLineAlt = "arrow.right.to.line.alt"
 
     /// - Symbol Name: arrow.swap
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.swap
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowSwap = "arrow.swap"
 
     /// - Symbol Name: arrow.turn.down.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnDownLeft = "arrow.turn.down.left"
 
     /// - Symbol Name: arrow.turn.down.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnDownRight = "arrow.turn.down.right"
 
     /// - Symbol Name: arrow.turn.left.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnLeftDown = "arrow.turn.left.down"
 
     /// - Symbol Name: arrow.turn.left.up
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnLeftUp = "arrow.turn.left.up"
 
     /// - Symbol Name: arrow.turn.right.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnRightDown = "arrow.turn.right.down"
 
     /// - Symbol Name: arrow.turn.right.up
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnRightUp = "arrow.turn.right.up"
 
     /// - Symbol Name: arrow.turn.up.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnUpLeft = "arrow.turn.up.left"
 
     /// - Symbol Name: arrow.turn.up.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowTurnUpRight = "arrow.turn.up.right"
 
     /// - Symbol Name: arrow.up
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUp = "arrow.up"
 
     /// - Symbol Name: arrow.up.and.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpAndDown = "arrow.up.and.down"
 
@@ -2599,7 +2560,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.arrow.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpArrowDown = "arrow.up.arrow.down"
 
@@ -2677,13 +2637,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpLeft = "arrow.up.left"
 
     /// - Symbol Name: arrow.up.left.and.arrow.down.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpLeftAndArrowDownRight = "arrow.up.left.and.arrow.down.right"
 
@@ -2718,11 +2676,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpRight = "arrow.up.right"
 
     /// - Symbol Name: arrow.up.right.circle
+    /// - Alias: arrow.upright.circle
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -2738,12 +2696,12 @@ public enum SFName: String, Identifiable {
     case arrowUpRightCircleFill = "arrow.up.right.circle.fill"
 
     /// - Symbol Name: arrow.up.right.diamond
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.turn.up.right.diamond
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpRightDiamond = "arrow.up.right.diamond"
 
     /// - Symbol Name: arrow.up.right.diamond.fill
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.turn.up.right.diamond.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpRightDiamondFill = "arrow.up.right.diamond.fill"
 
@@ -2791,18 +2749,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpToLine = "arrow.up.to.line"
 
     /// - Symbol Name: arrow.up.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.up.to.line.compact
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUpToLineAlt = "arrow.up.to.line.alt"
 
     /// - Symbol Name: arrow.uturn.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUturnDown = "arrow.uturn.down"
 
@@ -2837,7 +2793,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.uturn.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUturnLeft = "arrow.uturn.left"
 
@@ -2879,7 +2834,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.uturn.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUturnRight = "arrow.uturn.right"
 
@@ -2914,7 +2868,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.uturn.up
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowUturnUp = "arrow.uturn.up"
 
@@ -2949,19 +2902,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.turn.up.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowshapeTurnUpLeft = "arrowshape.turn.up.left"
 
     /// - Symbol Name: arrowshape.turn.up.left.2
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowshapeTurnUpLeft2 = "arrowshape.turn.up.left.2"
 
     /// - Symbol Name: arrowshape.turn.up.left.2.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowshapeTurnUpLeft2Fill = "arrowshape.turn.up.left.2.fill"
 
@@ -2982,13 +2932,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.turn.up.left.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowshapeTurnUpLeftFill = "arrowshape.turn.up.left.fill"
 
     /// - Symbol Name: arrowshape.turn.up.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowshapeTurnUpRight = "arrowshape.turn.up.right"
 
@@ -3009,13 +2957,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.turn.up.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowshapeTurnUpRightFill = "arrowshape.turn.up.right.fill"
 
     /// - Symbol Name: arrowtriangle.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleDown = "arrowtriangle.down"
 
@@ -3036,7 +2982,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.down.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleDownFill = "arrowtriangle.down.fill"
 
@@ -3056,7 +3001,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleLeft = "arrowtriangle.left"
 
@@ -3077,7 +3021,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.left.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleLeftFill = "arrowtriangle.left.fill"
 
@@ -3097,7 +3040,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleRight = "arrowtriangle.right"
 
@@ -3118,7 +3060,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleRightFill = "arrowtriangle.right.fill"
 
@@ -3138,7 +3079,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.up
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleUp = "arrowtriangle.up"
 
@@ -3159,7 +3099,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.up.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case arrowtriangleUpFill = "arrowtriangle.up.fill"
 
@@ -3179,13 +3118,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: aspectratio
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case aspectratio = "aspectratio"
 
     /// - Symbol Name: aspectratio.fill
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case aspectratioFill = "aspectratio.fill"
 
@@ -3288,37 +3225,31 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: backward
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case backward = "backward"
 
     /// - Symbol Name: backward.end
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case backwardEnd = "backward.end"
 
     /// - Symbol Name: backward.end.alt
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case backwardEndAlt = "backward.end.alt"
 
     /// - Symbol Name: backward.end.alt.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case backwardEndAltFill = "backward.end.alt.fill"
 
     /// - Symbol Name: backward.end.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case backwardEndFill = "backward.end.fill"
 
     /// - Symbol Name: backward.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case backwardFill = "backward.fill"
 
@@ -3332,7 +3263,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bag
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bag = "bag"
 
@@ -3354,11 +3284,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bag.fill
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bagFill = "bag.fill"
 
     /// - Symbol Name: bag.fill.badge.minus
+    /// - Alias: bag.badge.minus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -3367,6 +3297,7 @@ public enum SFName: String, Identifiable {
     case bagFillBadgeMinus = "bag.fill.badge.minus"
 
     /// - Symbol Name: bag.fill.badge.plus
+    /// - Alias: bag.badge.plus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -3413,12 +3344,10 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bandage.fill
     /// - Category: editing, health, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bandageFill = "bandage.fill"
 
     /// - Symbol Name: barcode
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case barcode = "barcode"
 
@@ -3430,7 +3359,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: battery.0
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case battery0 = "battery.0"
 
@@ -3510,12 +3438,12 @@ public enum SFName: String, Identifiable {
     case bellSlashFill = "bell.slash.fill"
 
     /// - Symbol Name: bin.xmark
-    /// - Availabilities:
+    /// - Alias: xmark.bin
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case binXmark = "bin.xmark"
 
     /// - Symbol Name: bin.xmark.fill
-    /// - Availabilities:
+    /// - Alias: xmark.bin.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case binXmarkFill = "bin.xmark.fill"
 
@@ -3572,7 +3500,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bolt
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bolt = "bolt"
 
@@ -3613,7 +3540,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bolt.horizontal
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case boltHorizontal = "bolt.horizontal"
 
@@ -3634,7 +3560,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bolt.horizontal.fill
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case boltHorizontalFill = "bolt.horizontal.fill"
 
@@ -3668,7 +3593,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: book
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case book = "book"
 
@@ -3689,7 +3613,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: book.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bookFill = "book.fill"
 
@@ -3723,7 +3646,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bubble.left
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleLeft = "bubble.left"
 
@@ -3743,58 +3665,48 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bubble.left.fill
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleLeftFill = "bubble.left.fill"
 
     /// - Symbol Name: bubble.middle.bottom
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleMiddleBottom = "bubble.middle.bottom"
 
     /// - Symbol Name: bubble.middle.bottom.fill
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleMiddleBottomFill = "bubble.middle.bottom.fill"
 
     /// - Symbol Name: bubble.middle.top
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleMiddleTop = "bubble.middle.top"
 
     /// - Symbol Name: bubble.middle.top.fill
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleMiddleTopFill = "bubble.middle.top.fill"
 
     /// - Symbol Name: bubble.right
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleRight = "bubble.right"
 
     /// - Symbol Name: bubble.right.fill
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case bubbleRightFill = "bubble.right.fill"
 
     /// - Symbol Name: burn
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case burn = "burn"
 
     /// - Symbol Name: burst
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case burst = "burst"
 
     /// - Symbol Name: burst.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case burstFill = "burst.fill"
 
@@ -3869,7 +3781,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: camera
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case camera = "camera"
 
@@ -3890,7 +3801,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: camera.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cameraFill = "camera.fill"
 
@@ -3909,12 +3819,12 @@ public enum SFName: String, Identifiable {
     case cameraOnRectangleFill = "camera.on.rectangle.fill"
 
     /// - Symbol Name: camera.rotate
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.camera
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cameraRotate = "camera.rotate"
 
     /// - Symbol Name: camera.rotate.fill
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.camera.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cameraRotateFill = "camera.rotate.fill"
 
@@ -3927,25 +3837,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: capslock
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case capslock = "capslock"
 
     /// - Symbol Name: capslock.fill
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case capslockFill = "capslock.fill"
 
     /// - Symbol Name: capsule
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case capsule = "capsule"
 
     /// - Symbol Name: capsule.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case capsuleFill = "capsule.fill"
 
@@ -3965,7 +3871,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: car
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case car = "car"
 
@@ -3978,7 +3883,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: cart
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cart = "cart"
 
@@ -4000,11 +3904,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: cart.fill
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cartFill = "cart.fill"
 
     /// - Symbol Name: cart.fill.badge.minus
+    /// - Alias: cart.badge.minus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -4013,6 +3917,7 @@ public enum SFName: String, Identifiable {
     case cartFillBadgeMinus = "cart.fill.badge.minus"
 
     /// - Symbol Name: cart.fill.badge.plus
+    /// - Alias: cart.badge.plus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -4081,22 +3986,18 @@ public enum SFName: String, Identifiable {
     case centsignSquareFill = "centsign.square.fill"
 
     /// - Symbol Name: chart.bar
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chartBar = "chart.bar"
 
     /// - Symbol Name: chart.bar.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chartBarFill = "chart.bar.fill"
 
     /// - Symbol Name: chart.pie
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chartPie = "chart.pie"
 
     /// - Symbol Name: chart.pie.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chartPieFill = "chart.pie.fill"
 
@@ -4179,31 +4080,26 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: chevron.compact.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronCompactDown = "chevron.compact.down"
 
     /// - Symbol Name: chevron.compact.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronCompactLeft = "chevron.compact.left"
 
     /// - Symbol Name: chevron.compact.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronCompactRight = "chevron.compact.right"
 
     /// - Symbol Name: chevron.compact.up
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronCompactUp = "chevron.compact.up"
 
     /// - Symbol Name: chevron.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronDown = "chevron.down"
 
@@ -4238,13 +4134,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: chevron.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronLeft = "chevron.left"
 
     /// - Symbol Name: chevron.left.2
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronLeft2 = "chevron.left.2"
 
@@ -4264,7 +4158,7 @@ public enum SFName: String, Identifiable {
     case chevronLeftCircleFill = "chevron.left.circle.fill"
 
     /// - Symbol Name: chevron.left.slash.chevron.right
-    /// - Availabilities:
+    /// - Alias: chevron.left.forwardslash.chevron.right
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronLeftSlashChevronRight = "chevron.left.slash.chevron.right"
 
@@ -4284,13 +4178,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: chevron.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronRight = "chevron.right"
 
     /// - Symbol Name: chevron.right.2
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronRight2 = "chevron.right.2"
 
@@ -4325,13 +4217,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: chevron.up
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronUp = "chevron.up"
 
     /// - Symbol Name: chevron.up.chevron.down
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case chevronUpChevronDown = "chevron.up.chevron.down"
 
@@ -4366,58 +4256,52 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: circle
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circle = "circle"
 
     /// - Symbol Name: circle.bottomthird.split
-    /// - Availabilities:
+    /// - Alias: sleep
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleBottomthirdSplit = "circle.bottomthird.split"
 
     /// - Symbol Name: circle.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleFill = "circle.fill"
 
     /// - Symbol Name: circle.grid.2x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleGrid2X2 = "circle.grid.2x2"
 
     /// - Symbol Name: circle.grid.2x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleGrid2X2Fill = "circle.grid.2x2.fill"
 
     /// - Symbol Name: circle.grid.3x3
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleGrid3X3 = "circle.grid.3x3"
 
     /// - Symbol Name: circle.grid.3x3.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleGrid3X3Fill = "circle.grid.3x3.fill"
 
     /// - Symbol Name: circle.grid.hex
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleGridHex = "circle.grid.hex"
 
     /// - Symbol Name: circle.grid.hex.fill
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleGridHexFill = "circle.grid.hex.fill"
 
     /// - Symbol Name: circle.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.lefthalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleLefthalfFill = "circle.lefthalf.fill"
 
     /// - Symbol Name: circle.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.righthalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case circleRighthalfFill = "circle.righthalf.fill"
 
@@ -4445,13 +4329,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: clock.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case clockFill = "clock.fill"
 
     /// - Symbol Name: cloud
     /// - Category: weather
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cloud = "cloud"
 
@@ -4719,31 +4601,26 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: command
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case command = "command"
 
     /// - Symbol Name: control
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case control = "control"
 
     /// - Symbol Name: creditcard
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case creditcard = "creditcard"
 
     /// - Symbol Name: creditcard.fill
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case creditcardFill = "creditcard.fill"
 
     /// - Symbol Name: crop
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case crop = "crop"
 
@@ -4786,28 +4663,26 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: cube
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cube = "cube"
 
     /// - Symbol Name: cube.box
-    /// - Availabilities:
+    /// - Alias: shippingbox
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cubeBox = "cube.box"
 
     /// - Symbol Name: cube.box.fill
-    /// - Availabilities:
+    /// - Alias: shippingbox.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cubeBoxFill = "cube.box.fill"
 
     /// - Symbol Name: cube.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cubeFill = "cube.fill"
 
     /// - Symbol Name: cursor.rays
-    /// - Availabilities:
+    /// - Alias: cursorarrow.rays
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case cursorRays = "cursor.rays"
 
@@ -4842,6 +4717,7 @@ public enum SFName: String, Identifiable {
     case dSquareFill = "d.square.fill"
 
     /// - Symbol Name: decrease.indent
+    /// - Alias: text.chevron.left
     /// - Category: multicolor, textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -4897,18 +4773,17 @@ public enum SFName: String, Identifiable {
     case desktopcomputer = "desktopcomputer"
 
     /// - Symbol Name: dial
-    /// - Availabilities:
+    /// - Alias: dial.min
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case dial = "dial"
 
     /// - Symbol Name: dial.fill
-    /// - Availabilities:
+    /// - Alias: dial.min.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case dialFill = "dial.fill"
 
     /// - Symbol Name: divide
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case divide = "divide"
 
@@ -4943,12 +4818,10 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: doc
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case doc = "doc"
 
     /// - Symbol Name: doc.append
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case docAppend = "doc.append"
 
@@ -4969,7 +4842,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: doc.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case docFill = "doc.fill"
 
@@ -5002,24 +4874,20 @@ public enum SFName: String, Identifiable {
     case docOnDocFill = "doc.on.doc.fill"
 
     /// - Symbol Name: doc.plaintext
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case docPlaintext = "doc.plaintext"
 
     /// - Symbol Name: doc.richtext
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case docRichtext = "doc.richtext"
 
     /// - Symbol Name: doc.text
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case docText = "doc.text"
 
     /// - Symbol Name: doc.text.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case docTextFill = "doc.text.fill"
 
@@ -5098,7 +4966,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: dot.radiowaves.left.and.right
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case dotRadiowavesLeftAndRight = "dot.radiowaves.left.and.right"
 
@@ -5175,28 +5042,25 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: eject
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case eject = "eject"
 
     /// - Symbol Name: eject.fill
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case ejectFill = "eject.fill"
 
     /// - Symbol Name: ellipses.bubble
-    /// - Availabilities:
+    /// - Alias: ellipsis.bubble
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case ellipsesBubble = "ellipses.bubble"
 
     /// - Symbol Name: ellipses.bubble.fill
-    /// - Availabilities:
+    /// - Alias: ellipsis.bubble.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case ellipsesBubbleFill = "ellipses.bubble.fill"
 
     /// - Symbol Name: ellipsis
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case ellipsis = "ellipsis"
 
@@ -5216,7 +5080,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: envelope
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case envelope = "envelope"
 
@@ -5251,25 +5114,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: envelope.fill
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case envelopeFill = "envelope.fill"
 
     /// - Symbol Name: envelope.open
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case envelopeOpen = "envelope.open"
 
     /// - Symbol Name: envelope.open.fill
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case envelopeOpenFill = "envelope.open.fill"
 
     /// - Symbol Name: equal
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case equal = "equal"
 
@@ -5452,13 +5311,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: eye
     /// - Category: health, human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case eye = "eye"
 
     /// - Symbol Name: eye.fill
     /// - Category: health, human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case eyeFill = "eye.fill"
 
@@ -5478,25 +5335,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: eyedropper
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case eyedropper = "eyedropper"
 
     /// - Symbol Name: eyedropper.full
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case eyedropperFull = "eyedropper.full"
 
     /// - Symbol Name: eyedropper.halffull
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case eyedropperHalffull = "eyedropper.halffull"
 
     /// - Symbol Name: eyeglasses
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case eyeglasses = "eyeglasses"
 
@@ -5516,7 +5369,6 @@ public enum SFName: String, Identifiable {
     case fCircleFill = "f.circle.fill"
 
     /// - Symbol Name: f.cursive
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case fCursive = "f.cursive"
 
@@ -5559,13 +5411,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: film
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case film = "film"
 
     /// - Symbol Name: film.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case filmFill = "film.fill"
 
@@ -5615,35 +5465,31 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: flame
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flame = "flame"
 
     /// - Symbol Name: flame.fill
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flameFill = "flame.fill"
 
     /// - Symbol Name: flashlight.off.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flashlightOffFill = "flashlight.off.fill"
 
     /// - Symbol Name: flashlight.on.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flashlightOnFill = "flashlight.on.fill"
 
     /// - Symbol Name: flip.horizontal
-    /// - Availabilities:
+    /// - Alias: arrow.left.and.right.righttriangle.left.righttriangle.right
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flipHorizontal = "flip.horizontal"
 
     /// - Symbol Name: flip.horizontal.fill
-    /// - Availabilities:
+    /// - Alias: arrow.left.and.right.righttriangle.left.righttriangle.right.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flipHorizontalFill = "flip.horizontal.fill"
 
@@ -5678,12 +5524,10 @@ public enum SFName: String, Identifiable {
     case florinsignSquareFill = "florinsign.square.fill"
 
     /// - Symbol Name: flowchart
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flowchart = "flowchart"
 
     /// - Symbol Name: flowchart.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case flowchartFill = "flowchart.fill"
 
@@ -5741,6 +5585,7 @@ public enum SFName: String, Identifiable {
     case folderFill = "folder.fill"
 
     /// - Symbol Name: folder.fill.badge.minus
+    /// - Alias: folder.badge.minus.fill
     /// - Category: multicolor, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -5749,6 +5594,7 @@ public enum SFName: String, Identifiable {
     case folderFillBadgeMinus = "folder.fill.badge.minus"
 
     /// - Symbol Name: folder.fill.badge.person.crop
+    /// - Alias: folder.badge.person.crop.fill
     /// - Category: human, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -5756,6 +5602,7 @@ public enum SFName: String, Identifiable {
     case folderFillBadgePersonCrop = "folder.fill.badge.person.crop"
 
     /// - Symbol Name: folder.fill.badge.plus
+    /// - Alias: folder.badge.plus.fill
     /// - Category: multicolor, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -5765,37 +5612,31 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: forward
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case forward = "forward"
 
     /// - Symbol Name: forward.end
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case forwardEnd = "forward.end"
 
     /// - Symbol Name: forward.end.alt
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case forwardEndAlt = "forward.end.alt"
 
     /// - Symbol Name: forward.end.alt.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case forwardEndAltFill = "forward.end.alt.fill"
 
     /// - Symbol Name: forward.end.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case forwardEndFill = "forward.end.fill"
 
     /// - Symbol Name: forward.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case forwardFill = "forward.fill"
 
@@ -5831,12 +5672,10 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: function
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case function = "function"
 
     /// - Symbol Name: fx
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case fx = "fx"
 
@@ -5879,7 +5718,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: gamecontroller.fill
     /// - Category: devices, gaming, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case gamecontrollerFill = "gamecontroller.fill"
 
@@ -5929,13 +5767,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: globe
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case globe = "globe"
 
     /// - Symbol Name: gobackward
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case gobackward = "gobackward"
 
@@ -6095,7 +5931,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: goforward
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case goforward = "goforward"
 
@@ -6255,7 +6090,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: greaterthan
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case greaterthan = "greaterthan"
 
@@ -6289,7 +6123,6 @@ public enum SFName: String, Identifiable {
     case greaterthanSquareFill = "greaterthan.square.fill"
 
     /// - Symbol Name: grid
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case grid = "grid"
 
@@ -6339,7 +6172,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: guitars
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case guitars = "guitars"
 
@@ -6375,13 +6207,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hammer
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hammer = "hammer"
 
     /// - Symbol Name: hammer.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hammerFill = "hammer.fill"
 
@@ -6401,25 +6231,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hand.point.left
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handPointLeft = "hand.point.left"
 
     /// - Symbol Name: hand.point.left.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handPointLeftFill = "hand.point.left.fill"
 
     /// - Symbol Name: hand.point.right
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handPointRight = "hand.point.right"
 
     /// - Symbol Name: hand.point.right.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handPointRightFill = "hand.point.right.fill"
 
@@ -6453,43 +6279,36 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hand.thumbsdown
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handThumbsdown = "hand.thumbsdown"
 
     /// - Symbol Name: hand.thumbsdown.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handThumbsdownFill = "hand.thumbsdown.fill"
 
     /// - Symbol Name: hand.thumbsup
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handThumbsup = "hand.thumbsup"
 
     /// - Symbol Name: hand.thumbsup.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case handThumbsupFill = "hand.thumbsup.fill"
 
     /// - Symbol Name: hare
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hare = "hare"
 
     /// - Symbol Name: hare.fill
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hareFill = "hare.fill"
 
     /// - Symbol Name: headphones
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case headphones = "headphones"
 
@@ -6550,25 +6369,21 @@ public enum SFName: String, Identifiable {
     case heartSlashFill = "heart.slash.fill"
 
     /// - Symbol Name: helm
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case helm = "helm"
 
     /// - Symbol Name: hexagon
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hexagon = "hexagon"
 
     /// - Symbol Name: hexagon.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hexagonFill = "hexagon.fill"
 
     /// - Symbol Name: hifispeaker
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hifispeaker = "hifispeaker"
 
@@ -6588,18 +6403,17 @@ public enum SFName: String, Identifiable {
     case hourglass = "hourglass"
 
     /// - Symbol Name: hourglass.bottomhalf.fill
-    /// - Availabilities:
+    /// - Alias: hourglass.bottomhalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hourglassBottomhalfFill = "hourglass.bottomhalf.fill"
 
     /// - Symbol Name: hourglass.tophalf.fill
-    /// - Availabilities:
+    /// - Alias: hourglass.tophalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case hourglassTophalfFill = "hourglass.tophalf.fill"
 
     /// - Symbol Name: house
     /// - Category: gaming
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case house = "house"
 
@@ -6679,7 +6493,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: icloud
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case icloud = "icloud"
 
@@ -6692,7 +6505,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: icloud.and.arrow.down.fill
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case icloudAndArrowDownFill = "icloud.and.arrow.down.fill"
 
@@ -6705,7 +6517,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: icloud.and.arrow.up.fill
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case icloudAndArrowUpFill = "icloud.and.arrow.up.fill"
 
@@ -6747,6 +6558,7 @@ public enum SFName: String, Identifiable {
     case icloudSlashFill = "icloud.slash.fill"
 
     /// - Symbol Name: increase.indent
+    /// - Alias: text.chevron.right
     /// - Category: multicolor, textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -6884,13 +6696,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: keyboard
     /// - Category: devices, keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case keyboard = "keyboard"
 
     /// - Symbol Name: keyboard.chevron.compact.down
     /// - Category: devices, keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case keyboardChevronCompactDown = "keyboard.chevron.compact.down"
 
@@ -6955,7 +6765,7 @@ public enum SFName: String, Identifiable {
     case lSquareFill = "l.square.fill"
 
     /// - Symbol Name: largecircle.fill.circle
-    /// - Availabilities:
+    /// - Alias: circle.inset.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case largecircleFillCircle = "largecircle.fill.circle"
 
@@ -6991,18 +6801,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: lasso
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lasso = "lasso"
 
     /// - Symbol Name: leaf.arrow.circlepath
-    /// - Availabilities:
+    /// - Alias: leaf.arrow.triangle.circlepath
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case leafArrowCirclepath = "leaf.arrow.circlepath"
 
     /// - Symbol Name: lessthan
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lessthan = "lessthan"
 
@@ -7051,13 +6859,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: lightbulb
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lightbulb = "lightbulb"
 
     /// - Symbol Name: lightbulb.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lightbulbFill = "lightbulb.fill"
 
@@ -7076,22 +6882,22 @@ public enum SFName: String, Identifiable {
     case lightbulbSlashFill = "lightbulb.slash.fill"
 
     /// - Symbol Name: line.horizontal.3
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lineHorizontal3 = "line.horizontal.3"
 
     /// - Symbol Name: line.horizontal.3.decrease
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.decrease
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lineHorizontal3Decrease = "line.horizontal.3.decrease"
 
     /// - Symbol Name: line.horizontal.3.decrease.circle
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.decrease.circle
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lineHorizontal3DecreaseCircle = "line.horizontal.3.decrease.circle"
 
     /// - Symbol Name: line.horizontal.3.decrease.circle.fill
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.decrease.circle.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lineHorizontal3DecreaseCircleFill = "line.horizontal.3.decrease.circle.fill"
 
@@ -7171,7 +6977,6 @@ public enum SFName: String, Identifiable {
     case listBullet = "list.bullet"
 
     /// - Symbol Name: list.bullet.below.rectangle
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case listBulletBelowRectangle = "list.bullet.below.rectangle"
 
@@ -7208,12 +7013,10 @@ public enum SFName: String, Identifiable {
     case listNumberRtl = "list.number.rtl"
 
     /// - Symbol Name: livephoto
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case livephoto = "livephoto"
 
     /// - Symbol Name: livephoto.play
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case livephotoPlay = "livephoto.play"
 
@@ -7341,13 +7144,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: lock.open
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lockOpen = "lock.open"
 
     /// - Symbol Name: lock.open.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case lockOpenFill = "lock.open.fill"
 
@@ -7432,7 +7233,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case magnifyingglass = "magnifyingglass"
 
@@ -7483,13 +7283,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: map
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case map = "map"
 
     /// - Symbol Name: map.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case mapFill = "map.fill"
 
@@ -7532,7 +7330,6 @@ public enum SFName: String, Identifiable {
     case mappinSlash = "mappin.slash"
 
     /// - Symbol Name: memories
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case memories = "memories"
 
@@ -7584,7 +7381,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: metronome
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case metronome = "metronome"
 
@@ -7687,7 +7483,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: minus.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case minusMagnifyingglass = "minus.magnifyingglass"
 
@@ -7708,7 +7503,7 @@ public enum SFName: String, Identifiable {
     case minusRectangleFill = "minus.rectangle.fill"
 
     /// - Symbol Name: minus.slash.plus
-    /// - Availabilities:
+    /// - Alias: minus.forwardslash.plus
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case minusSlashPlus = "minus.slash.plus"
 
@@ -7730,7 +7525,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: moon
     /// - Category: weather
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case moon = "moon"
 
@@ -7785,7 +7579,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: multiply
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case multiply = "multiply"
 
@@ -7819,23 +7612,21 @@ public enum SFName: String, Identifiable {
     case multiplySquareFill = "multiply.square.fill"
 
     /// - Symbol Name: music.house
-    /// - Availabilities:
+    /// - Alias: music.note.house
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case musicHouse = "music.house"
 
     /// - Symbol Name: music.house.fill
-    /// - Availabilities:
+    /// - Alias: music.note.house.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case musicHouseFill = "music.house.fill"
 
     /// - Symbol Name: music.mic
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case musicMic = "music.mic"
 
     /// - Symbol Name: music.note
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case musicNote = "music.note"
 
@@ -7906,13 +7697,11 @@ public enum SFName: String, Identifiable {
     case nairasignSquareFill = "nairasign.square.fill"
 
     /// - Symbol Name: nosign
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case nosign = "nosign"
 
     /// - Symbol Name: number
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case number = "number"
 
@@ -7977,7 +7766,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: option
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case option = "option"
 
@@ -8013,23 +7801,19 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: paintbrush
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case paintbrush = "paintbrush"
 
     /// - Symbol Name: paintbrush.fill
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case paintbrushFill = "paintbrush.fill"
 
     /// - Symbol Name: pano
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case pano = "pano"
 
     /// - Symbol Name: pano.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case panoFill = "pano.fill"
 
@@ -8058,24 +7842,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: paperplane
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case paperplane = "paperplane"
 
     /// - Symbol Name: paperplane.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case paperplaneFill = "paperplane.fill"
 
     /// - Symbol Name: paragraph
-    /// - Availabilities:
+    /// - Alias: paragraphsign
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case paragraph = "paragraph"
 
     /// - Symbol Name: pause
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case pause = "pause"
 
@@ -8096,7 +7877,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: pause.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case pauseFill = "pause.fill"
 
@@ -8116,12 +7896,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: pencil
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case pencil = "pencil"
 
     /// - Symbol Name: pencil.and.ellipsis.rectangle
-    /// - Availabilities:
+    /// - Alias: rectangle.and.pencil.and.ellipsis
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case pencilAndEllipsisRectangle = "pencil.and.ellipsis.rectangle"
 
@@ -8156,13 +7935,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: pencil.tip
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case pencilTip = "pencil.tip"
 
     /// - Symbol Name: pencil.tip.crop.circle
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case pencilTipCropCircle = "pencil.tip.crop.circle"
 
@@ -8184,17 +7961,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: percent
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case percent = "percent"
 
     /// - Symbol Name: person
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case person = "person"
 
     /// - Symbol Name: person.2
+    /// - Alias: person.and.person
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8202,6 +7978,7 @@ public enum SFName: String, Identifiable {
     case person2 = "person.2"
 
     /// - Symbol Name: person.2.fill
+    /// - Alias: person.and.person.fill
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8209,12 +7986,12 @@ public enum SFName: String, Identifiable {
     case person2Fill = "person.2.fill"
 
     /// - Symbol Name: person.2.square.stack
-    /// - Availabilities:
+    /// - Alias: person.2.crop.square.stack
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case person2SquareStack = "person.2.square.stack"
 
     /// - Symbol Name: person.2.square.stack.fill
-    /// - Availabilities:
+    /// - Alias: person.2.crop.square.stack.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case person2SquareStackFill = "person.2.square.stack.fill"
 
@@ -8241,7 +8018,7 @@ public enum SFName: String, Identifiable {
     case personBadgeMinus = "person.badge.minus"
 
     /// - Symbol Name: person.badge.minus.fill
-    /// - Availabilities:
+    /// - Alias: person.fill.badge.minus
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personBadgeMinusFill = "person.badge.minus.fill"
 
@@ -8254,7 +8031,7 @@ public enum SFName: String, Identifiable {
     case personBadgePlus = "person.badge.plus"
 
     /// - Symbol Name: person.badge.plus.fill
-    /// - Availabilities:
+    /// - Alias: person.fill.badge.plus
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personBadgePlusFill = "person.badge.plus.fill"
 
@@ -8275,7 +8052,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: person.crop.circle
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personCropCircle = "person.crop.circle"
 
@@ -8288,7 +8064,7 @@ public enum SFName: String, Identifiable {
     case personCropCircleBadgeCheckmark = "person.crop.circle.badge.checkmark"
 
     /// - Symbol Name: person.crop.circle.badge.exclam
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.exclamationmark
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personCropCircleBadgeExclam = "person.crop.circle.badge.exclam"
 
@@ -8325,6 +8101,7 @@ public enum SFName: String, Identifiable {
     case personCropCircleFill = "person.crop.circle.fill"
 
     /// - Symbol Name: person.crop.circle.fill.badge.checkmark
+    /// - Alias: person.crop.circle.badge.checkmark.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8333,11 +8110,12 @@ public enum SFName: String, Identifiable {
     case personCropCircleFillBadgeCheckmark = "person.crop.circle.fill.badge.checkmark"
 
     /// - Symbol Name: person.crop.circle.fill.badge.exclam
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.exclamationmark.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personCropCircleFillBadgeExclam = "person.crop.circle.fill.badge.exclam"
 
     /// - Symbol Name: person.crop.circle.fill.badge.minus
+    /// - Alias: person.crop.circle.badge.minus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8346,6 +8124,7 @@ public enum SFName: String, Identifiable {
     case personCropCircleFillBadgeMinus = "person.crop.circle.fill.badge.minus"
 
     /// - Symbol Name: person.crop.circle.fill.badge.plus
+    /// - Alias: person.crop.circle.badge.plus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8354,6 +8133,7 @@ public enum SFName: String, Identifiable {
     case personCropCircleFillBadgePlus = "person.crop.circle.fill.badge.plus"
 
     /// - Symbol Name: person.crop.circle.fill.badge.xmark
+    /// - Alias: person.crop.circle.badge.xmark.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8363,19 +8143,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: person.crop.rectangle
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personCropRectangle = "person.crop.rectangle"
 
     /// - Symbol Name: person.crop.rectangle.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personCropRectangleFill = "person.crop.rectangle.fill"
 
     /// - Symbol Name: person.crop.square
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personCropSquare = "person.crop.square"
 
@@ -8388,13 +8165,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: person.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personFill = "person.fill"
 
     /// - Symbol Name: person.icloud
     /// - Category: connectivity, human
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personIcloud = "person.icloud"
 
@@ -8407,7 +8182,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: personalhotspot
     /// - Category: connectivity, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case personalhotspot = "personalhotspot"
 
@@ -8568,6 +8342,7 @@ public enum SFName: String, Identifiable {
     case phoneFill = "phone.fill"
 
     /// - Symbol Name: phone.fill.arrow.down.left
+    /// - Alias: phone.arrow.down.left.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8575,6 +8350,7 @@ public enum SFName: String, Identifiable {
     case phoneFillArrowDownLeft = "phone.fill.arrow.down.left"
 
     /// - Symbol Name: phone.fill.arrow.right
+    /// - Alias: phone.arrow.right.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8582,6 +8358,7 @@ public enum SFName: String, Identifiable {
     case phoneFillArrowRight = "phone.fill.arrow.right"
 
     /// - Symbol Name: phone.fill.arrow.up.right
+    /// - Alias: phone.arrow.up.right.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8589,6 +8366,7 @@ public enum SFName: String, Identifiable {
     case phoneFillArrowUpRight = "phone.fill.arrow.up.right"
 
     /// - Symbol Name: phone.fill.badge.plus
+    /// - Alias: phone.badge.plus.fill
     /// - Category: communication, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8597,16 +8375,15 @@ public enum SFName: String, Identifiable {
     case phoneFillBadgePlus = "phone.fill.badge.plus"
 
     /// - Symbol Name: photo
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case photo = "photo"
 
     /// - Symbol Name: photo.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case photoFill = "photo.fill"
 
     /// - Symbol Name: photo.fill.on.rectangle.fill
+    /// - Alias: photo.on.rectangle.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
@@ -8664,7 +8441,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: play
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case play = "play"
 
@@ -8685,7 +8461,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: play.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case playFill = "play.fill"
 
@@ -8705,13 +8480,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: playpause
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case playpause = "playpause"
 
     /// - Symbol Name: playpause.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case playpauseFill = "playpause.fill"
 
@@ -8766,7 +8539,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: plus.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case plusMagnifyingglass = "plus.magnifyingglass"
 
@@ -8787,6 +8559,7 @@ public enum SFName: String, Identifiable {
     case plusRectangleFill = "plus.rectangle.fill"
 
     /// - Symbol Name: plus.rectangle.fill.on.rectangle.fill
+    /// - Alias: plus.rectangle.on.rectangle.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
@@ -8799,7 +8572,7 @@ public enum SFName: String, Identifiable {
     case plusRectangleOnRectangle = "plus.rectangle.on.rectangle"
 
     /// - Symbol Name: plus.slash.minus
-    /// - Availabilities:
+    /// - Alias: plus.forwardslash.minus
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case plusSlashMinus = "plus.slash.minus"
 
@@ -8820,6 +8593,7 @@ public enum SFName: String, Identifiable {
     case plusSquareFill = "plus.square.fill"
 
     /// - Symbol Name: plus.square.fill.on.square.fill
+    /// - Alias: plus.square.on.square.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
@@ -8833,7 +8607,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: plusminus
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case plusminus = "plusminus"
 
@@ -8854,30 +8627,25 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: power
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case power = "power"
 
     /// - Symbol Name: printer
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case printer = "printer"
 
     /// - Symbol Name: printer.fill
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case printerFill = "printer.fill"
 
     /// - Symbol Name: projective
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case projective = "projective"
 
     /// - Symbol Name: purchased
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case purchased = "purchased"
 
@@ -8926,7 +8694,6 @@ public enum SFName: String, Identifiable {
     case qSquareFill = "q.square.fill"
 
     /// - Symbol Name: qrcode
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case qrcode = "qrcode"
 
@@ -9006,12 +8773,12 @@ public enum SFName: String, Identifiable {
     case questionmarkVideoFill = "questionmark.video.fill"
 
     /// - Symbol Name: questionmark.video.fill.rtl
-    /// - Availabilities:
+    /// - Alias: questionmark.video.fill.ar
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case questionmarkVideoFillRtl = "questionmark.video.fill.rtl"
 
     /// - Symbol Name: questionmark.video.rtl
-    /// - Availabilities:
+    /// - Alias: questionmark.video.ar
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case questionmarkVideoRtl = "questionmark.video.rtl"
 
@@ -9060,39 +8827,36 @@ public enum SFName: String, Identifiable {
     case rSquareFill = "r.square.fill"
 
     /// - Symbol Name: radiowaves.left
-    /// - Availabilities:
+    /// - Alias: wave.3.left
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case radiowavesLeft = "radiowaves.left"
 
     /// - Symbol Name: radiowaves.right
-    /// - Availabilities:
+    /// - Alias: wave.3.right
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case radiowavesRight = "radiowaves.right"
 
     /// - Symbol Name: rays
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rays = "rays"
 
     /// - Symbol Name: recordingtape
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case recordingtape = "recordingtape"
 
     /// - Symbol Name: rectangle
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangle = "rectangle"
 
     /// - Symbol Name: rectangle.3.offgrid
-    /// - Availabilities:
+    /// - Alias: rectangles.group
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangle3Offgrid = "rectangle.3.offgrid"
 
     /// - Symbol Name: rectangle.3.offgrid.fill
-    /// - Availabilities:
+    /// - Alias: rectangles.group.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangle3OffgridFill = "rectangle.3.offgrid.fill"
 
@@ -9138,7 +8902,7 @@ public enum SFName: String, Identifiable {
     case rectangleCompressVertical = "rectangle.compress.vertical"
 
     /// - Symbol Name: rectangle.dock
-    /// - Availabilities:
+    /// - Alias: dock.rectangle
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleDock = "rectangle.dock"
 
@@ -9150,11 +8914,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleFill = "rectangle.fill"
 
     /// - Symbol Name: rectangle.fill.badge.checkmark
+    /// - Alias: rectangle.badge.checkmark.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9163,6 +8927,7 @@ public enum SFName: String, Identifiable {
     case rectangleFillBadgeCheckmark = "rectangle.fill.badge.checkmark"
 
     /// - Symbol Name: rectangle.fill.badge.xmark
+    /// - Alias: rectangle.badge.xmark.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9171,12 +8936,14 @@ public enum SFName: String, Identifiable {
     case rectangleFillBadgeXmark = "rectangle.fill.badge.xmark"
 
     /// - Symbol Name: rectangle.fill.on.rectangle.angled.fill
+    /// - Alias: rectangle.on.rectangle.angled.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleFillOnRectangleAngledFill = "rectangle.fill.on.rectangle.angled.fill"
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill
+    /// - Alias: rectangle.on.rectangle.fill
     /// - Category: gaming
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9184,32 +8951,26 @@ public enum SFName: String, Identifiable {
     case rectangleFillOnRectangleFill = "rectangle.fill.on.rectangle.fill"
 
     /// - Symbol Name: rectangle.grid.1x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleGrid1X2 = "rectangle.grid.1x2"
 
     /// - Symbol Name: rectangle.grid.1x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleGrid1X2Fill = "rectangle.grid.1x2.fill"
 
     /// - Symbol Name: rectangle.grid.2x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleGrid2X2 = "rectangle.grid.2x2"
 
     /// - Symbol Name: rectangle.grid.2x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleGrid2X2Fill = "rectangle.grid.2x2.fill"
 
     /// - Symbol Name: rectangle.grid.3x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleGrid3X2 = "rectangle.grid.3x2"
 
     /// - Symbol Name: rectangle.grid.3x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleGrid3X2Fill = "rectangle.grid.3x2.fill"
 
@@ -9227,27 +8988,22 @@ public enum SFName: String, Identifiable {
     case rectangleOnRectangleAngled = "rectangle.on.rectangle.angled"
 
     /// - Symbol Name: rectangle.split.3x1
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleSplit3X1 = "rectangle.split.3x1"
 
     /// - Symbol Name: rectangle.split.3x1.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleSplit3X1Fill = "rectangle.split.3x1.fill"
 
     /// - Symbol Name: rectangle.split.3x3
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleSplit3X3 = "rectangle.split.3x3"
 
     /// - Symbol Name: rectangle.split.3x3.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleSplit3X3Fill = "rectangle.split.3x3.fill"
 
     /// - Symbol Name: rectangle.stack
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleStack = "rectangle.stack"
 
@@ -9275,11 +9031,11 @@ public enum SFName: String, Identifiable {
     case rectangleStackBadgePlus = "rectangle.stack.badge.plus"
 
     /// - Symbol Name: rectangle.stack.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleStackFill = "rectangle.stack.fill"
 
     /// - Symbol Name: rectangle.stack.fill.badge.minus
+    /// - Alias: rectangle.stack.badge.minus.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9295,6 +9051,7 @@ public enum SFName: String, Identifiable {
     case rectangleStackFillBadgePersonCrop = "rectangle.stack.fill.badge.person.crop"
 
     /// - Symbol Name: rectangle.stack.fill.badge.plus
+    /// - Alias: rectangle.stack.badge.plus.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9303,18 +9060,17 @@ public enum SFName: String, Identifiable {
     case rectangleStackFillBadgePlus = "rectangle.stack.fill.badge.plus"
 
     /// - Symbol Name: rectangle.stack.person.crop
-    /// - Availabilities:
+    /// - Alias: person.crop.rectangle.stack
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleStackPersonCrop = "rectangle.stack.person.crop"
 
     /// - Symbol Name: rectangle.stack.person.crop.fill
-    /// - Availabilities:
+    /// - Alias: person.crop.rectangle.stack.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rectangleStackPersonCropFill = "rectangle.stack.person.crop.fill"
 
     /// - Symbol Name: repeat
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case `repeat` = "repeat"
 
@@ -9327,25 +9083,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: return
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case `return` = "return"
 
     /// - Symbol Name: rhombus
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rhombus = "rhombus"
 
     /// - Symbol Name: rhombus.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rhombusFill = "rhombus.fill"
 
     /// - Symbol Name: rosette
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case rosette = "rosette"
 
@@ -9481,7 +9233,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: scissors
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case scissors = "scissors"
 
@@ -9493,56 +9244,51 @@ public enum SFName: String, Identifiable {
     case scissorsBadgeEllipsis = "scissors.badge.ellipsis"
 
     /// - Symbol Name: scope
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case scope = "scope"
 
     /// - Symbol Name: scribble
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case scribble = "scribble"
 
     /// - Symbol Name: selection.pin.in.out
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case selectionPinInOut = "selection.pin.in.out"
 
     /// - Symbol Name: sheqelsign.circle
-    /// - Availabilities:
+    /// - Alias: shekelsign.circle
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sheqelsignCircle = "sheqelsign.circle"
 
     /// - Symbol Name: sheqelsign.circle.fill
-    /// - Availabilities:
+    /// - Alias: shekelsign.circle.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sheqelsignCircleFill = "sheqelsign.circle.fill"
 
     /// - Symbol Name: sheqelsign.square
-    /// - Availabilities:
+    /// - Alias: shekelsign.square
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sheqelsignSquare = "sheqelsign.square"
 
     /// - Symbol Name: sheqelsign.square.fill
-    /// - Availabilities:
+    /// - Alias: shekelsign.square.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sheqelsignSquareFill = "sheqelsign.square.fill"
 
     /// - Symbol Name: shield
     /// - Category: objectsandtools, shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case shield = "shield"
 
     /// - Symbol Name: shield.fill
     /// - Category: objectsandtools, shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case shieldFill = "shield.fill"
 
     /// - Symbol Name: shield.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: shield.lefthalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case shieldLefthalfFill = "shield.lefthalf.fill"
 
@@ -9562,29 +9308,24 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: shift
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case shift = "shift"
 
     /// - Symbol Name: shift.fill
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case shiftFill = "shift.fill"
 
     /// - Symbol Name: shuffle
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case shuffle = "shuffle"
 
     /// - Symbol Name: sidebar.left
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sidebarLeft = "sidebar.left"
 
     /// - Symbol Name: sidebar.right
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sidebarRight = "sidebar.right"
 
@@ -9597,7 +9338,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: skew
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case skew = "skew"
 
@@ -9617,7 +9357,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: slider.horizontal.3
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sliderHorizontal3 = "slider.horizontal.3"
 
@@ -9629,17 +9368,18 @@ public enum SFName: String, Identifiable {
     case sliderHorizontalBelowRectangle = "slider.horizontal.below.rectangle"
 
     /// - Symbol Name: slowmo
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case slowmo = "slowmo"
 
     /// - Symbol Name: smallcircle.circle
+    /// - Alias: ring.circle
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case smallcircleCircle = "smallcircle.circle"
 
     /// - Symbol Name: smallcircle.circle.fill
+    /// - Alias: ring.circle.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9648,12 +9388,14 @@ public enum SFName: String, Identifiable {
     case smallcircleCircleFill = "smallcircle.circle.fill"
 
     /// - Symbol Name: smallcircle.fill.circle
+    /// - Alias: dot.circle
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case smallcircleFillCircle = "smallcircle.fill.circle"
 
     /// - Symbol Name: smallcircle.fill.circle.fill
+    /// - Alias: dot.circle.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9662,18 +9404,17 @@ public enum SFName: String, Identifiable {
     case smallcircleFillCircleFill = "smallcircle.fill.circle.fill"
 
     /// - Symbol Name: smiley
-    /// - Availabilities:
+    /// - Alias: face.smiling
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case smiley = "smiley"
 
     /// - Symbol Name: smiley.fill
-    /// - Availabilities:
+    /// - Alias: face.smiling.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case smileyFill = "smiley.fill"
 
     /// - Symbol Name: smoke
     /// - Category: weather
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case smoke = "smoke"
 
@@ -9685,7 +9426,7 @@ public enum SFName: String, Identifiable {
     case smokeFill = "smoke.fill"
 
     /// - Symbol Name: snow
-    /// - Availabilities:
+    /// - Alias: snowflake
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case snow = "snow"
 
@@ -9697,48 +9438,49 @@ public enum SFName: String, Identifiable {
     case sparkles = "sparkles"
 
     /// - Symbol Name: speaker
+    /// - Alias: volume
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speaker = "speaker"
 
     /// - Symbol Name: speaker.1
-    /// - Availabilities:
+    /// - Alias: speaker.wave.1
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speaker1 = "speaker.1"
 
     /// - Symbol Name: speaker.1.fill
-    /// - Availabilities:
+    /// - Alias: speaker.wave.1.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speaker1Fill = "speaker.1.fill"
 
     /// - Symbol Name: speaker.2
-    /// - Availabilities:
+    /// - Alias: speaker.wave.2
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speaker2 = "speaker.2"
 
     /// - Symbol Name: speaker.2.fill
-    /// - Availabilities:
+    /// - Alias: speaker.wave.2.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speaker2Fill = "speaker.2.fill"
 
     /// - Symbol Name: speaker.3
-    /// - Availabilities:
+    /// - Alias: speaker.wave.3
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speaker3 = "speaker.3"
 
     /// - Symbol Name: speaker.3.fill
-    /// - Availabilities:
+    /// - Alias: speaker.wave.3.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speaker3Fill = "speaker.3.fill"
 
     /// - Symbol Name: speaker.fill
+    /// - Alias: volume.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case speakerFill = "speaker.fill"
 
     /// - Symbol Name: speaker.slash
+    /// - Alias: volume.slash
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9746,6 +9488,7 @@ public enum SFName: String, Identifiable {
     case speakerSlash = "speaker.slash"
 
     /// - Symbol Name: speaker.slash.fill
+    /// - Alias: volume.slash.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9753,6 +9496,7 @@ public enum SFName: String, Identifiable {
     case speakerSlashFill = "speaker.slash.fill"
 
     /// - Symbol Name: speaker.slash.fill.rtl
+    /// - Alias: volume.slash.fill.rtl
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9760,6 +9504,7 @@ public enum SFName: String, Identifiable {
     case speakerSlashFillRtl = "speaker.slash.fill.rtl"
 
     /// - Symbol Name: speaker.slash.rtl
+    /// - Alias: volume.slash.rtl
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9767,6 +9512,7 @@ public enum SFName: String, Identifiable {
     case speakerSlashRtl = "speaker.slash.rtl"
 
     /// - Symbol Name: speaker.zzz
+    /// - Alias: volume.zzz
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9774,6 +9520,7 @@ public enum SFName: String, Identifiable {
     case speakerZzz = "speaker.zzz"
 
     /// - Symbol Name: speaker.zzz.fill
+    /// - Alias: volume.zzz.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9802,18 +9549,15 @@ public enum SFName: String, Identifiable {
     case speedometer = "speedometer"
 
     /// - Symbol Name: sportscourt
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sportscourt = "sportscourt"
 
     /// - Symbol Name: sportscourt.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sportscourtFill = "sportscourt.fill"
 
     /// - Symbol Name: square
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case square = "square"
 
@@ -9824,7 +9568,6 @@ public enum SFName: String, Identifiable {
     case squareAndArrowDown = "square.and.arrow.down"
 
     /// - Symbol Name: square.and.arrow.down.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareAndArrowDownFill = "square.and.arrow.down.fill"
 
@@ -9835,7 +9578,6 @@ public enum SFName: String, Identifiable {
     case squareAndArrowDownOnSquare = "square.and.arrow.down.on.square"
 
     /// - Symbol Name: square.and.arrow.down.on.square.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareAndArrowDownOnSquareFill = "square.and.arrow.down.on.square.fill"
 
@@ -9846,7 +9588,6 @@ public enum SFName: String, Identifiable {
     case squareAndArrowUp = "square.and.arrow.up"
 
     /// - Symbol Name: square.and.arrow.up.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareAndArrowUpFill = "square.and.arrow.up.fill"
 
@@ -9857,12 +9598,10 @@ public enum SFName: String, Identifiable {
     case squareAndArrowUpOnSquare = "square.and.arrow.up.on.square"
 
     /// - Symbol Name: square.and.arrow.up.on.square.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareAndArrowUpOnSquareFill = "square.and.arrow.up.on.square.fill"
 
     /// - Symbol Name: square.and.line.vertical.and.square
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareAndLineVerticalAndSquare = "square.and.line.vertical.and.square"
 
@@ -9881,60 +9620,57 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: square.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareFill = "square.fill"
 
     /// - Symbol Name: square.fill.and.line.vertical.and.square
+    /// - Alias: square.line.vertical.square.fill.left
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareFillAndLineVerticalAndSquare = "square.fill.and.line.vertical.and.square"
 
     /// - Symbol Name: square.fill.and.line.vertical.square.fill
-    /// - Availabilities:
+    /// - Alias: square.fill.and.line.vertical.and.square.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareFillAndLineVerticalSquareFill = "square.fill.and.line.vertical.square.fill"
 
     /// - Symbol Name: square.fill.on.circle.fill
+    /// - Alias: square.on.circle.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareFillOnCircleFill = "square.fill.on.circle.fill"
 
     /// - Symbol Name: square.fill.on.square.fill
+    /// - Alias: square.on.square.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareFillOnSquareFill = "square.fill.on.square.fill"
 
     /// - Symbol Name: square.grid.2x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareGrid2X2 = "square.grid.2x2"
 
     /// - Symbol Name: square.grid.2x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareGrid2X2Fill = "square.grid.2x2.fill"
 
     /// - Symbol Name: square.grid.3x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareGrid3X2 = "square.grid.3x2"
 
     /// - Symbol Name: square.grid.3x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareGrid3X2Fill = "square.grid.3x2.fill"
 
     /// - Symbol Name: square.grid.4x3.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareGrid4X3Fill = "square.grid.4x3.fill"
 
     /// - Symbol Name: square.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: square.lefthalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareLefthalfFill = "square.lefthalf.fill"
 
@@ -9951,47 +9687,40 @@ public enum SFName: String, Identifiable {
     case squareOnSquare = "square.on.square"
 
     /// - Symbol Name: square.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: square.righthalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareRighthalfFill = "square.righthalf.fill"
 
     /// - Symbol Name: square.split.1x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareSplit1X2 = "square.split.1x2"
 
     /// - Symbol Name: square.split.1x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareSplit1X2Fill = "square.split.1x2.fill"
 
     /// - Symbol Name: square.split.2x1
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareSplit2X1 = "square.split.2x1"
 
     /// - Symbol Name: square.split.2x1.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareSplit2X1Fill = "square.split.2x1.fill"
 
     /// - Symbol Name: square.split.2x2
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareSplit2X2 = "square.split.2x2"
 
     /// - Symbol Name: square.split.2x2.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareSplit2X2Fill = "square.split.2x2.fill"
 
     /// - Symbol Name: square.stack
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareStack = "square.stack"
 
     /// - Symbol Name: square.stack.3d.down.dottedline
-    /// - Availabilities:
+    /// - Alias: square.stack.3d.forward.dottedline
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareStack3DDownDottedline = "square.stack.3d.down.dottedline"
 
@@ -10032,7 +9761,6 @@ public enum SFName: String, Identifiable {
     case squareStack3DUpSlashFill = "square.stack.3d.up.slash.fill"
 
     /// - Symbol Name: square.stack.fill
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case squareStackFill = "square.stack.fill"
 
@@ -10073,7 +9801,7 @@ public enum SFName: String, Identifiable {
     case starFill = "star.fill"
 
     /// - Symbol Name: star.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: star.leadinghalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case starLefthalfFill = "star.lefthalf.fill"
 
@@ -10091,13 +9819,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: staroflife
     /// - Category: health
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case staroflife = "staroflife"
 
     /// - Symbol Name: staroflife.fill
     /// - Category: health
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case staroflifeFill = "staroflife.fill"
 
@@ -10133,7 +9859,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: stop
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case stop = "stop"
 
@@ -10154,7 +9879,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: stop.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case stopFill = "stop.fill"
 
@@ -10168,7 +9892,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: stopwatch.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case stopwatchFill = "stopwatch.fill"
 
@@ -10182,7 +9905,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: studentdesk
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case studentdesk = "studentdesk"
 
@@ -10244,7 +9966,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: sum
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sum = "sum"
 
@@ -10280,7 +10001,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: sun.max
     /// - Category: keyboard, weather
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sunMax = "sun.max"
 
@@ -10293,13 +10013,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: sun.min
     /// - Category: keyboard, weather
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sunMin = "sun.min"
 
     /// - Symbol Name: sun.min.fill
     /// - Category: keyboard, weather
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case sunMinFill = "sun.min.fill"
 
@@ -10334,12 +10052,12 @@ public enum SFName: String, Identifiable {
     case sunsetFill = "sunset.fill"
 
     /// - Symbol Name: t.bubble
-    /// - Availabilities:
+    /// - Alias: character.bubble
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tBubble = "t.bubble"
 
     /// - Symbol Name: t.bubble.fill
-    /// - Availabilities:
+    /// - Alias: character.bubble.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tBubbleFill = "t.bubble.fill"
 
@@ -10374,28 +10092,27 @@ public enum SFName: String, Identifiable {
     case tSquareFill = "t.square.fill"
 
     /// - Symbol Name: table
-    /// - Availabilities:
+    /// - Alias: tablecells
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case table = "table"
 
     /// - Symbol Name: table.badge.more
-    /// - Availabilities:
+    /// - Alias: tablecells.badge.ellipsis
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tableBadgeMore = "table.badge.more"
 
     /// - Symbol Name: table.badge.more.fill
-    /// - Availabilities:
+    /// - Alias: tablecells.fill.badge.ellipsis
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tableBadgeMoreFill = "table.badge.more.fill"
 
     /// - Symbol Name: table.fill
-    /// - Availabilities:
+    /// - Alias: tablecells.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tableFill = "table.fill"
 
     /// - Symbol Name: tag
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tag = "tag"
 
@@ -10416,7 +10133,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tag.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tagFill = "tag.fill"
 
@@ -10428,6 +10144,7 @@ public enum SFName: String, Identifiable {
     case teletype = "teletype"
 
     /// - Symbol Name: teletype.answer
+    /// - Alias: realtimetext
     /// - Category: communication, multicolor
     /// - Availabilities:
     ///   - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -10466,19 +10183,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: text.aligncenter
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textAligncenter = "text.aligncenter"
 
     /// - Symbol Name: text.alignleft
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textAlignleft = "text.alignleft"
 
     /// - Symbol Name: text.alignright
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textAlignright = "text.alignright"
 
@@ -10544,7 +10258,7 @@ public enum SFName: String, Identifiable {
     case textBubbleFill = "text.bubble.fill"
 
     /// - Symbol Name: text.cursor
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textCursor = "text.cursor"
 
@@ -10557,19 +10271,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: text.justify
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textJustify = "text.justify"
 
     /// - Symbol Name: text.justifyleft
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textJustifyleft = "text.justifyleft"
 
     /// - Symbol Name: text.justifyright
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textJustifyright = "text.justifyright"
 
@@ -10580,25 +10291,22 @@ public enum SFName: String, Identifiable {
     case textQuote = "text.quote"
 
     /// - Symbol Name: textbox
-    /// - Availabilities:
+    /// - Alias: character.textbox
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textbox = "textbox"
 
     /// - Symbol Name: textformat
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textformat = "textformat"
 
     /// - Symbol Name: textformat.123
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textformat123 = "textformat.123"
 
     /// - Symbol Name: textformat.abc
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textformatAbc = "textformat.abc"
 
@@ -10612,13 +10320,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: textformat.alt
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textformatAlt = "textformat.alt"
 
     /// - Symbol Name: textformat.size
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case textformatSize = "textformat.size"
 
@@ -10645,6 +10351,7 @@ public enum SFName: String, Identifiable {
     case thermometer = "thermometer"
 
     /// - Symbol Name: thermometer.snowflake
+    /// - Alias: thermometer.snowlake
     /// - Category: multicolor, weather
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -10660,7 +10367,6 @@ public enum SFName: String, Identifiable {
     case thermometerSun = "thermometer.sun"
 
     /// - Symbol Name: timelapse
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case timelapse = "timelapse"
 
@@ -10681,7 +10387,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tortoise
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tortoise = "tortoise"
 
@@ -10694,7 +10399,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tram.fill
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tramFill = "tram.fill"
 
@@ -10746,19 +10450,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tray
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tray = "tray"
 
     /// - Symbol Name: tray.2
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tray2 = "tray.2"
 
     /// - Symbol Name: tray.2.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tray2Fill = "tray.2.fill"
 
@@ -10792,41 +10493,36 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tray.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case trayFill = "tray.fill"
 
     /// - Symbol Name: tray.full
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case trayFull = "tray.full"
 
     /// - Symbol Name: tray.full.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case trayFullFill = "tray.full.fill"
 
     /// - Symbol Name: triangle
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case triangle = "triangle"
 
     /// - Symbol Name: triangle.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case triangleFill = "triangle.fill"
 
     /// - Symbol Name: triangle.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: triangle.lefthalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case triangleLefthalfFill = "triangle.lefthalf.fill"
 
     /// - Symbol Name: triangle.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: triangle.righthalf.filled
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case triangleRighthalfFill = "triangle.righthalf.fill"
 
@@ -10869,7 +10565,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tuningfork
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tuningfork = "tuningfork"
 
@@ -10927,17 +10622,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tv.fill
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tvFill = "tv.fill"
 
     /// - Symbol Name: tv.music.note
-    /// - Availabilities:
+    /// - Alias: music.note.tv
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tvMusicNote = "tv.music.note"
 
     /// - Symbol Name: tv.music.note.fill
-    /// - Availabilities:
+    /// - Alias: music.note.tv.fill
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case tvMusicNoteFill = "tv.music.note.fill"
 
@@ -10972,19 +10666,16 @@ public enum SFName: String, Identifiable {
     case uSquareFill = "u.square.fill"
 
     /// - Symbol Name: uiwindow.split.2x1
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case uiwindowSplit2X1 = "uiwindow.split.2x1"
 
     /// - Symbol Name: umbrella
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case umbrella = "umbrella"
 
     /// - Symbol Name: umbrella.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case umbrellaFill = "umbrella.fill"
 
@@ -11042,7 +10733,7 @@ public enum SFName: String, Identifiable {
     case videoBadgePlus = "video.badge.plus"
 
     /// - Symbol Name: video.badge.plus.fill
-    /// - Availabilities:
+    /// - Alias: video.fill.badge.plus
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case videoBadgePlusFill = "video.badge.plus.fill"
 
@@ -11084,17 +10775,14 @@ public enum SFName: String, Identifiable {
     case videoSlashFill = "video.slash.fill"
 
     /// - Symbol Name: view.2d
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case view2D = "view.2d"
 
     /// - Symbol Name: view.3d
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case view3D = "view.3d"
 
     /// - Symbol Name: viewfinder
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case viewfinder = "viewfinder"
 
@@ -11172,7 +10860,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: waveform
     /// - Category: communication
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case waveform = "waveform"
 
@@ -11192,7 +10879,6 @@ public enum SFName: String, Identifiable {
     case waveformCircleFill = "waveform.circle.fill"
 
     /// - Symbol Name: waveform.path
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case waveformPath = "waveform.path"
 
@@ -11214,7 +10900,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: waveform.path.ecg
     /// - Category: health
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case waveformPathEcg = "waveform.path.ecg"
 
@@ -11227,7 +10912,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: wifi.exclamationmark
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case wifiExclamationmark = "wifi.exclamationmark"
 
@@ -11285,13 +10969,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: wrench
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case wrench = "wrench"
 
     /// - Symbol Name: wrench.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case wrenchFill = "wrench.fill"
 
@@ -11530,13 +11212,11 @@ public enum SFName: String, Identifiable {
     case zSquareFill = "z.square.fill"
 
     /// - Symbol Name: zzz
-    /// - Availabilities:
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, *)
     case zzz = "zzz"
 
     /// - Symbol Name: 1.magnifyingglass.ar
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case _1MagnifyingglassAr = "1.magnifyingglass.ar"
 
@@ -11555,82 +11235,82 @@ public enum SFName: String, Identifiable {
     case _4kTvFill = "4k.tv.fill"
 
     /// - Symbol Name: a.book.closed
-    /// - Availabilities:
+    /// - Alias: character.book.closed
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosed = "a.book.closed"
 
     /// - Symbol Name: a.book.closed.ar
-    /// - Availabilities:
+    /// - Alias: character.book.closed.ar
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedAr = "a.book.closed.ar"
 
     /// - Symbol Name: a.book.closed.fill
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFill = "a.book.closed.fill"
 
     /// - Symbol Name: a.book.closed.fill.ar
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.ar
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFillAr = "a.book.closed.fill.ar"
 
     /// - Symbol Name: a.book.closed.fill.he
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.he
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFillHe = "a.book.closed.fill.he"
 
     /// - Symbol Name: a.book.closed.fill.hi
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.hi
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFillHi = "a.book.closed.fill.hi"
 
     /// - Symbol Name: a.book.closed.fill.ja
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.ja
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFillJa = "a.book.closed.fill.ja"
 
     /// - Symbol Name: a.book.closed.fill.ko
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.ko
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFillKo = "a.book.closed.fill.ko"
 
     /// - Symbol Name: a.book.closed.fill.th
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.th
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFillTh = "a.book.closed.fill.th"
 
     /// - Symbol Name: a.book.closed.fill.zh
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.zh
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedFillZh = "a.book.closed.fill.zh"
 
     /// - Symbol Name: a.book.closed.he
-    /// - Availabilities:
+    /// - Alias: character.book.closed.he
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedHe = "a.book.closed.he"
 
     /// - Symbol Name: a.book.closed.hi
-    /// - Availabilities:
+    /// - Alias: character.book.closed.hi
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedHi = "a.book.closed.hi"
 
     /// - Symbol Name: a.book.closed.ja
-    /// - Availabilities:
+    /// - Alias: character.book.closed.ja
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedJa = "a.book.closed.ja"
 
     /// - Symbol Name: a.book.closed.ko
-    /// - Availabilities:
+    /// - Alias: character.book.closed.ko
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedKo = "a.book.closed.ko"
 
     /// - Symbol Name: a.book.closed.th
-    /// - Availabilities:
+    /// - Alias: character.book.closed.th
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedTh = "a.book.closed.th"
 
     /// - Symbol Name: a.book.closed.zh
-    /// - Availabilities:
+    /// - Alias: character.book.closed.zh
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case aBookClosedZh = "a.book.closed.zh"
 
@@ -11643,7 +11323,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: abc
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case abc = "abc"
 
@@ -11664,13 +11343,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: airpod.left
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case airpodLeft = "airpod.left"
 
     /// - Symbol Name: airpod.right
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case airpodRight = "airpod.right"
 
@@ -11690,7 +11367,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: airpods
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case airpods = "airpods"
 
@@ -11703,25 +11379,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: airport.express
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case airportExpress = "airport.express"
 
     /// - Symbol Name: airport.extreme
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case airportExtreme = "airport.extreme"
 
     /// - Symbol Name: airport.extreme.tower
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case airportExtremeTower = "airport.extreme.tower"
 
     /// - Symbol Name: amplifier
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case amplifier = "amplifier"
 
@@ -11732,17 +11404,14 @@ public enum SFName: String, Identifiable {
     case appclip = "appclip"
 
     /// - Symbol Name: applelogo
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case applelogo = "applelogo"
 
     /// - Symbol Name: applescript
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case applescript = "applescript"
 
     /// - Symbol Name: applescript.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case applescriptFill = "applescript.fill"
 
@@ -11755,7 +11424,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: appletv.fill
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case appletvFill = "appletv.fill"
 
@@ -11847,7 +11515,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowBackward = "arrow.backward"
 
@@ -11909,7 +11576,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.down.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowDownBackward = "arrow.down.backward"
 
@@ -11944,13 +11610,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.down.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowDownForward = "arrow.down.forward"
 
     /// - Symbol Name: arrow.down.forward.and.arrow.up.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowDownForwardAndArrowUpBackward = "arrow.down.forward.and.arrow.up.backward"
 
@@ -12029,7 +11693,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowForward = "arrow.forward"
 
@@ -12063,6 +11726,7 @@ public enum SFName: String, Identifiable {
     case arrowForwardSquareFill = "arrow.forward.square.fill"
 
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right
+    /// - Alias: flip.horizontal
     /// - Category: editing
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12070,6 +11734,7 @@ public enum SFName: String, Identifiable {
     case arrowLeftAndRightRighttriangleLeftRighttriangleRight = "arrow.left.and.right.righttriangle.left.righttriangle.right"
 
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right.fill
+    /// - Alias: flip.horizontal.fill
     /// - Category: editing
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12077,12 +11742,13 @@ public enum SFName: String, Identifiable {
     case arrowLeftAndRightRighttriangleLeftRighttriangleRightFill = "arrow.left.and.right.righttriangle.left.righttriangle.right.fill"
 
     /// - Symbol Name: arrow.left.arrow.right
+    /// - Alias: arrow.right.arrow.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowLeftArrowRight = "arrow.left.arrow.right"
 
     /// - Symbol Name: arrow.left.arrow.right.circle
+    /// - Alias: arrow.right.arrow.left.circle
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12090,6 +11756,7 @@ public enum SFName: String, Identifiable {
     case arrowLeftArrowRightCircle = "arrow.left.arrow.right.circle"
 
     /// - Symbol Name: arrow.left.arrow.right.circle.fill
+    /// - Alias: arrow.right.arrow.left.circle.fill
     /// - Category: arrows, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12098,6 +11765,7 @@ public enum SFName: String, Identifiable {
     case arrowLeftArrowRightCircleFill = "arrow.left.arrow.right.circle.fill"
 
     /// - Symbol Name: arrow.left.arrow.right.square
+    /// - Alias: arrow.right.arrow.left.square
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12105,6 +11773,7 @@ public enum SFName: String, Identifiable {
     case arrowLeftArrowRightSquare = "arrow.left.arrow.right.square"
 
     /// - Symbol Name: arrow.left.arrow.right.square.fill
+    /// - Alias: arrow.right.arrow.left.square.fill
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12113,7 +11782,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.rectanglepath
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowRectanglepath = "arrow.rectanglepath"
 
@@ -12125,12 +11793,13 @@ public enum SFName: String, Identifiable {
     case arrowRightDocOnClipboard = "arrow.right.doc.on.clipboard"
 
     /// - Symbol Name: arrow.triangle.2.circlepath
+    /// - Alias: arrow.2.circlepath
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowTriangle2Circlepath = "arrow.triangle.2.circlepath"
 
     /// - Symbol Name: arrow.triangle.2.circlepath.camera
+    /// - Alias: camera.rotate
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12138,6 +11807,7 @@ public enum SFName: String, Identifiable {
     case arrowTriangle2CirclepathCamera = "arrow.triangle.2.circlepath.camera"
 
     /// - Symbol Name: arrow.triangle.2.circlepath.camera.fill
+    /// - Alias: camera.rotate.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12145,6 +11815,7 @@ public enum SFName: String, Identifiable {
     case arrowTriangle2CirclepathCameraFill = "arrow.triangle.2.circlepath.camera.fill"
 
     /// - Symbol Name: arrow.triangle.2.circlepath.circle
+    /// - Alias: arrow.2.circlepath.circle
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12152,6 +11823,7 @@ public enum SFName: String, Identifiable {
     case arrowTriangle2CirclepathCircle = "arrow.triangle.2.circlepath.circle"
 
     /// - Symbol Name: arrow.triangle.2.circlepath.circle.fill
+    /// - Alias: arrow.2.circlepath.circle.fill
     /// - Category: arrows, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12167,32 +11839,30 @@ public enum SFName: String, Identifiable {
     case arrowTriangle2CirclepathDocOnClipboard = "arrow.triangle.2.circlepath.doc.on.clipboard"
 
     /// - Symbol Name: arrow.triangle.branch
+    /// - Alias: arrow.branch
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowTriangleBranch = "arrow.triangle.branch"
 
     /// - Symbol Name: arrow.triangle.capsulepath
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowTriangleCapsulepath = "arrow.triangle.capsulepath"
 
     /// - Symbol Name: arrow.triangle.merge
+    /// - Alias: arrow.merge
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowTriangleMerge = "arrow.triangle.merge"
 
     /// - Symbol Name: arrow.triangle.pull
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowTrianglePull = "arrow.triangle.pull"
 
     /// - Symbol Name: arrow.triangle.swap
+    /// - Alias: arrow.swap
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowTriangleSwap = "arrow.triangle.swap"
 
@@ -12212,6 +11882,7 @@ public enum SFName: String, Identifiable {
     case arrowTriangleTurnUpRightCircleFill = "arrow.triangle.turn.up.right.circle.fill"
 
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond
+    /// - Alias: arrow.up.right.diamond
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12219,6 +11890,7 @@ public enum SFName: String, Identifiable {
     case arrowTriangleTurnUpRightDiamond = "arrow.triangle.turn.up.right.diamond"
 
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond.fill
+    /// - Alias: arrow.up.right.diamond.fill
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12227,7 +11899,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.turn.up.forward.iphone
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowTurnUpForwardIphone = "arrow.turn.up.forward.iphone"
 
@@ -12240,7 +11911,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.and.down.and.arrow.left.and.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUpAndDownAndArrowLeftAndRight = "arrow.up.and.down.and.arrow.left.and.right"
 
@@ -12281,13 +11951,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUpBackward = "arrow.up.backward"
 
     /// - Symbol Name: arrow.up.backward.and.arrow.down.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUpBackwardAndArrowDownForward = "arrow.up.backward.and.arrow.down.forward"
 
@@ -12344,7 +12012,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUpForward = "arrow.up.forward"
 
@@ -12422,13 +12089,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.up.left.and.down.right.and.arrow.up.right.and.down.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUpLeftAndDownRightAndArrowUpRightAndDownLeft = "arrow.up.left.and.down.right.and.arrow.up.right.and.down.left"
 
     /// - Symbol Name: arrow.up.left.and.down.right.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUpLeftAndDownRightMagnifyingglass = "arrow.up.left.and.down.right.magnifyingglass"
 
@@ -12460,7 +12125,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.uturn.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUturnBackward = "arrow.uturn.backward"
 
@@ -12502,7 +12166,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.uturn.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowUturnForward = "arrow.uturn.forward"
 
@@ -12537,37 +12200,31 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.bounce.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeBounceForward = "arrowshape.bounce.forward"
 
     /// - Symbol Name: arrowshape.bounce.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeBounceForwardFill = "arrowshape.bounce.forward.fill"
 
     /// - Symbol Name: arrowshape.bounce.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeBounceRight = "arrowshape.bounce.right"
 
     /// - Symbol Name: arrowshape.bounce.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeBounceRightFill = "arrowshape.bounce.right.fill"
 
     /// - Symbol Name: arrowshape.turn.up.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeTurnUpBackward = "arrowshape.turn.up.backward"
 
     /// - Symbol Name: arrowshape.turn.up.backward.2
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeTurnUpBackward2 = "arrowshape.turn.up.backward.2"
 
@@ -12588,7 +12245,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.turn.up.backward.2.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeTurnUpBackward2Fill = "arrowshape.turn.up.backward.2.fill"
 
@@ -12609,13 +12265,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.turn.up.backward.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeTurnUpBackwardFill = "arrowshape.turn.up.backward.fill"
 
     /// - Symbol Name: arrowshape.turn.up.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeTurnUpForward = "arrowshape.turn.up.forward"
 
@@ -12636,7 +12290,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.turn.up.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeTurnUpForwardFill = "arrowshape.turn.up.forward.fill"
 
@@ -12657,31 +12310,26 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowshape.zigzag.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeZigzagForward = "arrowshape.zigzag.forward"
 
     /// - Symbol Name: arrowshape.zigzag.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeZigzagForwardFill = "arrowshape.zigzag.forward.fill"
 
     /// - Symbol Name: arrowshape.zigzag.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeZigzagRight = "arrowshape.zigzag.right"
 
     /// - Symbol Name: arrowshape.zigzag.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowshapeZigzagRightFill = "arrowshape.zigzag.right.fill"
 
     /// - Symbol Name: arrowtriangle.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleBackward = "arrowtriangle.backward"
 
@@ -12702,7 +12350,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.backward.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleBackwardFill = "arrowtriangle.backward.fill"
 
@@ -12722,7 +12369,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleForward = "arrowtriangle.forward"
 
@@ -12743,7 +12389,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleForwardFill = "arrowtriangle.forward.fill"
 
@@ -12763,25 +12408,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrowtriangle.left.and.line.vertical.and.arrowtriangle.right
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleLeftAndLineVerticalAndArrowtriangleRight = "arrowtriangle.left.and.line.vertical.and.arrowtriangle.right"
 
     /// - Symbol Name: arrowtriangle.left.fill.and.line.vertical.and.arrowtriangle.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleLeftFillAndLineVerticalAndArrowtriangleRightFill = "arrowtriangle.left.fill.and.line.vertical.and.arrowtriangle.right.fill"
 
     /// - Symbol Name: arrowtriangle.right.and.line.vertical.and.arrowtriangle.left
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleRightAndLineVerticalAndArrowtriangleLeft = "arrowtriangle.right.and.line.vertical.and.arrowtriangle.left"
 
     /// - Symbol Name: arrowtriangle.right.fill.and.line.vertical.and.arrowtriangle.left.fill
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case arrowtriangleRightFillAndLineVerticalAndArrowtriangleLeftFill = "arrowtriangle.right.fill.and.line.vertical.and.arrowtriangle.left.fill"
 
@@ -12809,13 +12450,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: backward.frame
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case backwardFrame = "backward.frame"
 
     /// - Symbol Name: backward.frame.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case backwardFrameFill = "backward.frame.fill"
 
@@ -12912,7 +12551,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: bicycle
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case bicycle = "bicycle"
 
@@ -12933,13 +12571,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: binoculars
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case binoculars = "binoculars"
 
     /// - Symbol Name: binoculars.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case binocularsFill = "binoculars.fill"
 
@@ -12960,12 +12596,12 @@ public enum SFName: String, Identifiable {
     case boltCarFill = "bolt.car.fill"
 
     /// - Symbol Name: bolt.fill.batteryblock
-    /// - Availabilities:
+    /// - Alias: bolt.batteryblock
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case boltFillBatteryblock = "bolt.fill.batteryblock"
 
     /// - Symbol Name: bolt.fill.batteryblock.fill
-    /// - Availabilities:
+    /// - Alias: bolt.batteryblock.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case boltFillBatteryblockFill = "bolt.fill.batteryblock.fill"
 
@@ -13008,13 +12644,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: book.closed
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case bookClosed = "book.closed"
 
     /// - Symbol Name: book.closed.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case bookClosedFill = "book.closed.fill"
 
@@ -13052,19 +12686,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: books.vertical
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case booksVertical = "books.vertical"
 
     /// - Symbol Name: books.vertical.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case booksVerticalFill = "books.vertical.fill"
 
     /// - Symbol Name: building
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case building = "building"
 
@@ -13077,7 +12708,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: building.2.crop.circle
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case building2CropCircle = "building.2.crop.circle"
 
@@ -13097,42 +12727,35 @@ public enum SFName: String, Identifiable {
     case building2Fill = "building.2.fill"
 
     /// - Symbol Name: building.columns
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case buildingColumns = "building.columns"
 
     /// - Symbol Name: building.columns.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case buildingColumnsFill = "building.columns.fill"
 
     /// - Symbol Name: building.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case buildingFill = "building.fill"
 
     /// - Symbol Name: bus
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case bus = "bus"
 
     /// - Symbol Name: bus.doubledecker
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case busDoubledecker = "bus.doubledecker"
 
     /// - Symbol Name: bus.doubledecker.fill
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case busDoubledeckerFill = "bus.doubledecker.fill"
 
     /// - Symbol Name: bus.fill
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case busFill = "bus.fill"
 
@@ -13161,7 +12784,6 @@ public enum SFName: String, Identifiable {
     case calendarBadgeExclamationmark = "calendar.badge.exclamationmark"
 
     /// - Symbol Name: camera.aperture
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cameraAperture = "camera.aperture"
 
@@ -13193,7 +12815,6 @@ public enum SFName: String, Identifiable {
     case cameraMeteringCenterWeighted = "camera.metering.center.weighted"
 
     /// - Symbol Name: camera.metering.center.weighted.average
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cameraMeteringCenterWeightedAverage = "camera.metering.center.weighted.average"
 
@@ -13241,19 +12862,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: candybarphone
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case candybarphone = "candybarphone"
 
     /// - Symbol Name: capsule.portrait
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case capsulePortrait = "capsule.portrait"
 
     /// - Symbol Name: capsule.portrait.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case capsulePortraitFill = "capsule.portrait.fill"
 
@@ -13289,23 +12907,19 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: case
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case `case` = "case"
 
     /// - Symbol Name: case.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case caseFill = "case.fill"
 
     /// - Symbol Name: chart.bar.doc.horizontal
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case chartBarDocHorizontal = "chart.bar.doc.horizontal"
 
     /// - Symbol Name: chart.bar.doc.horizontal.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case chartBarDocHorizontalFill = "chart.bar.doc.horizontal.fill"
 
@@ -13316,7 +12930,6 @@ public enum SFName: String, Identifiable {
     case chartBarXaxis = "chart.bar.xaxis"
 
     /// - Symbol Name: checkerboard.rectangle
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case checkerboardRectangle = "checkerboard.rectangle"
 
@@ -13348,13 +12961,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: chevron.backward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case chevronBackward = "chevron.backward"
 
     /// - Symbol Name: chevron.backward.2
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case chevronBackward2 = "chevron.backward.2"
 
@@ -13389,13 +13000,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: chevron.forward
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case chevronForward = "chevron.forward"
 
     /// - Symbol Name: chevron.forward.2
     /// - Category: arrows
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case chevronForward2 = "chevron.forward.2"
 
@@ -13429,7 +13038,7 @@ public enum SFName: String, Identifiable {
     case chevronForwardSquareFill = "chevron.forward.square.fill"
 
     /// - Symbol Name: circle.bottomhalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.bottomhalf.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circleBottomhalfFill = "circle.bottomhalf.fill"
 
@@ -13450,12 +13059,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: circle.dashed
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circleDashed = "circle.dashed"
 
     /// - Symbol Name: circle.dashed.inset.fill
-    /// - Availabilities:
+    /// - Alias: circle.dashed.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circleDashedInsetFill = "circle.dashed.inset.fill"
 
@@ -13468,7 +13076,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: circle.grid.cross
     /// - Category: gaming
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circleGridCross = "circle.grid.cross"
 
@@ -13481,7 +13088,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: circle.grid.cross.fill
     /// - Category: gaming
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circleGridCrossFill = "circle.grid.cross.fill"
 
@@ -13514,22 +13120,19 @@ public enum SFName: String, Identifiable {
     case circleSquare = "circle.square"
 
     /// - Symbol Name: circle.tophalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.tophalf.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circleTophalfFill = "circle.tophalf.fill"
 
     /// - Symbol Name: circlebadge
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circlebadge = "circlebadge"
 
     /// - Symbol Name: circlebadge.2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circlebadge2 = "circlebadge.2"
 
     /// - Symbol Name: circlebadge.2.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circlebadge2Fill = "circlebadge.2.fill"
 
@@ -13541,22 +13144,22 @@ public enum SFName: String, Identifiable {
     case circlebadgeFill = "circlebadge.fill"
 
     /// - Symbol Name: circles.hexagongrid
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circlesHexagongrid = "circles.hexagongrid"
 
     /// - Symbol Name: circles.hexagongrid.fill
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circlesHexagongridFill = "circles.hexagongrid.fill"
 
     /// - Symbol Name: circles.hexagonpath
-    /// - Availabilities:
+    /// - Alias: circle.hexagonpath
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circlesHexagonpath = "circles.hexagonpath"
 
     /// - Symbol Name: circles.hexagonpath.fill
-    /// - Availabilities:
+    /// - Alias: circle.hexagonpath.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case circlesHexagonpathFill = "circles.hexagonpath.fill"
 
@@ -13569,13 +13172,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: comb
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case comb = "comb"
 
     /// - Symbol Name: comb.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case combFill = "comb.fill"
 
@@ -13609,12 +13210,10 @@ public enum SFName: String, Identifiable {
     case commandSquareFill = "command.square.fill"
 
     /// - Symbol Name: cone
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cone = "cone"
 
     /// - Symbol Name: cone.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case coneFill = "cone.fill"
 
@@ -13626,7 +13225,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: cpu
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cpu = "cpu"
 
@@ -13647,7 +13245,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: cross
     /// - Category: health
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cross = "cross"
 
@@ -13682,34 +13279,28 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: cross.fill
     /// - Category: health
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case crossFill = "cross.fill"
 
     /// - Symbol Name: crown
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case crown = "crown"
 
     /// - Symbol Name: crown.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case crownFill = "crown.fill"
 
     /// - Symbol Name: cube.transparent
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cubeTransparent = "cube.transparent"
 
     /// - Symbol Name: cube.transparent.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cubeTransparentFill = "cube.transparent.fill"
 
     /// - Symbol Name: curlybraces
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case curlybraces = "curlybraces"
 
@@ -13726,7 +13317,6 @@ public enum SFName: String, Identifiable {
     case curlybracesSquareFill = "curlybraces.square.fill"
 
     /// - Symbol Name: cursorarrow
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cursorarrow = "cursorarrow"
 
@@ -13755,7 +13345,6 @@ public enum SFName: String, Identifiable {
     case cursorarrowClickBadgeClock = "cursorarrow.click.badge.clock"
 
     /// - Symbol Name: cursorarrow.motionlines
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cursorarrowMotionlines = "cursorarrow.motionlines"
 
@@ -13766,6 +13355,7 @@ public enum SFName: String, Identifiable {
     case cursorarrowMotionlinesClick = "cursorarrow.motionlines.click"
 
     /// - Symbol Name: cursorarrow.rays
+    /// - Alias: cursor.rays
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
@@ -13778,34 +13368,28 @@ public enum SFName: String, Identifiable {
     case cursorarrowSquare = "cursorarrow.square"
 
     /// - Symbol Name: cylinder
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cylinder = "cylinder"
 
     /// - Symbol Name: cylinder.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cylinderFill = "cylinder.fill"
 
     /// - Symbol Name: cylinder.split.1x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cylinderSplit1X2 = "cylinder.split.1x2"
 
     /// - Symbol Name: cylinder.split.1x2.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case cylinderSplit1X2Fill = "cylinder.split.1x2.fill"
 
     /// - Symbol Name: deskclock
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case deskclock = "deskclock"
 
     /// - Symbol Name: deskclock.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case deskclockFill = "deskclock.fill"
 
@@ -13824,6 +13408,7 @@ public enum SFName: String, Identifiable {
     case dialMaxFill = "dial.max.fill"
 
     /// - Symbol Name: dial.min
+    /// - Alias: dial
     /// - Category: editing, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -13831,6 +13416,7 @@ public enum SFName: String, Identifiable {
     case dialMin = "dial.min"
 
     /// - Symbol Name: dial.min.fill
+    /// - Alias: dial.fill
     /// - Category: editing, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -13839,13 +13425,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: diamond
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case diamond = "diamond"
 
     /// - Symbol Name: diamond.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case diamondFill = "diamond.fill"
 
@@ -13956,17 +13540,14 @@ public enum SFName: String, Identifiable {
     case displayTrianglebadgeExclamationmark = "display.trianglebadge.exclamationmark"
 
     /// - Symbol Name: doc.append.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docAppendFill = "doc.append.fill"
 
     /// - Symbol Name: doc.append.fill.rtl
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docAppendFillRtl = "doc.append.fill.rtl"
 
     /// - Symbol Name: doc.append.rtl
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docAppendRtl = "doc.append.rtl"
 
@@ -14015,42 +13596,34 @@ public enum SFName: String, Identifiable {
     case docFillBadgePlus = "doc.fill.badge.plus"
 
     /// - Symbol Name: doc.plaintext.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docPlaintextFill = "doc.plaintext.fill"
 
     /// - Symbol Name: doc.richtext.ar
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docRichtextAr = "doc.richtext.ar"
 
     /// - Symbol Name: doc.richtext.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docRichtextFill = "doc.richtext.fill"
 
     /// - Symbol Name: doc.richtext.fill.ar
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docRichtextFillAr = "doc.richtext.fill.ar"
 
     /// - Symbol Name: doc.richtext.fill.he
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docRichtextFillHe = "doc.richtext.fill.he"
 
     /// - Symbol Name: doc.richtext.he
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docRichtextHe = "doc.richtext.he"
 
     /// - Symbol Name: doc.text.below.ecg
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docTextBelowEcg = "doc.text.below.ecg"
 
     /// - Symbol Name: doc.text.below.ecg.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docTextBelowEcgFill = "doc.text.below.ecg.fill"
 
@@ -14061,7 +13634,6 @@ public enum SFName: String, Identifiable {
     case docTextFillViewfinder = "doc.text.fill.viewfinder"
 
     /// - Symbol Name: doc.zipper
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case docZipper = "doc.zipper"
 
@@ -14078,6 +13650,7 @@ public enum SFName: String, Identifiable {
     case dockArrowUpRectangle = "dock.arrow.up.rectangle"
 
     /// - Symbol Name: dock.rectangle
+    /// - Alias: rectangle.dock
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
@@ -14115,13 +13688,11 @@ public enum SFName: String, Identifiable {
     case dotSquareshapeFill = "dot.squareshape.fill"
 
     /// - Symbol Name: dot.squareshape.split.2x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case dotSquareshapeSplit2X2 = "dot.squareshape.split.2x2"
 
     /// - Symbol Name: dpad
     /// - Category: gaming
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case dpad = "dpad"
 
@@ -14134,7 +13705,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: dpad.fill
     /// - Category: gaming
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case dpadFill = "dpad.fill"
 
@@ -14161,13 +13731,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: drop
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case drop = "drop"
 
     /// - Symbol Name: drop.fill
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case dropFill = "drop.fill"
 
@@ -14196,7 +13764,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: earpods
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case earpods = "earpods"
 
@@ -14216,6 +13783,7 @@ public enum SFName: String, Identifiable {
     case ejectCircleFill = "eject.circle.fill"
 
     /// - Symbol Name: ellipsis.bubble
+    /// - Alias: ellipses.bubble
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14223,6 +13791,7 @@ public enum SFName: String, Identifiable {
     case ellipsisBubble = "ellipsis.bubble"
 
     /// - Symbol Name: ellipsis.bubble.fill
+    /// - Alias: ellipses.bubble.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14256,24 +13825,22 @@ public enum SFName: String, Identifiable {
     case envelopeArrowTriangleBranchFill = "envelope.arrow.triangle.branch.fill"
 
     /// - Symbol Name: envelope.badge.shield.leadinghalf.fill
-    /// - Availabilities:
+    /// - Alias: envelope.badge.shield.half.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case envelopeBadgeShieldLeadinghalfFill = "envelope.badge.shield.leadinghalf.fill"
 
     /// - Symbol Name: envelope.fill.badge.shield.trailinghalf.fill
-    /// - Availabilities:
+    /// - Alias: envelope.badge.shield.half.filled.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case envelopeFillBadgeShieldTrailinghalfFill = "envelope.fill.badge.shield.trailinghalf.fill"
 
     /// - Symbol Name: esim
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case esim = "esim"
 
     /// - Symbol Name: esim.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case esimFill = "esim.fill"
 
@@ -14306,7 +13873,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: externaldrive
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case externaldrive = "externaldrive"
 
@@ -14373,19 +13939,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: externaldrive.connected.to.line.below
     /// - Category: connectivity, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case externaldriveConnectedToLineBelow = "externaldrive.connected.to.line.below"
 
     /// - Symbol Name: externaldrive.connected.to.line.below.fill
     /// - Category: connectivity, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case externaldriveConnectedToLineBelowFill = "externaldrive.connected.to.line.below.fill"
 
     /// - Symbol Name: externaldrive.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case externaldriveFill = "externaldrive.fill"
 
@@ -14474,19 +14037,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: eyes
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case eyes = "eyes"
 
     /// - Symbol Name: eyes.inverse
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case eyesInverse = "eyes.inverse"
 
     /// - Symbol Name: face.dashed
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case faceDashed = "face.dashed"
 
@@ -14498,6 +14058,7 @@ public enum SFName: String, Identifiable {
     case faceDashedFill = "face.dashed.fill"
 
     /// - Symbol Name: face.smiling
+    /// - Alias: smiley
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14505,6 +14066,7 @@ public enum SFName: String, Identifiable {
     case faceSmiling = "face.smiling"
 
     /// - Symbol Name: face.smiling.fill
+    /// - Alias: smiley.fill
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14513,18 +14075,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: faxmachine
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case faxmachine = "faxmachine"
 
     /// - Symbol Name: fiberchannel
-    /// - Availabilities:
+    /// - Alias: fibrechannel
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case fiberchannel = "fiberchannel"
 
     /// - Symbol Name: figure.stand
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case figureStand = "figure.stand"
 
@@ -14537,7 +14097,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: figure.walk
     /// - Category: human, transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case figureWalk = "figure.walk"
 
@@ -14572,7 +14131,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: figure.wave
     /// - Category: human, transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case figureWave = "figure.wave"
 
@@ -14642,17 +14200,15 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: flipphone
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case flipphone = "flipphone"
 
     /// - Symbol Name: fn
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case fn = "fn"
 
     /// - Symbol Name: folder.badge.gear
-    /// - Availabilities:
+    /// - Alias: folder.badge.gearshape
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case folderBadgeGear = "folder.badge.gear"
 
@@ -14673,7 +14229,7 @@ public enum SFName: String, Identifiable {
     case folderBadgeQuestionmarkAr = "folder.badge.questionmark.ar"
 
     /// - Symbol Name: folder.fill.badge.gear
-    /// - Availabilities:
+    /// - Alias: folder.fill.badge.gearshape
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case folderFillBadgeGear = "folder.fill.badge.gear"
 
@@ -14695,37 +14251,31 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: forward.frame
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case forwardFrame = "forward.frame"
 
     /// - Symbol Name: forward.frame.fill
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case forwardFrameFill = "forward.frame.fill"
 
     /// - Symbol Name: gearshape
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case gearshape = "gearshape"
 
     /// - Symbol Name: gearshape.2
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case gearshape2 = "gearshape.2"
 
     /// - Symbol Name: gearshape.2.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case gearshape2Fill = "gearshape.2.fill"
 
     /// - Symbol Name: gearshape.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case gearshapeFill = "gearshape.fill"
 
@@ -14747,37 +14297,31 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: giftcard
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case giftcard = "giftcard"
 
     /// - Symbol Name: giftcard.fill
     /// - Category: commerce
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case giftcardFill = "giftcard.fill"
 
     /// - Symbol Name: graduationcap
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case graduationcap = "graduationcap"
 
     /// - Symbol Name: graduationcap.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case graduationcapFill = "graduationcap.fill"
 
     /// - Symbol Name: greetingcard
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case greetingcard = "greetingcard"
 
     /// - Symbol Name: greetingcard.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case greetingcardFill = "greetingcard.fill"
 
@@ -14790,12 +14334,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: gyroscope
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case gyroscope = "gyroscope"
 
     /// - Symbol Name: h.square.fill.on.square.fill
-    /// - Availabilities:
+    /// - Alias: h.square.on.square.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case hSquareFillOnSquareFill = "h.square.fill.on.square.fill"
 
@@ -14807,19 +14350,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hand.point.down
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handPointDown = "hand.point.down"
 
     /// - Symbol Name: hand.point.down.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handPointDownFill = "hand.point.down.fill"
 
     /// - Symbol Name: hand.point.up
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handPointUp = "hand.point.up"
 
@@ -14839,19 +14379,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hand.point.up.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handPointUpFill = "hand.point.up.fill"
 
     /// - Symbol Name: hand.point.up.left
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handPointUpLeft = "hand.point.up.left"
 
     /// - Symbol Name: hand.point.up.left.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handPointUpLeftFill = "hand.point.up.left.fill"
 
@@ -14871,13 +14408,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hand.wave
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handWave = "hand.wave"
 
     /// - Symbol Name: hand.wave.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case handWaveFill = "hand.wave.fill"
 
@@ -14925,7 +14460,7 @@ public enum SFName: String, Identifiable {
     case headphonesCircleFill = "headphones.circle.fill"
 
     /// - Symbol Name: hearingaid.ear
-    /// - Availabilities:
+    /// - Alias: hearingdevice.ear
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case hearingaidEar = "hearingaid.ear"
 
@@ -14945,13 +14480,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hifispeaker.2
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case hifispeaker2 = "hifispeaker.2"
 
     /// - Symbol Name: hifispeaker.2.fill
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case hifispeaker2Fill = "hifispeaker.2.fill"
 
@@ -14971,7 +14504,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: highlighter
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case highlighter = "highlighter"
 
@@ -15037,19 +14569,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: infinity
     /// - Category: media
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case infinity = "infinity"
 
     /// - Symbol Name: internaldrive
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case internaldrive = "internaldrive"
 
     /// - Symbol Name: internaldrive.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case internaldriveFill = "internaldrive.fill"
 
@@ -15132,25 +14661,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: ipodshuffle.gen1
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ipodshuffleGen1 = "ipodshuffle.gen1"
 
     /// - Symbol Name: ipodshuffle.gen2
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ipodshuffleGen2 = "ipodshuffle.gen2"
 
     /// - Symbol Name: ipodshuffle.gen3
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ipodshuffleGen3 = "ipodshuffle.gen3"
 
     /// - Symbol Name: ipodshuffle.gen4
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ipodshuffleGen4 = "ipodshuffle.gen4"
 
@@ -15162,7 +14687,7 @@ public enum SFName: String, Identifiable {
     case ipodtouch = "ipodtouch"
 
     /// - Symbol Name: j.square.fill.on.square.fill
-    /// - Availabilities:
+    /// - Alias: j.square.on.square.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case jSquareFillOnSquareFill = "j.square.fill.on.square.fill"
 
@@ -15173,19 +14698,16 @@ public enum SFName: String, Identifiable {
     case jSquareOnSquare = "j.square.on.square"
 
     /// - Symbol Name: k
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case k = "k"
 
     /// - Symbol Name: key
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case key = "key"
 
     /// - Symbol Name: key.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case keyFill = "key.fill"
 
@@ -15212,12 +14734,10 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: keyboard.chevron.compact.left
     /// - Category: devices, keyboard
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case keyboardChevronCompactLeft = "keyboard.chevron.compact.left"
 
     /// - Symbol Name: keyboard.macwindow
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case keyboardMacwindow = "keyboard.macwindow"
 
@@ -15243,12 +14763,12 @@ public enum SFName: String, Identifiable {
     case lJoystick = "l.joystick"
 
     /// - Symbol Name: l.joystick.down
-    /// - Availabilities:
+    /// - Alias: l.joystick.press.down
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lJoystickDown = "l.joystick.down"
 
     /// - Symbol Name: l.joystick.down.fill
-    /// - Availabilities:
+    /// - Alias: l.joystick.press.down.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lJoystickDownFill = "l.joystick.down.fill"
 
@@ -15303,7 +14823,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: ladybug
     /// - Category: nature
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ladybug = "ladybug"
 
@@ -15329,19 +14848,17 @@ public enum SFName: String, Identifiable {
     case laptopcomputerAndIphone = "laptopcomputer.and.iphone"
 
     /// - Symbol Name: lasso.sparkles
-    /// - Availabilities:
+    /// - Alias: lasso.and.sparkles
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lassoSparkles = "lasso.sparkles"
 
     /// - Symbol Name: latch.2.case
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case latch2Case = "latch.2.case"
 
     /// - Symbol Name: latch.2.case.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case latch2CaseFill = "latch.2.case.fill"
 
@@ -15367,6 +14884,7 @@ public enum SFName: String, Identifiable {
     case leaf = "leaf"
 
     /// - Symbol Name: leaf.arrow.triangle.circlepath
+    /// - Alias: leaf.arrow.circlepath
     /// - Category: arrows, nature
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -15389,59 +14907,52 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: level.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case levelFill = "level.fill"
 
     /// - Symbol Name: lifepreserver
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lifepreserver = "lifepreserver"
 
     /// - Symbol Name: lifepreserver.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lifepreserverFill = "lifepreserver.fill"
 
     /// - Symbol Name: line.3.crossed.swirl.circle
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case line3CrossedSwirlCircle = "line.3.crossed.swirl.circle"
 
     /// - Symbol Name: line.3.crossed.swirl.circle.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case line3CrossedSwirlCircleFill = "line.3.crossed.swirl.circle.fill"
 
     /// - Symbol Name: line.diagonal
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lineDiagonal = "line.diagonal"
 
     /// - Symbol Name: line.diagonal.arrow
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lineDiagonalArrow = "line.diagonal.arrow"
 
     /// - Symbol Name: line.horizontal.2.decrease.circle
-    /// - Availabilities:
+    /// - Alias: line.2.horizontal.decrease.circle
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lineHorizontal2DecreaseCircle = "line.horizontal.2.decrease.circle"
 
     /// - Symbol Name: line.horizontal.2.decrease.circle.fill
-    /// - Availabilities:
+    /// - Alias: line.2.horizontal.decrease.circle.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lineHorizontal2DecreaseCircleFill = "line.horizontal.2.decrease.circle.fill"
 
     /// - Symbol Name: line.horizontal.3.circle
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.circle
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lineHorizontal3Circle = "line.horizontal.3.circle"
 
     /// - Symbol Name: line.horizontal.3.circle.fill
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.circle.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lineHorizontal3CircleFill = "line.horizontal.3.circle.fill"
 
@@ -15452,7 +14963,6 @@ public enum SFName: String, Identifiable {
     case lineHorizontalStarFillLineHorizontal = "line.horizontal.star.fill.line.horizontal"
 
     /// - Symbol Name: lineweight
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case lineweight = "lineweight"
 
@@ -15606,7 +15116,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: loupe
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case loupe = "loupe"
 
@@ -15642,43 +15151,36 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: macmini
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case macmini = "macmini"
 
     /// - Symbol Name: macmini.fill
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case macminiFill = "macmini.fill"
 
     /// - Symbol Name: macpro.gen1
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case macproGen1 = "macpro.gen1"
 
     /// - Symbol Name: macpro.gen2
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case macproGen2 = "macpro.gen2"
 
     /// - Symbol Name: macpro.gen2.fill
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case macproGen2Fill = "macpro.gen2.fill"
 
     /// - Symbol Name: macpro.gen3
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case macproGen3 = "macpro.gen3"
 
     /// - Symbol Name: macpro.gen3.server
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case macproGen3Server = "macpro.gen3.server"
 
@@ -15703,7 +15205,6 @@ public enum SFName: String, Identifiable {
     case macwindowOnRectangleRtl = "macwindow.on.rectangle.rtl"
 
     /// - Symbol Name: mail
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mail = "mail"
 
@@ -15720,35 +15221,29 @@ public enum SFName: String, Identifiable {
     case mailAndTextMagnifyingglassRtl = "mail.and.text.magnifyingglass.rtl"
 
     /// - Symbol Name: mail.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mailFill = "mail.fill"
 
     /// - Symbol Name: mail.stack
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mailStack = "mail.stack"
 
     /// - Symbol Name: mail.stack.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mailStackFill = "mail.stack.fill"
 
     /// - Symbol Name: megaphone
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case megaphone = "megaphone"
 
     /// - Symbol Name: megaphone.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case megaphoneFill = "megaphone.fill"
 
     /// - Symbol Name: memorychip
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case memorychip = "memorychip"
 
@@ -15777,13 +15272,11 @@ public enum SFName: String, Identifiable {
     case menubarDockRectangleBadgeRecord = "menubar.dock.rectangle.badge.record"
 
     /// - Symbol Name: menubar.rectangle
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case menubarRectangle = "menubar.rectangle"
 
     /// - Symbol Name: metronome.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case metronomeFill = "metronome.fill"
 
@@ -15834,71 +15327,63 @@ public enum SFName: String, Identifiable {
     case minusRectanglePortraitFill = "minus.rectangle.portrait.fill"
 
     /// - Symbol Name: mosaic
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mosaic = "mosaic"
 
     /// - Symbol Name: mosaic.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mosaicFill = "mosaic.fill"
 
     /// - Symbol Name: mount
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mount = "mount"
 
     /// - Symbol Name: mount.fill
     /// - Category: keyboard
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mountFill = "mount.fill"
 
     /// - Symbol Name: mouth
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mouth = "mouth"
 
     /// - Symbol Name: mouth.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mouthFill = "mouth.fill"
 
     /// - Symbol Name: move.3d
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case move3D = "move.3d"
 
     /// - Symbol Name: music.note.house
+    /// - Alias: music.house
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case musicNoteHouse = "music.note.house"
 
     /// - Symbol Name: music.note.house.fill
+    /// - Alias: music.house.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case musicNoteHouseFill = "music.note.house.fill"
 
     /// - Symbol Name: music.quarternote.3
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case musicQuarternote3 = "music.quarternote.3"
 
     /// - Symbol Name: mustache
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mustache = "mustache"
 
     /// - Symbol Name: mustache.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case mustacheFill = "mustache.fill"
 
@@ -15911,31 +15396,26 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: newspaper
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case newspaper = "newspaper"
 
     /// - Symbol Name: newspaper.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case newspaperFill = "newspaper.fill"
 
     /// - Symbol Name: nose
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case nose = "nose"
 
     /// - Symbol Name: nose.fill
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case noseFill = "nose.fill"
 
     /// - Symbol Name: note
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case note = "note"
 
@@ -15956,67 +15436,56 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: octagon
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case octagon = "octagon"
 
     /// - Symbol Name: octagon.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case octagonFill = "octagon.fill"
 
     /// - Symbol Name: opticaldisc
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case opticaldisc = "opticaldisc"
 
     /// - Symbol Name: opticaldiscdrive
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case opticaldiscdrive = "opticaldiscdrive"
 
     /// - Symbol Name: opticaldiscdrive.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case opticaldiscdriveFill = "opticaldiscdrive.fill"
 
     /// - Symbol Name: oval
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case oval = "oval"
 
     /// - Symbol Name: oval.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ovalFill = "oval.fill"
 
     /// - Symbol Name: oval.portrait
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ovalPortrait = "oval.portrait"
 
     /// - Symbol Name: oval.portrait.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ovalPortraitFill = "oval.portrait.fill"
 
     /// - Symbol Name: paintbrush.pointed
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case paintbrushPointed = "paintbrush.pointed"
 
     /// - Symbol Name: paintbrush.pointed.fill
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case paintbrushPointedFill = "paintbrush.pointed.fill"
 
@@ -16057,8 +15526,8 @@ public enum SFName: String, Identifiable {
     case paperplaneCircleFill = "paperplane.circle.fill"
 
     /// - Symbol Name: paragraphsign
+    /// - Alias: paragraph
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case paragraphsign = "paragraphsign"
 
@@ -16079,7 +15548,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: percent.ar
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case percentAr = "percent.ar"
 
@@ -16106,6 +15574,7 @@ public enum SFName: String, Identifiable {
     case personAndArrowLeftAndArrowRight = "person.and.arrow.left.and.arrow.right"
 
     /// - Symbol Name: person.crop.circle.badge.exclamationmark
+    /// - Alias: person.crop.circle.badge.exclam
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -16130,22 +15599,22 @@ public enum SFName: String, Identifiable {
     case personCropCircleBadgeQuestionmarkAr = "person.crop.circle.badge.questionmark.ar"
 
     /// - Symbol Name: person.crop.circle.fill.badge.exclamationmark
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.exclamationmark.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case personCropCircleFillBadgeExclamationmark = "person.crop.circle.fill.badge.exclamationmark"
 
     /// - Symbol Name: person.crop.circle.fill.badge.questionmark
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.questionmark.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case personCropCircleFillBadgeQuestionmark = "person.crop.circle.fill.badge.questionmark"
 
     /// - Symbol Name: person.crop.circle.fill.badge.questionmark.ar
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.questionmark.fill.ar
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case personCropCircleFillBadgeQuestionmarkAr = "person.crop.circle.fill.badge.questionmark.ar"
 
     /// - Symbol Name: person.crop.square.fill.and.at.rectangle
-    /// - Availabilities:
+    /// - Alias: person.crop.square.filled.and.at.rectangle
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case personCropSquareFillAndAtRectangle = "person.crop.square.fill.and.at.rectangle"
 
@@ -16157,6 +15626,7 @@ public enum SFName: String, Identifiable {
     case personFillAndArrowLeftAndArrowRight = "person.fill.and.arrow.left.and.arrow.right"
 
     /// - Symbol Name: person.fill.badge.minus
+    /// - Alias: person.badge.minus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -16165,6 +15635,7 @@ public enum SFName: String, Identifiable {
     case personFillBadgeMinus = "person.fill.badge.minus"
 
     /// - Symbol Name: person.fill.badge.plus
+    /// - Alias: person.badge.plus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -16209,19 +15680,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: person.fill.turn.down
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case personFillTurnDown = "person.fill.turn.down"
 
     /// - Symbol Name: person.fill.turn.left
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case personFillTurnLeft = "person.fill.turn.left"
 
     /// - Symbol Name: person.fill.turn.right
     /// - Category: human
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case personFillTurnRight = "person.fill.turn.right"
 
@@ -16282,19 +15750,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: pianokeys
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case pianokeys = "pianokeys"
 
     /// - Symbol Name: pianokeys.inverse
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case pianokeysInverse = "pianokeys.inverse"
 
     /// - Symbol Name: pills
     /// - Category: health
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case pills = "pills"
 
@@ -16343,7 +15808,6 @@ public enum SFName: String, Identifiable {
     case pipSwap = "pip.swap"
 
     /// - Symbol Name: placeholdertext.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case placeholdertextFill = "placeholdertext.fill"
 
@@ -16392,7 +15856,7 @@ public enum SFName: String, Identifiable {
     case plusMessageFill = "plus.message.fill"
 
     /// - Symbol Name: plus.rectangle.fill.on.folder.fill
-    /// - Availabilities:
+    /// - Alias: plus.rectangle.on.folder.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case plusRectangleFillOnFolderFill = "plus.rectangle.fill.on.folder.fill"
 
@@ -16426,71 +15890,61 @@ public enum SFName: String, Identifiable {
     case plusViewfinder = "plus.viewfinder"
 
     /// - Symbol Name: point.fill.topleft.down.curvedto.point.fill.bottomright.up
-    /// - Availabilities:
+    /// - Alias: point.topleft.down.curvedto.point.bottomright.up.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case pointFillTopleftDownCurvedtoPointFillBottomrightUp = "point.fill.topleft.down.curvedto.point.fill.bottomright.up"
 
     /// - Symbol Name: point.topleft.down.curvedto.point.bottomright.up
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case pointTopleftDownCurvedtoPointBottomrightUp = "point.topleft.down.curvedto.point.bottomright.up"
 
     /// - Symbol Name: poweroff
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case poweroff = "poweroff"
 
     /// - Symbol Name: poweron
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case poweron = "poweron"
 
     /// - Symbol Name: powersleep
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case powersleep = "powersleep"
 
     /// - Symbol Name: printer.dotmatrix
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case printerDotmatrix = "printer.dotmatrix"
 
     /// - Symbol Name: printer.dotmatrix.fill
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case printerDotmatrixFill = "printer.dotmatrix.fill"
 
     /// - Symbol Name: printer.dotmatrix.fill.and.paper.fill
-    /// - Availabilities:
+    /// - Alias: printer.dotmatrix.filled.and.paper
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case printerDotmatrixFillAndPaperFill = "printer.dotmatrix.fill.and.paper.fill"
 
     /// - Symbol Name: printer.fill.and.paper.fill
-    /// - Availabilities:
+    /// - Alias: printer.filled.and.paper
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case printerFillAndPaperFill = "printer.fill.and.paper.fill"
 
     /// - Symbol Name: puzzlepiece
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case puzzlepiece = "puzzlepiece"
 
     /// - Symbol Name: puzzlepiece.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case puzzlepieceFill = "puzzlepiece.fill"
 
     /// - Symbol Name: pyramid
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case pyramid = "pyramid"
 
     /// - Symbol Name: pyramid.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case pyramidFill = "pyramid.fill"
 
@@ -16590,6 +16044,7 @@ public enum SFName: String, Identifiable {
     case questionmarkSquareFillAr = "questionmark.square.fill.ar"
 
     /// - Symbol Name: questionmark.video.ar
+    /// - Alias: questionmark.video.rtl
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -16597,6 +16052,7 @@ public enum SFName: String, Identifiable {
     case questionmarkVideoAr = "questionmark.video.ar"
 
     /// - Symbol Name: questionmark.video.fill.ar
+    /// - Alias: questionmark.video.fill.rtl
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -16625,12 +16081,12 @@ public enum SFName: String, Identifiable {
     case rJoystick = "r.joystick"
 
     /// - Symbol Name: r.joystick.down
-    /// - Availabilities:
+    /// - Alias: r.joystick.press.down
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rJoystickDown = "r.joystick.down"
 
     /// - Symbol Name: r.joystick.down.fill
-    /// - Availabilities:
+    /// - Alias: r.joystick.press.down.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rJoystickDownFill = "r.joystick.down.fill"
 
@@ -16656,7 +16112,7 @@ public enum SFName: String, Identifiable {
     case rRectangleRoundedbottomFill = "r.rectangle.roundedbottom.fill"
 
     /// - Symbol Name: r.square.fill.on.square.fill
-    /// - Availabilities:
+    /// - Alias: r.square.on.square.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rSquareFillOnSquareFill = "r.square.fill.on.square.fill"
 
@@ -16696,13 +16152,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: radio
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case radio = "radio"
 
     /// - Symbol Name: radio.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case radioFill = "radio.fill"
 
@@ -16736,16 +16190,17 @@ public enum SFName: String, Identifiable {
     case recordCircleFill = "record.circle.fill"
 
     /// - Symbol Name: rectangle.3.offgrid.bubble.left
-    /// - Availabilities:
+    /// - Alias: rectangles.group.bubble.left
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangle3OffgridBubbleLeft = "rectangle.3.offgrid.bubble.left"
 
     /// - Symbol Name: rectangle.3.offgrid.bubble.left.fill
-    /// - Availabilities:
+    /// - Alias: rectangles.group.bubble.left.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangle3OffgridBubbleLeftFill = "rectangle.3.offgrid.bubble.left.fill"
 
     /// - Symbol Name: rectangle.and.pencil.and.ellipsis
+    /// - Alias: pencil.and.ellipsis.rectangle
     /// - Category: editing, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -16800,23 +16255,21 @@ public enum SFName: String, Identifiable {
     case rectangleBadgePlus = "rectangle.badge.plus"
 
     /// - Symbol Name: rectangle.bottomthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.bottomthird.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleBottomthirdInsetFill = "rectangle.bottomthird.inset.fill"
 
     /// - Symbol Name: rectangle.center.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.center.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleCenterInsetFill = "rectangle.center.inset.fill"
 
     /// - Symbol Name: rectangle.connected.to.line.below
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleConnectedToLineBelow = "rectangle.connected.to.line.below"
 
     /// - Symbol Name: rectangle.dashed
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleDashed = "rectangle.dashed"
 
@@ -16851,62 +16304,62 @@ public enum SFName: String, Identifiable {
     case rectangleFillBadgePlus = "rectangle.fill.badge.plus"
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.circle
-    /// - Availabilities:
+    /// - Alias: rectangle.on.rectangle.circle
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleFillOnRectangleFillCircle = "rectangle.fill.on.rectangle.fill.circle"
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.circle.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.on.rectangle.circle.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleFillOnRectangleFillCircleFill = "rectangle.fill.on.rectangle.fill.circle.fill"
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.slash.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.on.rectangle.slash.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleFillOnRectangleFillSlashFill = "rectangle.fill.on.rectangle.fill.slash.fill"
 
     /// - Symbol Name: rectangle.inset.bottomleft.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.bottomleft.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleInsetBottomleftFill = "rectangle.inset.bottomleft.fill"
 
     /// - Symbol Name: rectangle.inset.bottomright.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.bottomright.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleInsetBottomrightFill = "rectangle.inset.bottomright.fill"
 
     /// - Symbol Name: rectangle.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleInsetFill = "rectangle.inset.fill"
 
     /// - Symbol Name: rectangle.inset.topleft.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.topleft.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleInsetTopleftFill = "rectangle.inset.topleft.fill"
 
     /// - Symbol Name: rectangle.inset.topright.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.topright.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleInsetToprightFill = "rectangle.inset.topright.fill"
 
     /// - Symbol Name: rectangle.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.lefthalf.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleLefthalfFill = "rectangle.lefthalf.fill"
 
     /// - Symbol Name: rectangle.lefthalf.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.lefthalf.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleLefthalfInsetFill = "rectangle.lefthalf.inset.fill"
 
     /// - Symbol Name: rectangle.lefthalf.inset.fill.arrow.left
-    /// - Availabilities:
+    /// - Alias: rectangle.lefthalf.inset.filled.arrow.left
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleLefthalfInsetFillArrowLeft = "rectangle.lefthalf.inset.fill.arrow.left"
 
     /// - Symbol Name: rectangle.leftthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.leftthird.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleLeftthirdInsetFill = "rectangle.leftthird.inset.fill"
 
@@ -16918,7 +16371,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.portrait
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectanglePortrait = "rectangle.portrait"
 
@@ -16936,51 +16388,46 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.portrait.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectanglePortraitFill = "rectangle.portrait.fill"
 
     /// - Symbol Name: rectangle.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.righthalf.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRighthalfFill = "rectangle.righthalf.fill"
 
     /// - Symbol Name: rectangle.righthalf.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.righthalf.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRighthalfInsetFill = "rectangle.righthalf.inset.fill"
 
     /// - Symbol Name: rectangle.righthalf.inset.fill.arrow.right
-    /// - Availabilities:
+    /// - Alias: rectangle.righthalf.inset.filled.arrow.right
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRighthalfInsetFillArrowRight = "rectangle.righthalf.inset.fill.arrow.right"
 
     /// - Symbol Name: rectangle.rightthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.rightthird.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRightthirdInsetFill = "rectangle.rightthird.inset.fill"
 
     /// - Symbol Name: rectangle.roundedbottom
     /// - Category: gaming, shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRoundedbottom = "rectangle.roundedbottom"
 
     /// - Symbol Name: rectangle.roundedbottom.fill
     /// - Category: gaming, shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRoundedbottomFill = "rectangle.roundedbottom.fill"
 
     /// - Symbol Name: rectangle.roundedtop
     /// - Category: gaming, shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRoundedtop = "rectangle.roundedtop"
 
     /// - Symbol Name: rectangle.roundedtop.fill
     /// - Category: gaming, shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleRoundedtopFill = "rectangle.roundedtop.fill"
 
@@ -16997,37 +16444,30 @@ public enum SFName: String, Identifiable {
     case rectangleSlashFill = "rectangle.slash.fill"
 
     /// - Symbol Name: rectangle.split.1x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleSplit1X2 = "rectangle.split.1x2"
 
     /// - Symbol Name: rectangle.split.1x2.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleSplit1X2Fill = "rectangle.split.1x2.fill"
 
     /// - Symbol Name: rectangle.split.2x1
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleSplit2X1 = "rectangle.split.2x1"
 
     /// - Symbol Name: rectangle.split.2x1.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleSplit2X1Fill = "rectangle.split.2x1.fill"
 
     /// - Symbol Name: rectangle.split.2x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleSplit2X2 = "rectangle.split.2x2"
 
     /// - Symbol Name: rectangle.split.2x2.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rectangleSplit2X2Fill = "rectangle.split.2x2.fill"
 
     /// - Symbol Name: restart
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case restart = "restart"
 
@@ -17039,7 +16479,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rotate.3d
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rotate3D = "rotate.3d"
 
@@ -17059,91 +16498,76 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: ruler
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ruler = "ruler"
 
     /// - Symbol Name: ruler.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case rulerFill = "ruler.fill"
 
     /// - Symbol Name: scale.3d
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scale3D = "scale.3d"
 
     /// - Symbol Name: scalemass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scalemass = "scalemass"
 
     /// - Symbol Name: scalemass.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scalemassFill = "scalemass.fill"
 
     /// - Symbol Name: scanner
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scanner = "scanner"
 
     /// - Symbol Name: scanner.fill
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scannerFill = "scanner.fill"
 
     /// - Symbol Name: scribble.variable
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scribbleVariable = "scribble.variable"
 
     /// - Symbol Name: scroll
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scroll = "scroll"
 
     /// - Symbol Name: scroll.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case scrollFill = "scroll.fill"
 
     /// - Symbol Name: sdcard
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sdcard = "sdcard"
 
     /// - Symbol Name: sdcard.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sdcardFill = "sdcard.fill"
 
     /// - Symbol Name: seal
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case seal = "seal"
 
     /// - Symbol Name: seal.fill
     /// - Category: shapes
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sealFill = "seal.fill"
 
     /// - Symbol Name: server.rack
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case serverRack = "server.rack"
 
@@ -17155,6 +16579,7 @@ public enum SFName: String, Identifiable {
     case shadow = "shadow"
 
     /// - Symbol Name: shekelsign.circle
+    /// - Alias: sheqelsign.circle
     /// - Category: commerce, indices
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17162,6 +16587,7 @@ public enum SFName: String, Identifiable {
     case shekelsignCircle = "shekelsign.circle"
 
     /// - Symbol Name: shekelsign.circle.fill
+    /// - Alias: sheqelsign.circle.fill
     /// - Category: commerce, indices, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17170,6 +16596,7 @@ public enum SFName: String, Identifiable {
     case shekelsignCircleFill = "shekelsign.circle.fill"
 
     /// - Symbol Name: shekelsign.square
+    /// - Alias: sheqelsign.square
     /// - Category: commerce, indices
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17177,6 +16604,7 @@ public enum SFName: String, Identifiable {
     case shekelsignSquare = "shekelsign.square"
 
     /// - Symbol Name: shekelsign.square.fill
+    /// - Alias: sheqelsign.square.fill
     /// - Category: commerce, indices, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17185,49 +16613,43 @@ public enum SFName: String, Identifiable {
     case shekelsignSquareFill = "shekelsign.square.fill"
 
     /// - Symbol Name: shield.lefthalf.fill.slash
-    /// - Availabilities:
+    /// - Alias: shield.lefthalf.filled.slash
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case shieldLefthalfFillSlash = "shield.lefthalf.fill.slash"
 
     /// - Symbol Name: shippingbox
+    /// - Alias: cube.box
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case shippingbox = "shippingbox"
 
     /// - Symbol Name: shippingbox.fill
+    /// - Alias: cube.box.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case shippingboxFill = "shippingbox.fill"
 
     /// - Symbol Name: sidebar.leading
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sidebarLeading = "sidebar.leading"
 
     /// - Symbol Name: sidebar.squares.leading
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sidebarSquaresLeading = "sidebar.squares.leading"
 
     /// - Symbol Name: sidebar.squares.left
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sidebarSquaresLeft = "sidebar.squares.left"
 
     /// - Symbol Name: sidebar.squares.right
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sidebarSquaresRight = "sidebar.squares.right"
 
     /// - Symbol Name: sidebar.squares.trailing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sidebarSquaresTrailing = "sidebar.squares.trailing"
 
     /// - Symbol Name: sidebar.trailing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sidebarTrailing = "sidebar.trailing"
 
@@ -17246,22 +16668,18 @@ public enum SFName: String, Identifiable {
     case signatureHe = "signature.he"
 
     /// - Symbol Name: signpost.left
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case signpostLeft = "signpost.left"
 
     /// - Symbol Name: signpost.left.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case signpostLeftFill = "signpost.left.fill"
 
     /// - Symbol Name: signpost.right
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case signpostRight = "signpost.right"
 
     /// - Symbol Name: signpost.right.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case signpostRightFill = "signpost.right.fill"
 
@@ -17294,7 +16712,7 @@ public enum SFName: String, Identifiable {
     case simcardFill = "simcard.fill"
 
     /// - Symbol Name: sleep
-    /// - Availabilities:
+    /// - Alias: circle.bottomthird.split
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sleep = "sleep"
 
@@ -17307,7 +16725,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: slider.vertical.3
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sliderVertical3 = "slider.vertical.3"
 
@@ -17331,7 +16748,7 @@ public enum SFName: String, Identifiable {
     case sparklesRectangleStackFill = "sparkles.rectangle.stack.fill"
 
     /// - Symbol Name: sparkles.square.fill.on.square
-    /// - Availabilities:
+    /// - Alias: sparkles.square.filled.on.square
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sparklesSquareFillOnSquare = "sparkles.square.fill.on.square"
 
@@ -17366,6 +16783,7 @@ public enum SFName: String, Identifiable {
     case speakerSlashCircleRtl = "speaker.slash.circle.rtl"
 
     /// - Symbol Name: speaker.wave.1
+    /// - Alias: volume.1
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17373,6 +16791,7 @@ public enum SFName: String, Identifiable {
     case speakerWave1 = "speaker.wave.1"
 
     /// - Symbol Name: speaker.wave.1.fill
+    /// - Alias: volume.1.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17380,6 +16799,7 @@ public enum SFName: String, Identifiable {
     case speakerWave1Fill = "speaker.wave.1.fill"
 
     /// - Symbol Name: speaker.wave.2
+    /// - Alias: volume.2
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17402,6 +16822,7 @@ public enum SFName: String, Identifiable {
     case speakerWave2CircleFill = "speaker.wave.2.circle.fill"
 
     /// - Symbol Name: speaker.wave.2.fill
+    /// - Alias: volume.2.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17409,6 +16830,7 @@ public enum SFName: String, Identifiable {
     case speakerWave2Fill = "speaker.wave.2.fill"
 
     /// - Symbol Name: speaker.wave.3
+    /// - Alias: volume.3
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17416,6 +16838,7 @@ public enum SFName: String, Identifiable {
     case speakerWave3 = "speaker.wave.3"
 
     /// - Symbol Name: speaker.wave.3.fill
+    /// - Alias: volume.3.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17471,7 +16894,7 @@ public enum SFName: String, Identifiable {
     case squareAndAtRectangle = "square.and.at.rectangle"
 
     /// - Symbol Name: square.bottomhalf.fill
-    /// - Availabilities:
+    /// - Alias: square.bottomhalf.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareBottomhalfFill = "square.bottomhalf.fill"
 
@@ -17492,17 +16915,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: square.dashed
     /// - Category: editing
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareDashed = "square.dashed"
 
     /// - Symbol Name: square.dashed.inset.fill
-    /// - Availabilities:
+    /// - Alias: square.dashed.inset.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareDashedInsetFill = "square.dashed.inset.fill"
 
     /// - Symbol Name: square.fill.on.square
-    /// - Availabilities:
+    /// - Alias: square.filled.on.square
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareFillOnSquare = "square.fill.on.square"
 
@@ -17513,12 +16935,10 @@ public enum SFName: String, Identifiable {
     case squareFillTextGrid1X2 = "square.fill.text.grid.1x2"
 
     /// - Symbol Name: square.grid.3x1.below.line.grid.1x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X1BelowLineGrid1X2 = "square.grid.3x1.below.line.grid.1x2"
 
     /// - Symbol Name: square.grid.3x1.fill.below.line.grid.1x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X1FillBelowLineGrid1X2 = "square.grid.3x1.fill.below.line.grid.1x2"
 
@@ -17539,62 +16959,60 @@ public enum SFName: String, Identifiable {
     case squareGrid3X1FolderFillBadgePlus = "square.grid.3x1.folder.fill.badge.plus"
 
     /// - Symbol Name: square.grid.3x3
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3 = "square.grid.3x3"
 
     /// - Symbol Name: square.grid.3x3.bottomleft.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.bottomleft.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3BottomleftFill = "square.grid.3x3.bottomleft.fill"
 
     /// - Symbol Name: square.grid.3x3.bottommiddle.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.bottommiddle.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3BottommiddleFill = "square.grid.3x3.bottommiddle.fill"
 
     /// - Symbol Name: square.grid.3x3.bottomright.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.bottomright.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3BottomrightFill = "square.grid.3x3.bottomright.fill"
 
     /// - Symbol Name: square.grid.3x3.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3Fill = "square.grid.3x3.fill"
 
     /// - Symbol Name: square.grid.3x3.fill.square
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.square
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3FillSquare = "square.grid.3x3.fill.square"
 
     /// - Symbol Name: square.grid.3x3.middle.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.middle.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3MiddleFill = "square.grid.3x3.middle.fill"
 
     /// - Symbol Name: square.grid.3x3.middleleft.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.middleleft.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3MiddleleftFill = "square.grid.3x3.middleleft.fill"
 
     /// - Symbol Name: square.grid.3x3.middleright.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.middleright.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3MiddlerightFill = "square.grid.3x3.middleright.fill"
 
     /// - Symbol Name: square.grid.3x3.topleft.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.topleft.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3TopleftFill = "square.grid.3x3.topleft.fill"
 
     /// - Symbol Name: square.grid.3x3.topmiddle.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.topmiddle.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3TopmiddleFill = "square.grid.3x3.topmiddle.fill"
 
     /// - Symbol Name: square.grid.3x3.topright.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.topright.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareGrid3X3ToprightFill = "square.grid.3x3.topright.fill"
 
@@ -17623,32 +17041,26 @@ public enum SFName: String, Identifiable {
     case squareSlashFill = "square.slash.fill"
 
     /// - Symbol Name: square.split.bottomrightquarter
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareSplitBottomrightquarter = "square.split.bottomrightquarter"
 
     /// - Symbol Name: square.split.bottomrightquarter.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareSplitBottomrightquarterFill = "square.split.bottomrightquarter.fill"
 
     /// - Symbol Name: square.split.diagonal
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareSplitDiagonal = "square.split.diagonal"
 
     /// - Symbol Name: square.split.diagonal.2x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareSplitDiagonal2X2 = "square.split.diagonal.2x2"
 
     /// - Symbol Name: square.split.diagonal.2x2.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareSplitDiagonal2X2Fill = "square.split.diagonal.2x2.fill"
 
     /// - Symbol Name: square.split.diagonal.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareSplitDiagonalFill = "square.split.diagonal.fill"
 
@@ -17665,12 +17077,11 @@ public enum SFName: String, Identifiable {
     case squareStack3DDownForwardFill = "square.stack.3d.down.forward.fill"
 
     /// - Symbol Name: square.stack.3d.forward.dottedline
-    /// - Availabilities:
+    /// - Alias: square.stack.3d.down.dottedline
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareStack3DForwardDottedline = "square.stack.3d.forward.dottedline"
 
     /// - Symbol Name: square.stack.3d.forward.dottedline.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareStack3DForwardDottedlineFill = "square.stack.3d.forward.dottedline.fill"
 
@@ -17687,12 +17098,11 @@ public enum SFName: String, Identifiable {
     case squareStack3DUpBadgeAFill = "square.stack.3d.up.badge.a.fill"
 
     /// - Symbol Name: square.tophalf.fill
-    /// - Availabilities:
+    /// - Alias: square.tophalf.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareTophalfFill = "square.tophalf.fill"
 
     /// - Symbol Name: squareshape
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareshape = "squareshape"
 
@@ -17709,22 +17119,18 @@ public enum SFName: String, Identifiable {
     case squareshapeDashedSquareshape = "squareshape.dashed.squareshape"
 
     /// - Symbol Name: squareshape.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareshapeFill = "squareshape.fill"
 
     /// - Symbol Name: squareshape.split.2x2
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareshapeSplit2X2 = "squareshape.split.2x2"
 
     /// - Symbol Name: squareshape.split.2x2.dotted
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareshapeSplit2X2Dotted = "squareshape.split.2x2.dotted"
 
     /// - Symbol Name: squareshape.split.3x3
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case squareshapeSplit3X3 = "squareshape.split.3x3"
 
@@ -17735,7 +17141,7 @@ public enum SFName: String, Identifiable {
     case squareshapeSquareshapeDashed = "squareshape.squareshape.dashed"
 
     /// - Symbol Name: star.leadinghalf.fill
-    /// - Availabilities:
+    /// - Alias: star.leadinghalf.filled
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case starLeadinghalfFill = "star.leadinghalf.fill"
 
@@ -17780,12 +17186,10 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: sum.ar
     /// - Category: math
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case sumAr = "sum.ar"
 
     /// - Symbol Name: swift
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case swift = "swift"
 
@@ -17796,43 +17200,44 @@ public enum SFName: String, Identifiable {
     case switch2 = "switch.2"
 
     /// - Symbol Name: t.bubble.ar
-    /// - Availabilities:
+    /// - Alias: character.bubble.ar
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tBubbleAr = "t.bubble.ar"
 
     /// - Symbol Name: t.bubble.fill.ar
-    /// - Availabilities:
+    /// - Alias: character.bubble.fill.ar
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tBubbleFillAr = "t.bubble.fill.ar"
 
     /// - Symbol Name: t.bubble.fill.he
-    /// - Availabilities:
+    /// - Alias: character.bubble.fill.he
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tBubbleFillHe = "t.bubble.fill.he"
 
     /// - Symbol Name: t.bubble.he
-    /// - Availabilities:
+    /// - Alias: character.bubble.he
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tBubbleHe = "t.bubble.he"
 
     /// - Symbol Name: tablecells
-    /// - Availabilities:
+    /// - Alias: table
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tablecells = "tablecells"
 
     /// - Symbol Name: tablecells.badge.ellipsis
+    /// - Alias: table.badge.more
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tablecellsBadgeEllipsis = "tablecells.badge.ellipsis"
 
     /// - Symbol Name: tablecells.badge.ellipsis.fill
-    /// - Availabilities:
+    /// - Alias: tablecells.fill.badge.ellipsis
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tablecellsBadgeEllipsisFill = "tablecells.badge.ellipsis.fill"
 
     /// - Symbol Name: tablecells.fill
-    /// - Availabilities:
+    /// - Alias: table.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tablecellsFill = "tablecells.fill"
 
@@ -17851,7 +17256,6 @@ public enum SFName: String, Identifiable {
     case tagSlashFill = "tag.slash.fill"
 
     /// - Symbol Name: target
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case target = "target"
 
@@ -17872,17 +17276,14 @@ public enum SFName: String, Identifiable {
     case teletypeCircleFill = "teletype.circle.fill"
 
     /// - Symbol Name: terminal
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case terminal = "terminal"
 
     /// - Symbol Name: terminal.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case terminalFill = "terminal.fill"
 
     /// - Symbol Name: text.and.command.macwindow
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textAndCommandMacwindow = "text.and.command.macwindow"
 
@@ -17895,24 +17296,20 @@ public enum SFName: String, Identifiable {
     case textBadgeCheckmarkRtl = "text.badge.checkmark.rtl"
 
     /// - Symbol Name: text.below.photo
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textBelowPhoto = "text.below.photo"
 
     /// - Symbol Name: text.below.photo.fill
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textBelowPhotoFill = "text.below.photo.fill"
 
     /// - Symbol Name: text.book.closed
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textBookClosed = "text.book.closed"
 
     /// - Symbol Name: text.book.closed.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textBookClosedFill = "text.book.closed.fill"
 
@@ -17931,49 +17328,47 @@ public enum SFName: String, Identifiable {
     case textBubbleRtl = "text.bubble.rtl"
 
     /// - Symbol Name: text.cursor.ar
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.ar
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textCursorAr = "text.cursor.ar"
 
     /// - Symbol Name: text.cursor.he
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.he
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textCursorHe = "text.cursor.he"
 
     /// - Symbol Name: text.cursor.hi
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.hi
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textCursorHi = "text.cursor.hi"
 
     /// - Symbol Name: text.cursor.ja
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.ja
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textCursorJa = "text.cursor.ja"
 
     /// - Symbol Name: text.cursor.ko
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.ko
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textCursorKo = "text.cursor.ko"
 
     /// - Symbol Name: text.cursor.th
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.th
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textCursorTh = "text.cursor.th"
 
     /// - Symbol Name: text.cursor.zh
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.zh
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textCursorZh = "text.cursor.zh"
 
     /// - Symbol Name: text.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textMagnifyingglass = "text.magnifyingglass"
 
     /// - Symbol Name: text.magnifyingglass.rtl
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textMagnifyingglassRtl = "text.magnifyingglass.rtl"
 
@@ -17991,43 +17386,42 @@ public enum SFName: String, Identifiable {
     case textRedaction = "text.redaction"
 
     /// - Symbol Name: textbox.ar
-    /// - Availabilities:
+    /// - Alias: character.textbox.ar
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textboxAr = "textbox.ar"
 
     /// - Symbol Name: textbox.he
-    /// - Availabilities:
+    /// - Alias: character.textbox.he
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textboxHe = "textbox.he"
 
     /// - Symbol Name: textbox.hi
-    /// - Availabilities:
+    /// - Alias: character.textbox.hi
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textboxHi = "textbox.hi"
 
     /// - Symbol Name: textbox.ja
-    /// - Availabilities:
+    /// - Alias: character.textbox.ja
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textboxJa = "textbox.ja"
 
     /// - Symbol Name: textbox.ko
-    /// - Availabilities:
+    /// - Alias: character.textbox.ko
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textboxKo = "textbox.ko"
 
     /// - Symbol Name: textbox.th
-    /// - Availabilities:
+    /// - Alias: character.textbox.th
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textboxTh = "textbox.th"
 
     /// - Symbol Name: textbox.zh
-    /// - Availabilities:
+    /// - Alias: character.textbox.zh
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textboxZh = "textbox.zh"
 
     /// - Symbol Name: textformat.123.ar
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case textformat123Ar = "textformat.123.ar"
 
@@ -18041,13 +17435,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: ticket
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ticket = "ticket"
 
     /// - Symbol Name: ticket.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case ticketFill = "ticket.fill"
 
@@ -18081,7 +17473,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: tram
     /// - Category: transportation
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tram = "tram"
 
@@ -18101,7 +17492,7 @@ public enum SFName: String, Identifiable {
     case tramCircleFill = "tram.circle.fill"
 
     /// - Symbol Name: tram.tunnel.fill
-    /// - Availabilities:
+    /// - Alias: tram.fill.tunnel
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case tramTunnelFill = "tram.tunnel.fill"
 
@@ -18173,6 +17564,7 @@ public enum SFName: String, Identifiable {
     case videoFillBadgeCheckmark = "video.fill.badge.checkmark"
 
     /// - Symbol Name: video.fill.badge.plus
+    /// - Alias: video.badge.plus.fill
     /// - Category: communication, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18181,25 +17573,21 @@ public enum SFName: String, Identifiable {
     case videoFillBadgePlus = "video.fill.badge.plus"
 
     /// - Symbol Name: wake
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case wake = "wake"
 
     /// - Symbol Name: wallet.pass
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case walletPass = "wallet.pass"
 
     /// - Symbol Name: wallet.pass.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case walletPassFill = "wallet.pass.fill"
 
     /// - Symbol Name: wave.3.backward
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case wave3Backward = "wave.3.backward"
 
@@ -18220,7 +17608,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: wave.3.forward
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case wave3Forward = "wave.3.forward"
 
@@ -18240,8 +17627,8 @@ public enum SFName: String, Identifiable {
     case wave3ForwardCircleFill = "wave.3.forward.circle.fill"
 
     /// - Symbol Name: wave.3.left
+    /// - Alias: radiowaves.left
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case wave3Left = "wave.3.left"
 
@@ -18261,8 +17648,8 @@ public enum SFName: String, Identifiable {
     case wave3LeftCircleFill = "wave.3.left.circle.fill"
 
     /// - Symbol Name: wave.3.right
+    /// - Alias: radiowaves.right
     /// - Category: connectivity
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case wave3Right = "wave.3.right"
 
@@ -18291,7 +17678,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: waveform.path.ecg.rectangle.fill
     /// - Category: health
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case waveformPathEcgRectangleFill = "waveform.path.ecg.rectangle.fill"
 
@@ -18310,6 +17696,7 @@ public enum SFName: String, Identifiable {
     case wrenchAndScrewdriverFill = "wrench.and.screwdriver.fill"
 
     /// - Symbol Name: xmark.bin
+    /// - Alias: bin.xmark
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18332,6 +17719,7 @@ public enum SFName: String, Identifiable {
     case xmarkBinCircleFill = "xmark.bin.circle.fill"
 
     /// - Symbol Name: xmark.bin.fill
+    /// - Alias: bin.xmark.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18364,7 +17752,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: xserve
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
     case xserve = "xserve"
 
@@ -18406,13 +17793,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: aqi.low
     /// - Category: weather
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case aqiLow = "aqi.low"
 
     /// - Symbol Name: aqi.medium
     /// - Category: weather
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case aqiMedium = "aqi.medium"
 
@@ -18462,161 +17847,151 @@ public enum SFName: String, Identifiable {
     case cartCircleFill = "cart.circle.fill"
 
     /// - Symbol Name: character
+    /// - Alias: a
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case character = "character"
 
     /// - Symbol Name: character.ar
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterAr = "character.ar"
 
     /// - Symbol Name: character.book.closed
+    /// - Alias: a.book.closed
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosed = "character.book.closed"
 
     /// - Symbol Name: character.book.closed.ar
+    /// - Alias: a.book.closed.ar
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedAr = "character.book.closed.ar"
 
     /// - Symbol Name: character.book.closed.fill
+    /// - Alias: a.book.closed.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFill = "character.book.closed.fill"
 
     /// - Symbol Name: character.book.closed.fill.ar
+    /// - Alias: a.book.closed.fill.ar
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillAr = "character.book.closed.fill.ar"
 
     /// - Symbol Name: character.book.closed.fill.he
+    /// - Alias: a.book.closed.fill.he
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillHe = "character.book.closed.fill.he"
 
     /// - Symbol Name: character.book.closed.fill.hi
+    /// - Alias: a.book.closed.fill.hi
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillHi = "character.book.closed.fill.hi"
 
     /// - Symbol Name: character.book.closed.fill.ja
+    /// - Alias: a.book.closed.fill.ja
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillJa = "character.book.closed.fill.ja"
 
     /// - Symbol Name: character.book.closed.fill.ko
+    /// - Alias: a.book.closed.fill.ko
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillKo = "character.book.closed.fill.ko"
 
     /// - Symbol Name: character.book.closed.fill.th
+    /// - Alias: a.book.closed.fill.th
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillTh = "character.book.closed.fill.th"
 
     /// - Symbol Name: character.book.closed.fill.zh
+    /// - Alias: a.book.closed.fill.zh
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillZh = "character.book.closed.fill.zh"
 
     /// - Symbol Name: character.book.closed.fill.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedFillZhTraditional = "character.book.closed.fill.zh.traditional"
 
     /// - Symbol Name: character.book.closed.he
+    /// - Alias: a.book.closed.he
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedHe = "character.book.closed.he"
 
     /// - Symbol Name: character.book.closed.hi
+    /// - Alias: a.book.closed.hi
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedHi = "character.book.closed.hi"
 
     /// - Symbol Name: character.book.closed.ja
+    /// - Alias: a.book.closed.ja
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedJa = "character.book.closed.ja"
 
     /// - Symbol Name: character.book.closed.ko
+    /// - Alias: a.book.closed.ko
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedKo = "character.book.closed.ko"
 
     /// - Symbol Name: character.book.closed.th
+    /// - Alias: a.book.closed.th
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedTh = "character.book.closed.th"
 
     /// - Symbol Name: character.book.closed.zh
+    /// - Alias: a.book.closed.zh
     /// - Category: objectsandtools
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedZh = "character.book.closed.zh"
 
     /// - Symbol Name: character.book.closed.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterBookClosedZhTraditional = "character.book.closed.zh.traditional"
 
     /// - Symbol Name: character.he
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterHe = "character.he"
 
     /// - Symbol Name: character.hi
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterHi = "character.hi"
 
     /// - Symbol Name: character.ja
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterJa = "character.ja"
 
     /// - Symbol Name: character.ko
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterKo = "character.ko"
 
     /// - Symbol Name: character.th
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterTh = "character.th"
 
     /// - Symbol Name: character.zh
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterZh = "character.zh"
 
     /// - Symbol Name: character.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case characterZhTraditional = "character.zh.traditional"
 
@@ -18628,17 +18003,14 @@ public enum SFName: String, Identifiable {
     case clockArrow2Circlepath = "clock.arrow.2.circlepath"
 
     /// - Symbol Name: directcurrent
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case directcurrent = "directcurrent"
 
     /// - Symbol Name: doc.text.below.ecg.fill.rtl
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case docTextBelowEcgFillRtl = "doc.text.below.ecg.fill.rtl"
 
     /// - Symbol Name: doc.text.below.ecg.rtl
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case docTextBelowEcgRtl = "doc.text.below.ecg.rtl"
 
@@ -18736,7 +18108,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: photo.tv
     /// - Category: devices
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case photoTv = "photo.tv"
 
@@ -18769,7 +18140,7 @@ public enum SFName: String, Identifiable {
     case rectangleFillBadgePersonCrop = "rectangle.fill.badge.person.crop"
 
     /// - Symbol Name: rectangle.topthird.inset
-    /// - Availabilities:
+    /// - Alias: rectangle.topthird.inset.filled
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case rectangleTopthirdInset = "rectangle.topthird.inset"
 
@@ -18804,7 +18175,7 @@ public enum SFName: String, Identifiable {
     case repeatCircleFill = "repeat.circle.fill"
 
     /// - Symbol Name: shield.checkerboard
-    /// - Availabilities:
+    /// - Alias: checkerboard.shield
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case shieldCheckerboard = "shield.checkerboard"
 
@@ -18824,175 +18195,147 @@ public enum SFName: String, Identifiable {
     case shuffleCircleFill = "shuffle.circle.fill"
 
     /// - Symbol Name: text.below.photo.fill.rtl
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textBelowPhotoFillRtl = "text.below.photo.fill.rtl"
 
     /// - Symbol Name: text.below.photo.rtl
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textBelowPhotoRtl = "text.below.photo.rtl"
 
     /// - Symbol Name: text.cursor.zh.traditional
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.zh.traditional
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textCursorZhTraditional = "text.cursor.zh.traditional"
 
     /// - Symbol Name: textbox.zh.traditional
-    /// - Availabilities:
+    /// - Alias: character.textbox.zh.traditional
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textboxZhTraditional = "textbox.zh.traditional"
 
     /// - Symbol Name: textformat.size.ar
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeAr = "textformat.size.ar"
 
     /// - Symbol Name: textformat.size.he
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeHe = "textformat.size.he"
 
     /// - Symbol Name: textformat.size.hi
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeHi = "textformat.size.hi"
 
     /// - Symbol Name: textformat.size.ja
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeJa = "textformat.size.ja"
 
     /// - Symbol Name: textformat.size.ko
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeKo = "textformat.size.ko"
 
     /// - Symbol Name: textformat.size.larger
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLarger = "textformat.size.larger"
 
     /// - Symbol Name: textformat.size.larger.ar
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerAr = "textformat.size.larger.ar"
 
     /// - Symbol Name: textformat.size.larger.he
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerHe = "textformat.size.larger.he"
 
     /// - Symbol Name: textformat.size.larger.hi
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerHi = "textformat.size.larger.hi"
 
     /// - Symbol Name: textformat.size.larger.ja
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerJa = "textformat.size.larger.ja"
 
     /// - Symbol Name: textformat.size.larger.ko
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerKo = "textformat.size.larger.ko"
 
     /// - Symbol Name: textformat.size.larger.th
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerTh = "textformat.size.larger.th"
 
     /// - Symbol Name: textformat.size.larger.zh
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerZh = "textformat.size.larger.zh"
 
     /// - Symbol Name: textformat.size.larger.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeLargerZhTraditional = "textformat.size.larger.zh.traditional"
 
     /// - Symbol Name: textformat.size.smaller
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmaller = "textformat.size.smaller"
 
     /// - Symbol Name: textformat.size.smaller.ar
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerAr = "textformat.size.smaller.ar"
 
     /// - Symbol Name: textformat.size.smaller.he
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerHe = "textformat.size.smaller.he"
 
     /// - Symbol Name: textformat.size.smaller.hi
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerHi = "textformat.size.smaller.hi"
 
     /// - Symbol Name: textformat.size.smaller.ja
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerJa = "textformat.size.smaller.ja"
 
     /// - Symbol Name: textformat.size.smaller.ko
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerKo = "textformat.size.smaller.ko"
 
     /// - Symbol Name: textformat.size.smaller.th
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerTh = "textformat.size.smaller.th"
 
     /// - Symbol Name: textformat.size.smaller.zh
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerZh = "textformat.size.smaller.zh"
 
     /// - Symbol Name: textformat.size.smaller.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeSmallerZhTraditional = "textformat.size.smaller.zh.traditional"
 
     /// - Symbol Name: textformat.size.th
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeTh = "textformat.size.th"
 
     /// - Symbol Name: textformat.size.zh
     /// - Category: textformatting
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeZh = "textformat.size.zh"
 
     /// - Symbol Name: textformat.size.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSizeZhTraditional = "textformat.size.zh.traditional"
 
@@ -19046,7 +18389,6 @@ public enum SFName: String, Identifiable {
     case textformatSubscriptZh = "textformat.subscript.zh"
 
     /// - Symbol Name: textformat.subscript.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSubscriptZhTraditional = "textformat.subscript.zh.traditional"
 
@@ -19100,12 +18442,10 @@ public enum SFName: String, Identifiable {
     case textformatSuperscriptZh = "textformat.superscript.zh"
 
     /// - Symbol Name: textformat.superscript.zh.traditional
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case textformatSuperscriptZhTraditional = "textformat.superscript.zh.traditional"
 
     /// - Symbol Name: torus
-    /// - Availabilities:
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, *)
     case torus = "torus"
 
@@ -19131,6 +18471,7 @@ public enum SFName: String, Identifiable {
     case applewatchSideRight = "applewatch.side.right"
 
     /// - Symbol Name: character.bubble
+    /// - Alias: t.bubble
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19138,6 +18479,7 @@ public enum SFName: String, Identifiable {
     case characterBubble = "character.bubble"
 
     /// - Symbol Name: character.bubble.ar
+    /// - Alias: t.bubble.ar
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19145,6 +18487,7 @@ public enum SFName: String, Identifiable {
     case characterBubbleAr = "character.bubble.ar"
 
     /// - Symbol Name: character.bubble.fill
+    /// - Alias: t.bubble.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19152,6 +18495,7 @@ public enum SFName: String, Identifiable {
     case characterBubbleFill = "character.bubble.fill"
 
     /// - Symbol Name: character.bubble.fill.ar
+    /// - Alias: t.bubble.fill.ar
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19159,6 +18503,7 @@ public enum SFName: String, Identifiable {
     case characterBubbleFillAr = "character.bubble.fill.ar"
 
     /// - Symbol Name: character.bubble.fill.he
+    /// - Alias: t.bubble.fill.he
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19166,6 +18511,7 @@ public enum SFName: String, Identifiable {
     case characterBubbleFillHe = "character.bubble.fill.he"
 
     /// - Symbol Name: character.bubble.he
+    /// - Alias: t.bubble.he
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19173,6 +18519,7 @@ public enum SFName: String, Identifiable {
     case characterBubbleHe = "character.bubble.he"
 
     /// - Symbol Name: character.cursor.ibeam
+    /// - Alias: text.cursor
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19180,6 +18527,7 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeam = "character.cursor.ibeam"
 
     /// - Symbol Name: character.cursor.ibeam.ar
+    /// - Alias: text.cursor.ar
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19187,6 +18535,7 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeamAr = "character.cursor.ibeam.ar"
 
     /// - Symbol Name: character.cursor.ibeam.he
+    /// - Alias: text.cursor.he
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19194,6 +18543,7 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeamHe = "character.cursor.ibeam.he"
 
     /// - Symbol Name: character.cursor.ibeam.hi
+    /// - Alias: text.cursor.hi
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19201,6 +18551,7 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeamHi = "character.cursor.ibeam.hi"
 
     /// - Symbol Name: character.cursor.ibeam.ja
+    /// - Alias: text.cursor.ja
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19208,6 +18559,7 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeamJa = "character.cursor.ibeam.ja"
 
     /// - Symbol Name: character.cursor.ibeam.ko
+    /// - Alias: text.cursor.ko
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19215,6 +18567,7 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeamKo = "character.cursor.ibeam.ko"
 
     /// - Symbol Name: character.cursor.ibeam.th
+    /// - Alias: text.cursor.th
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19222,6 +18575,7 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeamTh = "character.cursor.ibeam.th"
 
     /// - Symbol Name: character.cursor.ibeam.zh
+    /// - Alias: text.cursor.zh
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19229,11 +18583,12 @@ public enum SFName: String, Identifiable {
     case characterCursorIbeamZh = "character.cursor.ibeam.zh"
 
     /// - Symbol Name: character.cursor.ibeam.zh.traditional
-    /// - Availabilities:
+    /// - Alias: text.cursor.zh.traditional
     @available(iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, *)
     case characterCursorIbeamZhTraditional = "character.cursor.ibeam.zh.traditional"
 
     /// - Symbol Name: character.textbox
+    /// - Alias: textbox
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19241,6 +18596,7 @@ public enum SFName: String, Identifiable {
     case characterTextbox = "character.textbox"
 
     /// - Symbol Name: character.textbox.ar
+    /// - Alias: textbox.ar
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19248,6 +18604,7 @@ public enum SFName: String, Identifiable {
     case characterTextboxAr = "character.textbox.ar"
 
     /// - Symbol Name: character.textbox.he
+    /// - Alias: textbox.he
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19255,6 +18612,7 @@ public enum SFName: String, Identifiable {
     case characterTextboxHe = "character.textbox.he"
 
     /// - Symbol Name: character.textbox.hi
+    /// - Alias: textbox.hi
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19262,6 +18620,7 @@ public enum SFName: String, Identifiable {
     case characterTextboxHi = "character.textbox.hi"
 
     /// - Symbol Name: character.textbox.ja
+    /// - Alias: textbox.ja
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19269,6 +18628,7 @@ public enum SFName: String, Identifiable {
     case characterTextboxJa = "character.textbox.ja"
 
     /// - Symbol Name: character.textbox.ko
+    /// - Alias: textbox.ko
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19276,6 +18636,7 @@ public enum SFName: String, Identifiable {
     case characterTextboxKo = "character.textbox.ko"
 
     /// - Symbol Name: character.textbox.th
+    /// - Alias: textbox.th
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19283,6 +18644,7 @@ public enum SFName: String, Identifiable {
     case characterTextboxTh = "character.textbox.th"
 
     /// - Symbol Name: character.textbox.zh
+    /// - Alias: textbox.zh
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19290,7 +18652,7 @@ public enum SFName: String, Identifiable {
     case characterTextboxZh = "character.textbox.zh"
 
     /// - Symbol Name: character.textbox.zh.traditional
-    /// - Availabilities:
+    /// - Alias: textbox.zh.traditional
     @available(iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, *)
     case characterTextboxZhTraditional = "character.textbox.zh.traditional"
 
@@ -19351,13 +18713,12 @@ public enum SFName: String, Identifiable {
     case homepodminiFill = "homepodmini.fill"
 
     /// - Symbol Name: rectangle.topthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.topthird.inset.filled
     @available(iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, *)
     case rectangleTopthirdInsetFill = "rectangle.topthird.inset.fill"
 
     /// - Symbol Name: 1.magnifyingglass.hi
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case _1MagnifyingglassHi = "1.magnifyingglass.hi"
 
@@ -19451,49 +18812,41 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: airpods.chargingcase
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airpodsChargingcase = "airpods.chargingcase"
 
     /// - Symbol Name: airpods.chargingcase.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airpodsChargingcaseFill = "airpods.chargingcase.fill"
 
     /// - Symbol Name: airpods.chargingcase.wireless
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airpodsChargingcaseWireless = "airpods.chargingcase.wireless"
 
     /// - Symbol Name: airpods.chargingcase.wireless.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airpodsChargingcaseWirelessFill = "airpods.chargingcase.wireless.fill"
 
     /// - Symbol Name: airpodspro.chargingcase.wireless
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airpodsproChargingcaseWireless = "airpodspro.chargingcase.wireless"
 
     /// - Symbol Name: airpodspro.chargingcase.wireless.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airpodsproChargingcaseWirelessFill = "airpodspro.chargingcase.wireless.fill"
 
     /// - Symbol Name: airtag
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airtag = "airtag"
 
     /// - Symbol Name: airtag.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case airtagFill = "airtag.fill"
 
@@ -19534,7 +18887,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: alternatingcurrent
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case alternatingcurrent = "alternatingcurrent"
 
@@ -19586,61 +18938,51 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: app.dashed
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appDashed = "app.dashed"
 
     /// - Symbol Name: applepencil
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case applepencil = "applepencil"
 
     /// - Symbol Name: appletvremote.gen1
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen1 = "appletvremote.gen1"
 
     /// - Symbol Name: appletvremote.gen1.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen1Fill = "appletvremote.gen1.fill"
 
     /// - Symbol Name: appletvremote.gen2
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen2 = "appletvremote.gen2"
 
     /// - Symbol Name: appletvremote.gen2.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen2Fill = "appletvremote.gen2.fill"
 
     /// - Symbol Name: appletvremote.gen3
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen3 = "appletvremote.gen3"
 
     /// - Symbol Name: appletvremote.gen3.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen3Fill = "appletvremote.gen3.fill"
 
     /// - Symbol Name: appletvremote.gen4
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen4 = "appletvremote.gen4"
 
     /// - Symbol Name: appletvremote.gen4.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case appletvremoteGen4Fill = "appletvremote.gen4.fill"
 
@@ -19661,7 +19003,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: arrow.backward.to.line
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case arrowBackwardToLine = "arrow.backward.to.line"
 
@@ -19696,14 +19037,13 @@ public enum SFName: String, Identifiable {
     case arrowDownToLineCircleFill = "arrow.down.to.line.circle.fill"
 
     /// - Symbol Name: arrow.down.to.line.compact
+    /// - Alias: arrow.down.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case arrowDownToLineCompact = "arrow.down.to.line.compact"
 
     /// - Symbol Name: arrow.forward.to.line
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case arrowForwardToLine = "arrow.forward.to.line"
 
@@ -19738,8 +19078,8 @@ public enum SFName: String, Identifiable {
     case arrowLeftToLineCircleFill = "arrow.left.to.line.circle.fill"
 
     /// - Symbol Name: arrow.left.to.line.compact
+    /// - Alias: arrow.left.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case arrowLeftToLineCompact = "arrow.left.to.line.compact"
 
@@ -19759,8 +19099,8 @@ public enum SFName: String, Identifiable {
     case arrowRightToLineCircleFill = "arrow.right.to.line.circle.fill"
 
     /// - Symbol Name: arrow.right.to.line.compact
+    /// - Alias: arrow.right.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case arrowRightToLineCompact = "arrow.right.to.line.compact"
 
@@ -19780,14 +19120,13 @@ public enum SFName: String, Identifiable {
     case arrowUpToLineCircleFill = "arrow.up.to.line.circle.fill"
 
     /// - Symbol Name: arrow.up.to.line.compact
+    /// - Alias: arrow.up.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case arrowUpToLineCompact = "arrow.up.to.line.compact"
 
     /// - Symbol Name: asterisk
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case asterisk = "asterisk"
 
@@ -19859,13 +19198,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: beats.powerbeatspro.chargingcase
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case beatsPowerbeatsproChargingcase = "beats.powerbeatspro.chargingcase"
 
     /// - Symbol Name: beats.powerbeatspro.chargingcase.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case beatsPowerbeatsproChargingcaseFill = "beats.powerbeatspro.chargingcase.fill"
 
@@ -19946,6 +19283,7 @@ public enum SFName: String, Identifiable {
     case bellSquareFill = "bell.square.fill"
 
     /// - Symbol Name: bolt.batteryblock
+    /// - Alias: bolt.fill.batteryblock
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19953,6 +19291,7 @@ public enum SFName: String, Identifiable {
     case boltBatteryblock = "bolt.batteryblock"
 
     /// - Symbol Name: bolt.batteryblock.fill
+    /// - Alias: bolt.fill.batteryblock.fill
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20023,7 +19362,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: brain
     /// - Category: health, human, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case brain = "brain"
 
@@ -20073,19 +19411,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: cable.connector.horizontal
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case cableConnectorHorizontal = "cable.connector.horizontal"
 
     /// - Symbol Name: cablecar
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case cablecar = "cablecar"
 
     /// - Symbol Name: cablecar.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case cablecarFill = "cablecar.fill"
 
@@ -20137,7 +19472,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: capsule.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsuleBottomhalfFilled = "capsule.bottomhalf.filled"
 
@@ -20150,13 +19484,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: capsule.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsuleLefthalfFilled = "capsule.lefthalf.filled"
 
     /// - Symbol Name: capsule.portrait.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsulePortraitBottomhalfFilled = "capsule.portrait.bottomhalf.filled"
 
@@ -20169,43 +19501,36 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: capsule.portrait.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsulePortraitLefthalfFilled = "capsule.portrait.lefthalf.filled"
 
     /// - Symbol Name: capsule.portrait.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsulePortraitRighthalfFilled = "capsule.portrait.righthalf.filled"
 
     /// - Symbol Name: capsule.portrait.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsulePortraitTophalfFilled = "capsule.portrait.tophalf.filled"
 
     /// - Symbol Name: capsule.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsuleRighthalfFilled = "capsule.righthalf.filled"
 
     /// - Symbol Name: capsule.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case capsuleTophalfFilled = "capsule.tophalf.filled"
 
     /// - Symbol Name: car.ferry
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case carFerry = "car.ferry"
 
     /// - Symbol Name: car.ferry.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case carFerryFill = "car.ferry.fill"
 
@@ -20245,7 +19570,6 @@ public enum SFName: String, Identifiable {
     case characterBubbleFillZh = "character.bubble.fill.zh"
 
     /// - Symbol Name: character.bubble.fill.zh.traditional
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case characterBubbleFillZhTraditional = "character.bubble.fill.zh.traditional"
 
@@ -20285,7 +19609,6 @@ public enum SFName: String, Identifiable {
     case characterBubbleZh = "character.bubble.zh"
 
     /// - Symbol Name: character.bubble.zh.traditional
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case characterBubbleZhTraditional = "character.bubble.zh.traditional"
 
@@ -20318,8 +19641,8 @@ public enum SFName: String, Identifiable {
     case chartXyaxisLine = "chart.xyaxis.line"
 
     /// - Symbol Name: checkerboard.shield
+    /// - Alias: shield.checkerboard
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case checkerboardShield = "checkerboard.shield"
 
@@ -20374,30 +19697,29 @@ public enum SFName: String, Identifiable {
     case checkmarkDiamondFill = "checkmark.diamond.fill"
 
     /// - Symbol Name: chevron.left.forwardslash.chevron.right
+    /// - Alias: chevron.left.slash.chevron.right
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case chevronLeftForwardslashChevronRight = "chevron.left.forwardslash.chevron.right"
 
     /// - Symbol Name: circle.and.line.horizontal
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleAndLineHorizontal = "circle.and.line.horizontal"
 
     /// - Symbol Name: circle.and.line.horizontal.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleAndLineHorizontalFill = "circle.and.line.horizontal.fill"
 
     /// - Symbol Name: circle.bottomhalf.filled
+    /// - Alias: circle.bottomhalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleBottomhalfFilled = "circle.bottomhalf.filled"
 
     /// - Symbol Name: circle.dashed.inset.filled
+    /// - Alias: circle.dashed.inset.fill
     /// - Category: editing, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20406,19 +19728,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: circle.dotted
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleDotted = "circle.dotted"
 
     /// - Symbol Name: circle.grid.2x1
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleGrid2X1 = "circle.grid.2x1"
 
     /// - Symbol Name: circle.grid.2x1.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleGrid2X1Fill = "circle.grid.2x1.fill"
 
@@ -20452,8 +19771,8 @@ public enum SFName: String, Identifiable {
     case circleGrid3X3CircleFill = "circle.grid.3x3.circle.fill"
 
     /// - Symbol Name: circle.hexagongrid
+    /// - Alias: circles.hexagongrid
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleHexagongrid = "circle.hexagongrid"
 
@@ -20473,6 +19792,7 @@ public enum SFName: String, Identifiable {
     case circleHexagongridCircleFill = "circle.hexagongrid.circle.fill"
 
     /// - Symbol Name: circle.hexagongrid.fill
+    /// - Alias: circles.hexagongrid.fill
     /// - Category: multicolor, whatsnew
     /// - Availabilities:
     ///   - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20480,18 +19800,19 @@ public enum SFName: String, Identifiable {
     case circleHexagongridFill = "circle.hexagongrid.fill"
 
     /// - Symbol Name: circle.hexagonpath
+    /// - Alias: circles.hexagonpath
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleHexagonpath = "circle.hexagonpath"
 
     /// - Symbol Name: circle.hexagonpath.fill
+    /// - Alias: circles.hexagonpath.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleHexagonpathFill = "circle.hexagonpath.fill"
 
     /// - Symbol Name: circle.inset.filled
+    /// - Alias: largecircle.fill.circle
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20499,14 +19820,14 @@ public enum SFName: String, Identifiable {
     case circleInsetFilled = "circle.inset.filled"
 
     /// - Symbol Name: circle.lefthalf.filled
+    /// - Alias: circle.lefthalf.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleLefthalfFilled = "circle.lefthalf.filled"
 
     /// - Symbol Name: circle.righthalf.filled
+    /// - Alias: circle.righthalf.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleRighthalfFilled = "circle.righthalf.filled"
 
@@ -20525,8 +19846,8 @@ public enum SFName: String, Identifiable {
     case circleSlashFill = "circle.slash.fill"
 
     /// - Symbol Name: circle.tophalf.filled
+    /// - Alias: circle.tophalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case circleTophalfFilled = "circle.tophalf.filled"
 
@@ -20564,19 +19885,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: computermouse
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case computermouse = "computermouse"
 
     /// - Symbol Name: computermouse.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case computermouseFill = "computermouse.fill"
 
     /// - Symbol Name: cpu.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case cpuFill = "cpu.fill"
 
@@ -20659,7 +19977,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: diamond.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case diamondBottomhalfFilled = "diamond.bottomhalf.filled"
 
@@ -20672,19 +19989,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: diamond.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case diamondLefthalfFilled = "diamond.lefthalf.filled"
 
     /// - Symbol Name: diamond.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case diamondRighthalfFilled = "diamond.righthalf.filled"
 
     /// - Symbol Name: diamond.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case diamondTophalfFilled = "diamond.tophalf.filled"
 
@@ -20697,7 +20011,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: dice.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case diceFill = "dice.fill"
 
@@ -20794,83 +20107,69 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: doc.richtext.fill.hi
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextFillHi = "doc.richtext.fill.hi"
 
     /// - Symbol Name: doc.richtext.fill.ja
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextFillJa = "doc.richtext.fill.ja"
 
     /// - Symbol Name: doc.richtext.fill.ko
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextFillKo = "doc.richtext.fill.ko"
 
     /// - Symbol Name: doc.richtext.fill.th
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextFillTh = "doc.richtext.fill.th"
 
     /// - Symbol Name: doc.richtext.fill.zh
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextFillZh = "doc.richtext.fill.zh"
 
     /// - Symbol Name: doc.richtext.fill.zh.traditional
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextFillZhTraditional = "doc.richtext.fill.zh.traditional"
 
     /// - Symbol Name: doc.richtext.hi
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextHi = "doc.richtext.hi"
 
     /// - Symbol Name: doc.richtext.ja
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextJa = "doc.richtext.ja"
 
     /// - Symbol Name: doc.richtext.ko
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextKo = "doc.richtext.ko"
 
     /// - Symbol Name: doc.richtext.th
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextTh = "doc.richtext.th"
 
     /// - Symbol Name: doc.richtext.zh
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextZh = "doc.richtext.zh"
 
     /// - Symbol Name: doc.richtext.zh.traditional
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docRichtextZhTraditional = "doc.richtext.zh.traditional"
 
     /// - Symbol Name: doc.text.image
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docTextImage = "doc.text.image"
 
     /// - Symbol Name: doc.text.image.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case docTextImageFill = "doc.text.image.fill"
 
@@ -20883,7 +20182,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: dot.radiowaves.up.forward
     /// - Category: connectivity, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case dotRadiowavesUpForward = "dot.radiowaves.up.forward"
 
@@ -20903,13 +20201,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: earbuds.case
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case earbudsCase = "earbuds.case"
 
     /// - Symbol Name: earbuds.case.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case earbudsCaseFill = "earbuds.case.fill"
 
@@ -20928,6 +20224,7 @@ public enum SFName: String, Identifiable {
     case ellipsisVerticalBubbleFill = "ellipsis.vertical.bubble.fill"
 
     /// - Symbol Name: envelope.badge.shield.half.filled
+    /// - Alias: envelope.badge.shield.leadinghalf.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20935,6 +20232,7 @@ public enum SFName: String, Identifiable {
     case envelopeBadgeShieldHalfFilled = "envelope.badge.shield.half.filled"
 
     /// - Symbol Name: envelope.badge.shield.half.filled.fill
+    /// - Alias: envelope.fill.badge.shield.trailinghalf.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21002,31 +20300,27 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: fanblades
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case fanblades = "fanblades"
 
     /// - Symbol Name: fanblades.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case fanbladesFill = "fanblades.fill"
 
     /// - Symbol Name: ferry
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ferry = "ferry"
 
     /// - Symbol Name: ferry.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ferryFill = "ferry.fill"
 
     /// - Symbol Name: fibrechannel
+    /// - Alias: fiberchannel
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case fibrechannel = "fibrechannel"
 
@@ -21090,6 +20384,7 @@ public enum SFName: String, Identifiable {
     case flagSquareFill = "flag.square.fill"
 
     /// - Symbol Name: folder.badge.gearshape
+    /// - Alias: folder.badge.gear
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21097,6 +20392,7 @@ public enum SFName: String, Identifiable {
     case folderBadgeGearshape = "folder.badge.gearshape"
 
     /// - Symbol Name: folder.fill.badge.gearshape
+    /// - Alias: folder.fill.badge.gear
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21143,7 +20439,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: fuelpump
     /// - Category: objectsandtools, transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case fuelpump = "fuelpump"
 
@@ -21164,7 +20459,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: fuelpump.fill
     /// - Category: objectsandtools, transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case fuelpumpFill = "fuelpump.fill"
 
@@ -21224,25 +20518,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: globe.americas
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case globeAmericas = "globe.americas"
 
     /// - Symbol Name: globe.americas.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case globeAmericasFill = "globe.americas.fill"
 
     /// - Symbol Name: globe.asia.australia
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case globeAsiaAustralia = "globe.asia.australia"
 
     /// - Symbol Name: globe.asia.australia.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case globeAsiaAustraliaFill = "globe.asia.australia.fill"
 
@@ -21255,13 +20545,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: globe.europe.africa
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case globeEuropeAfrica = "globe.europe.africa"
 
     /// - Symbol Name: globe.europe.africa.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case globeEuropeAfricaFill = "globe.europe.africa.fill"
 
@@ -21308,6 +20596,7 @@ public enum SFName: String, Identifiable {
     case goforward5Hi = "goforward.5.hi"
 
     /// - Symbol Name: h.square.on.square.fill
+    /// - Alias: h.square.fill.on.square.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21406,6 +20695,7 @@ public enum SFName: String, Identifiable {
     case handThumbsupCircleFill = "hand.thumbsup.circle.fill"
 
     /// - Symbol Name: hearingdevice.ear
+    /// - Alias: hearingaid.ear
     /// - Category: devices, human, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21446,37 +20736,31 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: hexagon.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case hexagonBottomhalfFilled = "hexagon.bottomhalf.filled"
 
     /// - Symbol Name: hexagon.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case hexagonLefthalfFilled = "hexagon.lefthalf.filled"
 
     /// - Symbol Name: hexagon.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case hexagonRighthalfFilled = "hexagon.righthalf.filled"
 
     /// - Symbol Name: hexagon.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case hexagonTophalfFilled = "hexagon.tophalf.filled"
 
     /// - Symbol Name: hifispeaker.and.appletv
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case hifispeakerAndAppletv = "hifispeaker.and.appletv"
 
     /// - Symbol Name: hifispeaker.and.appletv.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case hifispeakerAndAppletvFill = "hifispeaker.and.appletv.fill"
 
@@ -21509,6 +20793,7 @@ public enum SFName: String, Identifiable {
     case homepodminiAndAppletvFill = "homepodmini.and.appletv.fill"
 
     /// - Symbol Name: hourglass.bottomhalf.filled
+    /// - Alias: hourglass.start
     /// - Category: multicolor, objectsandtools, time, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21517,6 +20802,7 @@ public enum SFName: String, Identifiable {
     case hourglassBottomhalfFilled = "hourglass.bottomhalf.filled"
 
     /// - Symbol Name: hourglass.tophalf.filled
+    /// - Alias: hourglass.tophalf.fill
     /// - Category: multicolor, objectsandtools, time, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21709,6 +20995,7 @@ public enum SFName: String, Identifiable {
     case ivfluidBagFill = "ivfluid.bag.fill"
 
     /// - Symbol Name: j.square.on.square.fill
+    /// - Alias: j.square.fill.on.square.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21717,11 +21004,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: keyboard.fill
     /// - Category: devices, keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case keyboardFill = "keyboard.fill"
 
     /// - Symbol Name: l.joystick.press.down
+    /// - Alias: l.joystick.down
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21729,6 +21016,7 @@ public enum SFName: String, Identifiable {
     case lJoystickPressDown = "l.joystick.press.down"
 
     /// - Symbol Name: l.joystick.press.down.fill
+    /// - Alias: l.joystick.down.fill
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21800,13 +21088,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: lanyardcard
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case lanyardcard = "lanyardcard"
 
     /// - Symbol Name: lanyardcard.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case lanyardcardFill = "lanyardcard.fill"
 
@@ -21826,6 +21112,7 @@ public enum SFName: String, Identifiable {
     case laptopcomputerTrianglebadgeExclamationmark = "laptopcomputer.trianglebadge.exclamationmark"
 
     /// - Symbol Name: lasso.and.sparkles
+    /// - Alias: lasso.sparkles
     /// - Category: editing, objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21849,6 +21136,7 @@ public enum SFName: String, Identifiable {
     case leafCircleFill = "leaf.circle.fill"
 
     /// - Symbol Name: line.2.horizontal.decrease.circle
+    /// - Alias: line.horizontal.2.decrease.circle
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21856,6 +21144,7 @@ public enum SFName: String, Identifiable {
     case line2HorizontalDecreaseCircle = "line.2.horizontal.decrease.circle"
 
     /// - Symbol Name: line.2.horizontal.decrease.circle.fill
+    /// - Alias: line.horizontal.2.decrease.circle.fill
     /// - Category: multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21864,12 +21153,13 @@ public enum SFName: String, Identifiable {
     case line2HorizontalDecreaseCircleFill = "line.2.horizontal.decrease.circle.fill"
 
     /// - Symbol Name: line.3.horizontal
+    /// - Alias: line.horizontal.3
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case line3Horizontal = "line.3.horizontal"
 
     /// - Symbol Name: line.3.horizontal.circle
+    /// - Alias: line.horizontal.3.circle
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21877,6 +21167,7 @@ public enum SFName: String, Identifiable {
     case line3HorizontalCircle = "line.3.horizontal.circle"
 
     /// - Symbol Name: line.3.horizontal.circle.fill
+    /// - Alias: line.horizontal.3.circle.fill
     /// - Category: gaming, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21885,12 +21176,13 @@ public enum SFName: String, Identifiable {
     case line3HorizontalCircleFill = "line.3.horizontal.circle.fill"
 
     /// - Symbol Name: line.3.horizontal.decrease
+    /// - Alias: line.horizontal.3.decrease
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case line3HorizontalDecrease = "line.3.horizontal.decrease"
 
     /// - Symbol Name: line.3.horizontal.decrease.circle
+    /// - Alias: line.horizontal.3.decrease.circle
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21898,6 +21190,7 @@ public enum SFName: String, Identifiable {
     case line3HorizontalDecreaseCircle = "line.3.horizontal.decrease.circle"
 
     /// - Symbol Name: line.3.horizontal.decrease.circle.fill
+    /// - Alias: line.horizontal.3.decrease.circle.fill
     /// - Category: multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -21907,7 +21200,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: lines.measurement.horizontal
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case linesMeasurementHorizontal = "lines.measurement.horizontal"
 
@@ -22065,49 +21357,41 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: logo.playstation
     /// - Category: gaming, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case logoPlaystation = "logo.playstation"
 
     /// - Symbol Name: logo.xbox
     /// - Category: gaming, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case logoXbox = "logo.xbox"
 
     /// - Symbol Name: macpro.gen1.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case macproGen1Fill = "macpro.gen1.fill"
 
     /// - Symbol Name: macpro.gen3.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case macproGen3Fill = "macpro.gen3.fill"
 
     /// - Symbol Name: magazine
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case magazine = "magazine"
 
     /// - Symbol Name: magazine.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case magazineFill = "magazine.fill"
 
     /// - Symbol Name: magicmouse
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case magicmouse = "magicmouse"
 
     /// - Symbol Name: magicmouse.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case magicmouseFill = "magicmouse.fill"
 
@@ -22151,19 +21435,16 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: memorychip.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case memorychipFill = "memorychip.fill"
 
     /// - Symbol Name: menucard
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case menucard = "menucard"
 
     /// - Symbol Name: menucard.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case menucardFill = "menucard.fill"
 
@@ -22229,8 +21510,8 @@ public enum SFName: String, Identifiable {
     case micSquareFill = "mic.square.fill"
 
     /// - Symbol Name: minus.forwardslash.plus
+    /// - Alias: minus.slash.plus
     /// - Category: math, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case minusForwardslashPlus = "minus.forwardslash.plus"
 
@@ -22250,6 +21531,7 @@ public enum SFName: String, Identifiable {
     case musicMicCircleFill = "music.mic.circle.fill"
 
     /// - Symbol Name: music.note.tv
+    /// - Alias: tv.music.note
     /// - Category: devices, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22257,6 +21539,7 @@ public enum SFName: String, Identifiable {
     case musicNoteTv = "music.note.tv"
 
     /// - Symbol Name: music.note.tv.fill
+    /// - Alias: tv.music.note.fill
     /// - Category: devices, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22272,31 +21555,26 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: octagon.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case octagonBottomhalfFilled = "octagon.bottomhalf.filled"
 
     /// - Symbol Name: octagon.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case octagonLefthalfFilled = "octagon.lefthalf.filled"
 
     /// - Symbol Name: octagon.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case octagonRighthalfFilled = "octagon.righthalf.filled"
 
     /// - Symbol Name: octagon.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case octagonTophalfFilled = "octagon.tophalf.filled"
 
     /// - Symbol Name: oval.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalBottomhalfFilled = "oval.bottomhalf.filled"
 
@@ -22309,13 +21587,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: oval.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalLefthalfFilled = "oval.lefthalf.filled"
 
     /// - Symbol Name: oval.portrait.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalPortraitBottomhalfFilled = "oval.portrait.bottomhalf.filled"
 
@@ -22328,43 +21604,36 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: oval.portrait.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalPortraitLefthalfFilled = "oval.portrait.lefthalf.filled"
 
     /// - Symbol Name: oval.portrait.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalPortraitRighthalfFilled = "oval.portrait.righthalf.filled"
 
     /// - Symbol Name: oval.portrait.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalPortraitTophalfFilled = "oval.portrait.tophalf.filled"
 
     /// - Symbol Name: oval.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalRighthalfFilled = "oval.righthalf.filled"
 
     /// - Symbol Name: oval.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case ovalTophalfFilled = "oval.tophalf.filled"
 
     /// - Symbol Name: parentheses
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case parentheses = "parentheses"
 
     /// - Symbol Name: parkingsign
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case parkingsign = "parkingsign"
 
@@ -22385,7 +21654,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: pawprint
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pawprint = "pawprint"
 
@@ -22405,61 +21673,53 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: pawprint.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pawprintFill = "pawprint.fill"
 
     /// - Symbol Name: peacesign
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case peacesign = "peacesign"
 
     /// - Symbol Name: pentagon
     /// - Category: shapes, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pentagon = "pentagon"
 
     /// - Symbol Name: pentagon.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pentagonBottomhalfFilled = "pentagon.bottomhalf.filled"
 
     /// - Symbol Name: pentagon.fill
     /// - Category: shapes, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pentagonFill = "pentagon.fill"
 
     /// - Symbol Name: pentagon.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pentagonLefthalfFilled = "pentagon.lefthalf.filled"
 
     /// - Symbol Name: pentagon.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pentagonRighthalfFilled = "pentagon.righthalf.filled"
 
     /// - Symbol Name: pentagon.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case pentagonTophalfFilled = "pentagon.tophalf.filled"
 
     /// - Symbol Name: person.2.crop.square.stack
+    /// - Alias: person.2.square.stack
     /// - Category: human, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case person2CropSquareStack = "person.2.crop.square.stack"
 
     /// - Symbol Name: person.2.crop.square.stack.fill
+    /// - Alias: person.2.square.stack.fill
     /// - Category: human, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case person2CropSquareStackFill = "person.2.crop.square.stack.fill"
 
@@ -22534,6 +21794,7 @@ public enum SFName: String, Identifiable {
     case personCropCircleBadgeClockFill = "person.crop.circle.badge.clock.fill"
 
     /// - Symbol Name: person.crop.circle.badge.exclamationmark.fill
+    /// - Alias: person.crop.circle.fill.badge.exclamationmark
     /// - Category: human, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22563,6 +21824,7 @@ public enum SFName: String, Identifiable {
     case personCropCircleBadgeMoonFill = "person.crop.circle.badge.moon.fill"
 
     /// - Symbol Name: person.crop.circle.badge.questionmark.fill
+    /// - Alias: person.crop.circle.fill.badge.questionmark
     /// - Category: human, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22571,6 +21833,7 @@ public enum SFName: String, Identifiable {
     case personCropCircleBadgeQuestionmarkFill = "person.crop.circle.badge.questionmark.fill"
 
     /// - Symbol Name: person.crop.circle.badge.questionmark.fill.ar
+    /// - Alias: person.crop.circle.fill.badge.questionmark.ar
     /// - Category: human, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22579,18 +21842,19 @@ public enum SFName: String, Identifiable {
     case personCropCircleBadgeQuestionmarkFillAr = "person.crop.circle.badge.questionmark.fill.ar"
 
     /// - Symbol Name: person.crop.rectangle.stack
+    /// - Alias: rectangle.stack.person.crop
     /// - Category: human, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case personCropRectangleStack = "person.crop.rectangle.stack"
 
     /// - Symbol Name: person.crop.rectangle.stack.fill
+    /// - Alias: rectangle.stack.person.crop.fill
     /// - Category: human, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case personCropRectangleStackFill = "person.crop.rectangle.stack.fill"
 
     /// - Symbol Name: person.crop.square.filled.and.at.rectangle
+    /// - Alias: person.crop.square.fill.and.at.rectangle
     /// - Category: human, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22775,12 +22039,13 @@ public enum SFName: String, Identifiable {
     case playSquareFill = "play.square.fill"
 
     /// - Symbol Name: plus.forwardslash.minus
+    /// - Alias: plus.slash.minus
     /// - Category: math, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case plusForwardslashMinus = "plus.forwardslash.minus"
 
     /// - Symbol Name: plus.rectangle.on.folder.fill
+    /// - Alias: plus.rectangle.fill.on.folder.fill
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22817,6 +22082,7 @@ public enum SFName: String, Identifiable {
     case pointFilledTopleftDownCurvedtoPointBottomrightUp = "point.filled.topleft.down.curvedto.point.bottomright.up"
 
     /// - Symbol Name: point.topleft.down.curvedto.point.bottomright.up.fill
+    /// - Alias: point.fill.topleft.down.curvedto.point.fill.bottomright.up
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22847,43 +22113,38 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: power.dotted
     /// - Category: keyboard, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case powerDotted = "power.dotted"
 
     /// - Symbol Name: powerplug
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case powerplug = "powerplug"
 
     /// - Symbol Name: powerplug.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case powerplugFill = "powerplug.fill"
 
     /// - Symbol Name: printer.dotmatrix.filled.and.paper
+    /// - Alias: printer.dotmatrix.fill.and.paper.fill
     /// - Category: devices, objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case printerDotmatrixFilledAndPaper = "printer.dotmatrix.filled.and.paper"
 
     /// - Symbol Name: printer.filled.and.paper
+    /// - Alias: printer.fill.and.paper.fill
     /// - Category: devices, objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case printerFilledAndPaper = "printer.filled.and.paper"
 
     /// - Symbol Name: puzzlepiece.extension
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case puzzlepieceExtension = "puzzlepiece.extension"
 
     /// - Symbol Name: puzzlepiece.extension.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case puzzlepieceExtensionFill = "puzzlepiece.extension.fill"
 
@@ -22910,7 +22171,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: questionmark.app.dashed.ar
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case questionmarkAppDashedAr = "questionmark.app.dashed.ar"
 
@@ -22929,6 +22189,7 @@ public enum SFName: String, Identifiable {
     case questionmarkAppFillAr = "questionmark.app.fill.ar"
 
     /// - Symbol Name: r.joystick.press.down
+    /// - Alias: r.joystick.down
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22936,6 +22197,7 @@ public enum SFName: String, Identifiable {
     case rJoystickPressDown = "r.joystick.press.down"
 
     /// - Symbol Name: r.joystick.press.down.fill
+    /// - Alias: r.joystick.down.fill
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -22999,6 +22261,7 @@ public enum SFName: String, Identifiable {
     case rJoystickTiltUpFill = "r.joystick.tilt.up.fill"
 
     /// - Symbol Name: r.square.on.square.fill
+    /// - Alias: r.square.fill.on.square.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23035,7 +22298,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectangleBottomhalfFilled = "rectangle.bottomhalf.filled"
 
@@ -23047,6 +22309,7 @@ public enum SFName: String, Identifiable {
     case rectangleBottomhalfInsetFilled = "rectangle.bottomhalf.inset.filled"
 
     /// - Symbol Name: rectangle.bottomthird.inset.filled
+    /// - Alias: rectangle.bottomthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23054,6 +22317,7 @@ public enum SFName: String, Identifiable {
     case rectangleBottomthirdInsetFilled = "rectangle.bottomthird.inset.filled"
 
     /// - Symbol Name: rectangle.center.inset.filled
+    /// - Alias: rectangle.center.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23075,6 +22339,7 @@ public enum SFName: String, Identifiable {
     case rectangleInsetBottomleadingFilled = "rectangle.inset.bottomleading.filled"
 
     /// - Symbol Name: rectangle.inset.bottomleft.filled
+    /// - Alias: rectangle.inset.bottomleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23082,6 +22347,7 @@ public enum SFName: String, Identifiable {
     case rectangleInsetBottomleftFilled = "rectangle.inset.bottomleft.filled"
 
     /// - Symbol Name: rectangle.inset.bottomright.filled
+    /// - Alias: rectangle.inset.bottomright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23096,6 +22362,7 @@ public enum SFName: String, Identifiable {
     case rectangleInsetBottomtrailingFilled = "rectangle.inset.bottomtrailing.filled"
 
     /// - Symbol Name: rectangle.inset.filled
+    /// - Alias: rectangle.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23124,6 +22391,7 @@ public enum SFName: String, Identifiable {
     case rectangleInsetTopleadingFilled = "rectangle.inset.topleading.filled"
 
     /// - Symbol Name: rectangle.inset.topleft.filled
+    /// - Alias: rectangle.inset.topleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23131,6 +22399,7 @@ public enum SFName: String, Identifiable {
     case rectangleInsetTopleftFilled = "rectangle.inset.topleft.filled"
 
     /// - Symbol Name: rectangle.inset.topright.filled
+    /// - Alias: rectangle.inset.topright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23166,12 +22435,13 @@ public enum SFName: String, Identifiable {
     case rectangleLeadingthirdInsetFilled = "rectangle.leadingthird.inset.filled"
 
     /// - Symbol Name: rectangle.lefthalf.filled
+    /// - Alias: rectangle.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectangleLefthalfFilled = "rectangle.lefthalf.filled"
 
     /// - Symbol Name: rectangle.lefthalf.inset.filled
+    /// - Alias: rectangle.lefthalf.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23179,6 +22449,7 @@ public enum SFName: String, Identifiable {
     case rectangleLefthalfInsetFilled = "rectangle.lefthalf.inset.filled"
 
     /// - Symbol Name: rectangle.lefthalf.inset.filled.arrow.left
+    /// - Alias: rectangle.lefthalf.inset.fill.arrow.left
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23186,6 +22457,7 @@ public enum SFName: String, Identifiable {
     case rectangleLefthalfInsetFilledArrowLeft = "rectangle.lefthalf.inset.filled.arrow.left"
 
     /// - Symbol Name: rectangle.leftthird.inset.filled
+    /// - Alias: rectangle.leftthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23193,6 +22465,7 @@ public enum SFName: String, Identifiable {
     case rectangleLeftthirdInsetFilled = "rectangle.leftthird.inset.filled"
 
     /// - Symbol Name: rectangle.on.rectangle.circle
+    /// - Alias: rectangle.fill.on.rectangle.fill.circle
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23200,6 +22473,7 @@ public enum SFName: String, Identifiable {
     case rectangleOnRectangleCircle = "rectangle.on.rectangle.circle"
 
     /// - Symbol Name: rectangle.on.rectangle.circle.fill
+    /// - Alias: rectangle.fill.on.rectangle.fill.circle.fill
     /// - Category: gaming, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23223,6 +22497,7 @@ public enum SFName: String, Identifiable {
     case rectangleOnRectangleSlashCircleFill = "rectangle.on.rectangle.slash.circle.fill"
 
     /// - Symbol Name: rectangle.on.rectangle.slash.fill
+    /// - Alias: rectangle.fill.on.rectangle.fill.slash.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23252,13 +22527,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.portrait.and.arrow.right.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglePortraitAndArrowRightFill = "rectangle.portrait.and.arrow.right.fill"
 
     /// - Symbol Name: rectangle.portrait.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglePortraitBottomhalfFilled = "rectangle.portrait.bottomhalf.filled"
 
@@ -23334,7 +22607,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.portrait.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglePortraitLefthalfFilled = "rectangle.portrait.lefthalf.filled"
 
@@ -23382,7 +22654,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.portrait.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglePortraitRighthalfFilled = "rectangle.portrait.righthalf.filled"
 
@@ -23416,13 +22687,11 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.portrait.split.2x1
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglePortraitSplit2X1 = "rectangle.portrait.split.2x1"
 
     /// - Symbol Name: rectangle.portrait.split.2x1.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglePortraitSplit2X1Fill = "rectangle.portrait.split.2x1.fill"
 
@@ -23442,7 +22711,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.portrait.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglePortraitTophalfFilled = "rectangle.portrait.tophalf.filled"
 
@@ -23503,12 +22771,13 @@ public enum SFName: String, Identifiable {
     case rectanglePortraitTrailingthirdInsetFilled = "rectangle.portrait.trailingthird.inset.filled"
 
     /// - Symbol Name: rectangle.righthalf.filled
+    /// - Alias: rectangle.righthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectangleRighthalfFilled = "rectangle.righthalf.filled"
 
     /// - Symbol Name: rectangle.righthalf.inset.filled
+    /// - Alias: rectangle.righthalf.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23516,6 +22785,7 @@ public enum SFName: String, Identifiable {
     case rectangleRighthalfInsetFilled = "rectangle.righthalf.inset.filled"
 
     /// - Symbol Name: rectangle.righthalf.inset.filled.arrow.right
+    /// - Alias: rectangle.righthalf.inset.fill.arrow.right
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23523,6 +22793,7 @@ public enum SFName: String, Identifiable {
     case rectangleRighthalfInsetFilledArrowRight = "rectangle.righthalf.inset.filled.arrow.right"
 
     /// - Symbol Name: rectangle.rightthird.inset.filled
+    /// - Alias: rectangle.rightthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23559,7 +22830,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: rectangle.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectangleTophalfFilled = "rectangle.tophalf.filled"
 
@@ -23571,6 +22841,7 @@ public enum SFName: String, Identifiable {
     case rectangleTophalfInsetFilled = "rectangle.tophalf.inset.filled"
 
     /// - Symbol Name: rectangle.topthird.inset.filled
+    /// - Alias: rectangle.topthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23599,12 +22870,13 @@ public enum SFName: String, Identifiable {
     case rectangleTrailingthirdInsetFilled = "rectangle.trailingthird.inset.filled"
 
     /// - Symbol Name: rectangles.group
+    /// - Alias: rectangle.3.offgrid
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglesGroup = "rectangles.group"
 
     /// - Symbol Name: rectangles.group.bubble.left
+    /// - Alias: rectangle.3.offgrid.bubble.left
     /// - Category: communication, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23612,6 +22884,7 @@ public enum SFName: String, Identifiable {
     case rectanglesGroupBubbleLeft = "rectangles.group.bubble.left"
 
     /// - Symbol Name: rectangles.group.bubble.left.fill
+    /// - Alias: rectangle.3.offgrid.bubble.left.fill
     /// - Category: communication, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23619,8 +22892,8 @@ public enum SFName: String, Identifiable {
     case rectanglesGroupBubbleLeftFill = "rectangles.group.bubble.left.fill"
 
     /// - Symbol Name: rectangles.group.fill
+    /// - Alias: rectangle.3.offgrid.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case rectanglesGroupFill = "rectangles.group.fill"
 
@@ -23678,25 +22951,21 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: return.left
     /// - Category: arrows, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case returnLeft = "return.left"
 
     /// - Symbol Name: return.right
     /// - Category: arrows, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case returnRight = "return.right"
 
     /// - Symbol Name: screwdriver
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case screwdriver = "screwdriver"
 
     /// - Symbol Name: screwdriver.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case screwdriverFill = "screwdriver.fill"
 
@@ -23729,12 +22998,13 @@ public enum SFName: String, Identifiable {
     case shareplaySlash = "shareplay.slash"
 
     /// - Symbol Name: shield.lefthalf.filled
+    /// - Alias: shield.lefthalf.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case shieldLefthalfFilled = "shield.lefthalf.filled"
 
     /// - Symbol Name: shield.lefthalf.filled.slash
+    /// - Alias: shield.lefthalf.fill.slash
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23743,7 +23013,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: shield.righthalf.filled
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case shieldRighthalfFilled = "shield.righthalf.filled"
 
@@ -23769,7 +23038,6 @@ public enum SFName: String, Identifiable {
     case signatureZh = "signature.zh"
 
     /// - Symbol Name: signature.zh.traditional
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case signatureZhTraditional = "signature.zh.traditional"
 
@@ -23796,6 +23064,7 @@ public enum SFName: String, Identifiable {
     case sliderHorizontal2RectangleAndArrowTriangle2Circlepath = "slider.horizontal.2.rectangle.and.arrow.triangle.2.circlepath"
 
     /// - Symbol Name: snowflake
+    /// - Alias: snow
     /// - Category: multicolor, weather, whatsnew
     /// - Availabilities:
     ///   - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0
@@ -23803,6 +23072,7 @@ public enum SFName: String, Identifiable {
     case snowflake = "snowflake"
 
     /// - Symbol Name: sparkles.square.filled.on.square
+    /// - Alias: sparkles.square.fill.on.square
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23870,12 +23140,13 @@ public enum SFName: String, Identifiable {
     case squareAndAtRectangleFill = "square.and.at.rectangle.fill"
 
     /// - Symbol Name: square.bottomhalf.filled
+    /// - Alias: square.bottomhalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case squareBottomhalfFilled = "square.bottomhalf.filled"
 
     /// - Symbol Name: square.dashed.inset.filled
+    /// - Alias: square.dashed.inset.fill
     /// - Category: editing, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23883,12 +23154,13 @@ public enum SFName: String, Identifiable {
     case squareDashedInsetFilled = "square.dashed.inset.filled"
 
     /// - Symbol Name: square.fill.and.line.vertical.and.square.fill
+    /// - Alias: square.fill.and.line.vertical.square.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case squareFillAndLineVerticalAndSquareFill = "square.fill.and.line.vertical.and.square.fill"
 
     /// - Symbol Name: square.filled.on.square
+    /// - Alias: square.fill.on.square
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23896,6 +23168,7 @@ public enum SFName: String, Identifiable {
     case squareFilledOnSquare = "square.filled.on.square"
 
     /// - Symbol Name: square.grid.3x3.bottomleft.filled
+    /// - Alias: square.grid.3x3.bottomleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23903,6 +23176,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3BottomleftFilled = "square.grid.3x3.bottomleft.filled"
 
     /// - Symbol Name: square.grid.3x3.bottommiddle.filled
+    /// - Alias: square.grid.3x3.bottommiddle.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23910,6 +23184,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3BottommiddleFilled = "square.grid.3x3.bottommiddle.filled"
 
     /// - Symbol Name: square.grid.3x3.bottomright.filled
+    /// - Alias: square.grid.3x3.bottomright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23917,6 +23192,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3BottomrightFilled = "square.grid.3x3.bottomright.filled"
 
     /// - Symbol Name: square.grid.3x3.middle.filled
+    /// - Alias: square.grid.3x3.middle.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23924,6 +23200,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3MiddleFilled = "square.grid.3x3.middle.filled"
 
     /// - Symbol Name: square.grid.3x3.middleleft.filled
+    /// - Alias: square.grid.3x3.middleleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23931,6 +23208,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3MiddleleftFilled = "square.grid.3x3.middleleft.filled"
 
     /// - Symbol Name: square.grid.3x3.middleright.filled
+    /// - Alias: square.grid.3x3.middleright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23938,6 +23216,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3MiddlerightFilled = "square.grid.3x3.middleright.filled"
 
     /// - Symbol Name: square.grid.3x3.square
+    /// - Alias: square.grid.3x3.fill.square
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23945,6 +23224,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3Square = "square.grid.3x3.square"
 
     /// - Symbol Name: square.grid.3x3.topleft.filled
+    /// - Alias: square.grid.3x3.topleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23952,6 +23232,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3TopleftFilled = "square.grid.3x3.topleft.filled"
 
     /// - Symbol Name: square.grid.3x3.topmiddle.filled
+    /// - Alias: square.grid.3x3.topmiddle.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23959,6 +23240,7 @@ public enum SFName: String, Identifiable {
     case squareGrid3X3TopmiddleFilled = "square.grid.3x3.topmiddle.filled"
 
     /// - Symbol Name: square.grid.3x3.topright.filled
+    /// - Alias: square.grid.3x3.topright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -23973,14 +23255,14 @@ public enum SFName: String, Identifiable {
     case squareInsetFilled = "square.inset.filled"
 
     /// - Symbol Name: square.lefthalf.filled
+    /// - Alias: square.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case squareLefthalfFilled = "square.lefthalf.filled"
 
     /// - Symbol Name: square.righthalf.filled
+    /// - Alias: square.righthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case squareRighthalfFilled = "square.righthalf.filled"
 
@@ -23999,8 +23281,8 @@ public enum SFName: String, Identifiable {
     case squareTextSquareFill = "square.text.square.fill"
 
     /// - Symbol Name: square.tophalf.filled
+    /// - Alias: square.tophalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case squareTophalfFilled = "square.tophalf.filled"
 
@@ -24019,14 +23301,13 @@ public enum SFName: String, Identifiable {
     case starBubbleFill = "star.bubble.fill"
 
     /// - Symbol Name: star.leadinghalf.filled
+    /// - Alias: star.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case starLeadinghalfFilled = "star.leadinghalf.filled"
 
     /// - Symbol Name: suitcase
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case suitcase = "suitcase"
 
@@ -24046,7 +23327,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: suitcase.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case suitcaseFill = "suitcase.fill"
 
@@ -24081,6 +23361,7 @@ public enum SFName: String, Identifiable {
     case sunMaxCircleFill = "sun.max.circle.fill"
 
     /// - Symbol Name: tablecells.fill.badge.ellipsis
+    /// - Alias: tablecells.badge.ellipsis.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -24176,49 +23457,42 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: train.side.front.car
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case trainSideFrontCar = "train.side.front.car"
 
     /// - Symbol Name: train.side.middle.car
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case trainSideMiddleCar = "train.side.middle.car"
 
     /// - Symbol Name: train.side.rear.car
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case trainSideRearCar = "train.side.rear.car"
 
     /// - Symbol Name: tram.fill.tunnel
+    /// - Alias: tram.tunnel.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case tramFillTunnel = "tram.fill.tunnel"
 
     /// - Symbol Name: trapezoid.and.line.horizontal
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case trapezoidAndLineHorizontal = "trapezoid.and.line.horizontal"
 
     /// - Symbol Name: trapezoid.and.line.horizontal.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case trapezoidAndLineHorizontalFill = "trapezoid.and.line.horizontal.fill"
 
     /// - Symbol Name: trapezoid.and.line.vertical
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case trapezoidAndLineVertical = "trapezoid.and.line.vertical"
 
     /// - Symbol Name: trapezoid.and.line.vertical.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case trapezoidAndLineVerticalFill = "trapezoid.and.line.vertical.fill"
 
@@ -24272,7 +23546,6 @@ public enum SFName: String, Identifiable {
 
     /// - Symbol Name: triangle.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case triangleBottomhalfFilled = "triangle.bottomhalf.filled"
 
@@ -24284,32 +23557,29 @@ public enum SFName: String, Identifiable {
     case triangleInsetFilled = "triangle.inset.filled"
 
     /// - Symbol Name: triangle.lefthalf.filled
+    /// - Alias: triangle.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case triangleLefthalfFilled = "triangle.lefthalf.filled"
 
     /// - Symbol Name: triangle.righthalf.filled
+    /// - Alias: triangle.righthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case triangleRighthalfFilled = "triangle.righthalf.filled"
 
     /// - Symbol Name: triangle.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case triangleTophalfFilled = "triangle.tophalf.filled"
 
     /// - Symbol Name: tshirt
     /// - Category: human, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case tshirt = "tshirt"
 
     /// - Symbol Name: tshirt.fill
     /// - Category: human, whatsnew
-    /// - Availabilities:
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
     case tshirtFill = "tshirt.fill"
 

@@ -1,56 +1,58 @@
 //
-//  NSUIKitsExtension.swift
+//  File.swift
 //  
 //
-//  Created by Jo on 2023/2/25.
+//  Created by Jo on 2023/2/27.
 //
 
 #if canImport(Cocoa)
 
 import Cocoa
 
+extension NSButton: SFAssociationProtocol { }
+extension NSToolbarItem: SFAssociationProtocol { }
+extension NSImageView: SFAssociationProtocol { }
+
 public extension NSButton {
-    /// set only
-    var sfsymbol: SFSymbol? {
-        set { self.image = newValue?.image }
-        get { return nil }
-    }
-    
-    /// set only
-    var sfname: SFName? {
-        set { self.image = newValue?.image }
-        get { return nil }
-    }
-    
     convenience init(sfsymbol: SFSymbol, target: Any?, action: Selector?) {
         self.init(image: NSImage(), target: target, action: action)
-        self.image = sfsymbol.image
+        self.sfsymbol = sfsymbol
     }
     
     convenience init(sfname: SFName, target: Any?, action: Selector?) {
         self.init(image: NSImage(), target: target, action: action)
-        self.image = sfname.image
+        self.sfname = sfname
     }
 }
 
 public extension NSToolbarItem {
     convenience init(itemIdentifier: Identifier, sfsymbol: SFSymbol, target: AnyObject? = nil, action: Selector? = nil) {
         self.init(itemIdentifier: itemIdentifier)
-        self.image = sfsymbol.image
         self.target = target
         self.action = action
+        self.sfsymbol = sfsymbol
     }
     
     convenience init(itemIdentifier: Identifier, sfname: SFName, target: AnyObject? = nil, action: Selector? = nil) {
         self.init(itemIdentifier: itemIdentifier)
-        self.image = sfname.image
         self.target = target
         self.action = action
+        self.sfname = sfname
     }
 }
 
-#elseif canImport(UIKit)
-
-import UIKit
+public extension NSImageView {
+    convenience init(sfsymbol: SFSymbol) {
+        if let image = sfsymbol.image {
+            self.init(image: image)
+        } else {
+            self.init(image: NSImage())
+        }
+    }
+    
+    convenience init(sfname: SFName) {
+        self.init(image: NSImage(systemSymbolName: sfname.rawValue) ?? NSImage())
+    }
+}
 
 #endif

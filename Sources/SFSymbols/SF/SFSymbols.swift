@@ -305,7 +305,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: 1.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let _1Magnifyingglass = SFSymbol(._1Magnifyingglass, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: 1.square
@@ -1674,7 +1673,7 @@ public extension SFSymbol {
     static let _9SquareFill = SFSymbol(._9SquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: a
-    /// - Availabilities:
+    /// - Alias: character
     static let a = SFSymbol(.a, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: a.circle
@@ -1705,15 +1704,12 @@ public extension SFSymbol {
 
     /// - Symbol Name: airplane
     /// - Category: transportation
-    /// - Availabilities:
     static let airplane = SFSymbol(.airplane, releaseYear: ._2019, category: [ .transportation ])
 
     /// - Symbol Name: airplayaudio
-    /// - Availabilities:
     static let airplayaudio = SFSymbol(.airplayaudio, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: airplayvideo
-    /// - Availabilities:
     static let airplayvideo = SFSymbol(.airplayvideo, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: alarm
@@ -1725,17 +1721,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: alarm.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     static let alarmFill = SFSymbol(.alarmFill, releaseYear: ._2019, category: [ .objectsandtools, .time ])
 
     /// - Symbol Name: alt
     /// - Category: keyboard
-    /// - Availabilities:
     static let alt = SFSymbol(.alt, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: ant
     /// - Category: nature
-    /// - Availabilities:
     static let ant = SFSymbol(.ant, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: ant.circle
@@ -1753,7 +1746,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: ant.fill
     /// - Category: nature
-    /// - Availabilities:
     static let antFill = SFSymbol(.antFill, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: antenna.radiowaves.left.and.right
@@ -1765,7 +1757,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: app
     /// - Category: shapes
-    /// - Availabilities:
     static let app = SFSymbol(.app, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: app.badge
@@ -1784,60 +1775,51 @@ public extension SFSymbol {
 
     /// - Symbol Name: app.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let appFill = SFSymbol(.appFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: app.gift
-    /// - Availabilities:
     static let appGift = SFSymbol(.appGift, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: app.gift.fill
-    /// - Availabilities:
     static let appGiftFill = SFSymbol(.appGiftFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: archivebox
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let archivebox = SFSymbol(.archivebox, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: archivebox.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let archiveboxFill = SFSymbol(.archiveboxFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: arkit
-    /// - Availabilities:
     static let arkit = SFSymbol(.arkit, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.2.circlepath
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath
     static let arrow2Circlepath = SFSymbol(.arrow2Circlepath, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.2.circlepath.circle
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.circle
     static let arrow2CirclepathCircle = SFSymbol(.arrow2CirclepathCircle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.2.circlepath.circle.fill
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.circle.fill
     static let arrow2CirclepathCircleFill = SFSymbol(.arrow2CirclepathCircleFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.2.squarepath
     /// - Category: arrows
-    /// - Availabilities:
     static let arrow2Squarepath = SFSymbol(.arrow2Squarepath, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.3.trianglepath
     /// - Category: arrows
-    /// - Availabilities:
     static let arrow3Trianglepath = SFSymbol(.arrow3Trianglepath, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.branch
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.branch
     static let arrowBranch = SFSymbol(.arrowBranch, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.clockwise
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowClockwise = SFSymbol(.arrowClockwise, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.clockwise.circle
@@ -1867,7 +1849,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.counterclockwise
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowCounterclockwise = SFSymbol(.arrowCounterclockwise, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.counterclockwise.circle
@@ -1897,7 +1878,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.down
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowDown = SFSymbol(.arrowDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.down.circle
@@ -1927,7 +1907,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.down.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowDownLeft = SFSymbol(.arrowDownLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.down.left.circle
@@ -1969,12 +1948,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.down.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowDownRight = SFSymbol(.arrowDownRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.down.right.and.arrow.up.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowDownRightAndArrowUpLeft = SFSymbol(.arrowDownRightAndArrowUpLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.down.right.circle
@@ -2016,21 +1993,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.down.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     static let arrowDownToLine = SFSymbol(.arrowDownToLine, releaseYear: ._2019, category: [ .arrows, .keyboard ])
 
     /// - Symbol Name: arrow.down.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.down.to.line.compact
     static let arrowDownToLineAlt = SFSymbol(.arrowDownToLineAlt, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowLeft = SFSymbol(.arrowLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.left.and.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowLeftAndRight = SFSymbol(.arrowLeftAndRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.left.and.right.circle
@@ -2085,40 +2059,38 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.left.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     static let arrowLeftToLine = SFSymbol(.arrowLeftToLine, releaseYear: ._2019, category: [ .arrows, .keyboard ])
 
     /// - Symbol Name: arrow.left.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.left.to.line.compact
     static let arrowLeftToLineAlt = SFSymbol(.arrowLeftToLineAlt, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.merge
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.merge
     static let arrowMerge = SFSymbol(.arrowMerge, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowRight = SFSymbol(.arrowRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.right.arrow.left
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right
     static let arrowRightArrowLeft = SFSymbol(.arrowRightArrowLeft, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.right.arrow.left.circle
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.circle
     static let arrowRightArrowLeftCircle = SFSymbol(.arrowRightArrowLeftCircle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.right.arrow.left.circle.fill
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.circle.fill
     static let arrowRightArrowLeftCircleFill = SFSymbol(.arrowRightArrowLeftCircleFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.right.arrow.left.square
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.square
     static let arrowRightArrowLeftSquare = SFSymbol(.arrowRightArrowLeftSquare, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.right.arrow.left.square.fill
-    /// - Availabilities:
+    /// - Alias: arrow.left.arrow.right.square.fill
     static let arrowRightArrowLeftSquareFill = SFSymbol(.arrowRightArrowLeftSquareFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.right.circle
@@ -2148,65 +2120,54 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.right.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     static let arrowRightToLine = SFSymbol(.arrowRightToLine, releaseYear: ._2019, category: [ .arrows, .keyboard ])
 
     /// - Symbol Name: arrow.right.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.right.to.line.compact
     static let arrowRightToLineAlt = SFSymbol(.arrowRightToLineAlt, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.swap
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.swap
     static let arrowSwap = SFSymbol(.arrowSwap, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.turn.down.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnDownLeft = SFSymbol(.arrowTurnDownLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.turn.down.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnDownRight = SFSymbol(.arrowTurnDownRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.turn.left.down
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnLeftDown = SFSymbol(.arrowTurnLeftDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.turn.left.up
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnLeftUp = SFSymbol(.arrowTurnLeftUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.turn.right.down
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnRightDown = SFSymbol(.arrowTurnRightDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.turn.right.up
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnRightUp = SFSymbol(.arrowTurnRightUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.turn.up.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnUpLeft = SFSymbol(.arrowTurnUpLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.turn.up.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTurnUpRight = SFSymbol(.arrowTurnUpRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUp = SFSymbol(.arrowUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.and.down
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpAndDown = SFSymbol(.arrowUpAndDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.and.down.circle
@@ -2236,7 +2197,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.arrow.down
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpArrowDown = SFSymbol(.arrowUpArrowDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.arrow.down.circle
@@ -2303,12 +2263,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpLeft = SFSymbol(.arrowUpLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.left.and.arrow.down.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpLeftAndArrowDownRight = SFSymbol(.arrowUpLeftAndArrowDownRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.left.circle
@@ -2338,10 +2296,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpRight = SFSymbol(.arrowUpRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.right.circle
+    /// - Alias: arrow.upright.circle
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -2355,11 +2313,11 @@ public extension SFSymbol {
     static let arrowUpRightCircleFill = SFSymbol(.arrowUpRightCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ])
 
     /// - Symbol Name: arrow.up.right.diamond
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.turn.up.right.diamond
     static let arrowUpRightDiamond = SFSymbol(.arrowUpRightDiamond, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.up.right.diamond.fill
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.turn.up.right.diamond.fill
     static let arrowUpRightDiamondFill = SFSymbol(.arrowUpRightDiamondFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.up.right.square
@@ -2400,16 +2358,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.to.line
     /// - Category: arrows, keyboard
-    /// - Availabilities:
     static let arrowUpToLine = SFSymbol(.arrowUpToLine, releaseYear: ._2019, category: [ .arrows, .keyboard ])
 
     /// - Symbol Name: arrow.up.to.line.alt
-    /// - Availabilities:
+    /// - Alias: arrow.up.to.line.compact
     static let arrowUpToLineAlt = SFSymbol(.arrowUpToLineAlt, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: arrow.uturn.down
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUturnDown = SFSymbol(.arrowUturnDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.uturn.down.circle
@@ -2439,7 +2395,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.uturn.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUturnLeft = SFSymbol(.arrowUturnLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.uturn.left.circle
@@ -2475,7 +2430,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.uturn.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUturnRight = SFSymbol(.arrowUturnRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.uturn.right.circle
@@ -2505,7 +2459,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.uturn.up
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUturnUp = SFSymbol(.arrowUturnUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrow.uturn.up.circle
@@ -2535,17 +2488,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.turn.up.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpLeft = SFSymbol(.arrowshapeTurnUpLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.left.2
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpLeft2 = SFSymbol(.arrowshapeTurnUpLeft2, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.left.2.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpLeft2Fill = SFSymbol(.arrowshapeTurnUpLeft2Fill, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.left.circle
@@ -2563,12 +2513,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.turn.up.left.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpLeftFill = SFSymbol(.arrowshapeTurnUpLeftFill, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpRight = SFSymbol(.arrowshapeTurnUpRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.right.circle
@@ -2586,12 +2534,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.turn.up.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpRightFill = SFSymbol(.arrowshapeTurnUpRightFill, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.down
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleDown = SFSymbol(.arrowtriangleDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.down.circle
@@ -2609,7 +2555,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.down.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleDownFill = SFSymbol(.arrowtriangleDownFill, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.down.square
@@ -2626,7 +2571,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleLeft = SFSymbol(.arrowtriangleLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.left.circle
@@ -2644,7 +2588,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.left.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleLeftFill = SFSymbol(.arrowtriangleLeftFill, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.left.square
@@ -2661,7 +2604,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleRight = SFSymbol(.arrowtriangleRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.right.circle
@@ -2679,7 +2621,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleRightFill = SFSymbol(.arrowtriangleRightFill, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.right.square
@@ -2696,7 +2637,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.up
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleUp = SFSymbol(.arrowtriangleUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.up.circle
@@ -2714,7 +2654,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.up.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleUpFill = SFSymbol(.arrowtriangleUpFill, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.up.square
@@ -2731,12 +2670,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: aspectratio
     /// - Category: editing
-    /// - Availabilities:
     static let aspectratio = SFSymbol(.aspectratio, releaseYear: ._2019, category: [ .editing ])
 
     /// - Symbol Name: aspectratio.fill
     /// - Category: editing
-    /// - Availabilities:
     static let aspectratioFill = SFSymbol(.aspectratioFill, releaseYear: ._2019, category: [ .editing ])
 
     /// - Symbol Name: asterisk.circle
@@ -2825,32 +2762,26 @@ public extension SFSymbol {
 
     /// - Symbol Name: backward
     /// - Category: media
-    /// - Availabilities:
     static let backward = SFSymbol(.backward, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: backward.end
     /// - Category: media
-    /// - Availabilities:
     static let backwardEnd = SFSymbol(.backwardEnd, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: backward.end.alt
     /// - Category: media
-    /// - Availabilities:
     static let backwardEndAlt = SFSymbol(.backwardEndAlt, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: backward.end.alt.fill
     /// - Category: media
-    /// - Availabilities:
     static let backwardEndAltFill = SFSymbol(.backwardEndAltFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: backward.end.fill
     /// - Category: media
-    /// - Availabilities:
     static let backwardEndFill = SFSymbol(.backwardEndFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: backward.fill
     /// - Category: media
-    /// - Availabilities:
     static let backwardFill = SFSymbol(.backwardFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: badge.plus.radiowaves.right
@@ -2862,7 +2793,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: bag
     /// - Category: commerce
-    /// - Availabilities:
     static let bag = SFSymbol(.bag, releaseYear: ._2019, category: [ .commerce ])
 
     /// - Symbol Name: bag.badge.minus
@@ -2881,10 +2811,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: bag.fill
     /// - Category: commerce
-    /// - Availabilities:
     static let bagFill = SFSymbol(.bagFill, releaseYear: ._2019, category: [ .commerce ])
 
     /// - Symbol Name: bag.fill.badge.minus
+    /// - Alias: bag.badge.minus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -2892,6 +2822,7 @@ public extension SFSymbol {
     static let bagFillBadgeMinus = SFSymbol(.bagFillBadgeMinus, releaseYear: ._2019, category: [ .commerce, .multicolor ])
 
     /// - Symbol Name: bag.fill.badge.plus
+    /// - Alias: bag.badge.plus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -2932,11 +2863,9 @@ public extension SFSymbol {
 
     /// - Symbol Name: bandage.fill
     /// - Category: editing, health, objectsandtools
-    /// - Availabilities:
     static let bandageFill = SFSymbol(.bandageFill, releaseYear: ._2019, category: [ .editing, .health, .objectsandtools ])
 
     /// - Symbol Name: barcode
-    /// - Availabilities:
     static let barcode = SFSymbol(.barcode, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: barcode.viewfinder
@@ -2946,7 +2875,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: battery.0
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let battery0 = SFSymbol(.battery0, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: battery.100
@@ -3015,11 +2943,11 @@ public extension SFSymbol {
     static let bellSlashFill = SFSymbol(.bellSlashFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: bin.xmark
-    /// - Availabilities:
+    /// - Alias: xmark.bin
     static let binXmark = SFSymbol(.binXmark, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: bin.xmark.fill
-    /// - Availabilities:
+    /// - Alias: xmark.bin.fill
     static let binXmarkFill = SFSymbol(.binXmarkFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: bitcoinsign.circle
@@ -3068,7 +2996,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: bolt
     /// - Category: nature
-    /// - Availabilities:
     static let bolt = SFSymbol(.bolt, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: bolt.badge.a
@@ -3103,7 +3030,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: bolt.horizontal
     /// - Category: connectivity
-    /// - Availabilities:
     static let boltHorizontal = SFSymbol(.boltHorizontal, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: bolt.horizontal.circle
@@ -3121,7 +3047,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: bolt.horizontal.fill
     /// - Category: connectivity
-    /// - Availabilities:
     static let boltHorizontalFill = SFSymbol(.boltHorizontalFill, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: bolt.horizontal.icloud
@@ -3150,7 +3075,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: book
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let book = SFSymbol(.book, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: book.circle
@@ -3168,7 +3092,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: book.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let bookFill = SFSymbol(.bookFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: bookmark
@@ -3197,7 +3120,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: bubble.left
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleLeft = SFSymbol(.bubbleLeft, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: bubble.left.and.bubble.right
@@ -3214,49 +3136,39 @@ public extension SFSymbol {
 
     /// - Symbol Name: bubble.left.fill
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleLeftFill = SFSymbol(.bubbleLeftFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: bubble.middle.bottom
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleMiddleBottom = SFSymbol(.bubbleMiddleBottom, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: bubble.middle.bottom.fill
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleMiddleBottomFill = SFSymbol(.bubbleMiddleBottomFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: bubble.middle.top
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleMiddleTop = SFSymbol(.bubbleMiddleTop, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: bubble.middle.top.fill
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleMiddleTopFill = SFSymbol(.bubbleMiddleTopFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: bubble.right
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleRight = SFSymbol(.bubbleRight, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: bubble.right.fill
     /// - Category: communication
-    /// - Availabilities:
     static let bubbleRightFill = SFSymbol(.bubbleRightFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: burn
-    /// - Availabilities:
     static let burn = SFSymbol(.burn, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: burst
-    /// - Availabilities:
     static let burst = SFSymbol(.burst, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: burst.fill
-    /// - Availabilities:
     static let burstFill = SFSymbol(.burstFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: c.circle
@@ -3321,7 +3233,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: camera
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let camera = SFSymbol(.camera, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: camera.circle
@@ -3339,7 +3250,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: camera.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let cameraFill = SFSymbol(.cameraFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: camera.on.rectangle
@@ -3355,11 +3265,11 @@ public extension SFSymbol {
     static let cameraOnRectangleFill = SFSymbol(.cameraOnRectangleFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: camera.rotate
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.camera
     static let cameraRotate = SFSymbol(.cameraRotate, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: camera.rotate.fill
-    /// - Availabilities:
+    /// - Alias: arrow.triangle.2.circlepath.camera.fill
     static let cameraRotateFill = SFSymbol(.cameraRotateFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: camera.viewfinder
@@ -3370,22 +3280,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: capslock
     /// - Category: keyboard
-    /// - Availabilities:
     static let capslock = SFSymbol(.capslock, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: capslock.fill
     /// - Category: keyboard
-    /// - Availabilities:
     static let capslockFill = SFSymbol(.capslockFill, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: capsule
     /// - Category: shapes
-    /// - Availabilities:
     static let capsule = SFSymbol(.capsule, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: capsule.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let capsuleFill = SFSymbol(.capsuleFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: captions.bubble
@@ -3402,7 +3308,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: car
     /// - Category: transportation
-    /// - Availabilities:
     static let car = SFSymbol(.car, releaseYear: ._2019, category: [ .transportation ])
 
     /// - Symbol Name: car.fill
@@ -3413,7 +3318,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: cart
     /// - Category: commerce
-    /// - Availabilities:
     static let cart = SFSymbol(.cart, releaseYear: ._2019, category: [ .commerce ])
 
     /// - Symbol Name: cart.badge.minus
@@ -3432,10 +3336,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: cart.fill
     /// - Category: commerce
-    /// - Availabilities:
     static let cartFill = SFSymbol(.cartFill, releaseYear: ._2019, category: [ .commerce ])
 
     /// - Symbol Name: cart.fill.badge.minus
+    /// - Alias: cart.badge.minus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -3443,6 +3347,7 @@ public extension SFSymbol {
     static let cartFillBadgeMinus = SFSymbol(.cartFillBadgeMinus, releaseYear: ._2019, category: [ .commerce, .multicolor ])
 
     /// - Symbol Name: cart.fill.badge.plus
+    /// - Alias: cart.badge.plus.fill
     /// - Category: commerce, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -3502,19 +3407,15 @@ public extension SFSymbol {
     static let centsignSquareFill = SFSymbol(.centsignSquareFill, releaseYear: ._2019, category: [ .commerce, .indices, .multicolor ])
 
     /// - Symbol Name: chart.bar
-    /// - Availabilities:
     static let chartBar = SFSymbol(.chartBar, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: chart.bar.fill
-    /// - Availabilities:
     static let chartBarFill = SFSymbol(.chartBarFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: chart.pie
-    /// - Availabilities:
     static let chartPie = SFSymbol(.chartPie, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: chart.pie.fill
-    /// - Availabilities:
     static let chartPieFill = SFSymbol(.chartPieFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: checkmark
@@ -3585,27 +3486,22 @@ public extension SFSymbol {
 
     /// - Symbol Name: chevron.compact.down
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronCompactDown = SFSymbol(.chevronCompactDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.compact.left
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronCompactLeft = SFSymbol(.chevronCompactLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.compact.right
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronCompactRight = SFSymbol(.chevronCompactRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.compact.up
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronCompactUp = SFSymbol(.chevronCompactUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.down
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronDown = SFSymbol(.chevronDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.down.circle
@@ -3635,12 +3531,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: chevron.left
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronLeft = SFSymbol(.chevronLeft, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.left.2
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronLeft2 = SFSymbol(.chevronLeft2, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.left.circle
@@ -3657,7 +3551,7 @@ public extension SFSymbol {
     static let chevronLeftCircleFill = SFSymbol(.chevronLeftCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ])
 
     /// - Symbol Name: chevron.left.slash.chevron.right
-    /// - Availabilities:
+    /// - Alias: chevron.left.forwardslash.chevron.right
     static let chevronLeftSlashChevronRight = SFSymbol(.chevronLeftSlashChevronRight, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: chevron.left.square
@@ -3674,12 +3568,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: chevron.right
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronRight = SFSymbol(.chevronRight, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.right.2
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronRight2 = SFSymbol(.chevronRight2, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.right.circle
@@ -3709,12 +3601,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: chevron.up
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronUp = SFSymbol(.chevronUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.up.chevron.down
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronUpChevronDown = SFSymbol(.chevronUpChevronDown, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: chevron.up.circle
@@ -3744,48 +3634,42 @@ public extension SFSymbol {
 
     /// - Symbol Name: circle
     /// - Category: shapes
-    /// - Availabilities:
     static let circle = SFSymbol(.circle, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: circle.bottomthird.split
-    /// - Availabilities:
+    /// - Alias: sleep
     static let circleBottomthirdSplit = SFSymbol(.circleBottomthirdSplit, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let circleFill = SFSymbol(.circleFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: circle.grid.2x2
-    /// - Availabilities:
     static let circleGrid2X2 = SFSymbol(.circleGrid2X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.grid.2x2.fill
-    /// - Availabilities:
     static let circleGrid2X2Fill = SFSymbol(.circleGrid2X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.grid.3x3
-    /// - Availabilities:
     static let circleGrid3X3 = SFSymbol(.circleGrid3X3, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.grid.3x3.fill
-    /// - Availabilities:
     static let circleGrid3X3Fill = SFSymbol(.circleGrid3X3Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.grid.hex
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid
     static let circleGridHex = SFSymbol(.circleGridHex, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.grid.hex.fill
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid.fill
     static let circleGridHexFill = SFSymbol(.circleGridHexFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.lefthalf.filled
     static let circleLefthalfFill = SFSymbol(.circleLefthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: circle.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.righthalf.filled
     static let circleRighthalfFill = SFSymbol(.circleRighthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: clear
@@ -3809,12 +3693,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: clock.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     static let clockFill = SFSymbol(.clockFill, releaseYear: ._2019, category: [ .objectsandtools, .time ])
 
     /// - Symbol Name: cloud
     /// - Category: weather
-    /// - Availabilities:
     static let cloud = SFSymbol(.cloud, releaseYear: ._2019, category: [ .weather ])
 
     /// - Symbol Name: cloud.bolt
@@ -4046,27 +3928,22 @@ public extension SFSymbol {
 
     /// - Symbol Name: command
     /// - Category: keyboard
-    /// - Availabilities:
     static let command = SFSymbol(.command, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: control
     /// - Category: keyboard
-    /// - Availabilities:
     static let control = SFSymbol(.control, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: creditcard
     /// - Category: commerce
-    /// - Availabilities:
     static let creditcard = SFSymbol(.creditcard, releaseYear: ._2019, category: [ .commerce ])
 
     /// - Symbol Name: creditcard.fill
     /// - Category: commerce
-    /// - Availabilities:
     static let creditcardFill = SFSymbol(.creditcardFill, releaseYear: ._2019, category: [ .commerce ])
 
     /// - Symbol Name: crop
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let crop = SFSymbol(.crop, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: crop.rotate
@@ -4103,24 +3980,22 @@ public extension SFSymbol {
 
     /// - Symbol Name: cube
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let cube = SFSymbol(.cube, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: cube.box
-    /// - Availabilities:
+    /// - Alias: shippingbox
     static let cubeBox = SFSymbol(.cubeBox, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: cube.box.fill
-    /// - Availabilities:
+    /// - Alias: shippingbox.fill
     static let cubeBoxFill = SFSymbol(.cubeBoxFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: cube.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let cubeFill = SFSymbol(.cubeFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: cursor.rays
-    /// - Availabilities:
+    /// - Alias: cursorarrow.rays
     static let cursorRays = SFSymbol(.cursorRays, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: d.circle
@@ -4150,6 +4025,7 @@ public extension SFSymbol {
     static let dSquareFill = SFSymbol(.dSquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: decrease.indent
+    /// - Alias: text.chevron.left
     /// - Category: multicolor, textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -4198,16 +4074,15 @@ public extension SFSymbol {
     static let desktopcomputer = SFSymbol(.desktopcomputer, releaseYear: ._2019, category: [ .devices ])
 
     /// - Symbol Name: dial
-    /// - Availabilities:
+    /// - Alias: dial.min
     static let dial = SFSymbol(.dial, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: dial.fill
-    /// - Availabilities:
+    /// - Alias: dial.min.fill
     static let dialFill = SFSymbol(.dialFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: divide
     /// - Category: math
-    /// - Availabilities:
     static let divide = SFSymbol(.divide, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: divide.circle
@@ -4237,11 +4112,9 @@ public extension SFSymbol {
 
     /// - Symbol Name: doc
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let doc = SFSymbol(.doc, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: doc.append
-    /// - Availabilities:
     static let docAppend = SFSymbol(.docAppend, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: doc.circle
@@ -4259,7 +4132,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: doc.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let docFill = SFSymbol(.docFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: doc.on.clipboard
@@ -4287,21 +4159,17 @@ public extension SFSymbol {
     static let docOnDocFill = SFSymbol(.docOnDocFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: doc.plaintext
-    /// - Availabilities:
     static let docPlaintext = SFSymbol(.docPlaintext, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: doc.richtext
-    /// - Availabilities:
     static let docRichtext = SFSymbol(.docRichtext, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: doc.text
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let docText = SFSymbol(.docText, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: doc.text.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let docTextFill = SFSymbol(.docTextFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: doc.text.magnifyingglass
@@ -4369,7 +4237,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: dot.radiowaves.left.and.right
     /// - Category: connectivity
-    /// - Availabilities:
     static let dotRadiowavesLeftAndRight = SFSymbol(.dotRadiowavesLeftAndRight, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: dot.radiowaves.right
@@ -4435,24 +4302,21 @@ public extension SFSymbol {
 
     /// - Symbol Name: eject
     /// - Category: keyboard
-    /// - Availabilities:
     static let eject = SFSymbol(.eject, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: eject.fill
     /// - Category: keyboard
-    /// - Availabilities:
     static let ejectFill = SFSymbol(.ejectFill, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: ellipses.bubble
-    /// - Availabilities:
+    /// - Alias: ellipsis.bubble
     static let ellipsesBubble = SFSymbol(.ellipsesBubble, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: ellipses.bubble.fill
-    /// - Availabilities:
+    /// - Alias: ellipsis.bubble.fill
     static let ellipsesBubbleFill = SFSymbol(.ellipsesBubbleFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: ellipsis
-    /// - Availabilities:
     static let ellipsis = SFSymbol(.ellipsis, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: ellipsis.circle
@@ -4469,7 +4333,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: envelope
     /// - Category: communication
-    /// - Availabilities:
     static let envelope = SFSymbol(.envelope, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: envelope.badge
@@ -4499,22 +4362,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: envelope.fill
     /// - Category: communication
-    /// - Availabilities:
     static let envelopeFill = SFSymbol(.envelopeFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: envelope.open
     /// - Category: communication
-    /// - Availabilities:
     static let envelopeOpen = SFSymbol(.envelopeOpen, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: envelope.open.fill
     /// - Category: communication
-    /// - Availabilities:
     static let envelopeOpenFill = SFSymbol(.envelopeOpenFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: equal
     /// - Category: math
-    /// - Availabilities:
     static let equal = SFSymbol(.equal, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: equal.circle
@@ -4672,12 +4531,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: eye
     /// - Category: health, human
-    /// - Availabilities:
     static let eye = SFSymbol(.eye, releaseYear: ._2019, category: [ .health, .human ])
 
     /// - Symbol Name: eye.fill
     /// - Category: health, human
-    /// - Availabilities:
     static let eyeFill = SFSymbol(.eyeFill, releaseYear: ._2019, category: [ .health, .human ])
 
     /// - Symbol Name: eye.slash
@@ -4694,22 +4551,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: eyedropper
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let eyedropper = SFSymbol(.eyedropper, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: eyedropper.full
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let eyedropperFull = SFSymbol(.eyedropperFull, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: eyedropper.halffull
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let eyedropperHalffull = SFSymbol(.eyedropperHalffull, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: eyeglasses
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let eyeglasses = SFSymbol(.eyeglasses, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: f.circle
@@ -4726,7 +4579,6 @@ public extension SFSymbol {
     static let fCircleFill = SFSymbol(.fCircleFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: f.cursive
-    /// - Availabilities:
     static let fCursive = SFSymbol(.fCursive, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: f.cursive.circle
@@ -4763,12 +4615,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: film
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let film = SFSymbol(.film, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: film.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let filmFill = SFSymbol(.filmFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: flag
@@ -4811,30 +4661,26 @@ public extension SFSymbol {
 
     /// - Symbol Name: flame
     /// - Category: nature
-    /// - Availabilities:
     static let flame = SFSymbol(.flame, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: flame.fill
     /// - Category: nature
-    /// - Availabilities:
     static let flameFill = SFSymbol(.flameFill, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: flashlight.off.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let flashlightOffFill = SFSymbol(.flashlightOffFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: flashlight.on.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let flashlightOnFill = SFSymbol(.flashlightOnFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: flip.horizontal
-    /// - Availabilities:
+    /// - Alias: arrow.left.and.right.righttriangle.left.righttriangle.right
     static let flipHorizontal = SFSymbol(.flipHorizontal, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: flip.horizontal.fill
-    /// - Availabilities:
+    /// - Alias: arrow.left.and.right.righttriangle.left.righttriangle.right.fill
     static let flipHorizontalFill = SFSymbol(.flipHorizontalFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: florinsign.circle
@@ -4864,11 +4710,9 @@ public extension SFSymbol {
     static let florinsignSquareFill = SFSymbol(.florinsignSquareFill, releaseYear: ._2019, category: [ .commerce, .indices, .multicolor ])
 
     /// - Symbol Name: flowchart
-    /// - Availabilities:
     static let flowchart = SFSymbol(.flowchart, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: flowchart.fill
-    /// - Availabilities:
     static let flowchartFill = SFSymbol(.flowchartFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: folder
@@ -4918,6 +4762,7 @@ public extension SFSymbol {
     static let folderFill = SFSymbol(.folderFill, releaseYear: ._2019, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: folder.fill.badge.minus
+    /// - Alias: folder.badge.minus.fill
     /// - Category: multicolor, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -4925,12 +4770,14 @@ public extension SFSymbol {
     static let folderFillBadgeMinus = SFSymbol(.folderFillBadgeMinus, releaseYear: ._2019, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: folder.fill.badge.person.crop
+    /// - Alias: folder.badge.person.crop.fill
     /// - Category: human, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let folderFillBadgePersonCrop = SFSymbol(.folderFillBadgePersonCrop, releaseYear: ._2019, category: [ .human, .objectsandtools ])
 
     /// - Symbol Name: folder.fill.badge.plus
+    /// - Alias: folder.badge.plus.fill
     /// - Category: multicolor, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -4939,32 +4786,26 @@ public extension SFSymbol {
 
     /// - Symbol Name: forward
     /// - Category: media
-    /// - Availabilities:
     static let forward = SFSymbol(.forward, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: forward.end
     /// - Category: media
-    /// - Availabilities:
     static let forwardEnd = SFSymbol(.forwardEnd, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: forward.end.alt
     /// - Category: media
-    /// - Availabilities:
     static let forwardEndAlt = SFSymbol(.forwardEndAlt, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: forward.end.alt.fill
     /// - Category: media
-    /// - Availabilities:
     static let forwardEndAltFill = SFSymbol(.forwardEndAltFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: forward.end.fill
     /// - Category: media
-    /// - Availabilities:
     static let forwardEndFill = SFSymbol(.forwardEndFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: forward.fill
     /// - Category: media
-    /// - Availabilities:
     static let forwardFill = SFSymbol(.forwardFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: francsign.circle
@@ -4995,11 +4836,9 @@ public extension SFSymbol {
 
     /// - Symbol Name: function
     /// - Category: math
-    /// - Availabilities:
     static let function = SFSymbol(.function, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: fx
-    /// - Availabilities:
     static let fx = SFSymbol(.fx, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: g.circle
@@ -5036,7 +4875,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: gamecontroller.fill
     /// - Category: devices, gaming, objectsandtools
-    /// - Availabilities:
     static let gamecontrollerFill = SFSymbol(.gamecontrollerFill, releaseYear: ._2019, category: [ .devices, .gaming, .objectsandtools ])
 
     /// - Symbol Name: gauge
@@ -5079,12 +4917,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: globe
     /// - Category: keyboard
-    /// - Availabilities:
     static let globe = SFSymbol(.globe, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: gobackward
     /// - Category: media
-    /// - Availabilities:
     static let gobackward = SFSymbol(.gobackward, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: gobackward.10
@@ -5221,7 +5057,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: goforward
     /// - Category: media
-    /// - Availabilities:
     static let goforward = SFSymbol(.goforward, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: goforward.10
@@ -5358,7 +5193,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: greaterthan
     /// - Category: math
-    /// - Availabilities:
     static let greaterthan = SFSymbol(.greaterthan, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: greaterthan.circle
@@ -5387,7 +5221,6 @@ public extension SFSymbol {
     static let greaterthanSquareFill = SFSymbol(.greaterthanSquareFill, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: grid
-    /// - Availabilities:
     static let grid = SFSymbol(.grid, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: grid.circle
@@ -5430,7 +5263,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: guitars
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let guitars = SFSymbol(.guitars, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: h.circle
@@ -5461,12 +5293,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: hammer
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let hammer = SFSymbol(.hammer, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: hammer.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let hammerFill = SFSymbol(.hammerFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: hand.draw
@@ -5483,22 +5313,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: hand.point.left
     /// - Category: human
-    /// - Availabilities:
     static let handPointLeft = SFSymbol(.handPointLeft, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hand.point.left.fill
     /// - Category: human
-    /// - Availabilities:
     static let handPointLeftFill = SFSymbol(.handPointLeftFill, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hand.point.right
     /// - Category: human
-    /// - Availabilities:
     static let handPointRight = SFSymbol(.handPointRight, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hand.point.right.fill
     /// - Category: human
-    /// - Availabilities:
     static let handPointRightFill = SFSymbol(.handPointRightFill, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hand.raised
@@ -5527,37 +5353,30 @@ public extension SFSymbol {
 
     /// - Symbol Name: hand.thumbsdown
     /// - Category: human
-    /// - Availabilities:
     static let handThumbsdown = SFSymbol(.handThumbsdown, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hand.thumbsdown.fill
     /// - Category: human
-    /// - Availabilities:
     static let handThumbsdownFill = SFSymbol(.handThumbsdownFill, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hand.thumbsup
     /// - Category: human
-    /// - Availabilities:
     static let handThumbsup = SFSymbol(.handThumbsup, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hand.thumbsup.fill
     /// - Category: human
-    /// - Availabilities:
     static let handThumbsupFill = SFSymbol(.handThumbsupFill, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: hare
     /// - Category: nature
-    /// - Availabilities:
     static let hare = SFSymbol(.hare, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: hare.fill
     /// - Category: nature
-    /// - Availabilities:
     static let hareFill = SFSymbol(.hareFill, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: headphones
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let headphones = SFSymbol(.headphones, releaseYear: ._2019, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: heart
@@ -5609,22 +5428,18 @@ public extension SFSymbol {
     static let heartSlashFill = SFSymbol(.heartSlashFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: helm
-    /// - Availabilities:
     static let helm = SFSymbol(.helm, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: hexagon
     /// - Category: shapes
-    /// - Availabilities:
     static let hexagon = SFSymbol(.hexagon, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: hexagon.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let hexagonFill = SFSymbol(.hexagonFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: hifispeaker
     /// - Category: devices
-    /// - Availabilities:
     static let hifispeaker = SFSymbol(.hifispeaker, releaseYear: ._2019, category: [ .devices ])
 
     /// - Symbol Name: hifispeaker.fill
@@ -5641,16 +5456,15 @@ public extension SFSymbol {
     static let hourglass = SFSymbol(.hourglass, releaseYear: ._2019, category: [ .multicolor, .objectsandtools, .time ])
 
     /// - Symbol Name: hourglass.bottomhalf.fill
-    /// - Availabilities:
+    /// - Alias: hourglass.bottomhalf.filled
     static let hourglassBottomhalfFill = SFSymbol(.hourglassBottomhalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: hourglass.tophalf.fill
-    /// - Availabilities:
+    /// - Alias: hourglass.tophalf.filled
     static let hourglassTophalfFill = SFSymbol(.hourglassTophalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: house
     /// - Category: gaming
-    /// - Availabilities:
     static let house = SFSymbol(.house, releaseYear: ._2019, category: [ .gaming ])
 
     /// - Symbol Name: house.fill
@@ -5719,7 +5533,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: icloud
     /// - Category: connectivity
-    /// - Availabilities:
     static let icloud = SFSymbol(.icloud, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: icloud.and.arrow.down
@@ -5730,7 +5543,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: icloud.and.arrow.down.fill
     /// - Category: connectivity
-    /// - Availabilities:
     static let icloudAndArrowDownFill = SFSymbol(.icloudAndArrowDownFill, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: icloud.and.arrow.up
@@ -5741,7 +5553,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: icloud.and.arrow.up.fill
     /// - Category: connectivity
-    /// - Availabilities:
     static let icloudAndArrowUpFill = SFSymbol(.icloudAndArrowUpFill, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: icloud.circle
@@ -5777,6 +5588,7 @@ public extension SFSymbol {
     static let icloudSlashFill = SFSymbol(.icloudSlashFill, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: increase.indent
+    /// - Alias: text.chevron.right
     /// - Category: multicolor, textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -5896,12 +5708,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: keyboard
     /// - Category: devices, keyboard
-    /// - Availabilities:
     static let keyboard = SFSymbol(.keyboard, releaseYear: ._2019, category: [ .devices, .keyboard ])
 
     /// - Symbol Name: keyboard.chevron.compact.down
     /// - Category: devices, keyboard
-    /// - Availabilities:
     static let keyboardChevronCompactDown = SFSymbol(.keyboardChevronCompactDown, releaseYear: ._2019, category: [ .devices, .keyboard ])
 
     /// - Symbol Name: kipsign.circle
@@ -5957,7 +5767,7 @@ public extension SFSymbol {
     static let lSquareFill = SFSymbol(.lSquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: largecircle.fill.circle
-    /// - Availabilities:
+    /// - Alias: circle.inset.filled
     static let largecircleFillCircle = SFSymbol(.largecircleFillCircle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: larisign.circle
@@ -5988,16 +5798,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: lasso
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let lasso = SFSymbol(.lasso, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: leaf.arrow.circlepath
-    /// - Availabilities:
+    /// - Alias: leaf.arrow.triangle.circlepath
     static let leafArrowCirclepath = SFSymbol(.leafArrowCirclepath, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: lessthan
     /// - Category: math
-    /// - Availabilities:
     static let lessthan = SFSymbol(.lessthan, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: lessthan.circle
@@ -6039,12 +5847,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: lightbulb
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let lightbulb = SFSymbol(.lightbulb, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: lightbulb.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let lightbulbFill = SFSymbol(.lightbulbFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: lightbulb.slash
@@ -6060,19 +5866,19 @@ public extension SFSymbol {
     static let lightbulbSlashFill = SFSymbol(.lightbulbSlashFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: line.horizontal.3
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal
     static let lineHorizontal3 = SFSymbol(.lineHorizontal3, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: line.horizontal.3.decrease
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.decrease
     static let lineHorizontal3Decrease = SFSymbol(.lineHorizontal3Decrease, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: line.horizontal.3.decrease.circle
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.decrease.circle
     static let lineHorizontal3DecreaseCircle = SFSymbol(.lineHorizontal3DecreaseCircle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: line.horizontal.3.decrease.circle.fill
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.decrease.circle.fill
     static let lineHorizontal3DecreaseCircleFill = SFSymbol(.lineHorizontal3DecreaseCircleFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: link
@@ -6141,7 +5947,6 @@ public extension SFSymbol {
     static let listBullet = SFSymbol(.listBullet, releaseYear: ._2019, category: [ .multicolor, .textformatting ])
 
     /// - Symbol Name: list.bullet.below.rectangle
-    /// - Availabilities:
     static let listBulletBelowRectangle = SFSymbol(.listBulletBelowRectangle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: list.bullet.indent
@@ -6173,11 +5978,9 @@ public extension SFSymbol {
     static let listNumberRtl = SFSymbol(.listNumberRtl, releaseYear: ._2019, category: [ .multicolor, .textformatting ])
 
     /// - Symbol Name: livephoto
-    /// - Availabilities:
     static let livephoto = SFSymbol(.livephoto, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: livephoto.play
-    /// - Availabilities:
     static let livephotoPlay = SFSymbol(.livephotoPlay, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: livephoto.slash
@@ -6287,12 +6090,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: lock.open
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let lockOpen = SFSymbol(.lockOpen, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: lock.open.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let lockOpenFill = SFSymbol(.lockOpenFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: lock.rotation
@@ -6365,7 +6166,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let magnifyingglass = SFSymbol(.magnifyingglass, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: magnifyingglass.circle
@@ -6409,12 +6209,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: map
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let map = SFSymbol(.map, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: map.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let mapFill = SFSymbol(.mapFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: mappin
@@ -6451,7 +6249,6 @@ public extension SFSymbol {
     static let mappinSlash = SFSymbol(.mappinSlash, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: memories
-    /// - Availabilities:
     static let memories = SFSymbol(.memories, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: memories.badge.minus
@@ -6496,7 +6293,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: metronome
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let metronome = SFSymbol(.metronome, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: mic
@@ -6585,7 +6381,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: minus.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let minusMagnifyingglass = SFSymbol(.minusMagnifyingglass, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: minus.rectangle
@@ -6603,7 +6398,7 @@ public extension SFSymbol {
     static let minusRectangleFill = SFSymbol(.minusRectangleFill, releaseYear: ._2019, category: [ .math, .multicolor ])
 
     /// - Symbol Name: minus.slash.plus
-    /// - Availabilities:
+    /// - Alias: minus.forwardslash.plus
     static let minusSlashPlus = SFSymbol(.minusSlashPlus, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: minus.square
@@ -6622,7 +6417,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: moon
     /// - Category: weather
-    /// - Availabilities:
     static let moon = SFSymbol(.moon, releaseYear: ._2019, category: [ .weather ])
 
     /// - Symbol Name: moon.circle
@@ -6669,7 +6463,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: multiply
     /// - Category: math
-    /// - Availabilities:
     static let multiply = SFSymbol(.multiply, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: multiply.circle
@@ -6698,20 +6491,18 @@ public extension SFSymbol {
     static let multiplySquareFill = SFSymbol(.multiplySquareFill, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: music.house
-    /// - Availabilities:
+    /// - Alias: music.note.house
     static let musicHouse = SFSymbol(.musicHouse, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: music.house.fill
-    /// - Availabilities:
+    /// - Alias: music.note.house.fill
     static let musicHouseFill = SFSymbol(.musicHouseFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: music.mic
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let musicMic = SFSymbol(.musicMic, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: music.note
-    /// - Availabilities:
     static let musicNote = SFSymbol(.musicNote, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: music.note.list
@@ -6772,12 +6563,10 @@ public extension SFSymbol {
     static let nairasignSquareFill = SFSymbol(.nairasignSquareFill, releaseYear: ._2019, category: [ .commerce, .indices, .multicolor ])
 
     /// - Symbol Name: nosign
-    /// - Availabilities:
     static let nosign = SFSymbol(.nosign, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: number
     /// - Category: math
-    /// - Availabilities:
     static let number = SFSymbol(.number, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: number.circle
@@ -6833,7 +6622,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: option
     /// - Category: keyboard
-    /// - Availabilities:
     static let option = SFSymbol(.option, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: p.circle
@@ -6864,20 +6652,16 @@ public extension SFSymbol {
 
     /// - Symbol Name: paintbrush
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let paintbrush = SFSymbol(.paintbrush, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: paintbrush.fill
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let paintbrushFill = SFSymbol(.paintbrushFill, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: pano
-    /// - Availabilities:
     static let pano = SFSymbol(.pano, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: pano.fill
-    /// - Availabilities:
     static let panoFill = SFSymbol(.panoFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: paperclip
@@ -6902,21 +6686,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: paperplane
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let paperplane = SFSymbol(.paperplane, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: paperplane.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let paperplaneFill = SFSymbol(.paperplaneFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: paragraph
-    /// - Availabilities:
+    /// - Alias: paragraphsign
     static let paragraph = SFSymbol(.paragraph, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: pause
     /// - Category: media
-    /// - Availabilities:
     static let pause = SFSymbol(.pause, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: pause.circle
@@ -6934,7 +6715,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: pause.fill
     /// - Category: media
-    /// - Availabilities:
     static let pauseFill = SFSymbol(.pauseFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: pause.rectangle
@@ -6951,11 +6731,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: pencil
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let pencil = SFSymbol(.pencil, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: pencil.and.ellipsis.rectangle
-    /// - Availabilities:
+    /// - Alias: rectangle.and.pencil.and.ellipsis
     static let pencilAndEllipsisRectangle = SFSymbol(.pencilAndEllipsisRectangle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: pencil.and.outline
@@ -6985,12 +6764,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: pencil.tip
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let pencilTip = SFSymbol(.pencilTip, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: pencil.tip.crop.circle
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let pencilTipCropCircle = SFSymbol(.pencilTipCropCircle, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: pencil.tip.crop.circle.badge.minus
@@ -7009,32 +6786,32 @@ public extension SFSymbol {
 
     /// - Symbol Name: percent
     /// - Category: math
-    /// - Availabilities:
     static let percent = SFSymbol(.percent, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: person
     /// - Category: human
-    /// - Availabilities:
     static let person = SFSymbol(.person, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.2
+    /// - Alias: person.and.person
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let person2 = SFSymbol(.person2, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.2.fill
+    /// - Alias: person.and.person.fill
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let person2Fill = SFSymbol(.person2Fill, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.2.square.stack
-    /// - Availabilities:
+    /// - Alias: person.2.crop.square.stack
     static let person2SquareStack = SFSymbol(.person2SquareStack, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: person.2.square.stack.fill
-    /// - Availabilities:
+    /// - Alias: person.2.crop.square.stack.fill
     static let person2SquareStackFill = SFSymbol(.person2SquareStackFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: person.3
@@ -7057,7 +6834,7 @@ public extension SFSymbol {
     static let personBadgeMinus = SFSymbol(.personBadgeMinus, releaseYear: ._2019, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.badge.minus.fill
-    /// - Availabilities:
+    /// - Alias: person.fill.badge.minus
     static let personBadgeMinusFill = SFSymbol(.personBadgeMinusFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: person.badge.plus
@@ -7068,7 +6845,7 @@ public extension SFSymbol {
     static let personBadgePlus = SFSymbol(.personBadgePlus, releaseYear: ._2019, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.badge.plus.fill
-    /// - Availabilities:
+    /// - Alias: person.fill.badge.plus
     static let personBadgePlusFill = SFSymbol(.personBadgePlusFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: person.circle
@@ -7086,7 +6863,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: person.crop.circle
     /// - Category: human
-    /// - Availabilities:
     static let personCropCircle = SFSymbol(.personCropCircle, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.crop.circle.badge.checkmark
@@ -7097,7 +6873,7 @@ public extension SFSymbol {
     static let personCropCircleBadgeCheckmark = SFSymbol(.personCropCircleBadgeCheckmark, releaseYear: ._2019, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.crop.circle.badge.exclam
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.exclamationmark
     static let personCropCircleBadgeExclam = SFSymbol(.personCropCircleBadgeExclam, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: person.crop.circle.badge.minus
@@ -7129,6 +6905,7 @@ public extension SFSymbol {
     static let personCropCircleFill = SFSymbol(.personCropCircleFill, releaseYear: ._2019, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.checkmark
+    /// - Alias: person.crop.circle.badge.checkmark.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7136,10 +6913,11 @@ public extension SFSymbol {
     static let personCropCircleFillBadgeCheckmark = SFSymbol(.personCropCircleFillBadgeCheckmark, releaseYear: ._2019, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.exclam
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.exclamationmark.fill
     static let personCropCircleFillBadgeExclam = SFSymbol(.personCropCircleFillBadgeExclam, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.minus
+    /// - Alias: person.crop.circle.badge.minus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7147,6 +6925,7 @@ public extension SFSymbol {
     static let personCropCircleFillBadgeMinus = SFSymbol(.personCropCircleFillBadgeMinus, releaseYear: ._2019, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.plus
+    /// - Alias: person.crop.circle.badge.plus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7154,6 +6933,7 @@ public extension SFSymbol {
     static let personCropCircleFillBadgePlus = SFSymbol(.personCropCircleFillBadgePlus, releaseYear: ._2019, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.xmark
+    /// - Alias: person.crop.circle.badge.xmark.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7162,17 +6942,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: person.crop.rectangle
     /// - Category: human
-    /// - Availabilities:
     static let personCropRectangle = SFSymbol(.personCropRectangle, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.crop.rectangle.fill
     /// - Category: human
-    /// - Availabilities:
     static let personCropRectangleFill = SFSymbol(.personCropRectangleFill, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.crop.square
     /// - Category: human
-    /// - Availabilities:
     static let personCropSquare = SFSymbol(.personCropSquare, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.crop.square.fill
@@ -7183,12 +6960,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: person.fill
     /// - Category: human
-    /// - Availabilities:
     static let personFill = SFSymbol(.personFill, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: person.icloud
     /// - Category: connectivity, human
-    /// - Availabilities:
     static let personIcloud = SFSymbol(.personIcloud, releaseYear: ._2019, category: [ .connectivity, .human ])
 
     /// - Symbol Name: person.icloud.fill
@@ -7199,7 +6974,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: personalhotspot
     /// - Category: connectivity, objectsandtools
-    /// - Availabilities:
     static let personalhotspot = SFSymbol(.personalhotspot, releaseYear: ._2019, category: [ .connectivity, .objectsandtools ])
 
     /// - Symbol Name: perspective
@@ -7338,24 +7112,28 @@ public extension SFSymbol {
     static let phoneFill = SFSymbol(.phoneFill, releaseYear: ._2019, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: phone.fill.arrow.down.left
+    /// - Alias: phone.arrow.down.left.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let phoneFillArrowDownLeft = SFSymbol(.phoneFillArrowDownLeft, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: phone.fill.arrow.right
+    /// - Alias: phone.arrow.right.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let phoneFillArrowRight = SFSymbol(.phoneFillArrowRight, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: phone.fill.arrow.up.right
+    /// - Alias: phone.arrow.up.right.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let phoneFillArrowUpRight = SFSymbol(.phoneFillArrowUpRight, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: phone.fill.badge.plus
+    /// - Alias: phone.badge.plus.fill
     /// - Category: communication, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7363,14 +7141,13 @@ public extension SFSymbol {
     static let phoneFillBadgePlus = SFSymbol(.phoneFillBadgePlus, releaseYear: ._2019, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: photo
-    /// - Availabilities:
     static let photo = SFSymbol(.photo, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: photo.fill
-    /// - Availabilities:
     static let photoFill = SFSymbol(.photoFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: photo.fill.on.rectangle.fill
+    /// - Alias: photo.on.rectangle.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let photoFillOnRectangleFill = SFSymbol(.photoFillOnRectangleFill, releaseYear: ._2019, category: [  ])
@@ -7420,7 +7197,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: play
     /// - Category: media
-    /// - Availabilities:
     static let play = SFSymbol(.play, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: play.circle
@@ -7438,7 +7214,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: play.fill
     /// - Category: media
-    /// - Availabilities:
     static let playFill = SFSymbol(.playFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: play.rectangle
@@ -7455,12 +7230,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: playpause
     /// - Category: media
-    /// - Availabilities:
     static let playpause = SFSymbol(.playpause, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: playpause.fill
     /// - Category: media
-    /// - Availabilities:
     static let playpauseFill = SFSymbol(.playpauseFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: plus
@@ -7507,7 +7280,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: plus.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let plusMagnifyingglass = SFSymbol(.plusMagnifyingglass, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: plus.rectangle
@@ -7525,6 +7297,7 @@ public extension SFSymbol {
     static let plusRectangleFill = SFSymbol(.plusRectangleFill, releaseYear: ._2019, category: [ .math, .multicolor ])
 
     /// - Symbol Name: plus.rectangle.fill.on.rectangle.fill
+    /// - Alias: plus.rectangle.on.rectangle.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let plusRectangleFillOnRectangleFill = SFSymbol(.plusRectangleFillOnRectangleFill, releaseYear: ._2019, category: [  ])
@@ -7535,7 +7308,7 @@ public extension SFSymbol {
     static let plusRectangleOnRectangle = SFSymbol(.plusRectangleOnRectangle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: plus.slash.minus
-    /// - Availabilities:
+    /// - Alias: plus.forwardslash.minus
     static let plusSlashMinus = SFSymbol(.plusSlashMinus, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: plus.square
@@ -7553,6 +7326,7 @@ public extension SFSymbol {
     static let plusSquareFill = SFSymbol(.plusSquareFill, releaseYear: ._2019, category: [ .math, .multicolor ])
 
     /// - Symbol Name: plus.square.fill.on.square.fill
+    /// - Alias: plus.square.on.square.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let plusSquareFillOnSquareFill = SFSymbol(.plusSquareFillOnSquareFill, releaseYear: ._2019, category: [  ])
@@ -7564,7 +7338,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: plusminus
     /// - Category: math
-    /// - Availabilities:
     static let plusminus = SFSymbol(.plusminus, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: plusminus.circle
@@ -7582,26 +7355,21 @@ public extension SFSymbol {
 
     /// - Symbol Name: power
     /// - Category: keyboard
-    /// - Availabilities:
     static let power = SFSymbol(.power, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: printer
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let printer = SFSymbol(.printer, releaseYear: ._2019, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: printer.fill
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let printerFill = SFSymbol(.printerFill, releaseYear: ._2019, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: projective
     /// - Category: keyboard
-    /// - Availabilities:
     static let projective = SFSymbol(.projective, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: purchased
-    /// - Availabilities:
     static let purchased = SFSymbol(.purchased, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: purchased.circle
@@ -7643,7 +7411,6 @@ public extension SFSymbol {
     static let qSquareFill = SFSymbol(.qSquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: qrcode
-    /// - Availabilities:
     static let qrcode = SFSymbol(.qrcode, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: qrcode.viewfinder
@@ -7712,11 +7479,11 @@ public extension SFSymbol {
     static let questionmarkVideoFill = SFSymbol(.questionmarkVideoFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: questionmark.video.fill.rtl
-    /// - Availabilities:
+    /// - Alias: questionmark.video.fill.ar
     static let questionmarkVideoFillRtl = SFSymbol(.questionmarkVideoFillRtl, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: questionmark.video.rtl
-    /// - Availabilities:
+    /// - Alias: questionmark.video.ar
     static let questionmarkVideoRtl = SFSymbol(.questionmarkVideoRtl, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: quote.bubble
@@ -7758,33 +7525,30 @@ public extension SFSymbol {
     static let rSquareFill = SFSymbol(.rSquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: radiowaves.left
-    /// - Availabilities:
+    /// - Alias: wave.3.left
     static let radiowavesLeft = SFSymbol(.radiowavesLeft, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: radiowaves.right
-    /// - Availabilities:
+    /// - Alias: wave.3.right
     static let radiowavesRight = SFSymbol(.radiowavesRight, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rays
-    /// - Availabilities:
     static let rays = SFSymbol(.rays, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: recordingtape
     /// - Category: communication
-    /// - Availabilities:
     static let recordingtape = SFSymbol(.recordingtape, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: rectangle
     /// - Category: shapes
-    /// - Availabilities:
     static let rectangle = SFSymbol(.rectangle, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: rectangle.3.offgrid
-    /// - Availabilities:
+    /// - Alias: rectangles.group
     static let rectangle3Offgrid = SFSymbol(.rectangle3Offgrid, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.3.offgrid.fill
-    /// - Availabilities:
+    /// - Alias: rectangles.group.fill
     static let rectangle3OffgridFill = SFSymbol(.rectangle3OffgridFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.and.arrow.up.right.and.arrow.down.left
@@ -7823,7 +7587,7 @@ public extension SFSymbol {
     static let rectangleCompressVertical = SFSymbol(.rectangleCompressVertical, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.dock
-    /// - Availabilities:
+    /// - Alias: dock.rectangle
     static let rectangleDock = SFSymbol(.rectangleDock, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.expand.vertical
@@ -7833,10 +7597,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let rectangleFill = SFSymbol(.rectangleFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: rectangle.fill.badge.checkmark
+    /// - Alias: rectangle.badge.checkmark.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7844,6 +7608,7 @@ public extension SFSymbol {
     static let rectangleFillBadgeCheckmark = SFSymbol(.rectangleFillBadgeCheckmark, releaseYear: ._2019, category: [ .multicolor ])
 
     /// - Symbol Name: rectangle.fill.badge.xmark
+    /// - Alias: rectangle.badge.xmark.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7851,38 +7616,34 @@ public extension SFSymbol {
     static let rectangleFillBadgeXmark = SFSymbol(.rectangleFillBadgeXmark, releaseYear: ._2019, category: [ .multicolor ])
 
     /// - Symbol Name: rectangle.fill.on.rectangle.angled.fill
+    /// - Alias: rectangle.on.rectangle.angled.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleFillOnRectangleAngledFill = SFSymbol(.rectangleFillOnRectangleAngledFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill
+    /// - Alias: rectangle.on.rectangle.fill
     /// - Category: gaming
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleFillOnRectangleFill = SFSymbol(.rectangleFillOnRectangleFill, releaseYear: ._2019, category: [ .gaming ])
 
     /// - Symbol Name: rectangle.grid.1x2
-    /// - Availabilities:
     static let rectangleGrid1X2 = SFSymbol(.rectangleGrid1X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.grid.1x2.fill
-    /// - Availabilities:
     static let rectangleGrid1X2Fill = SFSymbol(.rectangleGrid1X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.grid.2x2
-    /// - Availabilities:
     static let rectangleGrid2X2 = SFSymbol(.rectangleGrid2X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.grid.2x2.fill
-    /// - Availabilities:
     static let rectangleGrid2X2Fill = SFSymbol(.rectangleGrid2X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.grid.3x2
-    /// - Availabilities:
     static let rectangleGrid3X2 = SFSymbol(.rectangleGrid3X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.grid.3x2.fill
-    /// - Availabilities:
     static let rectangleGrid3X2Fill = SFSymbol(.rectangleGrid3X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.on.rectangle
@@ -7897,23 +7658,18 @@ public extension SFSymbol {
     static let rectangleOnRectangleAngled = SFSymbol(.rectangleOnRectangleAngled, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.split.3x1
-    /// - Availabilities:
     static let rectangleSplit3X1 = SFSymbol(.rectangleSplit3X1, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.split.3x1.fill
-    /// - Availabilities:
     static let rectangleSplit3X1Fill = SFSymbol(.rectangleSplit3X1Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.split.3x3
-    /// - Availabilities:
     static let rectangleSplit3X3 = SFSymbol(.rectangleSplit3X3, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.split.3x3.fill
-    /// - Availabilities:
     static let rectangleSplit3X3Fill = SFSymbol(.rectangleSplit3X3Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.stack
-    /// - Availabilities:
     static let rectangleStack = SFSymbol(.rectangleStack, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.stack.badge.minus
@@ -7937,10 +7693,10 @@ public extension SFSymbol {
     static let rectangleStackBadgePlus = SFSymbol(.rectangleStackBadgePlus, releaseYear: ._2019, category: [ .multicolor ])
 
     /// - Symbol Name: rectangle.stack.fill
-    /// - Availabilities:
     static let rectangleStackFill = SFSymbol(.rectangleStackFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.stack.fill.badge.minus
+    /// - Alias: rectangle.stack.badge.minus.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7954,6 +7710,7 @@ public extension SFSymbol {
     static let rectangleStackFillBadgePersonCrop = SFSymbol(.rectangleStackFillBadgePersonCrop, releaseYear: ._2019, category: [ .human ])
 
     /// - Symbol Name: rectangle.stack.fill.badge.plus
+    /// - Alias: rectangle.stack.badge.plus.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -7961,17 +7718,16 @@ public extension SFSymbol {
     static let rectangleStackFillBadgePlus = SFSymbol(.rectangleStackFillBadgePlus, releaseYear: ._2019, category: [ .multicolor ])
 
     /// - Symbol Name: rectangle.stack.person.crop
-    /// - Availabilities:
+    /// - Alias: person.crop.rectangle.stack
     static let rectangleStackPersonCrop = SFSymbol(.rectangleStackPersonCrop, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: rectangle.stack.person.crop.fill
-    /// - Availabilities:
+    /// - Alias: person.crop.rectangle.stack.fill
     static let rectangleStackPersonCropFill = SFSymbol(.rectangleStackPersonCropFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: repeat
     /// - Category: media
-    /// - Availabilities:
-    static let `repeat` = SFSymbol(.`repeat`, releaseYear: ._2019, category: [ .media ])
+    static let `repeat` = SFSymbol(.repeat, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: repeat.1
     /// - Category: media
@@ -7981,22 +7737,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: return
     /// - Category: arrows
-    /// - Availabilities:
-    static let `return` = SFSymbol(.`return`, releaseYear: ._2019, category: [ .arrows ])
+    static let `return` = SFSymbol(.return, releaseYear: ._2019, category: [ .arrows ])
 
     /// - Symbol Name: rhombus
     /// - Category: shapes
-    /// - Availabilities:
     static let rhombus = SFSymbol(.rhombus, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: rhombus.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let rhombusFill = SFSymbol(.rhombusFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: rosette
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let rosette = SFSymbol(.rosette, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: rotate.left
@@ -8113,7 +7865,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: scissors
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let scissors = SFSymbol(.scissors, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: scissors.badge.ellipsis
@@ -8123,47 +7874,42 @@ public extension SFSymbol {
     static let scissorsBadgeEllipsis = SFSymbol(.scissorsBadgeEllipsis, releaseYear: ._2019, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: scope
-    /// - Availabilities:
     static let scope = SFSymbol(.scope, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: scribble
     /// - Category: editing
-    /// - Availabilities:
     static let scribble = SFSymbol(.scribble, releaseYear: ._2019, category: [ .editing ])
 
     /// - Symbol Name: selection.pin.in.out
     /// - Category: editing
-    /// - Availabilities:
     static let selectionPinInOut = SFSymbol(.selectionPinInOut, releaseYear: ._2019, category: [ .editing ])
 
     /// - Symbol Name: sheqelsign.circle
-    /// - Availabilities:
+    /// - Alias: shekelsign.circle
     static let sheqelsignCircle = SFSymbol(.sheqelsignCircle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: sheqelsign.circle.fill
-    /// - Availabilities:
+    /// - Alias: shekelsign.circle.fill
     static let sheqelsignCircleFill = SFSymbol(.sheqelsignCircleFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: sheqelsign.square
-    /// - Availabilities:
+    /// - Alias: shekelsign.square
     static let sheqelsignSquare = SFSymbol(.sheqelsignSquare, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: sheqelsign.square.fill
-    /// - Availabilities:
+    /// - Alias: shekelsign.square.fill
     static let sheqelsignSquareFill = SFSymbol(.sheqelsignSquareFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: shield
     /// - Category: objectsandtools, shapes
-    /// - Availabilities:
     static let shield = SFSymbol(.shield, releaseYear: ._2019, category: [ .objectsandtools, .shapes ])
 
     /// - Symbol Name: shield.fill
     /// - Category: objectsandtools, shapes
-    /// - Availabilities:
     static let shieldFill = SFSymbol(.shieldFill, releaseYear: ._2019, category: [ .objectsandtools, .shapes ])
 
     /// - Symbol Name: shield.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: shield.lefthalf.filled
     static let shieldLefthalfFill = SFSymbol(.shieldLefthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: shield.slash
@@ -8180,25 +7926,20 @@ public extension SFSymbol {
 
     /// - Symbol Name: shift
     /// - Category: keyboard
-    /// - Availabilities:
     static let shift = SFSymbol(.shift, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: shift.fill
     /// - Category: keyboard
-    /// - Availabilities:
     static let shiftFill = SFSymbol(.shiftFill, releaseYear: ._2019, category: [ .keyboard ])
 
     /// - Symbol Name: shuffle
     /// - Category: media
-    /// - Availabilities:
     static let shuffle = SFSymbol(.shuffle, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: sidebar.left
-    /// - Availabilities:
     static let sidebarLeft = SFSymbol(.sidebarLeft, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: sidebar.right
-    /// - Availabilities:
     static let sidebarRight = SFSymbol(.sidebarRight, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: signature
@@ -8209,7 +7950,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: skew
     /// - Category: editing
-    /// - Availabilities:
     static let skew = SFSymbol(.skew, releaseYear: ._2019, category: [ .editing ])
 
     /// - Symbol Name: slash.circle
@@ -8226,7 +7966,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: slider.horizontal.3
     /// - Category: editing
-    /// - Availabilities:
     static let sliderHorizontal3 = SFSymbol(.sliderHorizontal3, releaseYear: ._2019, category: [ .editing ])
 
     /// - Symbol Name: slider.horizontal.below.rectangle
@@ -8236,15 +7975,16 @@ public extension SFSymbol {
     static let sliderHorizontalBelowRectangle = SFSymbol(.sliderHorizontalBelowRectangle, releaseYear: ._2019, category: [ .editing ])
 
     /// - Symbol Name: slowmo
-    /// - Availabilities:
     static let slowmo = SFSymbol(.slowmo, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: smallcircle.circle
+    /// - Alias: ring.circle
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let smallcircleCircle = SFSymbol(.smallcircleCircle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: smallcircle.circle.fill
+    /// - Alias: ring.circle.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8252,11 +7992,13 @@ public extension SFSymbol {
     static let smallcircleCircleFill = SFSymbol(.smallcircleCircleFill, releaseYear: ._2019, category: [ .multicolor ])
 
     /// - Symbol Name: smallcircle.fill.circle
+    /// - Alias: dot.circle
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let smallcircleFillCircle = SFSymbol(.smallcircleFillCircle, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: smallcircle.fill.circle.fill
+    /// - Alias: dot.circle.fill
     /// - Category: multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8264,16 +8006,15 @@ public extension SFSymbol {
     static let smallcircleFillCircleFill = SFSymbol(.smallcircleFillCircleFill, releaseYear: ._2019, category: [ .multicolor ])
 
     /// - Symbol Name: smiley
-    /// - Availabilities:
+    /// - Alias: face.smiling
     static let smiley = SFSymbol(.smiley, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: smiley.fill
-    /// - Availabilities:
+    /// - Alias: face.smiling.fill
     static let smileyFill = SFSymbol(.smileyFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: smoke
     /// - Category: weather
-    /// - Availabilities:
     static let smoke = SFSymbol(.smoke, releaseYear: ._2019, category: [ .weather ])
 
     /// - Symbol Name: smoke.fill
@@ -8283,7 +8024,7 @@ public extension SFSymbol {
     static let smokeFill = SFSymbol(.smokeFill, releaseYear: ._2019, category: [ .multicolor, .weather ])
 
     /// - Symbol Name: snow
-    /// - Availabilities:
+    /// - Alias: snowflake
     static let snow = SFSymbol(.snow, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: sparkles
@@ -8293,70 +8034,76 @@ public extension SFSymbol {
     static let sparkles = SFSymbol(.sparkles, releaseYear: ._2019, category: [ .multicolor, .weather ])
 
     /// - Symbol Name: speaker
+    /// - Alias: volume
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let speaker = SFSymbol(.speaker, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.1
-    /// - Availabilities:
+    /// - Alias: speaker.wave.1
     static let speaker1 = SFSymbol(.speaker1, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: speaker.1.fill
-    /// - Availabilities:
+    /// - Alias: speaker.wave.1.fill
     static let speaker1Fill = SFSymbol(.speaker1Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: speaker.2
-    /// - Availabilities:
+    /// - Alias: speaker.wave.2
     static let speaker2 = SFSymbol(.speaker2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: speaker.2.fill
-    /// - Availabilities:
+    /// - Alias: speaker.wave.2.fill
     static let speaker2Fill = SFSymbol(.speaker2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: speaker.3
-    /// - Availabilities:
+    /// - Alias: speaker.wave.3
     static let speaker3 = SFSymbol(.speaker3, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: speaker.3.fill
-    /// - Availabilities:
+    /// - Alias: speaker.wave.3.fill
     static let speaker3Fill = SFSymbol(.speaker3Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: speaker.fill
+    /// - Alias: volume.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let speakerFill = SFSymbol(.speakerFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.slash
+    /// - Alias: volume.slash
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerSlash = SFSymbol(.speakerSlash, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.slash.fill
+    /// - Alias: volume.slash.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerSlashFill = SFSymbol(.speakerSlashFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.slash.fill.rtl
+    /// - Alias: volume.slash.fill.rtl
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerSlashFillRtl = SFSymbol(.speakerSlashFillRtl, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.slash.rtl
+    /// - Alias: volume.slash.rtl
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerSlashRtl = SFSymbol(.speakerSlashRtl, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.zzz
+    /// - Alias: volume.zzz
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerZzz = SFSymbol(.speakerZzz, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.zzz.fill
+    /// - Alias: volume.zzz.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8381,16 +8128,13 @@ public extension SFSymbol {
     static let speedometer = SFSymbol(.speedometer, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: sportscourt
-    /// - Availabilities:
     static let sportscourt = SFSymbol(.sportscourt, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: sportscourt.fill
-    /// - Availabilities:
     static let sportscourtFill = SFSymbol(.sportscourtFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square
     /// - Category: shapes
-    /// - Availabilities:
     static let square = SFSymbol(.square, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: square.and.arrow.down
@@ -8399,7 +8143,6 @@ public extension SFSymbol {
     static let squareAndArrowDown = SFSymbol(.squareAndArrowDown, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.arrow.down.fill
-    /// - Availabilities:
     static let squareAndArrowDownFill = SFSymbol(.squareAndArrowDownFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.arrow.down.on.square
@@ -8408,7 +8151,6 @@ public extension SFSymbol {
     static let squareAndArrowDownOnSquare = SFSymbol(.squareAndArrowDownOnSquare, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.arrow.down.on.square.fill
-    /// - Availabilities:
     static let squareAndArrowDownOnSquareFill = SFSymbol(.squareAndArrowDownOnSquareFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.arrow.up
@@ -8417,7 +8159,6 @@ public extension SFSymbol {
     static let squareAndArrowUp = SFSymbol(.squareAndArrowUp, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.arrow.up.fill
-    /// - Availabilities:
     static let squareAndArrowUpFill = SFSymbol(.squareAndArrowUpFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.arrow.up.on.square
@@ -8426,11 +8167,9 @@ public extension SFSymbol {
     static let squareAndArrowUpOnSquare = SFSymbol(.squareAndArrowUpOnSquare, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.arrow.up.on.square.fill
-    /// - Availabilities:
     static let squareAndArrowUpOnSquareFill = SFSymbol(.squareAndArrowUpOnSquareFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.line.vertical.and.square
-    /// - Availabilities:
     static let squareAndLineVerticalAndSquare = SFSymbol(.squareAndLineVerticalAndSquare, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.and.line.vertical.and.square.fill
@@ -8446,50 +8185,47 @@ public extension SFSymbol {
 
     /// - Symbol Name: square.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let squareFill = SFSymbol(.squareFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: square.fill.and.line.vertical.and.square
+    /// - Alias: square.line.vertical.square.fill.left
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareFillAndLineVerticalAndSquare = SFSymbol(.squareFillAndLineVerticalAndSquare, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.fill.and.line.vertical.square.fill
-    /// - Availabilities:
+    /// - Alias: square.fill.and.line.vertical.and.square.fill
     static let squareFillAndLineVerticalSquareFill = SFSymbol(.squareFillAndLineVerticalSquareFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.fill.on.circle.fill
+    /// - Alias: square.on.circle.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareFillOnCircleFill = SFSymbol(.squareFillOnCircleFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.fill.on.square.fill
+    /// - Alias: square.on.square.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareFillOnSquareFill = SFSymbol(.squareFillOnSquareFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.grid.2x2
-    /// - Availabilities:
     static let squareGrid2X2 = SFSymbol(.squareGrid2X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.grid.2x2.fill
-    /// - Availabilities:
     static let squareGrid2X2Fill = SFSymbol(.squareGrid2X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.grid.3x2
-    /// - Availabilities:
     static let squareGrid3X2 = SFSymbol(.squareGrid3X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.grid.3x2.fill
-    /// - Availabilities:
     static let squareGrid3X2Fill = SFSymbol(.squareGrid3X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.grid.4x3.fill
-    /// - Availabilities:
     static let squareGrid4X3Fill = SFSymbol(.squareGrid4X3Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: square.lefthalf.filled
     static let squareLefthalfFill = SFSymbol(.squareLefthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.on.circle
@@ -8503,39 +8239,32 @@ public extension SFSymbol {
     static let squareOnSquare = SFSymbol(.squareOnSquare, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: square.righthalf.filled
     static let squareRighthalfFill = SFSymbol(.squareRighthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.split.1x2
-    /// - Availabilities:
     static let squareSplit1X2 = SFSymbol(.squareSplit1X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.split.1x2.fill
-    /// - Availabilities:
     static let squareSplit1X2Fill = SFSymbol(.squareSplit1X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.split.2x1
-    /// - Availabilities:
     static let squareSplit2X1 = SFSymbol(.squareSplit2X1, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.split.2x1.fill
-    /// - Availabilities:
     static let squareSplit2X1Fill = SFSymbol(.squareSplit2X1Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.split.2x2
-    /// - Availabilities:
     static let squareSplit2X2 = SFSymbol(.squareSplit2X2, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.split.2x2.fill
-    /// - Availabilities:
     static let squareSplit2X2Fill = SFSymbol(.squareSplit2X2Fill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.stack
-    /// - Availabilities:
     static let squareStack = SFSymbol(.squareStack, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.stack.3d.down.dottedline
-    /// - Availabilities:
+    /// - Alias: square.stack.3d.forward.dottedline
     static let squareStack3DDownDottedline = SFSymbol(.squareStack3DDownDottedline, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.stack.3d.down.right
@@ -8569,7 +8298,6 @@ public extension SFSymbol {
     static let squareStack3DUpSlashFill = SFSymbol(.squareStack3DUpSlashFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: square.stack.fill
-    /// - Availabilities:
     static let squareStackFill = SFSymbol(.squareStackFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: squares.below.rectangle
@@ -8604,7 +8332,7 @@ public extension SFSymbol {
     static let starFill = SFSymbol(.starFill, releaseYear: ._2019, category: [ .multicolor ])
 
     /// - Symbol Name: star.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: star.leadinghalf.filled
     static let starLefthalfFill = SFSymbol(.starLefthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: star.slash
@@ -8619,12 +8347,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: staroflife
     /// - Category: health
-    /// - Availabilities:
     static let staroflife = SFSymbol(.staroflife, releaseYear: ._2019, category: [ .health ])
 
     /// - Symbol Name: staroflife.fill
     /// - Category: health
-    /// - Availabilities:
     static let staroflifeFill = SFSymbol(.staroflifeFill, releaseYear: ._2019, category: [ .health ])
 
     /// - Symbol Name: sterlingsign.circle
@@ -8655,7 +8381,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: stop
     /// - Category: media
-    /// - Availabilities:
     static let stop = SFSymbol(.stop, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: stop.circle
@@ -8673,7 +8398,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: stop.fill
     /// - Category: media
-    /// - Availabilities:
     static let stopFill = SFSymbol(.stopFill, releaseYear: ._2019, category: [ .media ])
 
     /// - Symbol Name: stopwatch
@@ -8685,7 +8409,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: stopwatch.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     static let stopwatchFill = SFSymbol(.stopwatchFill, releaseYear: ._2019, category: [ .objectsandtools, .time ])
 
     /// - Symbol Name: strikethrough
@@ -8697,7 +8420,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: studentdesk
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let studentdesk = SFSymbol(.studentdesk, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: suit.club
@@ -8750,7 +8472,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: sum
     /// - Category: math
-    /// - Availabilities:
     static let sum = SFSymbol(.sum, releaseYear: ._2019, category: [ .math ])
 
     /// - Symbol Name: sun.dust
@@ -8781,7 +8502,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: sun.max
     /// - Category: keyboard, weather
-    /// - Availabilities:
     static let sunMax = SFSymbol(.sunMax, releaseYear: ._2019, category: [ .keyboard, .weather ])
 
     /// - Symbol Name: sun.max.fill
@@ -8792,12 +8512,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: sun.min
     /// - Category: keyboard, weather
-    /// - Availabilities:
     static let sunMin = SFSymbol(.sunMin, releaseYear: ._2019, category: [ .keyboard, .weather ])
 
     /// - Symbol Name: sun.min.fill
     /// - Category: keyboard, weather
-    /// - Availabilities:
     static let sunMinFill = SFSymbol(.sunMinFill, releaseYear: ._2019, category: [ .keyboard, .weather ])
 
     /// - Symbol Name: sunrise
@@ -8827,11 +8545,11 @@ public extension SFSymbol {
     static let sunsetFill = SFSymbol(.sunsetFill, releaseYear: ._2019, category: [ .multicolor, .weather ])
 
     /// - Symbol Name: t.bubble
-    /// - Availabilities:
+    /// - Alias: character.bubble
     static let tBubble = SFSymbol(.tBubble, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: t.bubble.fill
-    /// - Availabilities:
+    /// - Alias: character.bubble.fill
     static let tBubbleFill = SFSymbol(.tBubbleFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: t.circle
@@ -8861,24 +8579,23 @@ public extension SFSymbol {
     static let tSquareFill = SFSymbol(.tSquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: table
-    /// - Availabilities:
+    /// - Alias: tablecells
     static let table = SFSymbol(.table, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: table.badge.more
-    /// - Availabilities:
+    /// - Alias: tablecells.badge.ellipsis
     static let tableBadgeMore = SFSymbol(.tableBadgeMore, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: table.badge.more.fill
-    /// - Availabilities:
+    /// - Alias: tablecells.fill.badge.ellipsis
     static let tableBadgeMoreFill = SFSymbol(.tableBadgeMoreFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: table.fill
-    /// - Availabilities:
+    /// - Alias: tablecells.fill
     static let tableFill = SFSymbol(.tableFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: tag
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let tag = SFSymbol(.tag, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: tag.circle
@@ -8896,7 +8613,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: tag.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let tagFill = SFSymbol(.tagFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: teletype
@@ -8906,6 +8622,7 @@ public extension SFSymbol {
     static let teletype = SFSymbol(.teletype, releaseYear: ._2019, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: teletype.answer
+    /// - Alias: realtimetext
     /// - Category: communication, multicolor
     /// - Availabilities:
     ///   - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -8939,17 +8656,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: text.aligncenter
     /// - Category: textformatting
-    /// - Availabilities:
     static let textAligncenter = SFSymbol(.textAligncenter, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: text.alignleft
     /// - Category: textformatting
-    /// - Availabilities:
     static let textAlignleft = SFSymbol(.textAlignleft, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: text.alignright
     /// - Category: textformatting
-    /// - Availabilities:
     static let textAlignright = SFSymbol(.textAlignright, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: text.append
@@ -9006,7 +8720,7 @@ public extension SFSymbol {
     static let textBubbleFill = SFSymbol(.textBubbleFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: text.cursor
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam
     static let textCursor = SFSymbol(.textCursor, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: text.insert
@@ -9017,17 +8731,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: text.justify
     /// - Category: textformatting
-    /// - Availabilities:
     static let textJustify = SFSymbol(.textJustify, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: text.justifyleft
     /// - Category: textformatting
-    /// - Availabilities:
     static let textJustifyleft = SFSymbol(.textJustifyleft, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: text.justifyright
     /// - Category: textformatting
-    /// - Availabilities:
     static let textJustifyright = SFSymbol(.textJustifyright, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: text.quote
@@ -9036,22 +8747,19 @@ public extension SFSymbol {
     static let textQuote = SFSymbol(.textQuote, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: textbox
-    /// - Availabilities:
+    /// - Alias: character.textbox
     static let textbox = SFSymbol(.textbox, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: textformat
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformat = SFSymbol(.textformat, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.123
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformat123 = SFSymbol(.textformat123, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.abc
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatAbc = SFSymbol(.textformatAbc, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.abc.dottedunderline
@@ -9063,12 +8771,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: textformat.alt
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatAlt = SFSymbol(.textformatAlt, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSize = SFSymbol(.textformatSize, releaseYear: ._2019, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.subscript
@@ -9091,6 +8797,7 @@ public extension SFSymbol {
     static let thermometer = SFSymbol(.thermometer, releaseYear: ._2019, category: [ .multicolor, .weather ])
 
     /// - Symbol Name: thermometer.snowflake
+    /// - Alias: thermometer.snowlake
     /// - Category: multicolor, weather
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -9104,7 +8811,6 @@ public extension SFSymbol {
     static let thermometerSun = SFSymbol(.thermometerSun, releaseYear: ._2019, category: [ .weather ])
 
     /// - Symbol Name: timelapse
-    /// - Availabilities:
     static let timelapse = SFSymbol(.timelapse, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: timer
@@ -9122,7 +8828,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: tortoise
     /// - Category: nature
-    /// - Availabilities:
     static let tortoise = SFSymbol(.tortoise, releaseYear: ._2019, category: [ .nature ])
 
     /// - Symbol Name: tortoise.fill
@@ -9133,7 +8838,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: tram.fill
     /// - Category: transportation
-    /// - Availabilities:
     static let tramFill = SFSymbol(.tramFill, releaseYear: ._2019, category: [ .transportation ])
 
     /// - Symbol Name: trash
@@ -9178,17 +8882,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: tray
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let tray = SFSymbol(.tray, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: tray.2
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let tray2 = SFSymbol(.tray2, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: tray.2.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let tray2Fill = SFSymbol(.tray2Fill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: tray.and.arrow.down
@@ -9217,35 +8918,30 @@ public extension SFSymbol {
 
     /// - Symbol Name: tray.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let trayFill = SFSymbol(.trayFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: tray.full
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let trayFull = SFSymbol(.trayFull, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: tray.full.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let trayFullFill = SFSymbol(.trayFullFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: triangle
     /// - Category: shapes
-    /// - Availabilities:
     static let triangle = SFSymbol(.triangle, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: triangle.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let triangleFill = SFSymbol(.triangleFill, releaseYear: ._2019, category: [ .shapes ])
 
     /// - Symbol Name: triangle.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: triangle.lefthalf.filled
     static let triangleLefthalfFill = SFSymbol(.triangleLefthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: triangle.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: triangle.righthalf.filled
     static let triangleRighthalfFill = SFSymbol(.triangleRighthalfFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: tropicalstorm
@@ -9282,7 +8978,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: tuningfork
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let tuningfork = SFSymbol(.tuningfork, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: turkishlirasign.circle
@@ -9332,15 +9027,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: tv.fill
     /// - Category: devices
-    /// - Availabilities:
     static let tvFill = SFSymbol(.tvFill, releaseYear: ._2019, category: [ .devices ])
 
     /// - Symbol Name: tv.music.note
-    /// - Availabilities:
+    /// - Alias: music.note.tv
     static let tvMusicNote = SFSymbol(.tvMusicNote, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: tv.music.note.fill
-    /// - Availabilities:
+    /// - Alias: music.note.tv.fill
     static let tvMusicNoteFill = SFSymbol(.tvMusicNoteFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: u.circle
@@ -9370,17 +9064,14 @@ public extension SFSymbol {
     static let uSquareFill = SFSymbol(.uSquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: uiwindow.split.2x1
-    /// - Availabilities:
     static let uiwindowSplit2X1 = SFSymbol(.uiwindowSplit2X1, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: umbrella
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let umbrella = SFSymbol(.umbrella, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: umbrella.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let umbrellaFill = SFSymbol(.umbrellaFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: underline
@@ -9430,7 +9121,7 @@ public extension SFSymbol {
     static let videoBadgePlus = SFSymbol(.videoBadgePlus, releaseYear: ._2019, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: video.badge.plus.fill
-    /// - Availabilities:
+    /// - Alias: video.fill.badge.plus
     static let videoBadgePlusFill = SFSymbol(.videoBadgePlusFill, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: video.circle
@@ -9466,15 +9157,12 @@ public extension SFSymbol {
     static let videoSlashFill = SFSymbol(.videoSlashFill, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: view.2d
-    /// - Availabilities:
     static let view2D = SFSymbol(.view2D, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: view.3d
-    /// - Availabilities:
     static let view3D = SFSymbol(.view3D, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: viewfinder
-    /// - Availabilities:
     static let viewfinder = SFSymbol(.viewfinder, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: viewfinder.circle
@@ -9541,7 +9229,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: waveform
     /// - Category: communication
-    /// - Availabilities:
     static let waveform = SFSymbol(.waveform, releaseYear: ._2019, category: [ .communication ])
 
     /// - Symbol Name: waveform.circle
@@ -9558,7 +9245,6 @@ public extension SFSymbol {
     static let waveformCircleFill = SFSymbol(.waveformCircleFill, releaseYear: ._2019, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: waveform.path
-    /// - Availabilities:
     static let waveformPath = SFSymbol(.waveformPath, releaseYear: ._2019, category: [  ])
 
     /// - Symbol Name: waveform.path.badge.minus
@@ -9577,7 +9263,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: waveform.path.ecg
     /// - Category: health
-    /// - Availabilities:
     static let waveformPathEcg = SFSymbol(.waveformPathEcg, releaseYear: ._2019, category: [ .health ])
 
     /// - Symbol Name: wifi
@@ -9588,7 +9273,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: wifi.exclamationmark
     /// - Category: connectivity
-    /// - Availabilities:
     static let wifiExclamationmark = SFSymbol(.wifiExclamationmark, releaseYear: ._2019, category: [ .connectivity ])
 
     /// - Symbol Name: wifi.slash
@@ -9638,12 +9322,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: wrench
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let wrench = SFSymbol(.wrench, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: wrench.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let wrenchFill = SFSymbol(.wrenchFill, releaseYear: ._2019, category: [ .objectsandtools ])
 
     /// - Symbol Name: x.circle
@@ -9849,7 +9531,6 @@ public extension SFSymbol {
     static let zSquareFill = SFSymbol(.zSquareFill, releaseYear: ._2019, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: zzz
-    /// - Availabilities:
     static let zzz = SFSymbol(.zzz, releaseYear: ._2019, category: [  ])
 
 }
@@ -9859,7 +9540,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: 1.magnifyingglass.ar
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let _1MagnifyingglassAr = SFSymbol(._1MagnifyingglassAr, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: 4k.tv
@@ -9875,67 +9555,67 @@ public extension SFSymbol {
     static let _4kTvFill = SFSymbol(._4kTvFill, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: a.book.closed
-    /// - Availabilities:
+    /// - Alias: character.book.closed
     static let aBookClosed = SFSymbol(.aBookClosed, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.ar
-    /// - Availabilities:
+    /// - Alias: character.book.closed.ar
     static let aBookClosedAr = SFSymbol(.aBookClosedAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill
     static let aBookClosedFill = SFSymbol(.aBookClosedFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill.ar
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.ar
     static let aBookClosedFillAr = SFSymbol(.aBookClosedFillAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill.he
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.he
     static let aBookClosedFillHe = SFSymbol(.aBookClosedFillHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill.hi
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.hi
     static let aBookClosedFillHi = SFSymbol(.aBookClosedFillHi, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill.ja
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.ja
     static let aBookClosedFillJa = SFSymbol(.aBookClosedFillJa, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill.ko
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.ko
     static let aBookClosedFillKo = SFSymbol(.aBookClosedFillKo, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill.th
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.th
     static let aBookClosedFillTh = SFSymbol(.aBookClosedFillTh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.fill.zh
-    /// - Availabilities:
+    /// - Alias: character.book.closed.fill.zh
     static let aBookClosedFillZh = SFSymbol(.aBookClosedFillZh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.he
-    /// - Availabilities:
+    /// - Alias: character.book.closed.he
     static let aBookClosedHe = SFSymbol(.aBookClosedHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.hi
-    /// - Availabilities:
+    /// - Alias: character.book.closed.hi
     static let aBookClosedHi = SFSymbol(.aBookClosedHi, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.ja
-    /// - Availabilities:
+    /// - Alias: character.book.closed.ja
     static let aBookClosedJa = SFSymbol(.aBookClosedJa, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.ko
-    /// - Availabilities:
+    /// - Alias: character.book.closed.ko
     static let aBookClosedKo = SFSymbol(.aBookClosedKo, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.th
-    /// - Availabilities:
+    /// - Alias: character.book.closed.th
     static let aBookClosedTh = SFSymbol(.aBookClosedTh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.book.closed.zh
-    /// - Availabilities:
+    /// - Alias: character.book.closed.zh
     static let aBookClosedZh = SFSymbol(.aBookClosedZh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: a.magnify
@@ -9946,7 +9626,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: abc
     /// - Category: textformatting
-    /// - Availabilities:
     static let abc = SFSymbol(.abc, releaseYear: ._2020, category: [ .textformatting ])
 
     /// - Symbol Name: airplane.circle
@@ -9964,12 +9643,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: airpod.left
     /// - Category: devices
-    /// - Availabilities:
     static let airpodLeft = SFSymbol(.airpodLeft, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: airpod.right
     /// - Category: devices
-    /// - Availabilities:
     static let airpodRight = SFSymbol(.airpodRight, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: airpodpro.left
@@ -9986,7 +9663,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: airpods
     /// - Category: devices
-    /// - Availabilities:
     static let airpods = SFSymbol(.airpods, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: airpodspro
@@ -9997,22 +9673,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: airport.express
     /// - Category: devices
-    /// - Availabilities:
     static let airportExpress = SFSymbol(.airportExpress, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: airport.extreme
     /// - Category: devices
-    /// - Availabilities:
     static let airportExtreme = SFSymbol(.airportExtreme, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: airport.extreme.tower
     /// - Category: devices
-    /// - Availabilities:
     static let airportExtremeTower = SFSymbol(.airportExtremeTower, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: amplifier
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let amplifier = SFSymbol(.amplifier, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: appclip
@@ -10021,15 +9693,12 @@ public extension SFSymbol {
     static let appclip = SFSymbol(.appclip, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: applelogo
-    /// - Availabilities:
     static let applelogo = SFSymbol(.applelogo, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: applescript
-    /// - Availabilities:
     static let applescript = SFSymbol(.applescript, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: applescript.fill
-    /// - Availabilities:
     static let applescriptFill = SFSymbol(.applescriptFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: appletv
@@ -10040,7 +9709,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: appletv.fill
     /// - Category: devices
-    /// - Availabilities:
     static let appletvFill = SFSymbol(.appletvFill, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: applewatch
@@ -10119,7 +9787,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowBackward = SFSymbol(.arrowBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.backward.circle
@@ -10172,7 +9839,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.down.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowDownBackward = SFSymbol(.arrowDownBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.down.backward.circle
@@ -10202,12 +9868,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.down.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowDownForward = SFSymbol(.arrowDownForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.down.forward.and.arrow.up.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowDownForwardAndArrowUpBackward = SFSymbol(.arrowDownForwardAndArrowUpBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.down.forward.and.arrow.up.backward.circle
@@ -10275,7 +9939,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowForward = SFSymbol(.arrowForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.forward.circle
@@ -10304,29 +9967,33 @@ public extension SFSymbol {
     static let arrowForwardSquareFill = SFSymbol(.arrowForwardSquareFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right
+    /// - Alias: flip.horizontal
     /// - Category: editing
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowLeftAndRightRighttriangleLeftRighttriangleRight = SFSymbol(.arrowLeftAndRightRighttriangleLeftRighttriangleRight, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right.fill
+    /// - Alias: flip.horizontal.fill
     /// - Category: editing
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowLeftAndRightRighttriangleLeftRighttriangleRightFill = SFSymbol(.arrowLeftAndRightRighttriangleLeftRighttriangleRightFill, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: arrow.left.arrow.right
+    /// - Alias: arrow.right.arrow.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowLeftArrowRight = SFSymbol(.arrowLeftArrowRight, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.left.arrow.right.circle
+    /// - Alias: arrow.right.arrow.left.circle
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowLeftArrowRightCircle = SFSymbol(.arrowLeftArrowRightCircle, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.left.arrow.right.circle.fill
+    /// - Alias: arrow.right.arrow.left.circle.fill
     /// - Category: arrows, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -10334,12 +10001,14 @@ public extension SFSymbol {
     static let arrowLeftArrowRightCircleFill = SFSymbol(.arrowLeftArrowRightCircleFill, releaseYear: ._2020, category: [ .arrows, .multicolor ])
 
     /// - Symbol Name: arrow.left.arrow.right.square
+    /// - Alias: arrow.right.arrow.left.square
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowLeftArrowRightSquare = SFSymbol(.arrowLeftArrowRightSquare, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.left.arrow.right.square.fill
+    /// - Alias: arrow.right.arrow.left.square.fill
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -10347,7 +10016,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.rectanglepath
     /// - Category: media
-    /// - Availabilities:
     static let arrowRectanglepath = SFSymbol(.arrowRectanglepath, releaseYear: ._2020, category: [ .media ])
 
     /// - Symbol Name: arrow.right.doc.on.clipboard
@@ -10357,29 +10025,33 @@ public extension SFSymbol {
     static let arrowRightDocOnClipboard = SFSymbol(.arrowRightDocOnClipboard, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: arrow.triangle.2.circlepath
+    /// - Alias: arrow.2.circlepath
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTriangle2Circlepath = SFSymbol(.arrowTriangle2Circlepath, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.2.circlepath.camera
+    /// - Alias: camera.rotate
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowTriangle2CirclepathCamera = SFSymbol(.arrowTriangle2CirclepathCamera, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: arrow.triangle.2.circlepath.camera.fill
+    /// - Alias: camera.rotate.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowTriangle2CirclepathCameraFill = SFSymbol(.arrowTriangle2CirclepathCameraFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: arrow.triangle.2.circlepath.circle
+    /// - Alias: arrow.2.circlepath.circle
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowTriangle2CirclepathCircle = SFSymbol(.arrowTriangle2CirclepathCircle, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.2.circlepath.circle.fill
+    /// - Alias: arrow.2.circlepath.circle.fill
     /// - Category: arrows, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -10393,28 +10065,26 @@ public extension SFSymbol {
     static let arrowTriangle2CirclepathDocOnClipboard = SFSymbol(.arrowTriangle2CirclepathDocOnClipboard, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: arrow.triangle.branch
+    /// - Alias: arrow.branch
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTriangleBranch = SFSymbol(.arrowTriangleBranch, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.capsulepath
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTriangleCapsulepath = SFSymbol(.arrowTriangleCapsulepath, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.merge
+    /// - Alias: arrow.merge
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTriangleMerge = SFSymbol(.arrowTriangleMerge, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.pull
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTrianglePull = SFSymbol(.arrowTrianglePull, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.swap
+    /// - Alias: arrow.swap
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowTriangleSwap = SFSymbol(.arrowTriangleSwap, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.turn.up.right.circle
@@ -10431,12 +10101,14 @@ public extension SFSymbol {
     static let arrowTriangleTurnUpRightCircleFill = SFSymbol(.arrowTriangleTurnUpRightCircleFill, releaseYear: ._2020, category: [ .arrows, .multicolor ])
 
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond
+    /// - Alias: arrow.up.right.diamond
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let arrowTriangleTurnUpRightDiamond = SFSymbol(.arrowTriangleTurnUpRightDiamond, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond.fill
+    /// - Alias: arrow.up.right.diamond.fill
     /// - Category: arrows
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -10444,7 +10116,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.turn.up.forward.iphone
     /// - Category: devices
-    /// - Availabilities:
     static let arrowTurnUpForwardIphone = SFSymbol(.arrowTurnUpForwardIphone, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: arrow.turn.up.forward.iphone.fill
@@ -10455,7 +10126,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.and.down.and.arrow.left.and.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpAndDownAndArrowLeftAndRight = SFSymbol(.arrowUpAndDownAndArrowLeftAndRight, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.and.down.righttriangle.up.fill.righttriangle.down.fill
@@ -10490,12 +10160,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpBackward = SFSymbol(.arrowUpBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.backward.and.arrow.down.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpBackwardAndArrowDownForward = SFSymbol(.arrowUpBackwardAndArrowDownForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.backward.and.arrow.down.forward.circle
@@ -10544,7 +10212,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpForward = SFSymbol(.arrowUpForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.forward.app
@@ -10611,12 +10278,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.up.left.and.down.right.and.arrow.up.right.and.down.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUpLeftAndDownRightAndArrowUpRightAndDownLeft = SFSymbol(.arrowUpLeftAndDownRightAndArrowUpRightAndDownLeft, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.up.left.and.down.right.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let arrowUpLeftAndDownRightMagnifyingglass = SFSymbol(.arrowUpLeftAndDownRightMagnifyingglass, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: arrow.up.message
@@ -10643,7 +10308,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.uturn.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUturnBackward = SFSymbol(.arrowUturnBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.uturn.backward.circle
@@ -10679,7 +10343,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.uturn.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowUturnForward = SFSymbol(.arrowUturnForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrow.uturn.forward.circle
@@ -10709,32 +10372,26 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.bounce.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeBounceForward = SFSymbol(.arrowshapeBounceForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.bounce.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeBounceForwardFill = SFSymbol(.arrowshapeBounceForwardFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.bounce.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeBounceRight = SFSymbol(.arrowshapeBounceRight, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.bounce.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeBounceRightFill = SFSymbol(.arrowshapeBounceRightFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpBackward = SFSymbol(.arrowshapeTurnUpBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.backward.2
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpBackward2 = SFSymbol(.arrowshapeTurnUpBackward2, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.backward.2.circle
@@ -10752,7 +10409,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.turn.up.backward.2.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpBackward2Fill = SFSymbol(.arrowshapeTurnUpBackward2Fill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.backward.circle
@@ -10770,12 +10426,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.turn.up.backward.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpBackwardFill = SFSymbol(.arrowshapeTurnUpBackwardFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpForward = SFSymbol(.arrowshapeTurnUpForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.forward.circle
@@ -10793,7 +10447,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.turn.up.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeTurnUpForwardFill = SFSymbol(.arrowshapeTurnUpForwardFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.turn.up.left.2.circle
@@ -10811,27 +10464,22 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowshape.zigzag.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeZigzagForward = SFSymbol(.arrowshapeZigzagForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.zigzag.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeZigzagForwardFill = SFSymbol(.arrowshapeZigzagForwardFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.zigzag.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeZigzagRight = SFSymbol(.arrowshapeZigzagRight, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowshape.zigzag.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowshapeZigzagRightFill = SFSymbol(.arrowshapeZigzagRightFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleBackward = SFSymbol(.arrowtriangleBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.backward.circle
@@ -10849,7 +10497,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.backward.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleBackwardFill = SFSymbol(.arrowtriangleBackwardFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.backward.square
@@ -10866,7 +10513,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleForward = SFSymbol(.arrowtriangleForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.forward.circle
@@ -10884,7 +10530,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.forward.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleForwardFill = SFSymbol(.arrowtriangleForwardFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.forward.square
@@ -10901,22 +10546,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrowtriangle.left.and.line.vertical.and.arrowtriangle.right
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleLeftAndLineVerticalAndArrowtriangleRight = SFSymbol(.arrowtriangleLeftAndLineVerticalAndArrowtriangleRight, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.left.fill.and.line.vertical.and.arrowtriangle.right.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleLeftFillAndLineVerticalAndArrowtriangleRightFill = SFSymbol(.arrowtriangleLeftFillAndLineVerticalAndArrowtriangleRightFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.right.and.line.vertical.and.arrowtriangle.left
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleRightAndLineVerticalAndArrowtriangleLeft = SFSymbol(.arrowtriangleRightAndLineVerticalAndArrowtriangleLeft, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: arrowtriangle.right.fill.and.line.vertical.and.arrowtriangle.left.fill
     /// - Category: arrows
-    /// - Availabilities:
     static let arrowtriangleRightFillAndLineVerticalAndArrowtriangleLeftFill = SFSymbol(.arrowtriangleRightFillAndLineVerticalAndArrowtriangleLeftFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: at.circle
@@ -10940,12 +10581,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: backward.frame
     /// - Category: media
-    /// - Availabilities:
     static let backwardFrame = SFSymbol(.backwardFrame, releaseYear: ._2020, category: [ .media ])
 
     /// - Symbol Name: backward.frame.fill
     /// - Category: media
-    /// - Availabilities:
     static let backwardFrameFill = SFSymbol(.backwardFrameFill, releaseYear: ._2020, category: [ .media ])
 
     /// - Symbol Name: badge.plus.radiowaves.forward
@@ -11029,7 +10668,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: bicycle
     /// - Category: transportation
-    /// - Availabilities:
     static let bicycle = SFSymbol(.bicycle, releaseYear: ._2020, category: [ .transportation ])
 
     /// - Symbol Name: bicycle.circle
@@ -11047,12 +10685,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: binoculars
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let binoculars = SFSymbol(.binoculars, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: binoculars.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let binocularsFill = SFSymbol(.binocularsFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: bolt.car
@@ -11070,11 +10706,11 @@ public extension SFSymbol {
     static let boltCarFill = SFSymbol(.boltCarFill, releaseYear: ._2020, category: [ .multicolor, .transportation ])
 
     /// - Symbol Name: bolt.fill.batteryblock
-    /// - Availabilities:
+    /// - Alias: bolt.batteryblock
     static let boltFillBatteryblock = SFSymbol(.boltFillBatteryblock, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: bolt.fill.batteryblock.fill
-    /// - Availabilities:
+    /// - Alias: bolt.batteryblock.fill
     static let boltFillBatteryblockFill = SFSymbol(.boltFillBatteryblockFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: bolt.heart
@@ -11111,12 +10747,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: book.closed
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let bookClosed = SFSymbol(.bookClosed, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: book.closed.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let bookClosedFill = SFSymbol(.bookClosedFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: bookmark.circle
@@ -11149,17 +10783,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: books.vertical
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let booksVertical = SFSymbol(.booksVertical, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: books.vertical.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let booksVerticalFill = SFSymbol(.booksVerticalFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: building
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let building = SFSymbol(.building, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: building.2
@@ -11170,7 +10801,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: building.2.crop.circle
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let building2CropCircle = SFSymbol(.building2CropCircle, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: building.2.crop.circle.fill
@@ -11187,36 +10817,29 @@ public extension SFSymbol {
     static let building2Fill = SFSymbol(.building2Fill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: building.columns
-    /// - Availabilities:
     static let buildingColumns = SFSymbol(.buildingColumns, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: building.columns.fill
-    /// - Availabilities:
     static let buildingColumnsFill = SFSymbol(.buildingColumnsFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: building.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let buildingFill = SFSymbol(.buildingFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: bus
     /// - Category: transportation
-    /// - Availabilities:
     static let bus = SFSymbol(.bus, releaseYear: ._2020, category: [ .transportation ])
 
     /// - Symbol Name: bus.doubledecker
     /// - Category: transportation
-    /// - Availabilities:
     static let busDoubledecker = SFSymbol(.busDoubledecker, releaseYear: ._2020, category: [ .transportation ])
 
     /// - Symbol Name: bus.doubledecker.fill
     /// - Category: transportation
-    /// - Availabilities:
     static let busDoubledeckerFill = SFSymbol(.busDoubledeckerFill, releaseYear: ._2020, category: [ .transportation ])
 
     /// - Symbol Name: bus.fill
     /// - Category: transportation
-    /// - Availabilities:
     static let busFill = SFSymbol(.busFill, releaseYear: ._2020, category: [ .transportation ])
 
     /// - Symbol Name: calendar.badge.clock
@@ -11241,7 +10864,6 @@ public extension SFSymbol {
     static let calendarBadgeExclamationmark = SFSymbol(.calendarBadgeExclamationmark, releaseYear: ._2020, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: camera.aperture
-    /// - Availabilities:
     static let cameraAperture = SFSymbol(.cameraAperture, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: camera.badge.ellipsis
@@ -11268,7 +10890,6 @@ public extension SFSymbol {
     static let cameraMeteringCenterWeighted = SFSymbol(.cameraMeteringCenterWeighted, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: camera.metering.center.weighted.average
-    /// - Availabilities:
     static let cameraMeteringCenterWeightedAverage = SFSymbol(.cameraMeteringCenterWeightedAverage, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: camera.metering.matrix
@@ -11308,17 +10929,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: candybarphone
     /// - Category: devices
-    /// - Availabilities:
     static let candybarphone = SFSymbol(.candybarphone, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: capsule.portrait
     /// - Category: shapes
-    /// - Availabilities:
     static let capsulePortrait = SFSymbol(.capsulePortrait, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: capsule.portrait.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let capsulePortraitFill = SFSymbol(.capsulePortraitFill, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: car.2
@@ -11349,20 +10967,16 @@ public extension SFSymbol {
 
     /// - Symbol Name: case
     /// - Category: objectsandtools
-    /// - Availabilities:
-    static let `case` = SFSymbol(.`case`, releaseYear: ._2020, category: [ .objectsandtools ])
+    static let `case` = SFSymbol(.case, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: case.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let caseFill = SFSymbol(.caseFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: chart.bar.doc.horizontal
-    /// - Availabilities:
     static let chartBarDocHorizontal = SFSymbol(.chartBarDocHorizontal, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: chart.bar.doc.horizontal.fill
-    /// - Availabilities:
     static let chartBarDocHorizontalFill = SFSymbol(.chartBarDocHorizontalFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: chart.bar.xaxis
@@ -11371,7 +10985,6 @@ public extension SFSymbol {
     static let chartBarXaxis = SFSymbol(.chartBarXaxis, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: checkerboard.rectangle
-    /// - Availabilities:
     static let checkerboardRectangle = SFSymbol(.checkerboardRectangle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: checkmark.icloud
@@ -11398,12 +11011,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: chevron.backward
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronBackward = SFSymbol(.chevronBackward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: chevron.backward.2
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronBackward2 = SFSymbol(.chevronBackward2, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: chevron.backward.circle
@@ -11433,12 +11044,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: chevron.forward
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronForward = SFSymbol(.chevronForward, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: chevron.forward.2
     /// - Category: arrows
-    /// - Availabilities:
     static let chevronForward2 = SFSymbol(.chevronForward2, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: chevron.forward.circle
@@ -11467,7 +11076,7 @@ public extension SFSymbol {
     static let chevronForwardSquareFill = SFSymbol(.chevronForwardSquareFill, releaseYear: ._2020, category: [ .arrows ])
 
     /// - Symbol Name: circle.bottomhalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.bottomhalf.filled
     static let circleBottomhalfFill = SFSymbol(.circleBottomhalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circle.circle
@@ -11485,11 +11094,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: circle.dashed
     /// - Category: editing
-    /// - Availabilities:
     static let circleDashed = SFSymbol(.circleDashed, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: circle.dashed.inset.fill
-    /// - Availabilities:
+    /// - Alias: circle.dashed.inset.filled
     static let circleDashedInsetFill = SFSymbol(.circleDashedInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circle.fill.square.fill
@@ -11500,7 +11108,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: circle.grid.cross
     /// - Category: gaming
-    /// - Availabilities:
     static let circleGridCross = SFSymbol(.circleGridCross, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: circle.grid.cross.down.fill
@@ -11511,7 +11118,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: circle.grid.cross.fill
     /// - Category: gaming
-    /// - Availabilities:
     static let circleGridCrossFill = SFSymbol(.circleGridCrossFill, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: circle.grid.cross.left.fill
@@ -11539,19 +11145,16 @@ public extension SFSymbol {
     static let circleSquare = SFSymbol(.circleSquare, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: circle.tophalf.fill
-    /// - Availabilities:
+    /// - Alias: circle.tophalf.filled
     static let circleTophalfFill = SFSymbol(.circleTophalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circlebadge
-    /// - Availabilities:
     static let circlebadge = SFSymbol(.circlebadge, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circlebadge.2
-    /// - Availabilities:
     static let circlebadge2 = SFSymbol(.circlebadge2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circlebadge.2.fill
-    /// - Availabilities:
     static let circlebadge2Fill = SFSymbol(.circlebadge2Fill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circlebadge.fill
@@ -11561,19 +11164,19 @@ public extension SFSymbol {
     static let circlebadgeFill = SFSymbol(.circlebadgeFill, releaseYear: ._2020, category: [ .multicolor ])
 
     /// - Symbol Name: circles.hexagongrid
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid
     static let circlesHexagongrid = SFSymbol(.circlesHexagongrid, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circles.hexagongrid.fill
-    /// - Availabilities:
+    /// - Alias: circle.hexagongrid.fill
     static let circlesHexagongridFill = SFSymbol(.circlesHexagongridFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circles.hexagonpath
-    /// - Availabilities:
+    /// - Alias: circle.hexagonpath
     static let circlesHexagonpath = SFSymbol(.circlesHexagonpath, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: circles.hexagonpath.fill
-    /// - Availabilities:
+    /// - Alias: circle.hexagonpath.fill
     static let circlesHexagonpathFill = SFSymbol(.circlesHexagonpathFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: clock.arrow.circlepath
@@ -11584,12 +11187,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: comb
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let comb = SFSymbol(.comb, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: comb.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let combFill = SFSymbol(.combFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: command.circle
@@ -11618,11 +11219,9 @@ public extension SFSymbol {
     static let commandSquareFill = SFSymbol(.commandSquareFill, releaseYear: ._2020, category: [ .keyboard ])
 
     /// - Symbol Name: cone
-    /// - Availabilities:
     static let cone = SFSymbol(.cone, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cone.fill
-    /// - Availabilities:
     static let coneFill = SFSymbol(.coneFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: contextualmenu.and.cursorarrow
@@ -11632,7 +11231,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: cpu
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let cpu = SFSymbol(.cpu, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: creditcard.circle
@@ -11650,7 +11248,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: cross
     /// - Category: health
-    /// - Availabilities:
     static let cross = SFSymbol(.cross, releaseYear: ._2020, category: [ .health ])
 
     /// - Symbol Name: cross.case
@@ -11680,29 +11277,23 @@ public extension SFSymbol {
 
     /// - Symbol Name: cross.fill
     /// - Category: health
-    /// - Availabilities:
     static let crossFill = SFSymbol(.crossFill, releaseYear: ._2020, category: [ .health ])
 
     /// - Symbol Name: crown
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let crown = SFSymbol(.crown, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: crown.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let crownFill = SFSymbol(.crownFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: cube.transparent
-    /// - Availabilities:
     static let cubeTransparent = SFSymbol(.cubeTransparent, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cube.transparent.fill
-    /// - Availabilities:
     static let cubeTransparentFill = SFSymbol(.cubeTransparentFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: curlybraces
-    /// - Availabilities:
     static let curlybraces = SFSymbol(.curlybraces, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: curlybraces.square
@@ -11716,7 +11307,6 @@ public extension SFSymbol {
     static let curlybracesSquareFill = SFSymbol(.curlybracesSquareFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cursorarrow
-    /// - Availabilities:
     static let cursorarrow = SFSymbol(.cursorarrow, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cursorarrow.and.square.on.square.dashed
@@ -11740,7 +11330,6 @@ public extension SFSymbol {
     static let cursorarrowClickBadgeClock = SFSymbol(.cursorarrowClickBadgeClock, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cursorarrow.motionlines
-    /// - Availabilities:
     static let cursorarrowMotionlines = SFSymbol(.cursorarrowMotionlines, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cursorarrow.motionlines.click
@@ -11749,6 +11338,7 @@ public extension SFSymbol {
     static let cursorarrowMotionlinesClick = SFSymbol(.cursorarrowMotionlinesClick, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cursorarrow.rays
+    /// - Alias: cursor.rays
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let cursorarrowRays = SFSymbol(.cursorarrowRays, releaseYear: ._2020, category: [  ])
@@ -11759,29 +11349,23 @@ public extension SFSymbol {
     static let cursorarrowSquare = SFSymbol(.cursorarrowSquare, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cylinder
-    /// - Availabilities:
     static let cylinder = SFSymbol(.cylinder, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cylinder.fill
-    /// - Availabilities:
     static let cylinderFill = SFSymbol(.cylinderFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cylinder.split.1x2
-    /// - Availabilities:
     static let cylinderSplit1X2 = SFSymbol(.cylinderSplit1X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: cylinder.split.1x2.fill
-    /// - Availabilities:
     static let cylinderSplit1X2Fill = SFSymbol(.cylinderSplit1X2Fill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: deskclock
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     static let deskclock = SFSymbol(.deskclock, releaseYear: ._2020, category: [ .objectsandtools, .time ])
 
     /// - Symbol Name: deskclock.fill
     /// - Category: objectsandtools, time
-    /// - Availabilities:
     static let deskclockFill = SFSymbol(.deskclockFill, releaseYear: ._2020, category: [ .objectsandtools, .time ])
 
     /// - Symbol Name: dial.max
@@ -11797,12 +11381,14 @@ public extension SFSymbol {
     static let dialMaxFill = SFSymbol(.dialMaxFill, releaseYear: ._2020, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: dial.min
+    /// - Alias: dial
     /// - Category: editing, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let dialMin = SFSymbol(.dialMin, releaseYear: ._2020, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: dial.min.fill
+    /// - Alias: dial.fill
     /// - Category: editing, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -11810,12 +11396,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: diamond
     /// - Category: shapes
-    /// - Availabilities:
     static let diamond = SFSymbol(.diamond, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: diamond.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let diamondFill = SFSymbol(.diamondFill, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: die.face.1
@@ -11910,15 +11494,12 @@ public extension SFSymbol {
     static let displayTrianglebadgeExclamationmark = SFSymbol(.displayTrianglebadgeExclamationmark, releaseYear: ._2020, category: [ .devices, .multicolor ])
 
     /// - Symbol Name: doc.append.fill
-    /// - Availabilities:
     static let docAppendFill = SFSymbol(.docAppendFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.append.fill.rtl
-    /// - Availabilities:
     static let docAppendFillRtl = SFSymbol(.docAppendFillRtl, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.append.rtl
-    /// - Availabilities:
     static let docAppendRtl = SFSymbol(.docAppendRtl, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.badge.ellipsis
@@ -11960,35 +11541,27 @@ public extension SFSymbol {
     static let docFillBadgePlus = SFSymbol(.docFillBadgePlus, releaseYear: ._2020, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: doc.plaintext.fill
-    /// - Availabilities:
     static let docPlaintextFill = SFSymbol(.docPlaintextFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.richtext.ar
-    /// - Availabilities:
     static let docRichtextAr = SFSymbol(.docRichtextAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.richtext.fill
-    /// - Availabilities:
     static let docRichtextFill = SFSymbol(.docRichtextFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.richtext.fill.ar
-    /// - Availabilities:
     static let docRichtextFillAr = SFSymbol(.docRichtextFillAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.richtext.fill.he
-    /// - Availabilities:
     static let docRichtextFillHe = SFSymbol(.docRichtextFillHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.richtext.he
-    /// - Availabilities:
     static let docRichtextHe = SFSymbol(.docRichtextHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.text.below.ecg
-    /// - Availabilities:
     static let docTextBelowEcg = SFSymbol(.docTextBelowEcg, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.text.below.ecg.fill
-    /// - Availabilities:
     static let docTextBelowEcgFill = SFSymbol(.docTextBelowEcgFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.text.fill.viewfinder
@@ -11997,7 +11570,6 @@ public extension SFSymbol {
     static let docTextFillViewfinder = SFSymbol(.docTextFillViewfinder, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: doc.zipper
-    /// - Availabilities:
     static let docZipper = SFSymbol(.docZipper, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: dock.arrow.down.rectangle
@@ -12011,6 +11583,7 @@ public extension SFSymbol {
     static let dockArrowUpRectangle = SFSymbol(.dockArrowUpRectangle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: dock.rectangle
+    /// - Alias: rectangle.dock
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let dockRectangle = SFSymbol(.dockRectangle, releaseYear: ._2020, category: [  ])
@@ -12042,12 +11615,10 @@ public extension SFSymbol {
     static let dotSquareshapeFill = SFSymbol(.dotSquareshapeFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: dot.squareshape.split.2x2
-    /// - Availabilities:
     static let dotSquareshapeSplit2X2 = SFSymbol(.dotSquareshapeSplit2X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: dpad
     /// - Category: gaming
-    /// - Availabilities:
     static let dpad = SFSymbol(.dpad, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: dpad.down.fill
@@ -12058,7 +11629,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: dpad.fill
     /// - Category: gaming
-    /// - Availabilities:
     static let dpadFill = SFSymbol(.dpadFill, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: dpad.left.fill
@@ -12081,12 +11651,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: drop
     /// - Category: nature
-    /// - Availabilities:
     static let drop = SFSymbol(.drop, releaseYear: ._2020, category: [ .nature ])
 
     /// - Symbol Name: drop.fill
     /// - Category: nature
-    /// - Availabilities:
     static let dropFill = SFSymbol(.dropFill, releaseYear: ._2020, category: [ .nature ])
 
     /// - Symbol Name: ear.badge.checkmark
@@ -12111,7 +11679,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: earpods
     /// - Category: devices
-    /// - Availabilities:
     static let earpods = SFSymbol(.earpods, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: eject.circle
@@ -12128,12 +11695,14 @@ public extension SFSymbol {
     static let ejectCircleFill = SFSymbol(.ejectCircleFill, releaseYear: ._2020, category: [ .keyboard, .multicolor ])
 
     /// - Symbol Name: ellipsis.bubble
+    /// - Alias: ellipses.bubble
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let ellipsisBubble = SFSymbol(.ellipsisBubble, releaseYear: ._2020, category: [ .communication ])
 
     /// - Symbol Name: ellipsis.bubble.fill
+    /// - Alias: ellipses.bubble.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12162,21 +11731,19 @@ public extension SFSymbol {
     static let envelopeArrowTriangleBranchFill = SFSymbol(.envelopeArrowTriangleBranchFill, releaseYear: ._2020, category: [ .communication ])
 
     /// - Symbol Name: envelope.badge.shield.leadinghalf.fill
-    /// - Availabilities:
+    /// - Alias: envelope.badge.shield.half.filled
     static let envelopeBadgeShieldLeadinghalfFill = SFSymbol(.envelopeBadgeShieldLeadinghalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: envelope.fill.badge.shield.trailinghalf.fill
-    /// - Availabilities:
+    /// - Alias: envelope.badge.shield.half.filled.fill
     static let envelopeFillBadgeShieldTrailinghalfFill = SFSymbol(.envelopeFillBadgeShieldTrailinghalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: esim
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let esim = SFSymbol(.esim, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: esim.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let esimFill = SFSymbol(.esimFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: exclamationmark.2
@@ -12204,7 +11771,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: externaldrive
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let externaldrive = SFSymbol(.externaldrive, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: externaldrive.badge.checkmark
@@ -12262,17 +11828,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: externaldrive.connected.to.line.below
     /// - Category: connectivity, objectsandtools
-    /// - Availabilities:
     static let externaldriveConnectedToLineBelow = SFSymbol(.externaldriveConnectedToLineBelow, releaseYear: ._2020, category: [ .connectivity, .objectsandtools ])
 
     /// - Symbol Name: externaldrive.connected.to.line.below.fill
     /// - Category: connectivity, objectsandtools
-    /// - Availabilities:
     static let externaldriveConnectedToLineBelowFill = SFSymbol(.externaldriveConnectedToLineBelowFill, releaseYear: ._2020, category: [ .connectivity, .objectsandtools ])
 
     /// - Symbol Name: externaldrive.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let externaldriveFill = SFSymbol(.externaldriveFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: externaldrive.fill.badge.checkmark
@@ -12349,17 +11912,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: eyes
     /// - Category: human
-    /// - Availabilities:
     static let eyes = SFSymbol(.eyes, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: eyes.inverse
     /// - Category: human
-    /// - Availabilities:
     static let eyesInverse = SFSymbol(.eyesInverse, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: face.dashed
     /// - Category: human
-    /// - Availabilities:
     static let faceDashed = SFSymbol(.faceDashed, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: face.dashed.fill
@@ -12369,12 +11929,14 @@ public extension SFSymbol {
     static let faceDashedFill = SFSymbol(.faceDashedFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: face.smiling
+    /// - Alias: smiley
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let faceSmiling = SFSymbol(.faceSmiling, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: face.smiling.fill
+    /// - Alias: smiley.fill
     /// - Category: human
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -12382,16 +11944,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: faxmachine
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let faxmachine = SFSymbol(.faxmachine, releaseYear: ._2020, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: fiberchannel
-    /// - Availabilities:
+    /// - Alias: fibrechannel
     static let fiberchannel = SFSymbol(.fiberchannel, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: figure.stand
     /// - Category: human
-    /// - Availabilities:
     static let figureStand = SFSymbol(.figureStand, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: figure.stand.line.dotted.figure.stand
@@ -12402,7 +11962,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: figure.walk
     /// - Category: human, transportation
-    /// - Availabilities:
     static let figureWalk = SFSymbol(.figureWalk, releaseYear: ._2020, category: [ .human, .transportation ])
 
     /// - Symbol Name: figure.walk.circle
@@ -12432,7 +11991,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: figure.wave
     /// - Category: human, transportation
-    /// - Availabilities:
     static let figureWave = SFSymbol(.figureWave, releaseYear: ._2020, category: [ .human, .transportation ])
 
     /// - Symbol Name: figure.wave.circle
@@ -12492,15 +12050,13 @@ public extension SFSymbol {
 
     /// - Symbol Name: flipphone
     /// - Category: devices
-    /// - Availabilities:
     static let flipphone = SFSymbol(.flipphone, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: fn
-    /// - Availabilities:
     static let fn = SFSymbol(.fn, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: folder.badge.gear
-    /// - Availabilities:
+    /// - Alias: folder.badge.gearshape
     static let folderBadgeGear = SFSymbol(.folderBadgeGear, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: folder.badge.questionmark
@@ -12518,7 +12074,7 @@ public extension SFSymbol {
     static let folderBadgeQuestionmarkAr = SFSymbol(.folderBadgeQuestionmarkAr, releaseYear: ._2020, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: folder.fill.badge.gear
-    /// - Availabilities:
+    /// - Alias: folder.fill.badge.gearshape
     static let folderFillBadgeGear = SFSymbol(.folderFillBadgeGear, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: folder.fill.badge.questionmark
@@ -12537,32 +12093,26 @@ public extension SFSymbol {
 
     /// - Symbol Name: forward.frame
     /// - Category: media
-    /// - Availabilities:
     static let forwardFrame = SFSymbol(.forwardFrame, releaseYear: ._2020, category: [ .media ])
 
     /// - Symbol Name: forward.frame.fill
     /// - Category: media
-    /// - Availabilities:
     static let forwardFrameFill = SFSymbol(.forwardFrameFill, releaseYear: ._2020, category: [ .media ])
 
     /// - Symbol Name: gearshape
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let gearshape = SFSymbol(.gearshape, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: gearshape.2
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let gearshape2 = SFSymbol(.gearshape2, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: gearshape.2.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let gearshape2Fill = SFSymbol(.gearshape2Fill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: gearshape.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let gearshapeFill = SFSymbol(.gearshapeFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: gift.circle
@@ -12581,32 +12131,26 @@ public extension SFSymbol {
 
     /// - Symbol Name: giftcard
     /// - Category: commerce
-    /// - Availabilities:
     static let giftcard = SFSymbol(.giftcard, releaseYear: ._2020, category: [ .commerce ])
 
     /// - Symbol Name: giftcard.fill
     /// - Category: commerce
-    /// - Availabilities:
     static let giftcardFill = SFSymbol(.giftcardFill, releaseYear: ._2020, category: [ .commerce ])
 
     /// - Symbol Name: graduationcap
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let graduationcap = SFSymbol(.graduationcap, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: graduationcap.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let graduationcapFill = SFSymbol(.graduationcapFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: greetingcard
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let greetingcard = SFSymbol(.greetingcard, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: greetingcard.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let greetingcardFill = SFSymbol(.greetingcardFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: guitars.fill
@@ -12617,11 +12161,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: gyroscope
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let gyroscope = SFSymbol(.gyroscope, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: h.square.fill.on.square.fill
-    /// - Availabilities:
+    /// - Alias: h.square.on.square.fill
     static let hSquareFillOnSquareFill = SFSymbol(.hSquareFillOnSquareFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: h.square.on.square
@@ -12631,17 +12174,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: hand.point.down
     /// - Category: human
-    /// - Availabilities:
     static let handPointDown = SFSymbol(.handPointDown, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hand.point.down.fill
     /// - Category: human
-    /// - Availabilities:
     static let handPointDownFill = SFSymbol(.handPointDownFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hand.point.up
     /// - Category: human
-    /// - Availabilities:
     static let handPointUp = SFSymbol(.handPointUp, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hand.point.up.braille
@@ -12658,17 +12198,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: hand.point.up.fill
     /// - Category: human
-    /// - Availabilities:
     static let handPointUpFill = SFSymbol(.handPointUpFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hand.point.up.left
     /// - Category: human
-    /// - Availabilities:
     static let handPointUpLeft = SFSymbol(.handPointUpLeft, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hand.point.up.left.fill
     /// - Category: human
-    /// - Availabilities:
     static let handPointUpLeftFill = SFSymbol(.handPointUpLeftFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hand.tap
@@ -12685,12 +12222,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: hand.wave
     /// - Category: human
-    /// - Availabilities:
     static let handWave = SFSymbol(.handWave, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hand.wave.fill
     /// - Category: human
-    /// - Availabilities:
     static let handWaveFill = SFSymbol(.handWaveFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: hands.clap
@@ -12731,7 +12266,7 @@ public extension SFSymbol {
     static let headphonesCircleFill = SFSymbol(.headphonesCircleFill, releaseYear: ._2020, category: [ .devices, .multicolor, .objectsandtools ])
 
     /// - Symbol Name: hearingaid.ear
-    /// - Availabilities:
+    /// - Alias: hearingdevice.ear
     static let hearingaidEar = SFSymbol(.hearingaidEar, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: heart.text.square
@@ -12748,12 +12283,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: hifispeaker.2
     /// - Category: devices
-    /// - Availabilities:
     static let hifispeaker2 = SFSymbol(.hifispeaker2, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: hifispeaker.2.fill
     /// - Category: devices
-    /// - Availabilities:
     static let hifispeaker2Fill = SFSymbol(.hifispeaker2Fill, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: hifispeaker.and.homepod
@@ -12770,7 +12303,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: highlighter
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let highlighter = SFSymbol(.highlighter, releaseYear: ._2020, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: homekit
@@ -12827,17 +12359,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: infinity
     /// - Category: media
-    /// - Availabilities:
     static let infinity = SFSymbol(.infinity, releaseYear: ._2020, category: [ .media ])
 
     /// - Symbol Name: internaldrive
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let internaldrive = SFSymbol(.internaldrive, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: internaldrive.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let internaldriveFill = SFSymbol(.internaldriveFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: ipad
@@ -12908,22 +12437,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: ipodshuffle.gen1
     /// - Category: devices
-    /// - Availabilities:
     static let ipodshuffleGen1 = SFSymbol(.ipodshuffleGen1, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: ipodshuffle.gen2
     /// - Category: devices
-    /// - Availabilities:
     static let ipodshuffleGen2 = SFSymbol(.ipodshuffleGen2, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: ipodshuffle.gen3
     /// - Category: devices
-    /// - Availabilities:
     static let ipodshuffleGen3 = SFSymbol(.ipodshuffleGen3, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: ipodshuffle.gen4
     /// - Category: devices
-    /// - Availabilities:
     static let ipodshuffleGen4 = SFSymbol(.ipodshuffleGen4, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: ipodtouch
@@ -12933,7 +12458,7 @@ public extension SFSymbol {
     static let ipodtouch = SFSymbol(.ipodtouch, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: j.square.fill.on.square.fill
-    /// - Availabilities:
+    /// - Alias: j.square.on.square.fill
     static let jSquareFillOnSquareFill = SFSymbol(.jSquareFillOnSquareFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: j.square.on.square
@@ -12942,17 +12467,14 @@ public extension SFSymbol {
     static let jSquareOnSquare = SFSymbol(.jSquareOnSquare, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: k
-    /// - Availabilities:
     static let k = SFSymbol(.k, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: key
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let key = SFSymbol(.key, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: key.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let keyFill = SFSymbol(.keyFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: key.icloud
@@ -12975,11 +12497,9 @@ public extension SFSymbol {
 
     /// - Symbol Name: keyboard.chevron.compact.left
     /// - Category: devices, keyboard
-    /// - Availabilities:
     static let keyboardChevronCompactLeft = SFSymbol(.keyboardChevronCompactLeft, releaseYear: ._2020, category: [ .devices, .keyboard ])
 
     /// - Symbol Name: keyboard.macwindow
-    /// - Availabilities:
     static let keyboardMacwindow = SFSymbol(.keyboardMacwindow, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: keyboard.onehanded.left
@@ -13001,11 +12521,11 @@ public extension SFSymbol {
     static let lJoystick = SFSymbol(.lJoystick, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: l.joystick.down
-    /// - Availabilities:
+    /// - Alias: l.joystick.press.down
     static let lJoystickDown = SFSymbol(.lJoystickDown, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: l.joystick.down.fill
-    /// - Availabilities:
+    /// - Alias: l.joystick.press.down.fill
     static let lJoystickDownFill = SFSymbol(.lJoystickDownFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: l.joystick.fill
@@ -13052,7 +12572,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: ladybug
     /// - Category: nature
-    /// - Availabilities:
     static let ladybug = SFSymbol(.ladybug, releaseYear: ._2020, category: [ .nature ])
 
     /// - Symbol Name: ladybug.fill
@@ -13074,17 +12593,15 @@ public extension SFSymbol {
     static let laptopcomputerAndIphone = SFSymbol(.laptopcomputerAndIphone, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: lasso.sparkles
-    /// - Availabilities:
+    /// - Alias: lasso.and.sparkles
     static let lassoSparkles = SFSymbol(.lassoSparkles, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: latch.2.case
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let latch2Case = SFSymbol(.latch2Case, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: latch.2.case.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let latch2CaseFill = SFSymbol(.latch2CaseFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: lb.rectangle.roundedbottom
@@ -13106,6 +12623,7 @@ public extension SFSymbol {
     static let leaf = SFSymbol(.leaf, releaseYear: ._2020, category: [ .multicolor, .nature ])
 
     /// - Symbol Name: leaf.arrow.triangle.circlepath
+    /// - Alias: leaf.arrow.circlepath
     /// - Category: arrows, nature
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -13125,49 +12643,42 @@ public extension SFSymbol {
 
     /// - Symbol Name: level.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let levelFill = SFSymbol(.levelFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: lifepreserver
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let lifepreserver = SFSymbol(.lifepreserver, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: lifepreserver.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let lifepreserverFill = SFSymbol(.lifepreserverFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: line.3.crossed.swirl.circle
-    /// - Availabilities:
     static let line3CrossedSwirlCircle = SFSymbol(.line3CrossedSwirlCircle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.3.crossed.swirl.circle.fill
-    /// - Availabilities:
     static let line3CrossedSwirlCircleFill = SFSymbol(.line3CrossedSwirlCircleFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.diagonal
-    /// - Availabilities:
     static let lineDiagonal = SFSymbol(.lineDiagonal, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.diagonal.arrow
-    /// - Availabilities:
     static let lineDiagonalArrow = SFSymbol(.lineDiagonalArrow, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.horizontal.2.decrease.circle
-    /// - Availabilities:
+    /// - Alias: line.2.horizontal.decrease.circle
     static let lineHorizontal2DecreaseCircle = SFSymbol(.lineHorizontal2DecreaseCircle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.horizontal.2.decrease.circle.fill
-    /// - Availabilities:
+    /// - Alias: line.2.horizontal.decrease.circle.fill
     static let lineHorizontal2DecreaseCircleFill = SFSymbol(.lineHorizontal2DecreaseCircleFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.horizontal.3.circle
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.circle
     static let lineHorizontal3Circle = SFSymbol(.lineHorizontal3Circle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.horizontal.3.circle.fill
-    /// - Availabilities:
+    /// - Alias: line.3.horizontal.circle.fill
     static let lineHorizontal3CircleFill = SFSymbol(.lineHorizontal3CircleFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: line.horizontal.star.fill.line.horizontal
@@ -13176,7 +12687,6 @@ public extension SFSymbol {
     static let lineHorizontalStarFillLineHorizontal = SFSymbol(.lineHorizontalStarFillLineHorizontal, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: lineweight
-    /// - Availabilities:
     static let lineweight = SFSymbol(.lineweight, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: link.badge.plus
@@ -13308,7 +12818,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: loupe
     /// - Category: editing
-    /// - Availabilities:
     static let loupe = SFSymbol(.loupe, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: lt.rectangle.roundedtop
@@ -13339,37 +12848,30 @@ public extension SFSymbol {
 
     /// - Symbol Name: macmini
     /// - Category: devices
-    /// - Availabilities:
     static let macmini = SFSymbol(.macmini, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: macmini.fill
     /// - Category: devices
-    /// - Availabilities:
     static let macminiFill = SFSymbol(.macminiFill, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: macpro.gen1
     /// - Category: devices
-    /// - Availabilities:
     static let macproGen1 = SFSymbol(.macproGen1, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: macpro.gen2
     /// - Category: devices
-    /// - Availabilities:
     static let macproGen2 = SFSymbol(.macproGen2, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: macpro.gen2.fill
     /// - Category: devices
-    /// - Availabilities:
     static let macproGen2Fill = SFSymbol(.macproGen2Fill, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: macpro.gen3
     /// - Category: devices
-    /// - Availabilities:
     static let macproGen3 = SFSymbol(.macproGen3, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: macpro.gen3.server
     /// - Category: devices
-    /// - Availabilities:
     static let macproGen3Server = SFSymbol(.macproGen3Server, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: macwindow.badge.plus
@@ -13390,7 +12892,6 @@ public extension SFSymbol {
     static let macwindowOnRectangleRtl = SFSymbol(.macwindowOnRectangleRtl, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mail
-    /// - Availabilities:
     static let mail = SFSymbol(.mail, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mail.and.text.magnifyingglass
@@ -13404,30 +12905,24 @@ public extension SFSymbol {
     static let mailAndTextMagnifyingglassRtl = SFSymbol(.mailAndTextMagnifyingglassRtl, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mail.fill
-    /// - Availabilities:
     static let mailFill = SFSymbol(.mailFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mail.stack
-    /// - Availabilities:
     static let mailStack = SFSymbol(.mailStack, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mail.stack.fill
-    /// - Availabilities:
     static let mailStackFill = SFSymbol(.mailStackFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: megaphone
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let megaphone = SFSymbol(.megaphone, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: megaphone.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let megaphoneFill = SFSymbol(.megaphoneFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: memorychip
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let memorychip = SFSymbol(.memorychip, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: menubar.arrow.down.rectangle
@@ -13451,12 +12946,10 @@ public extension SFSymbol {
     static let menubarDockRectangleBadgeRecord = SFSymbol(.menubarDockRectangleBadgeRecord, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: menubar.rectangle
-    /// - Availabilities:
     static let menubarRectangle = SFSymbol(.menubarRectangle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: metronome.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let metronomeFill = SFSymbol(.metronomeFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: minus.diamond
@@ -13500,60 +12993,52 @@ public extension SFSymbol {
     static let minusRectanglePortraitFill = SFSymbol(.minusRectanglePortraitFill, releaseYear: ._2020, category: [ .multicolor ])
 
     /// - Symbol Name: mosaic
-    /// - Availabilities:
     static let mosaic = SFSymbol(.mosaic, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mosaic.fill
-    /// - Availabilities:
     static let mosaicFill = SFSymbol(.mosaicFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mount
     /// - Category: keyboard
-    /// - Availabilities:
     static let mount = SFSymbol(.mount, releaseYear: ._2020, category: [ .keyboard ])
 
     /// - Symbol Name: mount.fill
     /// - Category: keyboard
-    /// - Availabilities:
     static let mountFill = SFSymbol(.mountFill, releaseYear: ._2020, category: [ .keyboard ])
 
     /// - Symbol Name: mouth
     /// - Category: human
-    /// - Availabilities:
     static let mouth = SFSymbol(.mouth, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: mouth.fill
     /// - Category: human
-    /// - Availabilities:
     static let mouthFill = SFSymbol(.mouthFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: move.3d
     /// - Category: editing
-    /// - Availabilities:
     static let move3D = SFSymbol(.move3D, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: music.note.house
+    /// - Alias: music.house
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let musicNoteHouse = SFSymbol(.musicNoteHouse, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: music.note.house.fill
+    /// - Alias: music.house.fill
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let musicNoteHouseFill = SFSymbol(.musicNoteHouseFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: music.quarternote.3
-    /// - Availabilities:
     static let musicQuarternote3 = SFSymbol(.musicQuarternote3, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: mustache
     /// - Category: human
-    /// - Availabilities:
     static let mustache = SFSymbol(.mustache, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: mustache.fill
     /// - Category: human
-    /// - Availabilities:
     static let mustacheFill = SFSymbol(.mustacheFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: network
@@ -13564,27 +13049,22 @@ public extension SFSymbol {
 
     /// - Symbol Name: newspaper
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let newspaper = SFSymbol(.newspaper, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: newspaper.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let newspaperFill = SFSymbol(.newspaperFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: nose
     /// - Category: human
-    /// - Availabilities:
     static let nose = SFSymbol(.nose, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: nose.fill
     /// - Category: human
-    /// - Availabilities:
     static let noseFill = SFSymbol(.noseFill, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: note
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let note = SFSymbol(.note, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: note.text
@@ -13602,57 +13082,46 @@ public extension SFSymbol {
 
     /// - Symbol Name: octagon
     /// - Category: shapes
-    /// - Availabilities:
     static let octagon = SFSymbol(.octagon, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: octagon.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let octagonFill = SFSymbol(.octagonFill, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: opticaldisc
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let opticaldisc = SFSymbol(.opticaldisc, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: opticaldiscdrive
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let opticaldiscdrive = SFSymbol(.opticaldiscdrive, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: opticaldiscdrive.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let opticaldiscdriveFill = SFSymbol(.opticaldiscdriveFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: oval
     /// - Category: shapes
-    /// - Availabilities:
     static let oval = SFSymbol(.oval, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: oval.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let ovalFill = SFSymbol(.ovalFill, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: oval.portrait
     /// - Category: shapes
-    /// - Availabilities:
     static let ovalPortrait = SFSymbol(.ovalPortrait, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: oval.portrait.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let ovalPortraitFill = SFSymbol(.ovalPortraitFill, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: paintbrush.pointed
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let paintbrushPointed = SFSymbol(.paintbrushPointed, releaseYear: ._2020, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: paintbrush.pointed.fill
     /// - Category: editing, objectsandtools
-    /// - Availabilities:
     static let paintbrushPointedFill = SFSymbol(.paintbrushPointedFill, releaseYear: ._2020, category: [ .editing, .objectsandtools ])
 
     /// - Symbol Name: paintpalette
@@ -13687,8 +13156,8 @@ public extension SFSymbol {
     static let paperplaneCircleFill = SFSymbol(.paperplaneCircleFill, releaseYear: ._2020, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: paragraphsign
+    /// - Alias: paragraph
     /// - Category: textformatting
-    /// - Availabilities:
     static let paragraphsign = SFSymbol(.paragraphsign, releaseYear: ._2020, category: [ .textformatting ])
 
     /// - Symbol Name: pc
@@ -13706,7 +13175,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: percent.ar
     /// - Category: math
-    /// - Availabilities:
     static let percentAr = SFSymbol(.percentAr, releaseYear: ._2020, category: [ .math ])
 
     /// - Symbol Name: person.2.circle
@@ -13729,6 +13197,7 @@ public extension SFSymbol {
     static let personAndArrowLeftAndArrowRight = SFSymbol(.personAndArrowLeftAndArrowRight, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: person.crop.circle.badge.exclamationmark
+    /// - Alias: person.crop.circle.badge.exclam
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -13750,19 +13219,19 @@ public extension SFSymbol {
     static let personCropCircleBadgeQuestionmarkAr = SFSymbol(.personCropCircleBadgeQuestionmarkAr, releaseYear: ._2020, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.exclamationmark
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.exclamationmark.fill
     static let personCropCircleFillBadgeExclamationmark = SFSymbol(.personCropCircleFillBadgeExclamationmark, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.questionmark
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.questionmark.fill
     static let personCropCircleFillBadgeQuestionmark = SFSymbol(.personCropCircleFillBadgeQuestionmark, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: person.crop.circle.fill.badge.questionmark.ar
-    /// - Availabilities:
+    /// - Alias: person.crop.circle.badge.questionmark.fill.ar
     static let personCropCircleFillBadgeQuestionmarkAr = SFSymbol(.personCropCircleFillBadgeQuestionmarkAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: person.crop.square.fill.and.at.rectangle
-    /// - Availabilities:
+    /// - Alias: person.crop.square.filled.and.at.rectangle
     static let personCropSquareFillAndAtRectangle = SFSymbol(.personCropSquareFillAndAtRectangle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: person.fill.and.arrow.left.and.arrow.right
@@ -13772,6 +13241,7 @@ public extension SFSymbol {
     static let personFillAndArrowLeftAndArrowRight = SFSymbol(.personFillAndArrowLeftAndArrowRight, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: person.fill.badge.minus
+    /// - Alias: person.badge.minus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -13779,6 +13249,7 @@ public extension SFSymbol {
     static let personFillBadgeMinus = SFSymbol(.personFillBadgeMinus, releaseYear: ._2020, category: [ .human, .multicolor ])
 
     /// - Symbol Name: person.fill.badge.plus
+    /// - Alias: person.badge.plus.fill
     /// - Category: human, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -13817,17 +13288,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: person.fill.turn.down
     /// - Category: human
-    /// - Availabilities:
     static let personFillTurnDown = SFSymbol(.personFillTurnDown, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: person.fill.turn.left
     /// - Category: human
-    /// - Availabilities:
     static let personFillTurnLeft = SFSymbol(.personFillTurnLeft, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: person.fill.turn.right
     /// - Category: human
-    /// - Availabilities:
     static let personFillTurnRight = SFSymbol(.personFillTurnRight, releaseYear: ._2020, category: [ .human ])
 
     /// - Symbol Name: person.fill.viewfinder
@@ -13879,17 +13347,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: pianokeys
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let pianokeys = SFSymbol(.pianokeys, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: pianokeys.inverse
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let pianokeysInverse = SFSymbol(.pianokeysInverse, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: pills
     /// - Category: health
-    /// - Availabilities:
     static let pills = SFSymbol(.pills, releaseYear: ._2020, category: [ .health ])
 
     /// - Symbol Name: pills.fill
@@ -13930,7 +13395,6 @@ public extension SFSymbol {
     static let pipSwap = SFSymbol(.pipSwap, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: placeholdertext.fill
-    /// - Availabilities:
     static let placeholdertextFill = SFSymbol(.placeholdertextFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: play.slash
@@ -13972,7 +13436,7 @@ public extension SFSymbol {
     static let plusMessageFill = SFSymbol(.plusMessageFill, releaseYear: ._2020, category: [ .communication ])
 
     /// - Symbol Name: plus.rectangle.fill.on.folder.fill
-    /// - Availabilities:
+    /// - Alias: plus.rectangle.on.folder.fill
     static let plusRectangleFillOnFolderFill = SFSymbol(.plusRectangleFillOnFolderFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: plus.rectangle.on.folder
@@ -14001,59 +13465,49 @@ public extension SFSymbol {
     static let plusViewfinder = SFSymbol(.plusViewfinder, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: point.fill.topleft.down.curvedto.point.fill.bottomright.up
-    /// - Availabilities:
+    /// - Alias: point.topleft.down.curvedto.point.bottomright.up.fill
     static let pointFillTopleftDownCurvedtoPointFillBottomrightUp = SFSymbol(.pointFillTopleftDownCurvedtoPointFillBottomrightUp, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: point.topleft.down.curvedto.point.bottomright.up
-    /// - Availabilities:
     static let pointTopleftDownCurvedtoPointBottomrightUp = SFSymbol(.pointTopleftDownCurvedtoPointBottomrightUp, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: poweroff
-    /// - Availabilities:
     static let poweroff = SFSymbol(.poweroff, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: poweron
-    /// - Availabilities:
     static let poweron = SFSymbol(.poweron, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: powersleep
-    /// - Availabilities:
     static let powersleep = SFSymbol(.powersleep, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: printer.dotmatrix
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let printerDotmatrix = SFSymbol(.printerDotmatrix, releaseYear: ._2020, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: printer.dotmatrix.fill
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let printerDotmatrixFill = SFSymbol(.printerDotmatrixFill, releaseYear: ._2020, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: printer.dotmatrix.fill.and.paper.fill
-    /// - Availabilities:
+    /// - Alias: printer.dotmatrix.filled.and.paper
     static let printerDotmatrixFillAndPaperFill = SFSymbol(.printerDotmatrixFillAndPaperFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: printer.fill.and.paper.fill
-    /// - Availabilities:
+    /// - Alias: printer.filled.and.paper
     static let printerFillAndPaperFill = SFSymbol(.printerFillAndPaperFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: puzzlepiece
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let puzzlepiece = SFSymbol(.puzzlepiece, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: puzzlepiece.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let puzzlepieceFill = SFSymbol(.puzzlepieceFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: pyramid
-    /// - Availabilities:
     static let pyramid = SFSymbol(.pyramid, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: pyramid.fill
-    /// - Availabilities:
     static let pyramidFill = SFSymbol(.pyramidFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: questionmark.ar
@@ -14139,12 +13593,14 @@ public extension SFSymbol {
     static let questionmarkSquareFillAr = SFSymbol(.questionmarkSquareFillAr, releaseYear: ._2020, category: [ .indices, .multicolor ])
 
     /// - Symbol Name: questionmark.video.ar
+    /// - Alias: questionmark.video.rtl
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let questionmarkVideoAr = SFSymbol(.questionmarkVideoAr, releaseYear: ._2020, category: [ .communication ])
 
     /// - Symbol Name: questionmark.video.fill.ar
+    /// - Alias: questionmark.video.fill.rtl
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14169,11 +13625,11 @@ public extension SFSymbol {
     static let rJoystick = SFSymbol(.rJoystick, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: r.joystick.down
-    /// - Availabilities:
+    /// - Alias: r.joystick.press.down
     static let rJoystickDown = SFSymbol(.rJoystickDown, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: r.joystick.down.fill
-    /// - Availabilities:
+    /// - Alias: r.joystick.press.down.fill
     static let rJoystickDownFill = SFSymbol(.rJoystickDownFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: r.joystick.fill
@@ -14195,7 +13651,7 @@ public extension SFSymbol {
     static let rRectangleRoundedbottomFill = SFSymbol(.rRectangleRoundedbottomFill, releaseYear: ._2020, category: [ .gaming ])
 
     /// - Symbol Name: r.square.fill.on.square.fill
-    /// - Availabilities:
+    /// - Alias: r.square.on.square.fill
     static let rSquareFillOnSquareFill = SFSymbol(.rSquareFillOnSquareFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: r.square.on.square
@@ -14229,12 +13685,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: radio
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let radio = SFSymbol(.radio, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: radio.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let radioFill = SFSymbol(.radioFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: rb.rectangle.roundedbottom
@@ -14263,14 +13717,15 @@ public extension SFSymbol {
     static let recordCircleFill = SFSymbol(.recordCircleFill, releaseYear: ._2020, category: [ .media, .multicolor ])
 
     /// - Symbol Name: rectangle.3.offgrid.bubble.left
-    /// - Availabilities:
+    /// - Alias: rectangles.group.bubble.left
     static let rectangle3OffgridBubbleLeft = SFSymbol(.rectangle3OffgridBubbleLeft, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.3.offgrid.bubble.left.fill
-    /// - Availabilities:
+    /// - Alias: rectangles.group.bubble.left.fill
     static let rectangle3OffgridBubbleLeftFill = SFSymbol(.rectangle3OffgridBubbleLeftFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.and.pencil.and.ellipsis
+    /// - Alias: pencil.and.ellipsis.rectangle
     /// - Category: editing, objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14317,20 +13772,18 @@ public extension SFSymbol {
     static let rectangleBadgePlus = SFSymbol(.rectangleBadgePlus, releaseYear: ._2020, category: [ .multicolor ])
 
     /// - Symbol Name: rectangle.bottomthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.bottomthird.inset.filled
     static let rectangleBottomthirdInsetFill = SFSymbol(.rectangleBottomthirdInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.center.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.center.inset.filled
     static let rectangleCenterInsetFill = SFSymbol(.rectangleCenterInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.connected.to.line.below
-    /// - Availabilities:
     static let rectangleConnectedToLineBelow = SFSymbol(.rectangleConnectedToLineBelow, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.dashed
     /// - Category: editing
-    /// - Availabilities:
     static let rectangleDashed = SFSymbol(.rectangleDashed, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: rectangle.dashed.and.paperclip
@@ -14360,51 +13813,51 @@ public extension SFSymbol {
     static let rectangleFillBadgePlus = SFSymbol(.rectangleFillBadgePlus, releaseYear: ._2020, category: [ .multicolor ])
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.circle
-    /// - Availabilities:
+    /// - Alias: rectangle.on.rectangle.circle
     static let rectangleFillOnRectangleFillCircle = SFSymbol(.rectangleFillOnRectangleFillCircle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.circle.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.on.rectangle.circle.fill
     static let rectangleFillOnRectangleFillCircleFill = SFSymbol(.rectangleFillOnRectangleFillCircleFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.slash.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.on.rectangle.slash.fill
     static let rectangleFillOnRectangleFillSlashFill = SFSymbol(.rectangleFillOnRectangleFillSlashFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.inset.bottomleft.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.bottomleft.filled
     static let rectangleInsetBottomleftFill = SFSymbol(.rectangleInsetBottomleftFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.inset.bottomright.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.bottomright.filled
     static let rectangleInsetBottomrightFill = SFSymbol(.rectangleInsetBottomrightFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.filled
     static let rectangleInsetFill = SFSymbol(.rectangleInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.inset.topleft.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.topleft.filled
     static let rectangleInsetTopleftFill = SFSymbol(.rectangleInsetTopleftFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.inset.topright.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.inset.topright.filled
     static let rectangleInsetToprightFill = SFSymbol(.rectangleInsetToprightFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.lefthalf.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.lefthalf.filled
     static let rectangleLefthalfFill = SFSymbol(.rectangleLefthalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.lefthalf.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.lefthalf.inset.filled
     static let rectangleLefthalfInsetFill = SFSymbol(.rectangleLefthalfInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.lefthalf.inset.fill.arrow.left
-    /// - Availabilities:
+    /// - Alias: rectangle.lefthalf.inset.filled.arrow.left
     static let rectangleLefthalfInsetFillArrowLeft = SFSymbol(.rectangleLefthalfInsetFillArrowLeft, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.leftthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.leftthird.inset.filled
     static let rectangleLeftthirdInsetFill = SFSymbol(.rectangleLeftthirdInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.on.rectangle.slash
@@ -14414,7 +13867,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.portrait
     /// - Category: shapes
-    /// - Availabilities:
     static let rectanglePortrait = SFSymbol(.rectanglePortrait, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: rectangle.portrait.arrowtriangle.2.inward
@@ -14429,43 +13881,38 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.portrait.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let rectanglePortraitFill = SFSymbol(.rectanglePortraitFill, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: rectangle.righthalf.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.righthalf.filled
     static let rectangleRighthalfFill = SFSymbol(.rectangleRighthalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.righthalf.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.righthalf.inset.filled
     static let rectangleRighthalfInsetFill = SFSymbol(.rectangleRighthalfInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.righthalf.inset.fill.arrow.right
-    /// - Availabilities:
+    /// - Alias: rectangle.righthalf.inset.filled.arrow.right
     static let rectangleRighthalfInsetFillArrowRight = SFSymbol(.rectangleRighthalfInsetFillArrowRight, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.rightthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.rightthird.inset.filled
     static let rectangleRightthirdInsetFill = SFSymbol(.rectangleRightthirdInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.roundedbottom
     /// - Category: gaming, shapes
-    /// - Availabilities:
     static let rectangleRoundedbottom = SFSymbol(.rectangleRoundedbottom, releaseYear: ._2020, category: [ .gaming, .shapes ])
 
     /// - Symbol Name: rectangle.roundedbottom.fill
     /// - Category: gaming, shapes
-    /// - Availabilities:
     static let rectangleRoundedbottomFill = SFSymbol(.rectangleRoundedbottomFill, releaseYear: ._2020, category: [ .gaming, .shapes ])
 
     /// - Symbol Name: rectangle.roundedtop
     /// - Category: gaming, shapes
-    /// - Availabilities:
     static let rectangleRoundedtop = SFSymbol(.rectangleRoundedtop, releaseYear: ._2020, category: [ .gaming, .shapes ])
 
     /// - Symbol Name: rectangle.roundedtop.fill
     /// - Category: gaming, shapes
-    /// - Availabilities:
     static let rectangleRoundedtopFill = SFSymbol(.rectangleRoundedtopFill, releaseYear: ._2020, category: [ .gaming, .shapes ])
 
     /// - Symbol Name: rectangle.slash
@@ -14479,31 +13926,24 @@ public extension SFSymbol {
     static let rectangleSlashFill = SFSymbol(.rectangleSlashFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.split.1x2
-    /// - Availabilities:
     static let rectangleSplit1X2 = SFSymbol(.rectangleSplit1X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.split.1x2.fill
-    /// - Availabilities:
     static let rectangleSplit1X2Fill = SFSymbol(.rectangleSplit1X2Fill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.split.2x1
-    /// - Availabilities:
     static let rectangleSplit2X1 = SFSymbol(.rectangleSplit2X1, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.split.2x1.fill
-    /// - Availabilities:
     static let rectangleSplit2X1Fill = SFSymbol(.rectangleSplit2X1Fill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.split.2x2
-    /// - Availabilities:
     static let rectangleSplit2X2 = SFSymbol(.rectangleSplit2X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: rectangle.split.2x2.fill
-    /// - Availabilities:
     static let rectangleSplit2X2Fill = SFSymbol(.rectangleSplit2X2Fill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: restart
-    /// - Availabilities:
     static let restart = SFSymbol(.restart, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: restart.circle
@@ -14513,7 +13953,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: rotate.3d
     /// - Category: editing
-    /// - Availabilities:
     static let rotate3D = SFSymbol(.rotate3D, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: rt.rectangle.roundedtop
@@ -14530,77 +13969,62 @@ public extension SFSymbol {
 
     /// - Symbol Name: ruler
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let ruler = SFSymbol(.ruler, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: ruler.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let rulerFill = SFSymbol(.rulerFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: scale.3d
     /// - Category: editing
-    /// - Availabilities:
     static let scale3D = SFSymbol(.scale3D, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: scalemass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let scalemass = SFSymbol(.scalemass, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: scalemass.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let scalemassFill = SFSymbol(.scalemassFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: scanner
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let scanner = SFSymbol(.scanner, releaseYear: ._2020, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: scanner.fill
     /// - Category: devices, objectsandtools
-    /// - Availabilities:
     static let scannerFill = SFSymbol(.scannerFill, releaseYear: ._2020, category: [ .devices, .objectsandtools ])
 
     /// - Symbol Name: scribble.variable
     /// - Category: editing
-    /// - Availabilities:
     static let scribbleVariable = SFSymbol(.scribbleVariable, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: scroll
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let scroll = SFSymbol(.scroll, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: scroll.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let scrollFill = SFSymbol(.scrollFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: sdcard
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let sdcard = SFSymbol(.sdcard, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: sdcard.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let sdcardFill = SFSymbol(.sdcardFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: seal
     /// - Category: shapes
-    /// - Availabilities:
     static let seal = SFSymbol(.seal, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: seal.fill
     /// - Category: shapes
-    /// - Availabilities:
     static let sealFill = SFSymbol(.sealFill, releaseYear: ._2020, category: [ .shapes ])
 
     /// - Symbol Name: server.rack
     /// - Category: devices
-    /// - Availabilities:
     static let serverRack = SFSymbol(.serverRack, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: shadow
@@ -14610,12 +14034,14 @@ public extension SFSymbol {
     static let shadow = SFSymbol(.shadow, releaseYear: ._2020, category: [ .multicolor, .textformatting ])
 
     /// - Symbol Name: shekelsign.circle
+    /// - Alias: sheqelsign.circle
     /// - Category: commerce, indices
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let shekelsignCircle = SFSymbol(.shekelsignCircle, releaseYear: ._2020, category: [ .commerce, .indices ])
 
     /// - Symbol Name: shekelsign.circle.fill
+    /// - Alias: sheqelsign.circle.fill
     /// - Category: commerce, indices, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14623,12 +14049,14 @@ public extension SFSymbol {
     static let shekelsignCircleFill = SFSymbol(.shekelsignCircleFill, releaseYear: ._2020, category: [ .commerce, .indices, .multicolor ])
 
     /// - Symbol Name: shekelsign.square
+    /// - Alias: sheqelsign.square
     /// - Category: commerce, indices
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let shekelsignSquare = SFSymbol(.shekelsignSquare, releaseYear: ._2020, category: [ .commerce, .indices ])
 
     /// - Symbol Name: shekelsign.square.fill
+    /// - Alias: sheqelsign.square.fill
     /// - Category: commerce, indices, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14636,41 +14064,35 @@ public extension SFSymbol {
     static let shekelsignSquareFill = SFSymbol(.shekelsignSquareFill, releaseYear: ._2020, category: [ .commerce, .indices, .multicolor ])
 
     /// - Symbol Name: shield.lefthalf.fill.slash
-    /// - Availabilities:
+    /// - Alias: shield.lefthalf.filled.slash
     static let shieldLefthalfFillSlash = SFSymbol(.shieldLefthalfFillSlash, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: shippingbox
+    /// - Alias: cube.box
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let shippingbox = SFSymbol(.shippingbox, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: shippingbox.fill
+    /// - Alias: cube.box.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let shippingboxFill = SFSymbol(.shippingboxFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: sidebar.leading
-    /// - Availabilities:
     static let sidebarLeading = SFSymbol(.sidebarLeading, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: sidebar.squares.leading
-    /// - Availabilities:
     static let sidebarSquaresLeading = SFSymbol(.sidebarSquaresLeading, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: sidebar.squares.left
-    /// - Availabilities:
     static let sidebarSquaresLeft = SFSymbol(.sidebarSquaresLeft, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: sidebar.squares.right
-    /// - Availabilities:
     static let sidebarSquaresRight = SFSymbol(.sidebarSquaresRight, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: sidebar.squares.trailing
-    /// - Availabilities:
     static let sidebarSquaresTrailing = SFSymbol(.sidebarSquaresTrailing, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: sidebar.trailing
-    /// - Availabilities:
     static let sidebarTrailing = SFSymbol(.sidebarTrailing, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: signature.ar
@@ -14686,19 +14108,15 @@ public extension SFSymbol {
     static let signatureHe = SFSymbol(.signatureHe, releaseYear: ._2020, category: [ .commerce, .editing, .textformatting ])
 
     /// - Symbol Name: signpost.left
-    /// - Availabilities:
     static let signpostLeft = SFSymbol(.signpostLeft, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: signpost.left.fill
-    /// - Availabilities:
     static let signpostLeftFill = SFSymbol(.signpostLeftFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: signpost.right
-    /// - Availabilities:
     static let signpostRight = SFSymbol(.signpostRight, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: signpost.right.fill
-    /// - Availabilities:
     static let signpostRightFill = SFSymbol(.signpostRightFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: simcard
@@ -14726,7 +14144,7 @@ public extension SFSymbol {
     static let simcardFill = SFSymbol(.simcardFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: sleep
-    /// - Availabilities:
+    /// - Alias: circle.bottomthird.split
     static let sleep = SFSymbol(.sleep, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: slider.horizontal.below.square.fill.and.square
@@ -14737,7 +14155,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: slider.vertical.3
     /// - Category: editing
-    /// - Availabilities:
     static let sliderVertical3 = SFSymbol(.sliderVertical3, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: sparkle
@@ -14757,7 +14174,7 @@ public extension SFSymbol {
     static let sparklesRectangleStackFill = SFSymbol(.sparklesRectangleStackFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: sparkles.square.fill.on.square
-    /// - Availabilities:
+    /// - Alias: sparkles.square.filled.on.square
     static let sparklesSquareFillOnSquare = SFSymbol(.sparklesSquareFillOnSquare, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: speaker.slash.circle
@@ -14787,18 +14204,21 @@ public extension SFSymbol {
     static let speakerSlashCircleRtl = SFSymbol(.speakerSlashCircleRtl, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.wave.1
+    /// - Alias: volume.1
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerWave1 = SFSymbol(.speakerWave1, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.wave.1.fill
+    /// - Alias: volume.1.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerWave1Fill = SFSymbol(.speakerWave1Fill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.wave.2
+    /// - Alias: volume.2
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14818,18 +14238,21 @@ public extension SFSymbol {
     static let speakerWave2CircleFill = SFSymbol(.speakerWave2CircleFill, releaseYear: ._2020, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: speaker.wave.2.fill
+    /// - Alias: volume.2.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerWave2Fill = SFSymbol(.speakerWave2Fill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.wave.3
+    /// - Alias: volume.3
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let speakerWave3 = SFSymbol(.speakerWave3, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: speaker.wave.3.fill
+    /// - Alias: volume.3.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -14876,7 +14299,7 @@ public extension SFSymbol {
     static let squareAndAtRectangle = SFSymbol(.squareAndAtRectangle, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.bottomhalf.fill
-    /// - Availabilities:
+    /// - Alias: square.bottomhalf.filled
     static let squareBottomhalfFill = SFSymbol(.squareBottomhalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.circle
@@ -14894,15 +14317,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: square.dashed
     /// - Category: editing
-    /// - Availabilities:
     static let squareDashed = SFSymbol(.squareDashed, releaseYear: ._2020, category: [ .editing ])
 
     /// - Symbol Name: square.dashed.inset.fill
-    /// - Availabilities:
+    /// - Alias: square.dashed.inset.filled
     static let squareDashedInsetFill = SFSymbol(.squareDashedInsetFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.fill.on.square
-    /// - Availabilities:
+    /// - Alias: square.filled.on.square
     static let squareFillOnSquare = SFSymbol(.squareFillOnSquare, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.fill.text.grid.1x2
@@ -14911,11 +14333,9 @@ public extension SFSymbol {
     static let squareFillTextGrid1X2 = SFSymbol(.squareFillTextGrid1X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x1.below.line.grid.1x2
-    /// - Availabilities:
     static let squareGrid3X1BelowLineGrid1X2 = SFSymbol(.squareGrid3X1BelowLineGrid1X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x1.fill.below.line.grid.1x2
-    /// - Availabilities:
     static let squareGrid3X1FillBelowLineGrid1X2 = SFSymbol(.squareGrid3X1FillBelowLineGrid1X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x1.folder.badge.plus
@@ -14933,51 +14353,49 @@ public extension SFSymbol {
     static let squareGrid3X1FolderFillBadgePlus = SFSymbol(.squareGrid3X1FolderFillBadgePlus, releaseYear: ._2020, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: square.grid.3x3
-    /// - Availabilities:
     static let squareGrid3X3 = SFSymbol(.squareGrid3X3, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.bottomleft.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.bottomleft.filled
     static let squareGrid3X3BottomleftFill = SFSymbol(.squareGrid3X3BottomleftFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.bottommiddle.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.bottommiddle.filled
     static let squareGrid3X3BottommiddleFill = SFSymbol(.squareGrid3X3BottommiddleFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.bottomright.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.bottomright.filled
     static let squareGrid3X3BottomrightFill = SFSymbol(.squareGrid3X3BottomrightFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.fill
-    /// - Availabilities:
     static let squareGrid3X3Fill = SFSymbol(.squareGrid3X3Fill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.fill.square
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.square
     static let squareGrid3X3FillSquare = SFSymbol(.squareGrid3X3FillSquare, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.middle.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.middle.filled
     static let squareGrid3X3MiddleFill = SFSymbol(.squareGrid3X3MiddleFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.middleleft.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.middleleft.filled
     static let squareGrid3X3MiddleleftFill = SFSymbol(.squareGrid3X3MiddleleftFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.middleright.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.middleright.filled
     static let squareGrid3X3MiddlerightFill = SFSymbol(.squareGrid3X3MiddlerightFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.topleft.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.topleft.filled
     static let squareGrid3X3TopleftFill = SFSymbol(.squareGrid3X3TopleftFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.topmiddle.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.topmiddle.filled
     static let squareGrid3X3TopmiddleFill = SFSymbol(.squareGrid3X3TopmiddleFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.grid.3x3.topright.fill
-    /// - Availabilities:
+    /// - Alias: square.grid.3x3.topright.filled
     static let squareGrid3X3ToprightFill = SFSymbol(.squareGrid3X3ToprightFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.on.square.dashed
@@ -15001,27 +14419,21 @@ public extension SFSymbol {
     static let squareSlashFill = SFSymbol(.squareSlashFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.split.bottomrightquarter
-    /// - Availabilities:
     static let squareSplitBottomrightquarter = SFSymbol(.squareSplitBottomrightquarter, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.split.bottomrightquarter.fill
-    /// - Availabilities:
     static let squareSplitBottomrightquarterFill = SFSymbol(.squareSplitBottomrightquarterFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.split.diagonal
-    /// - Availabilities:
     static let squareSplitDiagonal = SFSymbol(.squareSplitDiagonal, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.split.diagonal.2x2
-    /// - Availabilities:
     static let squareSplitDiagonal2X2 = SFSymbol(.squareSplitDiagonal2X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.split.diagonal.2x2.fill
-    /// - Availabilities:
     static let squareSplitDiagonal2X2Fill = SFSymbol(.squareSplitDiagonal2X2Fill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.split.diagonal.fill
-    /// - Availabilities:
     static let squareSplitDiagonalFill = SFSymbol(.squareSplitDiagonalFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.stack.3d.down.forward
@@ -15035,11 +14447,10 @@ public extension SFSymbol {
     static let squareStack3DDownForwardFill = SFSymbol(.squareStack3DDownForwardFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.stack.3d.forward.dottedline
-    /// - Availabilities:
+    /// - Alias: square.stack.3d.down.dottedline
     static let squareStack3DForwardDottedline = SFSymbol(.squareStack3DForwardDottedline, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.stack.3d.forward.dottedline.fill
-    /// - Availabilities:
     static let squareStack3DForwardDottedlineFill = SFSymbol(.squareStack3DForwardDottedlineFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.stack.3d.up.badge.a
@@ -15053,11 +14464,10 @@ public extension SFSymbol {
     static let squareStack3DUpBadgeAFill = SFSymbol(.squareStack3DUpBadgeAFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: square.tophalf.fill
-    /// - Availabilities:
+    /// - Alias: square.tophalf.filled
     static let squareTophalfFill = SFSymbol(.squareTophalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: squareshape
-    /// - Availabilities:
     static let squareshape = SFSymbol(.squareshape, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: squareshape.controlhandles.on.squareshape.controlhandles
@@ -15071,19 +14481,15 @@ public extension SFSymbol {
     static let squareshapeDashedSquareshape = SFSymbol(.squareshapeDashedSquareshape, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: squareshape.fill
-    /// - Availabilities:
     static let squareshapeFill = SFSymbol(.squareshapeFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: squareshape.split.2x2
-    /// - Availabilities:
     static let squareshapeSplit2X2 = SFSymbol(.squareshapeSplit2X2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: squareshape.split.2x2.dotted
-    /// - Availabilities:
     static let squareshapeSplit2X2Dotted = SFSymbol(.squareshapeSplit2X2Dotted, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: squareshape.split.3x3
-    /// - Availabilities:
     static let squareshapeSplit3X3 = SFSymbol(.squareshapeSplit3X3, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: squareshape.squareshape.dashed
@@ -15092,7 +14498,7 @@ public extension SFSymbol {
     static let squareshapeSquareshapeDashed = SFSymbol(.squareshapeSquareshapeDashed, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: star.leadinghalf.fill
-    /// - Availabilities:
+    /// - Alias: star.leadinghalf.filled
     static let starLeadinghalfFill = SFSymbol(.starLeadinghalfFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: star.square
@@ -15131,11 +14537,9 @@ public extension SFSymbol {
 
     /// - Symbol Name: sum.ar
     /// - Category: math
-    /// - Availabilities:
     static let sumAr = SFSymbol(.sumAr, releaseYear: ._2020, category: [ .math ])
 
     /// - Symbol Name: swift
-    /// - Availabilities:
     static let swift = SFSymbol(.swift, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: switch.2
@@ -15144,36 +14548,37 @@ public extension SFSymbol {
     static let switch2 = SFSymbol(.switch2, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: t.bubble.ar
-    /// - Availabilities:
+    /// - Alias: character.bubble.ar
     static let tBubbleAr = SFSymbol(.tBubbleAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: t.bubble.fill.ar
-    /// - Availabilities:
+    /// - Alias: character.bubble.fill.ar
     static let tBubbleFillAr = SFSymbol(.tBubbleFillAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: t.bubble.fill.he
-    /// - Availabilities:
+    /// - Alias: character.bubble.fill.he
     static let tBubbleFillHe = SFSymbol(.tBubbleFillHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: t.bubble.he
-    /// - Availabilities:
+    /// - Alias: character.bubble.he
     static let tBubbleHe = SFSymbol(.tBubbleHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: tablecells
-    /// - Availabilities:
+    /// - Alias: table
     static let tablecells = SFSymbol(.tablecells, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: tablecells.badge.ellipsis
+    /// - Alias: table.badge.more
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let tablecellsBadgeEllipsis = SFSymbol(.tablecellsBadgeEllipsis, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: tablecells.badge.ellipsis.fill
-    /// - Availabilities:
+    /// - Alias: tablecells.fill.badge.ellipsis
     static let tablecellsBadgeEllipsisFill = SFSymbol(.tablecellsBadgeEllipsisFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: tablecells.fill
-    /// - Availabilities:
+    /// - Alias: table.fill
     static let tablecellsFill = SFSymbol(.tablecellsFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: tag.slash
@@ -15189,7 +14594,6 @@ public extension SFSymbol {
     static let tagSlashFill = SFSymbol(.tagSlashFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: target
-    /// - Availabilities:
     static let target = SFSymbol(.target, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: teletype.circle
@@ -15207,15 +14611,12 @@ public extension SFSymbol {
     static let teletypeCircleFill = SFSymbol(.teletypeCircleFill, releaseYear: ._2020, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: terminal
-    /// - Availabilities:
     static let terminal = SFSymbol(.terminal, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: terminal.fill
-    /// - Availabilities:
     static let terminalFill = SFSymbol(.terminalFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.and.command.macwindow
-    /// - Availabilities:
     static let textAndCommandMacwindow = SFSymbol(.textAndCommandMacwindow, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.badge.checkmark.rtl
@@ -15226,21 +14627,17 @@ public extension SFSymbol {
     static let textBadgeCheckmarkRtl = SFSymbol(.textBadgeCheckmarkRtl, releaseYear: ._2020, category: [ .multicolor ])
 
     /// - Symbol Name: text.below.photo
-    /// - Availabilities:
     static let textBelowPhoto = SFSymbol(.textBelowPhoto, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.below.photo.fill
-    /// - Availabilities:
     static let textBelowPhotoFill = SFSymbol(.textBelowPhotoFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.book.closed
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let textBookClosed = SFSymbol(.textBookClosed, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: text.book.closed.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let textBookClosedFill = SFSymbol(.textBookClosedFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: text.bubble.fill.rtl
@@ -15256,41 +14653,39 @@ public extension SFSymbol {
     static let textBubbleRtl = SFSymbol(.textBubbleRtl, releaseYear: ._2020, category: [ .communication ])
 
     /// - Symbol Name: text.cursor.ar
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.ar
     static let textCursorAr = SFSymbol(.textCursorAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.cursor.he
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.he
     static let textCursorHe = SFSymbol(.textCursorHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.cursor.hi
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.hi
     static let textCursorHi = SFSymbol(.textCursorHi, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.cursor.ja
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.ja
     static let textCursorJa = SFSymbol(.textCursorJa, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.cursor.ko
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.ko
     static let textCursorKo = SFSymbol(.textCursorKo, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.cursor.th
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.th
     static let textCursorTh = SFSymbol(.textCursorTh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.cursor.zh
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.zh
     static let textCursorZh = SFSymbol(.textCursorZh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: text.magnifyingglass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let textMagnifyingglass = SFSymbol(.textMagnifyingglass, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: text.magnifyingglass.rtl
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let textMagnifyingglassRtl = SFSymbol(.textMagnifyingglassRtl, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: text.quote.rtl
@@ -15305,36 +14700,35 @@ public extension SFSymbol {
     static let textRedaction = SFSymbol(.textRedaction, releaseYear: ._2020, category: [ .textformatting ])
 
     /// - Symbol Name: textbox.ar
-    /// - Availabilities:
+    /// - Alias: character.textbox.ar
     static let textboxAr = SFSymbol(.textboxAr, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: textbox.he
-    /// - Availabilities:
+    /// - Alias: character.textbox.he
     static let textboxHe = SFSymbol(.textboxHe, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: textbox.hi
-    /// - Availabilities:
+    /// - Alias: character.textbox.hi
     static let textboxHi = SFSymbol(.textboxHi, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: textbox.ja
-    /// - Availabilities:
+    /// - Alias: character.textbox.ja
     static let textboxJa = SFSymbol(.textboxJa, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: textbox.ko
-    /// - Availabilities:
+    /// - Alias: character.textbox.ko
     static let textboxKo = SFSymbol(.textboxKo, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: textbox.th
-    /// - Availabilities:
+    /// - Alias: character.textbox.th
     static let textboxTh = SFSymbol(.textboxTh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: textbox.zh
-    /// - Availabilities:
+    /// - Alias: character.textbox.zh
     static let textboxZh = SFSymbol(.textboxZh, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: textformat.123.ar
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformat123Ar = SFSymbol(.textformat123Ar, releaseYear: ._2020, category: [ .textformatting ])
 
     /// - Symbol Name: thermometer.sun.fill
@@ -15346,12 +14740,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: ticket
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let ticket = SFSymbol(.ticket, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: ticket.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let ticketFill = SFSymbol(.ticketFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: timeline.selection
@@ -15380,7 +14772,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: tram
     /// - Category: transportation
-    /// - Availabilities:
     static let tram = SFSymbol(.tram, releaseYear: ._2020, category: [ .transportation ])
 
     /// - Symbol Name: tram.circle
@@ -15397,7 +14788,7 @@ public extension SFSymbol {
     static let tramCircleFill = SFSymbol(.tramCircleFill, releaseYear: ._2020, category: [ .multicolor, .transportation ])
 
     /// - Symbol Name: tram.tunnel.fill
-    /// - Availabilities:
+    /// - Alias: tram.fill.tunnel
     static let tramTunnelFill = SFSymbol(.tramTunnelFill, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: tray.circle
@@ -15459,6 +14850,7 @@ public extension SFSymbol {
     static let videoFillBadgeCheckmark = SFSymbol(.videoFillBadgeCheckmark, releaseYear: ._2020, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: video.fill.badge.plus
+    /// - Alias: video.badge.plus.fill
     /// - Category: communication, multicolor
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -15466,22 +14858,18 @@ public extension SFSymbol {
     static let videoFillBadgePlus = SFSymbol(.videoFillBadgePlus, releaseYear: ._2020, category: [ .communication, .multicolor ])
 
     /// - Symbol Name: wake
-    /// - Availabilities:
     static let wake = SFSymbol(.wake, releaseYear: ._2020, category: [  ])
 
     /// - Symbol Name: wallet.pass
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let walletPass = SFSymbol(.walletPass, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: wallet.pass.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let walletPassFill = SFSymbol(.walletPassFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: wave.3.backward
     /// - Category: connectivity
-    /// - Availabilities:
     static let wave3Backward = SFSymbol(.wave3Backward, releaseYear: ._2020, category: [ .connectivity ])
 
     /// - Symbol Name: wave.3.backward.circle
@@ -15499,7 +14887,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: wave.3.forward
     /// - Category: connectivity
-    /// - Availabilities:
     static let wave3Forward = SFSymbol(.wave3Forward, releaseYear: ._2020, category: [ .connectivity ])
 
     /// - Symbol Name: wave.3.forward.circle
@@ -15516,8 +14903,8 @@ public extension SFSymbol {
     static let wave3ForwardCircleFill = SFSymbol(.wave3ForwardCircleFill, releaseYear: ._2020, category: [ .connectivity, .multicolor ])
 
     /// - Symbol Name: wave.3.left
+    /// - Alias: radiowaves.left
     /// - Category: connectivity
-    /// - Availabilities:
     static let wave3Left = SFSymbol(.wave3Left, releaseYear: ._2020, category: [ .connectivity ])
 
     /// - Symbol Name: wave.3.left.circle
@@ -15534,8 +14921,8 @@ public extension SFSymbol {
     static let wave3LeftCircleFill = SFSymbol(.wave3LeftCircleFill, releaseYear: ._2020, category: [ .connectivity, .multicolor ])
 
     /// - Symbol Name: wave.3.right
+    /// - Alias: radiowaves.right
     /// - Category: connectivity
-    /// - Availabilities:
     static let wave3Right = SFSymbol(.wave3Right, releaseYear: ._2020, category: [ .connectivity ])
 
     /// - Symbol Name: wave.3.right.circle
@@ -15560,7 +14947,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: waveform.path.ecg.rectangle.fill
     /// - Category: health
-    /// - Availabilities:
     static let waveformPathEcgRectangleFill = SFSymbol(.waveformPathEcgRectangleFill, releaseYear: ._2020, category: [ .health ])
 
     /// - Symbol Name: wrench.and.screwdriver
@@ -15576,6 +14962,7 @@ public extension SFSymbol {
     static let wrenchAndScrewdriverFill = SFSymbol(.wrenchAndScrewdriverFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// - Symbol Name: xmark.bin
+    /// - Alias: bin.xmark
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -15595,6 +14982,7 @@ public extension SFSymbol {
     static let xmarkBinCircleFill = SFSymbol(.xmarkBinCircleFill, releaseYear: ._2020, category: [ .multicolor, .objectsandtools ])
 
     /// - Symbol Name: xmark.bin.fill
+    /// - Alias: bin.xmark.fill
     /// - Category: objectsandtools
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -15622,7 +15010,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: xserve
     /// - Category: devices
-    /// - Availabilities:
     static let xserve = SFSymbol(.xserve, releaseYear: ._2020, category: [ .devices ])
 
     /// - Symbol Name: zl.rectangle.roundedtop
@@ -15663,12 +15050,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: aqi.low
     /// - Category: weather
-    /// - Availabilities:
     static let aqiLow = SFSymbol(.aqiLow, releaseYear: ._2020_1, category: [ .weather ])
 
     /// - Symbol Name: aqi.medium
     /// - Category: weather
-    /// - Availabilities:
     static let aqiMedium = SFSymbol(.aqiMedium, releaseYear: ._2020_1, category: [ .weather ])
 
     /// - Symbol Name: brazilianrealsign.circle
@@ -15711,135 +15096,125 @@ public extension SFSymbol {
     static let cartCircleFill = SFSymbol(.cartCircleFill, releaseYear: ._2020_1, category: [ .commerce, .multicolor ])
 
     /// - Symbol Name: character
+    /// - Alias: a
     /// - Category: textformatting
-    /// - Availabilities:
     static let character = SFSymbol(.character, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.ar
     /// - Category: textformatting
-    /// - Availabilities:
     static let characterAr = SFSymbol(.characterAr, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.book.closed
+    /// - Alias: a.book.closed
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosed = SFSymbol(.characterBookClosed, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.ar
+    /// - Alias: a.book.closed.ar
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedAr = SFSymbol(.characterBookClosedAr, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill
+    /// - Alias: a.book.closed.fill
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFill = SFSymbol(.characterBookClosedFill, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.ar
+    /// - Alias: a.book.closed.fill.ar
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFillAr = SFSymbol(.characterBookClosedFillAr, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.he
+    /// - Alias: a.book.closed.fill.he
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFillHe = SFSymbol(.characterBookClosedFillHe, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.hi
+    /// - Alias: a.book.closed.fill.hi
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFillHi = SFSymbol(.characterBookClosedFillHi, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.ja
+    /// - Alias: a.book.closed.fill.ja
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFillJa = SFSymbol(.characterBookClosedFillJa, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.ko
+    /// - Alias: a.book.closed.fill.ko
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFillKo = SFSymbol(.characterBookClosedFillKo, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.th
+    /// - Alias: a.book.closed.fill.th
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFillTh = SFSymbol(.characterBookClosedFillTh, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.zh
+    /// - Alias: a.book.closed.fill.zh
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedFillZh = SFSymbol(.characterBookClosedFillZh, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.fill.zh.traditional
-    /// - Availabilities:
     static let characterBookClosedFillZhTraditional = SFSymbol(.characterBookClosedFillZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: character.book.closed.he
+    /// - Alias: a.book.closed.he
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedHe = SFSymbol(.characterBookClosedHe, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.hi
+    /// - Alias: a.book.closed.hi
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedHi = SFSymbol(.characterBookClosedHi, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.ja
+    /// - Alias: a.book.closed.ja
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedJa = SFSymbol(.characterBookClosedJa, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.ko
+    /// - Alias: a.book.closed.ko
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedKo = SFSymbol(.characterBookClosedKo, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.th
+    /// - Alias: a.book.closed.th
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedTh = SFSymbol(.characterBookClosedTh, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.zh
+    /// - Alias: a.book.closed.zh
     /// - Category: objectsandtools
-    /// - Availabilities:
     static let characterBookClosedZh = SFSymbol(.characterBookClosedZh, releaseYear: ._2020_1, category: [ .objectsandtools ])
 
     /// - Symbol Name: character.book.closed.zh.traditional
-    /// - Availabilities:
     static let characterBookClosedZhTraditional = SFSymbol(.characterBookClosedZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: character.he
     /// - Category: textformatting
-    /// - Availabilities:
     static let characterHe = SFSymbol(.characterHe, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.hi
     /// - Category: textformatting
-    /// - Availabilities:
     static let characterHi = SFSymbol(.characterHi, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.ja
     /// - Category: textformatting
-    /// - Availabilities:
     static let characterJa = SFSymbol(.characterJa, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.ko
     /// - Category: textformatting
-    /// - Availabilities:
     static let characterKo = SFSymbol(.characterKo, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.th
     /// - Category: textformatting
-    /// - Availabilities:
     static let characterTh = SFSymbol(.characterTh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.zh
     /// - Category: textformatting
-    /// - Availabilities:
     static let characterZh = SFSymbol(.characterZh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: character.zh.traditional
-    /// - Availabilities:
     static let characterZhTraditional = SFSymbol(.characterZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: clock.arrow.2.circlepath
@@ -15849,15 +15224,12 @@ public extension SFSymbol {
     static let clockArrow2Circlepath = SFSymbol(.clockArrow2Circlepath, releaseYear: ._2020_1, category: [ .time ])
 
     /// - Symbol Name: directcurrent
-    /// - Availabilities:
     static let directcurrent = SFSymbol(.directcurrent, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: doc.text.below.ecg.fill.rtl
-    /// - Availabilities:
     static let docTextBelowEcgFillRtl = SFSymbol(.docTextBelowEcgFillRtl, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: doc.text.below.ecg.rtl
-    /// - Availabilities:
     static let docTextBelowEcgRtl = SFSymbol(.docTextBelowEcgRtl, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: exclamationmark.applewatch
@@ -15941,7 +15313,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: photo.tv
     /// - Category: devices
-    /// - Availabilities:
     static let photoTv = SFSymbol(.photoTv, releaseYear: ._2020_1, category: [ .devices ])
 
     /// - Symbol Name: play.tv
@@ -15969,7 +15340,7 @@ public extension SFSymbol {
     static let rectangleFillBadgePersonCrop = SFSymbol(.rectangleFillBadgePersonCrop, releaseYear: ._2020_1, category: [ .human ])
 
     /// - Symbol Name: rectangle.topthird.inset
-    /// - Availabilities:
+    /// - Alias: rectangle.topthird.inset.filled
     static let rectangleTopthirdInset = SFSymbol(.rectangleTopthirdInset, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: repeat.1.circle
@@ -15999,7 +15370,7 @@ public extension SFSymbol {
     static let repeatCircleFill = SFSymbol(.repeatCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ])
 
     /// - Symbol Name: shield.checkerboard
-    /// - Availabilities:
+    /// - Alias: checkerboard.shield
     static let shieldCheckerboard = SFSymbol(.shieldCheckerboard, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: shuffle.circle
@@ -16016,146 +15387,118 @@ public extension SFSymbol {
     static let shuffleCircleFill = SFSymbol(.shuffleCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ])
 
     /// - Symbol Name: text.below.photo.fill.rtl
-    /// - Availabilities:
     static let textBelowPhotoFillRtl = SFSymbol(.textBelowPhotoFillRtl, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: text.below.photo.rtl
-    /// - Availabilities:
     static let textBelowPhotoRtl = SFSymbol(.textBelowPhotoRtl, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: text.cursor.zh.traditional
-    /// - Availabilities:
+    /// - Alias: character.cursor.ibeam.zh.traditional
     static let textCursorZhTraditional = SFSymbol(.textCursorZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: textbox.zh.traditional
-    /// - Availabilities:
+    /// - Alias: character.textbox.zh.traditional
     static let textboxZhTraditional = SFSymbol(.textboxZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: textformat.size.ar
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeAr = SFSymbol(.textformatSizeAr, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.he
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeHe = SFSymbol(.textformatSizeHe, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.hi
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeHi = SFSymbol(.textformatSizeHi, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.ja
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeJa = SFSymbol(.textformatSizeJa, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.ko
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeKo = SFSymbol(.textformatSizeKo, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLarger = SFSymbol(.textformatSizeLarger, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.ar
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLargerAr = SFSymbol(.textformatSizeLargerAr, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.he
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLargerHe = SFSymbol(.textformatSizeLargerHe, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.hi
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLargerHi = SFSymbol(.textformatSizeLargerHi, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.ja
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLargerJa = SFSymbol(.textformatSizeLargerJa, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.ko
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLargerKo = SFSymbol(.textformatSizeLargerKo, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.th
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLargerTh = SFSymbol(.textformatSizeLargerTh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.zh
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeLargerZh = SFSymbol(.textformatSizeLargerZh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.larger.zh.traditional
-    /// - Availabilities:
     static let textformatSizeLargerZhTraditional = SFSymbol(.textformatSizeLargerZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: textformat.size.smaller
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmaller = SFSymbol(.textformatSizeSmaller, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.ar
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmallerAr = SFSymbol(.textformatSizeSmallerAr, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.he
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmallerHe = SFSymbol(.textformatSizeSmallerHe, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.hi
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmallerHi = SFSymbol(.textformatSizeSmallerHi, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.ja
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmallerJa = SFSymbol(.textformatSizeSmallerJa, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.ko
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmallerKo = SFSymbol(.textformatSizeSmallerKo, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.th
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmallerTh = SFSymbol(.textformatSizeSmallerTh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.zh
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeSmallerZh = SFSymbol(.textformatSizeSmallerZh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.smaller.zh.traditional
-    /// - Availabilities:
     static let textformatSizeSmallerZhTraditional = SFSymbol(.textformatSizeSmallerZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: textformat.size.th
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeTh = SFSymbol(.textformatSizeTh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.zh
     /// - Category: textformatting
-    /// - Availabilities:
     static let textformatSizeZh = SFSymbol(.textformatSizeZh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.size.zh.traditional
-    /// - Availabilities:
     static let textformatSizeZhTraditional = SFSymbol(.textformatSizeZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: textformat.subscript.ar
@@ -16201,7 +15544,6 @@ public extension SFSymbol {
     static let textformatSubscriptZh = SFSymbol(.textformatSubscriptZh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.subscript.zh.traditional
-    /// - Availabilities:
     static let textformatSubscriptZhTraditional = SFSymbol(.textformatSubscriptZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: textformat.superscript.ar
@@ -16247,11 +15589,9 @@ public extension SFSymbol {
     static let textformatSuperscriptZh = SFSymbol(.textformatSuperscriptZh, releaseYear: ._2020_1, category: [ .textformatting ])
 
     /// - Symbol Name: textformat.superscript.zh.traditional
-    /// - Availabilities:
     static let textformatSuperscriptZhTraditional = SFSymbol(.textformatSuperscriptZhTraditional, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: torus
-    /// - Availabilities:
     static let torus = SFSymbol(.torus, releaseYear: ._2020_1, category: [  ])
 
     /// - Symbol Name: tv.and.mediabox
@@ -16278,143 +15618,165 @@ public extension SFSymbol {
     static let applewatchSideRight = SFSymbol(.applewatchSideRight, releaseYear: ._2020_2, category: [ .devices ])
 
     /// - Symbol Name: character.bubble
+    /// - Alias: t.bubble
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterBubble = SFSymbol(.characterBubble, releaseYear: ._2020_2, category: [ .communication ])
 
     /// - Symbol Name: character.bubble.ar
+    /// - Alias: t.bubble.ar
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterBubbleAr = SFSymbol(.characterBubbleAr, releaseYear: ._2020_2, category: [ .communication ])
 
     /// - Symbol Name: character.bubble.fill
+    /// - Alias: t.bubble.fill
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterBubbleFill = SFSymbol(.characterBubbleFill, releaseYear: ._2020_2, category: [ .communication ])
 
     /// - Symbol Name: character.bubble.fill.ar
+    /// - Alias: t.bubble.fill.ar
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterBubbleFillAr = SFSymbol(.characterBubbleFillAr, releaseYear: ._2020_2, category: [ .communication ])
 
     /// - Symbol Name: character.bubble.fill.he
+    /// - Alias: t.bubble.fill.he
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterBubbleFillHe = SFSymbol(.characterBubbleFillHe, releaseYear: ._2020_2, category: [ .communication ])
 
     /// - Symbol Name: character.bubble.he
+    /// - Alias: t.bubble.he
     /// - Category: communication
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterBubbleHe = SFSymbol(.characterBubbleHe, releaseYear: ._2020_2, category: [ .communication ])
 
     /// - Symbol Name: character.cursor.ibeam
+    /// - Alias: text.cursor
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeam = SFSymbol(.characterCursorIbeam, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.ar
+    /// - Alias: text.cursor.ar
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeamAr = SFSymbol(.characterCursorIbeamAr, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.he
+    /// - Alias: text.cursor.he
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeamHe = SFSymbol(.characterCursorIbeamHe, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.hi
+    /// - Alias: text.cursor.hi
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeamHi = SFSymbol(.characterCursorIbeamHi, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.ja
+    /// - Alias: text.cursor.ja
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeamJa = SFSymbol(.characterCursorIbeamJa, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.ko
+    /// - Alias: text.cursor.ko
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeamKo = SFSymbol(.characterCursorIbeamKo, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.th
+    /// - Alias: text.cursor.th
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeamTh = SFSymbol(.characterCursorIbeamTh, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.zh
+    /// - Alias: text.cursor.zh
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterCursorIbeamZh = SFSymbol(.characterCursorIbeamZh, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.cursor.ibeam.zh.traditional
-    /// - Availabilities:
+    /// - Alias: text.cursor.zh.traditional
     static let characterCursorIbeamZhTraditional = SFSymbol(.characterCursorIbeamZhTraditional, releaseYear: ._2020_2, category: [  ])
 
     /// - Symbol Name: character.textbox
+    /// - Alias: textbox
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextbox = SFSymbol(.characterTextbox, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.ar
+    /// - Alias: textbox.ar
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextboxAr = SFSymbol(.characterTextboxAr, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.he
+    /// - Alias: textbox.he
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextboxHe = SFSymbol(.characterTextboxHe, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.hi
+    /// - Alias: textbox.hi
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextboxHi = SFSymbol(.characterTextboxHi, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.ja
+    /// - Alias: textbox.ja
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextboxJa = SFSymbol(.characterTextboxJa, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.ko
+    /// - Alias: textbox.ko
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextboxKo = SFSymbol(.characterTextboxKo, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.th
+    /// - Alias: textbox.th
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextboxTh = SFSymbol(.characterTextboxTh, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.zh
+    /// - Alias: textbox.zh
     /// - Category: textformatting
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let characterTextboxZh = SFSymbol(.characterTextboxZh, releaseYear: ._2020_2, category: [ .textformatting ])
 
     /// - Symbol Name: character.textbox.zh.traditional
-    /// - Availabilities:
+    /// - Alias: textbox.zh.traditional
     static let characterTextboxZhTraditional = SFSymbol(.characterTextboxZhTraditional, releaseYear: ._2020_2, category: [  ])
 
     /// - Symbol Name: hifispeaker.and.homepodmini
@@ -16466,7 +15828,7 @@ public extension SFSymbol {
     static let homepodminiFill = SFSymbol(.homepodminiFill, releaseYear: ._2020_2, category: [ .devices ])
 
     /// - Symbol Name: rectangle.topthird.inset.fill
-    /// - Availabilities:
+    /// - Alias: rectangle.topthird.inset.filled
     static let rectangleTopthirdInsetFill = SFSymbol(.rectangleTopthirdInsetFill, releaseYear: ._2020_2, category: [  ])
 
 }
@@ -16476,7 +15838,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: 1.magnifyingglass.hi
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let _1MagnifyingglassHi = SFSymbol(._1MagnifyingglassHi, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: 123.rectangle
@@ -16557,42 +15918,34 @@ public extension SFSymbol {
 
     /// - Symbol Name: airpods.chargingcase
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airpodsChargingcase = SFSymbol(.airpodsChargingcase, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airpods.chargingcase.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airpodsChargingcaseFill = SFSymbol(.airpodsChargingcaseFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airpods.chargingcase.wireless
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airpodsChargingcaseWireless = SFSymbol(.airpodsChargingcaseWireless, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airpods.chargingcase.wireless.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airpodsChargingcaseWirelessFill = SFSymbol(.airpodsChargingcaseWirelessFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airpodspro.chargingcase.wireless
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airpodsproChargingcaseWireless = SFSymbol(.airpodsproChargingcaseWireless, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airpodspro.chargingcase.wireless.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airpodsproChargingcaseWirelessFill = SFSymbol(.airpodsproChargingcaseWirelessFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airtag
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airtag = SFSymbol(.airtag, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airtag.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let airtagFill = SFSymbol(.airtagFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: airtag.radiowaves.forward
@@ -16627,7 +15980,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: alternatingcurrent
     /// - Category: whatsnew
-    /// - Availabilities:
     static let alternatingcurrent = SFSymbol(.alternatingcurrent, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: antenna.radiowaves.left.and.right.circle
@@ -16672,52 +16024,42 @@ public extension SFSymbol {
 
     /// - Symbol Name: app.dashed
     /// - Category: whatsnew
-    /// - Availabilities:
     static let appDashed = SFSymbol(.appDashed, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: applepencil
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let applepencil = SFSymbol(.applepencil, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen1
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen1 = SFSymbol(.appletvremoteGen1, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen1.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen1Fill = SFSymbol(.appletvremoteGen1Fill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen2
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen2 = SFSymbol(.appletvremoteGen2, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen2.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen2Fill = SFSymbol(.appletvremoteGen2Fill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen3
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen3 = SFSymbol(.appletvremoteGen3, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen3.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen3Fill = SFSymbol(.appletvremoteGen3Fill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen4
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen4 = SFSymbol(.appletvremoteGen4, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: appletvremote.gen4.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let appletvremoteGen4Fill = SFSymbol(.appletvremoteGen4Fill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: applewatch.case.inset.filled
@@ -16735,7 +16077,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: arrow.backward.to.line
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     static let arrowBackwardToLine = SFSymbol(.arrowBackwardToLine, releaseYear: ._2021, category: [ .arrows, .keyboard, .whatsnew ])
 
     /// - Symbol Name: arrow.backward.to.line.circle
@@ -16765,13 +16106,12 @@ public extension SFSymbol {
     static let arrowDownToLineCircleFill = SFSymbol(.arrowDownToLineCircleFill, releaseYear: ._2021, category: [ .arrows, .multicolor, .whatsnew ])
 
     /// - Symbol Name: arrow.down.to.line.compact
+    /// - Alias: arrow.down.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     static let arrowDownToLineCompact = SFSymbol(.arrowDownToLineCompact, releaseYear: ._2021, category: [ .arrows, .keyboard, .whatsnew ])
 
     /// - Symbol Name: arrow.forward.to.line
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     static let arrowForwardToLine = SFSymbol(.arrowForwardToLine, releaseYear: ._2021, category: [ .arrows, .keyboard, .whatsnew ])
 
     /// - Symbol Name: arrow.forward.to.line.circle
@@ -16801,8 +16141,8 @@ public extension SFSymbol {
     static let arrowLeftToLineCircleFill = SFSymbol(.arrowLeftToLineCircleFill, releaseYear: ._2021, category: [ .arrows, .multicolor, .whatsnew ])
 
     /// - Symbol Name: arrow.left.to.line.compact
+    /// - Alias: arrow.left.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     static let arrowLeftToLineCompact = SFSymbol(.arrowLeftToLineCompact, releaseYear: ._2021, category: [ .arrows, .keyboard, .whatsnew ])
 
     /// - Symbol Name: arrow.right.to.line.circle
@@ -16819,8 +16159,8 @@ public extension SFSymbol {
     static let arrowRightToLineCircleFill = SFSymbol(.arrowRightToLineCircleFill, releaseYear: ._2021, category: [ .arrows, .multicolor, .whatsnew ])
 
     /// - Symbol Name: arrow.right.to.line.compact
+    /// - Alias: arrow.right.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     static let arrowRightToLineCompact = SFSymbol(.arrowRightToLineCompact, releaseYear: ._2021, category: [ .arrows, .keyboard, .whatsnew ])
 
     /// - Symbol Name: arrow.up.to.line.circle
@@ -16837,13 +16177,12 @@ public extension SFSymbol {
     static let arrowUpToLineCircleFill = SFSymbol(.arrowUpToLineCircleFill, releaseYear: ._2021, category: [ .arrows, .multicolor, .whatsnew ])
 
     /// - Symbol Name: arrow.up.to.line.compact
+    /// - Alias: arrow.up.to.line.alt
     /// - Category: arrows, keyboard, whatsnew
-    /// - Availabilities:
     static let arrowUpToLineCompact = SFSymbol(.arrowUpToLineCompact, releaseYear: ._2021, category: [ .arrows, .keyboard, .whatsnew ])
 
     /// - Symbol Name: asterisk
     /// - Category: whatsnew
-    /// - Availabilities:
     static let asterisk = SFSymbol(.asterisk, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: backward.circle
@@ -16905,12 +16244,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: beats.powerbeatspro.chargingcase
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let beatsPowerbeatsproChargingcase = SFSymbol(.beatsPowerbeatsproChargingcase, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: beats.powerbeatspro.chargingcase.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let beatsPowerbeatsproChargingcaseFill = SFSymbol(.beatsPowerbeatsproChargingcaseFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: beats.powerbeatspro.left
@@ -16980,12 +16317,14 @@ public extension SFSymbol {
     static let bellSquareFill = SFSymbol(.bellSquareFill, releaseYear: ._2021, category: [ .multicolor, .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: bolt.batteryblock
+    /// - Alias: bolt.fill.batteryblock
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let boltBatteryblock = SFSymbol(.boltBatteryblock, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: bolt.batteryblock.fill
+    /// - Alias: bolt.fill.batteryblock.fill
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17047,7 +16386,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: brain
     /// - Category: health, human, whatsnew
-    /// - Availabilities:
     static let brain = SFSymbol(.brain, releaseYear: ._2021, category: [ .health, .human, .whatsnew ])
 
     /// - Symbol Name: brain.head.profile
@@ -17090,17 +16428,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: cable.connector.horizontal
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let cableConnectorHorizontal = SFSymbol(.cableConnectorHorizontal, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: cablecar
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let cablecar = SFSymbol(.cablecar, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: cablecar.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let cablecarFill = SFSymbol(.cablecarFill, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: calendar.day.timeline.leading
@@ -17145,7 +16480,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: capsule.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsuleBottomhalfFilled = SFSymbol(.capsuleBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: capsule.inset.filled
@@ -17156,12 +16490,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: capsule.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsuleLefthalfFilled = SFSymbol(.capsuleLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: capsule.portrait.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsulePortraitBottomhalfFilled = SFSymbol(.capsulePortraitBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: capsule.portrait.inset.filled
@@ -17172,37 +16504,30 @@ public extension SFSymbol {
 
     /// - Symbol Name: capsule.portrait.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsulePortraitLefthalfFilled = SFSymbol(.capsulePortraitLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: capsule.portrait.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsulePortraitRighthalfFilled = SFSymbol(.capsulePortraitRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: capsule.portrait.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsulePortraitTophalfFilled = SFSymbol(.capsulePortraitTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: capsule.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsuleRighthalfFilled = SFSymbol(.capsuleRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: capsule.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let capsuleTophalfFilled = SFSymbol(.capsuleTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: car.ferry
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let carFerry = SFSymbol(.carFerry, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: car.ferry.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let carFerryFill = SFSymbol(.carFerryFill, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: character.bubble.fill.hi
@@ -17236,7 +16561,6 @@ public extension SFSymbol {
     static let characterBubbleFillZh = SFSymbol(.characterBubbleFillZh, releaseYear: ._2021, category: [ .communication, .whatsnew ])
 
     /// - Symbol Name: character.bubble.fill.zh.traditional
-    /// - Availabilities:
     static let characterBubbleFillZhTraditional = SFSymbol(.characterBubbleFillZhTraditional, releaseYear: ._2021, category: [  ])
 
     /// - Symbol Name: character.bubble.hi
@@ -17270,7 +16594,6 @@ public extension SFSymbol {
     static let characterBubbleZh = SFSymbol(.characterBubbleZh, releaseYear: ._2021, category: [ .communication, .whatsnew ])
 
     /// - Symbol Name: character.bubble.zh.traditional
-    /// - Availabilities:
     static let characterBubbleZhTraditional = SFSymbol(.characterBubbleZhTraditional, releaseYear: ._2021, category: [  ])
 
     /// - Symbol Name: chart.line.uptrend.xyaxis
@@ -17298,8 +16621,8 @@ public extension SFSymbol {
     static let chartXyaxisLine = SFSymbol(.chartXyaxisLine, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: checkerboard.shield
+    /// - Alias: shield.checkerboard
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let checkerboardShield = SFSymbol(.checkerboardShield, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: checklist
@@ -17346,26 +16669,25 @@ public extension SFSymbol {
     static let checkmarkDiamondFill = SFSymbol(.checkmarkDiamondFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: chevron.left.forwardslash.chevron.right
+    /// - Alias: chevron.left.slash.chevron.right
     /// - Category: whatsnew
-    /// - Availabilities:
     static let chevronLeftForwardslashChevronRight = SFSymbol(.chevronLeftForwardslashChevronRight, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.and.line.horizontal
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let circleAndLineHorizontal = SFSymbol(.circleAndLineHorizontal, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: circle.and.line.horizontal.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let circleAndLineHorizontalFill = SFSymbol(.circleAndLineHorizontalFill, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: circle.bottomhalf.filled
+    /// - Alias: circle.bottomhalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleBottomhalfFilled = SFSymbol(.circleBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.dashed.inset.filled
+    /// - Alias: circle.dashed.inset.fill
     /// - Category: editing, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17373,17 +16695,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: circle.dotted
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleDotted = SFSymbol(.circleDotted, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.grid.2x1
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleGrid2X1 = SFSymbol(.circleGrid2X1, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.grid.2x1.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleGrid2X1Fill = SFSymbol(.circleGrid2X1Fill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.grid.2x1.left.filled
@@ -17412,8 +16731,8 @@ public extension SFSymbol {
     static let circleGrid3X3CircleFill = SFSymbol(.circleGrid3X3CircleFill, releaseYear: ._2021, category: [ .multicolor, .whatsnew ])
 
     /// - Symbol Name: circle.hexagongrid
+    /// - Alias: circles.hexagongrid
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleHexagongrid = SFSymbol(.circleHexagongrid, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.hexagongrid.circle
@@ -17430,35 +16749,37 @@ public extension SFSymbol {
     static let circleHexagongridCircleFill = SFSymbol(.circleHexagongridCircleFill, releaseYear: ._2021, category: [ .multicolor, .whatsnew ])
 
     /// - Symbol Name: circle.hexagongrid.fill
+    /// - Alias: circles.hexagongrid.fill
     /// - Category: multicolor, whatsnew
     /// - Availabilities:
     ///   - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let circleHexagongridFill = SFSymbol(.circleHexagongridFill, releaseYear: ._2021, category: [ .multicolor, .whatsnew ])
 
     /// - Symbol Name: circle.hexagonpath
+    /// - Alias: circles.hexagonpath
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleHexagonpath = SFSymbol(.circleHexagonpath, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.hexagonpath.fill
+    /// - Alias: circles.hexagonpath.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleHexagonpathFill = SFSymbol(.circleHexagonpathFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.inset.filled
+    /// - Alias: largecircle.fill.circle
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let circleInsetFilled = SFSymbol(.circleInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.lefthalf.filled
+    /// - Alias: circle.lefthalf.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let circleLefthalfFilled = SFSymbol(.circleLefthalfFilled, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: circle.righthalf.filled
+    /// - Alias: circle.righthalf.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let circleRighthalfFilled = SFSymbol(.circleRighthalfFilled, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: circle.slash
@@ -17474,8 +16795,8 @@ public extension SFSymbol {
     static let circleSlashFill = SFSymbol(.circleSlashFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: circle.tophalf.filled
+    /// - Alias: circle.tophalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let circleTophalfFilled = SFSymbol(.circleTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: clock.badge.checkmark
@@ -17508,17 +16829,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: computermouse
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let computermouse = SFSymbol(.computermouse, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: computermouse.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let computermouseFill = SFSymbol(.computermouseFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: cpu.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let cpuFill = SFSymbol(.cpuFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: creditcard.and.123
@@ -17590,7 +16908,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: diamond.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let diamondBottomhalfFilled = SFSymbol(.diamondBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: diamond.inset.filled
@@ -17601,17 +16918,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: diamond.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let diamondLefthalfFilled = SFSymbol(.diamondLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: diamond.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let diamondRighthalfFilled = SFSymbol(.diamondRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: diamond.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let diamondTophalfFilled = SFSymbol(.diamondTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: dice
@@ -17622,7 +16936,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: dice.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let diceFill = SFSymbol(.diceFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: digitalcrown.arrow.clockwise
@@ -17705,70 +17018,56 @@ public extension SFSymbol {
 
     /// - Symbol Name: doc.richtext.fill.hi
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextFillHi = SFSymbol(.docRichtextFillHi, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.fill.ja
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextFillJa = SFSymbol(.docRichtextFillJa, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.fill.ko
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextFillKo = SFSymbol(.docRichtextFillKo, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.fill.th
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextFillTh = SFSymbol(.docRichtextFillTh, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.fill.zh
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextFillZh = SFSymbol(.docRichtextFillZh, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.fill.zh.traditional
-    /// - Availabilities:
     static let docRichtextFillZhTraditional = SFSymbol(.docRichtextFillZhTraditional, releaseYear: ._2021, category: [  ])
 
     /// - Symbol Name: doc.richtext.hi
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextHi = SFSymbol(.docRichtextHi, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.ja
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextJa = SFSymbol(.docRichtextJa, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.ko
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextKo = SFSymbol(.docRichtextKo, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.th
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextTh = SFSymbol(.docRichtextTh, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.zh
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docRichtextZh = SFSymbol(.docRichtextZh, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.richtext.zh.traditional
-    /// - Availabilities:
     static let docRichtextZhTraditional = SFSymbol(.docRichtextZhTraditional, releaseYear: ._2021, category: [  ])
 
     /// - Symbol Name: doc.text.image
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docTextImage = SFSymbol(.docTextImage, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: doc.text.image.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let docTextImageFill = SFSymbol(.docTextImageFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: dot.circle.and.hand.point.up.left.fill
@@ -17779,7 +17078,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: dot.radiowaves.up.forward
     /// - Category: connectivity, whatsnew
-    /// - Availabilities:
     static let dotRadiowavesUpForward = SFSymbol(.dotRadiowavesUpForward, releaseYear: ._2021, category: [ .connectivity, .whatsnew ])
 
     /// - Symbol Name: ear.and.waveform
@@ -17796,12 +17094,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: earbuds.case
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let earbudsCase = SFSymbol(.earbudsCase, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: earbuds.case.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let earbudsCaseFill = SFSymbol(.earbudsCaseFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: ellipsis.vertical.bubble
@@ -17817,12 +17113,14 @@ public extension SFSymbol {
     static let ellipsisVerticalBubbleFill = SFSymbol(.ellipsisVerticalBubbleFill, releaseYear: ._2021, category: [ .communication, .whatsnew ])
 
     /// - Symbol Name: envelope.badge.shield.half.filled
+    /// - Alias: envelope.badge.shield.leadinghalf.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let envelopeBadgeShieldHalfFilled = SFSymbol(.envelopeBadgeShieldHalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: envelope.badge.shield.half.filled.fill
+    /// - Alias: envelope.fill.badge.shield.trailinghalf.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -17881,27 +17179,23 @@ public extension SFSymbol {
 
     /// - Symbol Name: fanblades
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let fanblades = SFSymbol(.fanblades, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: fanblades.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let fanbladesFill = SFSymbol(.fanbladesFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: ferry
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let ferry = SFSymbol(.ferry, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: ferry.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let ferryFill = SFSymbol(.ferryFill, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: fibrechannel
+    /// - Alias: fiberchannel
     /// - Category: whatsnew
-    /// - Availabilities:
     static let fibrechannel = SFSymbol(.fibrechannel, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: film.circle
@@ -17956,12 +17250,14 @@ public extension SFSymbol {
     static let flagSquareFill = SFSymbol(.flagSquareFill, releaseYear: ._2021, category: [ .multicolor, .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: folder.badge.gearshape
+    /// - Alias: folder.badge.gear
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let folderBadgeGearshape = SFSymbol(.folderBadgeGearshape, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: folder.fill.badge.gearshape
+    /// - Alias: folder.fill.badge.gear
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18002,7 +17298,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: fuelpump
     /// - Category: objectsandtools, transportation, whatsnew
-    /// - Availabilities:
     static let fuelpump = SFSymbol(.fuelpump, releaseYear: ._2021, category: [ .objectsandtools, .transportation, .whatsnew ])
 
     /// - Symbol Name: fuelpump.circle
@@ -18020,7 +17315,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: fuelpump.fill
     /// - Category: objectsandtools, transportation, whatsnew
-    /// - Availabilities:
     static let fuelpumpFill = SFSymbol(.fuelpumpFill, releaseYear: ._2021, category: [ .objectsandtools, .transportation, .whatsnew ])
 
     /// - Symbol Name: gear.badge.checkmark
@@ -18072,22 +17366,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: globe.americas
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let globeAmericas = SFSymbol(.globeAmericas, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: globe.americas.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let globeAmericasFill = SFSymbol(.globeAmericasFill, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: globe.asia.australia
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let globeAsiaAustralia = SFSymbol(.globeAsiaAustralia, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: globe.asia.australia.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let globeAsiaAustraliaFill = SFSymbol(.globeAsiaAustraliaFill, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: globe.badge.chevron.backward
@@ -18098,12 +17388,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: globe.europe.africa
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let globeEuropeAfrica = SFSymbol(.globeEuropeAfrica, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: globe.europe.africa.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let globeEuropeAfricaFill = SFSymbol(.globeEuropeAfricaFill, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: gobackward.5
@@ -18143,6 +17431,7 @@ public extension SFSymbol {
     static let goforward5Hi = SFSymbol(.goforward5Hi, releaseYear: ._2021, category: [ .media, .whatsnew ])
 
     /// - Symbol Name: h.square.on.square.fill
+    /// - Alias: h.square.fill.on.square.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18228,6 +17517,7 @@ public extension SFSymbol {
     static let handThumbsupCircleFill = SFSymbol(.handThumbsupCircleFill, releaseYear: ._2021, category: [ .human, .multicolor, .whatsnew ])
 
     /// - Symbol Name: hearingdevice.ear
+    /// - Alias: hearingaid.ear
     /// - Category: devices, human, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18263,32 +17553,26 @@ public extension SFSymbol {
 
     /// - Symbol Name: hexagon.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let hexagonBottomhalfFilled = SFSymbol(.hexagonBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: hexagon.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let hexagonLefthalfFilled = SFSymbol(.hexagonLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: hexagon.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let hexagonRighthalfFilled = SFSymbol(.hexagonRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: hexagon.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let hexagonTophalfFilled = SFSymbol(.hexagonTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: hifispeaker.and.appletv
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let hifispeakerAndAppletv = SFSymbol(.hifispeakerAndAppletv, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: hifispeaker.and.appletv.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let hifispeakerAndAppletvFill = SFSymbol(.hifispeakerAndAppletvFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: homepod.and.appletv
@@ -18316,6 +17600,7 @@ public extension SFSymbol {
     static let homepodminiAndAppletvFill = SFSymbol(.homepodminiAndAppletvFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: hourglass.bottomhalf.filled
+    /// - Alias: hourglass.start
     /// - Category: multicolor, objectsandtools, time, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18323,6 +17608,7 @@ public extension SFSymbol {
     static let hourglassBottomhalfFilled = SFSymbol(.hourglassBottomhalfFilled, releaseYear: ._2021, category: [ .multicolor, .objectsandtools, .time, .whatsnew ])
 
     /// - Symbol Name: hourglass.tophalf.filled
+    /// - Alias: hourglass.tophalf.fill
     /// - Category: multicolor, objectsandtools, time, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18488,6 +17774,7 @@ public extension SFSymbol {
     static let ivfluidBagFill = SFSymbol(.ivfluidBagFill, releaseYear: ._2021, category: [ .multicolor, .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: j.square.on.square.fill
+    /// - Alias: j.square.fill.on.square.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18495,16 +17782,17 @@ public extension SFSymbol {
 
     /// - Symbol Name: keyboard.fill
     /// - Category: devices, keyboard, whatsnew
-    /// - Availabilities:
     static let keyboardFill = SFSymbol(.keyboardFill, releaseYear: ._2021, category: [ .devices, .keyboard, .whatsnew ])
 
     /// - Symbol Name: l.joystick.press.down
+    /// - Alias: l.joystick.down
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let lJoystickPressDown = SFSymbol(.lJoystickPressDown, releaseYear: ._2021, category: [ .gaming, .whatsnew ])
 
     /// - Symbol Name: l.joystick.press.down.fill
+    /// - Alias: l.joystick.down.fill
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18566,12 +17854,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: lanyardcard
     /// - Category: whatsnew
-    /// - Availabilities:
     static let lanyardcard = SFSymbol(.lanyardcard, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: lanyardcard.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let lanyardcardFill = SFSymbol(.lanyardcardFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: laptopcomputer.and.arrow.down
@@ -18588,6 +17874,7 @@ public extension SFSymbol {
     static let laptopcomputerTrianglebadgeExclamationmark = SFSymbol(.laptopcomputerTrianglebadgeExclamationmark, releaseYear: ._2021, category: [ .devices, .multicolor, .whatsnew ])
 
     /// - Symbol Name: lasso.and.sparkles
+    /// - Alias: lasso.sparkles
     /// - Category: editing, objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18608,12 +17895,14 @@ public extension SFSymbol {
     static let leafCircleFill = SFSymbol(.leafCircleFill, releaseYear: ._2021, category: [ .multicolor, .nature, .whatsnew ])
 
     /// - Symbol Name: line.2.horizontal.decrease.circle
+    /// - Alias: line.horizontal.2.decrease.circle
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let line2HorizontalDecreaseCircle = SFSymbol(.line2HorizontalDecreaseCircle, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: line.2.horizontal.decrease.circle.fill
+    /// - Alias: line.horizontal.2.decrease.circle.fill
     /// - Category: multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18621,17 +17910,19 @@ public extension SFSymbol {
     static let line2HorizontalDecreaseCircleFill = SFSymbol(.line2HorizontalDecreaseCircleFill, releaseYear: ._2021, category: [ .multicolor, .whatsnew ])
 
     /// - Symbol Name: line.3.horizontal
+    /// - Alias: line.horizontal.3
     /// - Category: whatsnew
-    /// - Availabilities:
     static let line3Horizontal = SFSymbol(.line3Horizontal, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: line.3.horizontal.circle
+    /// - Alias: line.horizontal.3.circle
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let line3HorizontalCircle = SFSymbol(.line3HorizontalCircle, releaseYear: ._2021, category: [ .gaming, .whatsnew ])
 
     /// - Symbol Name: line.3.horizontal.circle.fill
+    /// - Alias: line.horizontal.3.circle.fill
     /// - Category: gaming, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18639,17 +17930,19 @@ public extension SFSymbol {
     static let line3HorizontalCircleFill = SFSymbol(.line3HorizontalCircleFill, releaseYear: ._2021, category: [ .gaming, .multicolor, .whatsnew ])
 
     /// - Symbol Name: line.3.horizontal.decrease
+    /// - Alias: line.horizontal.3.decrease
     /// - Category: whatsnew
-    /// - Availabilities:
     static let line3HorizontalDecrease = SFSymbol(.line3HorizontalDecrease, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: line.3.horizontal.decrease.circle
+    /// - Alias: line.horizontal.3.decrease.circle
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let line3HorizontalDecreaseCircle = SFSymbol(.line3HorizontalDecreaseCircle, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: line.3.horizontal.decrease.circle.fill
+    /// - Alias: line.horizontal.3.decrease.circle.fill
     /// - Category: multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18658,7 +17951,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: lines.measurement.horizontal
     /// - Category: whatsnew
-    /// - Availabilities:
     static let linesMeasurementHorizontal = SFSymbol(.linesMeasurementHorizontal, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: list.bullet.circle
@@ -18794,42 +18086,34 @@ public extension SFSymbol {
 
     /// - Symbol Name: logo.playstation
     /// - Category: gaming, whatsnew
-    /// - Availabilities:
     static let logoPlaystation = SFSymbol(.logoPlaystation, releaseYear: ._2021, category: [ .gaming, .whatsnew ])
 
     /// - Symbol Name: logo.xbox
     /// - Category: gaming, whatsnew
-    /// - Availabilities:
     static let logoXbox = SFSymbol(.logoXbox, releaseYear: ._2021, category: [ .gaming, .whatsnew ])
 
     /// - Symbol Name: macpro.gen1.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let macproGen1Fill = SFSymbol(.macproGen1Fill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: macpro.gen3.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let macproGen3Fill = SFSymbol(.macproGen3Fill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: magazine
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let magazine = SFSymbol(.magazine, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: magazine.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let magazineFill = SFSymbol(.magazineFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: magicmouse
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let magicmouse = SFSymbol(.magicmouse, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: magicmouse.fill
     /// - Category: devices, whatsnew
-    /// - Availabilities:
     static let magicmouseFill = SFSymbol(.magicmouseFill, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: map.circle
@@ -18867,17 +18151,14 @@ public extension SFSymbol {
 
     /// - Symbol Name: memorychip.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let memorychipFill = SFSymbol(.memorychipFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: menucard
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let menucard = SFSymbol(.menucard, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: menucard.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let menucardFill = SFSymbol(.menucardFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: message.and.waveform
@@ -18934,8 +18215,8 @@ public extension SFSymbol {
     static let micSquareFill = SFSymbol(.micSquareFill, releaseYear: ._2021, category: [ .communication, .multicolor, .whatsnew ])
 
     /// - Symbol Name: minus.forwardslash.plus
+    /// - Alias: minus.slash.plus
     /// - Category: math, whatsnew
-    /// - Availabilities:
     static let minusForwardslashPlus = SFSymbol(.minusForwardslashPlus, releaseYear: ._2021, category: [ .math, .whatsnew ])
 
     /// - Symbol Name: music.mic.circle
@@ -18952,12 +18233,14 @@ public extension SFSymbol {
     static let musicMicCircleFill = SFSymbol(.musicMicCircleFill, releaseYear: ._2021, category: [ .multicolor, .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: music.note.tv
+    /// - Alias: tv.music.note
     /// - Category: devices, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let musicNoteTv = SFSymbol(.musicNoteTv, releaseYear: ._2021, category: [ .devices, .whatsnew ])
 
     /// - Symbol Name: music.note.tv.fill
+    /// - Alias: tv.music.note.fill
     /// - Category: devices, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -18971,27 +18254,22 @@ public extension SFSymbol {
 
     /// - Symbol Name: octagon.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let octagonBottomhalfFilled = SFSymbol(.octagonBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: octagon.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let octagonLefthalfFilled = SFSymbol(.octagonLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: octagon.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let octagonRighthalfFilled = SFSymbol(.octagonRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: octagon.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let octagonTophalfFilled = SFSymbol(.octagonTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalBottomhalfFilled = SFSymbol(.ovalBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.inset.filled
@@ -19002,12 +18280,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: oval.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalLefthalfFilled = SFSymbol(.ovalLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.portrait.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalPortraitBottomhalfFilled = SFSymbol(.ovalPortraitBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.portrait.inset.filled
@@ -19018,37 +18294,30 @@ public extension SFSymbol {
 
     /// - Symbol Name: oval.portrait.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalPortraitLefthalfFilled = SFSymbol(.ovalPortraitLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.portrait.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalPortraitRighthalfFilled = SFSymbol(.ovalPortraitRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.portrait.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalPortraitTophalfFilled = SFSymbol(.ovalPortraitTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalRighthalfFilled = SFSymbol(.ovalRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: oval.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let ovalTophalfFilled = SFSymbol(.ovalTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: parentheses
     /// - Category: whatsnew
-    /// - Availabilities:
     static let parentheses = SFSymbol(.parentheses, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: parkingsign
     /// - Category: whatsnew
-    /// - Availabilities:
     static let parkingsign = SFSymbol(.parkingsign, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: parkingsign.circle
@@ -19066,7 +18335,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: pawprint
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let pawprint = SFSymbol(.pawprint, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: pawprint.circle
@@ -19083,52 +18351,44 @@ public extension SFSymbol {
 
     /// - Symbol Name: pawprint.fill
     /// - Category: nature, whatsnew
-    /// - Availabilities:
     static let pawprintFill = SFSymbol(.pawprintFill, releaseYear: ._2021, category: [ .nature, .whatsnew ])
 
     /// - Symbol Name: peacesign
     /// - Category: whatsnew
-    /// - Availabilities:
     static let peacesign = SFSymbol(.peacesign, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: pentagon
     /// - Category: shapes, whatsnew
-    /// - Availabilities:
     static let pentagon = SFSymbol(.pentagon, releaseYear: ._2021, category: [ .shapes, .whatsnew ])
 
     /// - Symbol Name: pentagon.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let pentagonBottomhalfFilled = SFSymbol(.pentagonBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: pentagon.fill
     /// - Category: shapes, whatsnew
-    /// - Availabilities:
     static let pentagonFill = SFSymbol(.pentagonFill, releaseYear: ._2021, category: [ .shapes, .whatsnew ])
 
     /// - Symbol Name: pentagon.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let pentagonLefthalfFilled = SFSymbol(.pentagonLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: pentagon.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let pentagonRighthalfFilled = SFSymbol(.pentagonRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: pentagon.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let pentagonTophalfFilled = SFSymbol(.pentagonTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: person.2.crop.square.stack
+    /// - Alias: person.2.square.stack
     /// - Category: human, whatsnew
-    /// - Availabilities:
     static let person2CropSquareStack = SFSymbol(.person2CropSquareStack, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: person.2.crop.square.stack.fill
+    /// - Alias: person.2.square.stack.fill
     /// - Category: human, whatsnew
-    /// - Availabilities:
     static let person2CropSquareStackFill = SFSymbol(.person2CropSquareStackFill, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: person.2.wave.2
@@ -19192,6 +18452,7 @@ public extension SFSymbol {
     static let personCropCircleBadgeClockFill = SFSymbol(.personCropCircleBadgeClockFill, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: person.crop.circle.badge.exclamationmark.fill
+    /// - Alias: person.crop.circle.fill.badge.exclamationmark
     /// - Category: human, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19217,6 +18478,7 @@ public extension SFSymbol {
     static let personCropCircleBadgeMoonFill = SFSymbol(.personCropCircleBadgeMoonFill, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: person.crop.circle.badge.questionmark.fill
+    /// - Alias: person.crop.circle.fill.badge.questionmark
     /// - Category: human, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19224,6 +18486,7 @@ public extension SFSymbol {
     static let personCropCircleBadgeQuestionmarkFill = SFSymbol(.personCropCircleBadgeQuestionmarkFill, releaseYear: ._2021, category: [ .human, .multicolor, .whatsnew ])
 
     /// - Symbol Name: person.crop.circle.badge.questionmark.fill.ar
+    /// - Alias: person.crop.circle.fill.badge.questionmark.ar
     /// - Category: human, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19231,16 +18494,17 @@ public extension SFSymbol {
     static let personCropCircleBadgeQuestionmarkFillAr = SFSymbol(.personCropCircleBadgeQuestionmarkFillAr, releaseYear: ._2021, category: [ .human, .multicolor, .whatsnew ])
 
     /// - Symbol Name: person.crop.rectangle.stack
+    /// - Alias: rectangle.stack.person.crop
     /// - Category: human, whatsnew
-    /// - Availabilities:
     static let personCropRectangleStack = SFSymbol(.personCropRectangleStack, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: person.crop.rectangle.stack.fill
+    /// - Alias: rectangle.stack.person.crop.fill
     /// - Category: human, whatsnew
-    /// - Availabilities:
     static let personCropRectangleStackFill = SFSymbol(.personCropRectangleStackFill, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: person.crop.square.filled.and.at.rectangle
+    /// - Alias: person.crop.square.fill.and.at.rectangle
     /// - Category: human, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19399,11 +18663,12 @@ public extension SFSymbol {
     static let playSquareFill = SFSymbol(.playSquareFill, releaseYear: ._2021, category: [ .media, .whatsnew ])
 
     /// - Symbol Name: plus.forwardslash.minus
+    /// - Alias: plus.slash.minus
     /// - Category: math, whatsnew
-    /// - Availabilities:
     static let plusForwardslashMinus = SFSymbol(.plusForwardslashMinus, releaseYear: ._2021, category: [ .math, .whatsnew ])
 
     /// - Symbol Name: plus.rectangle.on.folder.fill
+    /// - Alias: plus.rectangle.fill.on.folder.fill
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19435,6 +18700,7 @@ public extension SFSymbol {
     static let pointFilledTopleftDownCurvedtoPointBottomrightUp = SFSymbol(.pointFilledTopleftDownCurvedtoPointBottomrightUp, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: point.topleft.down.curvedto.point.bottomright.up.fill
+    /// - Alias: point.fill.topleft.down.curvedto.point.fill.bottomright.up
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19461,37 +18727,32 @@ public extension SFSymbol {
 
     /// - Symbol Name: power.dotted
     /// - Category: keyboard, whatsnew
-    /// - Availabilities:
     static let powerDotted = SFSymbol(.powerDotted, releaseYear: ._2021, category: [ .keyboard, .whatsnew ])
 
     /// - Symbol Name: powerplug
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let powerplug = SFSymbol(.powerplug, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: powerplug.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let powerplugFill = SFSymbol(.powerplugFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: printer.dotmatrix.filled.and.paper
+    /// - Alias: printer.dotmatrix.fill.and.paper.fill
     /// - Category: devices, objectsandtools, whatsnew
-    /// - Availabilities:
     static let printerDotmatrixFilledAndPaper = SFSymbol(.printerDotmatrixFilledAndPaper, releaseYear: ._2021, category: [ .devices, .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: printer.filled.and.paper
+    /// - Alias: printer.fill.and.paper.fill
     /// - Category: devices, objectsandtools, whatsnew
-    /// - Availabilities:
     static let printerFilledAndPaper = SFSymbol(.printerFilledAndPaper, releaseYear: ._2021, category: [ .devices, .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: puzzlepiece.extension
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let puzzlepieceExtension = SFSymbol(.puzzlepieceExtension, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: puzzlepiece.extension.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let puzzlepieceExtensionFill = SFSymbol(.puzzlepieceExtensionFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: questionmark.app
@@ -19514,7 +18775,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: questionmark.app.dashed.ar
     /// - Category: whatsnew
-    /// - Availabilities:
     static let questionmarkAppDashedAr = SFSymbol(.questionmarkAppDashedAr, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: questionmark.app.fill
@@ -19530,12 +18790,14 @@ public extension SFSymbol {
     static let questionmarkAppFillAr = SFSymbol(.questionmarkAppFillAr, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: r.joystick.press.down
+    /// - Alias: r.joystick.down
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rJoystickPressDown = SFSymbol(.rJoystickPressDown, releaseYear: ._2021, category: [ .gaming, .whatsnew ])
 
     /// - Symbol Name: r.joystick.press.down.fill
+    /// - Alias: r.joystick.down.fill
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19590,6 +18852,7 @@ public extension SFSymbol {
     static let rJoystickTiltUpFill = SFSymbol(.rJoystickTiltUpFill, releaseYear: ._2021, category: [ .gaming, .whatsnew ])
 
     /// - Symbol Name: r.square.on.square.fill
+    /// - Alias: r.square.fill.on.square.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19621,7 +18884,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectangleBottomhalfFilled = SFSymbol(.rectangleBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.bottomhalf.inset.filled
@@ -19631,12 +18893,14 @@ public extension SFSymbol {
     static let rectangleBottomhalfInsetFilled = SFSymbol(.rectangleBottomhalfInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.bottomthird.inset.filled
+    /// - Alias: rectangle.bottomthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleBottomthirdInsetFilled = SFSymbol(.rectangleBottomthirdInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.center.inset.filled
+    /// - Alias: rectangle.center.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19655,12 +18919,14 @@ public extension SFSymbol {
     static let rectangleInsetBottomleadingFilled = SFSymbol(.rectangleInsetBottomleadingFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.inset.bottomleft.filled
+    /// - Alias: rectangle.inset.bottomleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleInsetBottomleftFilled = SFSymbol(.rectangleInsetBottomleftFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.inset.bottomright.filled
+    /// - Alias: rectangle.inset.bottomright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19673,6 +18939,7 @@ public extension SFSymbol {
     static let rectangleInsetBottomtrailingFilled = SFSymbol(.rectangleInsetBottomtrailingFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.inset.filled
+    /// - Alias: rectangle.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19697,12 +18964,14 @@ public extension SFSymbol {
     static let rectangleInsetTopleadingFilled = SFSymbol(.rectangleInsetTopleadingFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.inset.topleft.filled
+    /// - Alias: rectangle.inset.topleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleInsetTopleftFilled = SFSymbol(.rectangleInsetTopleftFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.inset.topright.filled
+    /// - Alias: rectangle.inset.topright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19733,35 +19002,40 @@ public extension SFSymbol {
     static let rectangleLeadingthirdInsetFilled = SFSymbol(.rectangleLeadingthirdInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.lefthalf.filled
+    /// - Alias: rectangle.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectangleLefthalfFilled = SFSymbol(.rectangleLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.lefthalf.inset.filled
+    /// - Alias: rectangle.lefthalf.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleLefthalfInsetFilled = SFSymbol(.rectangleLefthalfInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.lefthalf.inset.filled.arrow.left
+    /// - Alias: rectangle.lefthalf.inset.fill.arrow.left
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleLefthalfInsetFilledArrowLeft = SFSymbol(.rectangleLefthalfInsetFilledArrowLeft, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.leftthird.inset.filled
+    /// - Alias: rectangle.leftthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleLeftthirdInsetFilled = SFSymbol(.rectangleLeftthirdInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.on.rectangle.circle
+    /// - Alias: rectangle.fill.on.rectangle.fill.circle
     /// - Category: gaming, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleOnRectangleCircle = SFSymbol(.rectangleOnRectangleCircle, releaseYear: ._2021, category: [ .gaming, .whatsnew ])
 
     /// - Symbol Name: rectangle.on.rectangle.circle.fill
+    /// - Alias: rectangle.fill.on.rectangle.fill.circle.fill
     /// - Category: gaming, multicolor, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19782,6 +19056,7 @@ public extension SFSymbol {
     static let rectangleOnRectangleSlashCircleFill = SFSymbol(.rectangleOnRectangleSlashCircleFill, releaseYear: ._2021, category: [ .multicolor, .whatsnew ])
 
     /// - Symbol Name: rectangle.on.rectangle.slash.fill
+    /// - Alias: rectangle.fill.on.rectangle.fill.slash.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -19807,12 +19082,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.portrait.and.arrow.right.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglePortraitAndArrowRightFill = SFSymbol(.rectanglePortraitAndArrowRightFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.portrait.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglePortraitBottomhalfFilled = SFSymbol(.rectanglePortraitBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.portrait.bottomhalf.inset.filled
@@ -19877,7 +19150,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.portrait.lefthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglePortraitLefthalfFilled = SFSymbol(.rectanglePortraitLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.portrait.lefthalf.inset.filled
@@ -19918,7 +19190,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.portrait.righthalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglePortraitRighthalfFilled = SFSymbol(.rectanglePortraitRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.portrait.righthalf.inset.filled
@@ -19947,12 +19218,10 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.portrait.split.2x1
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglePortraitSplit2X1 = SFSymbol(.rectanglePortraitSplit2X1, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.portrait.split.2x1.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglePortraitSplit2X1Fill = SFSymbol(.rectanglePortraitSplit2X1Fill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.portrait.split.2x1.slash
@@ -19969,7 +19238,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.portrait.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglePortraitTophalfFilled = SFSymbol(.rectanglePortraitTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.portrait.tophalf.inset.filled
@@ -20021,23 +19289,26 @@ public extension SFSymbol {
     static let rectanglePortraitTrailingthirdInsetFilled = SFSymbol(.rectanglePortraitTrailingthirdInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.righthalf.filled
+    /// - Alias: rectangle.righthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectangleRighthalfFilled = SFSymbol(.rectangleRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.righthalf.inset.filled
+    /// - Alias: rectangle.righthalf.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleRighthalfInsetFilled = SFSymbol(.rectangleRighthalfInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.righthalf.inset.filled.arrow.right
+    /// - Alias: rectangle.righthalf.inset.fill.arrow.right
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectangleRighthalfInsetFilledArrowRight = SFSymbol(.rectangleRighthalfInsetFilledArrowRight, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.rightthird.inset.filled
+    /// - Alias: rectangle.rightthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20069,7 +19340,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: rectangle.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectangleTophalfFilled = SFSymbol(.rectangleTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.tophalf.inset.filled
@@ -20079,6 +19349,7 @@ public extension SFSymbol {
     static let rectangleTophalfInsetFilled = SFSymbol(.rectangleTophalfInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangle.topthird.inset.filled
+    /// - Alias: rectangle.topthird.inset.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20103,25 +19374,27 @@ public extension SFSymbol {
     static let rectangleTrailingthirdInsetFilled = SFSymbol(.rectangleTrailingthirdInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangles.group
+    /// - Alias: rectangle.3.offgrid
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglesGroup = SFSymbol(.rectanglesGroup, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: rectangles.group.bubble.left
+    /// - Alias: rectangle.3.offgrid.bubble.left
     /// - Category: communication, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectanglesGroupBubbleLeft = SFSymbol(.rectanglesGroupBubbleLeft, releaseYear: ._2021, category: [ .communication, .whatsnew ])
 
     /// - Symbol Name: rectangles.group.bubble.left.fill
+    /// - Alias: rectangle.3.offgrid.bubble.left.fill
     /// - Category: communication, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let rectanglesGroupBubbleLeftFill = SFSymbol(.rectanglesGroupBubbleLeftFill, releaseYear: ._2021, category: [ .communication, .whatsnew ])
 
     /// - Symbol Name: rectangles.group.fill
+    /// - Alias: rectangle.3.offgrid.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let rectanglesGroupFill = SFSymbol(.rectanglesGroupFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: repeat.1.ar
@@ -20171,22 +19444,18 @@ public extension SFSymbol {
 
     /// - Symbol Name: return.left
     /// - Category: arrows, whatsnew
-    /// - Availabilities:
     static let returnLeft = SFSymbol(.returnLeft, releaseYear: ._2021, category: [ .arrows, .whatsnew ])
 
     /// - Symbol Name: return.right
     /// - Category: arrows, whatsnew
-    /// - Availabilities:
     static let returnRight = SFSymbol(.returnRight, releaseYear: ._2021, category: [ .arrows, .whatsnew ])
 
     /// - Symbol Name: screwdriver
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let screwdriver = SFSymbol(.screwdriver, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: screwdriver.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let screwdriverFill = SFSymbol(.screwdriverFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: sensor.tag.radiowaves.forward
@@ -20214,11 +19483,12 @@ public extension SFSymbol {
     static let shareplaySlash = SFSymbol(.shareplaySlash, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: shield.lefthalf.filled
+    /// - Alias: shield.lefthalf.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let shieldLefthalfFilled = SFSymbol(.shieldLefthalfFilled, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: shield.lefthalf.filled.slash
+    /// - Alias: shield.lefthalf.fill.slash
     /// - Category: objectsandtools, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20226,7 +19496,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: shield.righthalf.filled
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let shieldRighthalfFilled = SFSymbol(.shieldRighthalfFilled, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: signature.ja
@@ -20248,7 +19517,6 @@ public extension SFSymbol {
     static let signatureZh = SFSymbol(.signatureZh, releaseYear: ._2021, category: [ .commerce, .editing, .textformatting, .whatsnew ])
 
     /// - Symbol Name: signature.zh.traditional
-    /// - Availabilities:
     static let signatureZhTraditional = SFSymbol(.signatureZhTraditional, releaseYear: ._2021, category: [  ])
 
     /// - Symbol Name: sleep.circle
@@ -20271,12 +19539,14 @@ public extension SFSymbol {
     static let sliderHorizontal2RectangleAndArrowTriangle2Circlepath = SFSymbol(.sliderHorizontal2RectangleAndArrowTriangle2Circlepath, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: snowflake
+    /// - Alias: snow
     /// - Category: multicolor, weather, whatsnew
     /// - Availabilities:
     ///   - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0
     static let snowflake = SFSymbol(.snowflake, releaseYear: ._2021, category: [ .multicolor, .weather, .whatsnew ])
 
     /// - Symbol Name: sparkles.square.filled.on.square
+    /// - Alias: sparkles.square.fill.on.square
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20335,82 +19605,94 @@ public extension SFSymbol {
     static let squareAndAtRectangleFill = SFSymbol(.squareAndAtRectangleFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.bottomhalf.filled
+    /// - Alias: square.bottomhalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let squareBottomhalfFilled = SFSymbol(.squareBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.dashed.inset.filled
+    /// - Alias: square.dashed.inset.fill
     /// - Category: editing, whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareDashedInsetFilled = SFSymbol(.squareDashedInsetFilled, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: square.fill.and.line.vertical.and.square.fill
+    /// - Alias: square.fill.and.line.vertical.square.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let squareFillAndLineVerticalAndSquareFill = SFSymbol(.squareFillAndLineVerticalAndSquareFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.filled.on.square
+    /// - Alias: square.fill.on.square
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareFilledOnSquare = SFSymbol(.squareFilledOnSquare, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.bottomleft.filled
+    /// - Alias: square.grid.3x3.bottomleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3BottomleftFilled = SFSymbol(.squareGrid3X3BottomleftFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.bottommiddle.filled
+    /// - Alias: square.grid.3x3.bottommiddle.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3BottommiddleFilled = SFSymbol(.squareGrid3X3BottommiddleFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.bottomright.filled
+    /// - Alias: square.grid.3x3.bottomright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3BottomrightFilled = SFSymbol(.squareGrid3X3BottomrightFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.middle.filled
+    /// - Alias: square.grid.3x3.middle.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3MiddleFilled = SFSymbol(.squareGrid3X3MiddleFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.middleleft.filled
+    /// - Alias: square.grid.3x3.middleleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3MiddleleftFilled = SFSymbol(.squareGrid3X3MiddleleftFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.middleright.filled
+    /// - Alias: square.grid.3x3.middleright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3MiddlerightFilled = SFSymbol(.squareGrid3X3MiddlerightFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.square
+    /// - Alias: square.grid.3x3.fill.square
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3Square = SFSymbol(.squareGrid3X3Square, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.topleft.filled
+    /// - Alias: square.grid.3x3.topleft.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3TopleftFilled = SFSymbol(.squareGrid3X3TopleftFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.topmiddle.filled
+    /// - Alias: square.grid.3x3.topmiddle.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
     static let squareGrid3X3TopmiddleFilled = SFSymbol(.squareGrid3X3TopmiddleFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.grid.3x3.topright.filled
+    /// - Alias: square.grid.3x3.topright.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20423,13 +19705,13 @@ public extension SFSymbol {
     static let squareInsetFilled = SFSymbol(.squareInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.lefthalf.filled
+    /// - Alias: square.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let squareLefthalfFilled = SFSymbol(.squareLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.righthalf.filled
+    /// - Alias: square.righthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let squareRighthalfFilled = SFSymbol(.squareRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.text.square
@@ -20445,8 +19727,8 @@ public extension SFSymbol {
     static let squareTextSquareFill = SFSymbol(.squareTextSquareFill, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: square.tophalf.filled
+    /// - Alias: square.tophalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let squareTophalfFilled = SFSymbol(.squareTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: star.bubble
@@ -20462,13 +19744,12 @@ public extension SFSymbol {
     static let starBubbleFill = SFSymbol(.starBubbleFill, releaseYear: ._2021, category: [ .communication, .whatsnew ])
 
     /// - Symbol Name: star.leadinghalf.filled
+    /// - Alias: star.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let starLeadinghalfFilled = SFSymbol(.starLeadinghalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: suitcase
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let suitcase = SFSymbol(.suitcase, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: suitcase.cart
@@ -20485,7 +19766,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: suitcase.fill
     /// - Category: objectsandtools, whatsnew
-    /// - Availabilities:
     static let suitcaseFill = SFSymbol(.suitcaseFill, releaseYear: ._2021, category: [ .objectsandtools, .whatsnew ])
 
     /// - Symbol Name: sun.and.horizon
@@ -20515,6 +19795,7 @@ public extension SFSymbol {
     static let sunMaxCircleFill = SFSymbol(.sunMaxCircleFill, releaseYear: ._2021, category: [ .keyboard, .multicolor, .weather, .whatsnew ])
 
     /// - Symbol Name: tablecells.fill.badge.ellipsis
+    /// - Alias: tablecells.badge.ellipsis.fill
     /// - Category: whatsnew
     /// - Availabilities:
     ///   - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0
@@ -20597,42 +19878,35 @@ public extension SFSymbol {
 
     /// - Symbol Name: train.side.front.car
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let trainSideFrontCar = SFSymbol(.trainSideFrontCar, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: train.side.middle.car
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let trainSideMiddleCar = SFSymbol(.trainSideMiddleCar, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: train.side.rear.car
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let trainSideRearCar = SFSymbol(.trainSideRearCar, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: tram.fill.tunnel
+    /// - Alias: tram.tunnel.fill
     /// - Category: transportation, whatsnew
-    /// - Availabilities:
     static let tramFillTunnel = SFSymbol(.tramFillTunnel, releaseYear: ._2021, category: [ .transportation, .whatsnew ])
 
     /// - Symbol Name: trapezoid.and.line.horizontal
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let trapezoidAndLineHorizontal = SFSymbol(.trapezoidAndLineHorizontal, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: trapezoid.and.line.horizontal.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let trapezoidAndLineHorizontalFill = SFSymbol(.trapezoidAndLineHorizontalFill, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: trapezoid.and.line.vertical
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let trapezoidAndLineVertical = SFSymbol(.trapezoidAndLineVertical, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: trapezoid.and.line.vertical.fill
     /// - Category: editing, whatsnew
-    /// - Availabilities:
     static let trapezoidAndLineVerticalFill = SFSymbol(.trapezoidAndLineVerticalFill, releaseYear: ._2021, category: [ .editing, .whatsnew ])
 
     /// - Symbol Name: trash.slash.circle
@@ -20679,7 +19953,6 @@ public extension SFSymbol {
 
     /// - Symbol Name: triangle.bottomhalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let triangleBottomhalfFilled = SFSymbol(.triangleBottomhalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: triangle.inset.filled
@@ -20689,28 +19962,25 @@ public extension SFSymbol {
     static let triangleInsetFilled = SFSymbol(.triangleInsetFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: triangle.lefthalf.filled
+    /// - Alias: triangle.lefthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let triangleLefthalfFilled = SFSymbol(.triangleLefthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: triangle.righthalf.filled
+    /// - Alias: triangle.righthalf.fill
     /// - Category: whatsnew
-    /// - Availabilities:
     static let triangleRighthalfFilled = SFSymbol(.triangleRighthalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: triangle.tophalf.filled
     /// - Category: whatsnew
-    /// - Availabilities:
     static let triangleTophalfFilled = SFSymbol(.triangleTophalfFilled, releaseYear: ._2021, category: [ .whatsnew ])
 
     /// - Symbol Name: tshirt
     /// - Category: human, whatsnew
-    /// - Availabilities:
     static let tshirt = SFSymbol(.tshirt, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: tshirt.fill
     /// - Category: human, whatsnew
-    /// - Availabilities:
     static let tshirtFill = SFSymbol(.tshirtFill, releaseYear: ._2021, category: [ .human, .whatsnew ])
 
     /// - Symbol Name: tv.inset.filled
