@@ -55,4 +55,14 @@ public extension NSImageView {
     }
 }
 
+public extension NSSegmentedControl {
+    func setSFSymbol(_ symbol: SFSymbol, forSegment segment: Int) {
+        setImage(symbol.image, forSegment: segment)
+    }
+    
+    func setSFName(_ name: SFName, forSegment segment: Int) {
+        setImage(name.image, forSegment: segment)
+    }
+}
+
 #endif
