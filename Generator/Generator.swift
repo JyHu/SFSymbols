@@ -109,8 +109,12 @@ struct SFSymbol {
         return ""
     }
     
-    func comments(prefix: String, releaseYears: [String: [ApplePlatform: String]]) -> String {
+    func comments(prefix: String, releaseYears: [String: [ApplePlatform: String]], monoYear: String) -> String {
+        let cmt = releaseYears[monoYear]!.versionStrs().joined(separator: ", ")
+        
         var stringValues: [String] = []
+        stringValues.append(prefix + "/// Support only \(cmt) and later")
+        stringValues.append(prefix + "///")
         stringValues.append(prefix + "/// - Symbol Name: \(name)")
         if let alias = alias {
             stringValues.append(prefix + "/// - Alias: \(alias)")
@@ -312,7 +316,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             return sortedSymbols.map { sfsymbol in
                 return
                     """
-                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
+                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
                         \(releaseYears.availabilities(of: monoYear))
                         case \(sfsymbol.name.codeName()) = "\(sfsymbol.name)"
                     """
@@ -344,7 +348,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             let symbolStrings = sortedSymbols.map { sfsymbol in
                 return
                     """
-                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
+                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
                         static let \(sfsymbol.name.codeName()) = SymbolImage(sfname: .\(sfsymbol.name.codeName(escaped: false))
                     """
             }.joined(separator: "\n\n")
@@ -390,7 +394,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             let symbolStrings = sortedSymbols.map { sfsymbol in
                 return
                     """
-                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
+                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
                         static let \(sfsymbol.name.codeName()) = Image(sfname: .\(sfsymbol.name.codeName(escaped: false)))
                     """
             }.joined(separator: "\n\n")
@@ -441,7 +445,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 
                 return
                     """
-                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears))
+                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
                         static let \(sfsymbol.name.codeName()) = SFSymbol(.\(sfsymbol.name.codeName(escaped: false)), releaseYear: .\(releaseYear), category: [ \(categoryStr) ])
                     """
             }.joined(separator: "\n\n")
@@ -492,9 +496,10 @@ extension Dictionary where Key == String, Value == [ApplePlatform: String] {
         guard availables.count > 0 else { return nil }
         var avas = availables.sorted(by: { $0.key < $1.key }).compactMap { (available, releaseYear) -> String? in
             guard let verStrs = self[releaseYear]?.versionStrs().joined(separator: ", ") else { return nil }
-            return "\(spacing)///   - \(available): \(verStrs)"
+            return "\(spacing)/// - \(available): \(verStrs)"
         }
-        avas.insert("\(spacing)/// - Availabilities:", at: 0)
+        avas.insert("\(spacing)/// Availabilities:", at: 0)
+        avas.insert(spacing + "///", at: 0)
         return avas.joined(separator: "\n")
     }
 }

@@ -41,6 +41,48 @@ public extension NSToolbarItem {
     }
 }
 
+public extension NSToolbarItemGroup {
+    convenience init(itemIdentifier: Identifier, sfsymbols: [SFSymbol], selectionModel: SelectionMode, labels: [String]?, target: AnyObject?, action: Selector?) {
+        
+        var imgs: [NSImage] = []
+        var lbs: [String] = []
+        
+        for (index, sfsymbol) in sfsymbols.enumerated() {
+            guard let image = sfsymbol.image else {
+                continue
+            }
+            
+            imgs.append(image)
+            
+            if let labels = labels, index < labels.count {
+                lbs.append(labels[index])
+            }
+        }
+        
+        self.init(itemIdentifier: itemIdentifier, images: imgs, selectionMode: selectionModel, labels: lbs.count == 0 ? nil : lbs, target: target, action: action)
+    }
+    
+    convenience init(itemIdentifier: Identifier, sfnames: [SFName], selectionModel: SelectionMode, labels: [String]?, target: AnyObject?, action: Selector?) {
+        
+        var imgs: [NSImage] = []
+        var lbs: [String] = []
+        
+        for (index, sfname) in sfnames.enumerated() {
+            guard let image = sfname.image else {
+                continue
+            }
+            
+            imgs.append(image)
+            
+            if let labels = labels, index < labels.count {
+                lbs.append(labels[index])
+            }
+        }
+        
+        self.init(itemIdentifier: itemIdentifier, images: imgs, selectionMode: selectionModel, labels: lbs.count == 0 ? nil : lbs, target: target, action: action)
+    }
+}
+
 public extension NSImageView {
     convenience init(sfsymbol: SFSymbol) {
         if let image = sfsymbol.image {
