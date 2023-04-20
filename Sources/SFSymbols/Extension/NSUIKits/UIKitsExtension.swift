@@ -26,4 +26,14 @@ public extension UIImageView {
     }
 }
 
+public extension UIButton {
+    func setSFSymbol(_ symbol: SFSymbol, for state: UIControl.State) {
+        setImage(symbol.image, for: state)
+    }
+    
+    func setSFName(_ name: SFName, for state: UIControl.State) {
+        setImage(name.image, for: state)
+    }
+}
+
 #endif
