@@ -13,14 +13,20 @@ import UIKit
 
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
 public struct SFSymbol {
-    /// The names of SF Symbol.
-    public let name: String
+    /// The original sf symbol name
+    public let rawValue: String
+    
+    /// The SF Symbol enum.
+    public let name: SFName
     
     /// The categories of SF Symbol
     public let category: Set<Category>
     
     /// Supported system versions
     public let releaseYear: ReleaseYear
+    
+    /// Searching keywords
+    public let keywords: [String]
     
 #if !os(macOS)
     private var variableValue: Double?
@@ -41,16 +47,21 @@ public struct SFSymbol {
     ///   - name: The name of SF Symbol
     ///   - availables: Supported system versions
     ///   - category: The categories of SF Symbol
-    internal init(_ sfname: SFName, releaseYear: ReleaseYear, category: Set<Category> = []) {
-        self.name = sfname.rawValue
-        self.category = category
-        self.releaseYear = releaseYear
-    }
-    
-    public init(_ name: String, releaseYear: ReleaseYear = ._2019, availables: Availables? = nil, category: Set<Category> = []) {
+    internal init(_ name: SFName, releaseYear: ReleaseYear, category: Set<Category> = [], keywords: [String] = []) {
+        self.rawValue = name.rawValue
         self.name = name
         self.category = category
         self.releaseYear = releaseYear
+        self.keywords = keywords
+    }
+    
+    public init?(_ rawValue: String, releaseYear: ReleaseYear = ._2019, availables: Availables? = nil, category: Set<Category> = [], keywords: [String] = []) {
+        guard let name = SFName(rawValue: rawValue) else { return nil }
+        self.rawValue = rawValue
+        self.name = name
+        self.category = category
+        self.releaseYear = releaseYear
+        self.keywords = keywords
     }
 }
 
@@ -70,17 +81,17 @@ public extension SFSymbol {
             
 #if os(iOS)
             if let traitCollection = traitCollection {
-                return UIImage(systemName: name, compatibleWith: traitCollection)
+                return UIImage(systemName: rawValue, compatibleWith: traitCollection)
             }
 #endif
             
             if #available(iOS 16.0, tvOS 16.0, watchOS 9.0, *) {
                 if let variableValue = variableValue {
-                    return UIImage(systemName: name, variableValue: variableValue)
+                    return UIImage(systemName: rawValue, variableValue: variableValue)
                 }
             }
             
-            return UIImage(systemName: name)
+            return UIImage(systemName: rawValue)
 #endif
         }
         
@@ -206,5 +217,11 @@ private extension SFSymbol {
         }
         
         return mutableSelf
+    }
+}
+
+public extension SFSymbol {
+    func isMatch(_ keyword: String) -> Bool {
+        return rawValue.contains(keyword) || keywords.contains(where: { $0.contains(keyword) } )
     }
 }

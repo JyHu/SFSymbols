@@ -23,6 +23,23 @@ public extension NSButton {
         self.init(image: NSImage(), target: target, action: action)
         self.sfname = sfname
     }
+    
+    var sfname: SFName? {
+        set { image = newValue?.image }
+        get { return nil }
+    }
+    
+    var sfsymbol: SFSymbol? {
+        set { image = newValue?.image }
+        get { return nil }
+    }
+    
+    var alternateSFName: SFName? {
+        set { alternateImage = newValue?.image }
+        get { return nil }
+    }
+    
+    
 }
 
 public extension NSToolbarItem {

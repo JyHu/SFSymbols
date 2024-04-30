@@ -8,6 +8,22 @@
 import Foundation
 
 
+struct ParseError: Error, CustomStringConvertible {
+    let message: String
+    
+    init(function: StaticString = #function) {
+        self.message = "\(function)"
+    }
+    
+    init(_ message: String) {
+        self.message = message
+    }
+    
+    var description: String {
+        return message
+    }
+}
+
 // MARK: - Starting
 
 ///
@@ -16,7 +32,7 @@ import Foundation
 ///
 ///
 
-func parse() {
+func parse() throws {
     let url = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
         .appendingPathComponent(CommandLine.arguments[0])
         .deletingLastPathComponent()
@@ -24,48 +40,63 @@ func parse() {
     
     guard
         /// [String: [Availability: ReleaseYear]]
-        let layersetAvailabilities = loadLayersetAvailabilities(at: url),
+        let layersetAvailabilities = try loadLayersetAvailabilities(at: url),
         /// [String: String]
-        let legacyAlisases = loadLegacyAliasesStrings(at: url),
+        let legacyAlisases = try loadLegacyAliasesStrings(at: url),
         /// [String: String]
-        let nameAliases = loadNameAliasesStrings(at: url),
+        let nameAliases = try loadNameAliasesStrings(at: url),
         /// [String: ReleaseYear]
-        let (nameAvabilities, yearToReleases) = loadNameAvailabilities(at: url),
+        let (nameAvabilities, yearToReleases) = try loadNameAvailabilities(at: url),
         /// [String: [Category]]
-        let symbolCategories = loadSymbolCategories(at: url) else {
+        let symbolCategories = try loadSymbolCategories(at: url),
+        /// [string: [string]]
+        let searchingKeywords = try loadSearchingKeywords(at: url) else {
         return
     }
-    
+        
     var result: [String: [SFSymbol]] = [:]
-    var allCategories: Set<String> = []
     
     for (name, releaseYear) in nameAvabilities {
         let availabilities: [String: String] = layersetAvailabilities[name] ?? [:]
+        let alias = nameAliases[name]
+        
+        var keywords = searchingKeywords[name]
+        
+        if keywords == nil, let alias {
+            keywords = searchingKeywords[alias]
+        }
         
         let sfsymbol = SFSymbol(
             name: name,
             availabilities: availabilities,
             monochromeYearStr: releaseYear,
             category: symbolCategories[name],
-            alias: nameAliases[name],
-            legacyAlias: legacyAlisases[name]
+            alias: alias,
+            legacyAlias: legacyAlisases[name],
+            keywords: keywords ?? []
         )
         
         var symbols = result[sfsymbol.monochromeYearStr] ?? []
         symbols.append(sfsymbol)
         result[sfsymbol.monochromeYearStr] = symbols
-        allCategories.formUnion(sfsymbol.category)
     }
     
     result.forEach({ result[$0.key] = $0.value.sorted(by: { $0.name < $1.name }) })
     
     let spmFolder = url.deletingLastPathComponent().deletingLastPathComponent().appending(path: "Sources/SFSymbols/SF")
-    export(spmSourceFolder: spmFolder, yearGroupedSymbols: result, releaseYears: yearToReleases)
-    export(categories: allCategories, spmSourceFolder: spmFolder)
+    
+    try export(spmSourceFolder: spmFolder, yearGroupedSymbols: result, releaseYears: yearToReleases)
+    try exportCategoryies(at: url, spmSourceFolder: spmFolder)
     export(yearOfReleases: yearToReleases, spmSourceFolder: spmFolder)
+    
+    print("Parse complete")
 }
 
-parse()
+do {
+    try parse()
+} catch {
+    print(error)
+}
 
 // MARK: - Values
 
@@ -74,6 +105,7 @@ enum ApplePlatform: String, CaseIterable {
     case macOS
     case tvOS
     case watchOS
+    case visionOS
 }
 
 struct SFSymbol {
@@ -87,18 +119,21 @@ struct SFSymbol {
     var alias: String?
     /// 已经过期了的图片名称，现在无法使用
     var legacyAlias: String?
+    /// 用于搜索的关键词
+    var keywords: [String]
     
     /// 当前图片最低支持的发版日期
     var monochromeYear: Double = 2019
     var monochromeYearStr: String = "2019"
     
-    init(name: String, availabilities: [String: String], monochromeYearStr: String, category: [String]? = nil, alias: String? = nil, legacyAlias: String? = nil) {
+    init(name: String, availabilities: [String: String], monochromeYearStr: String, category: [String]? = nil, alias: String? = nil, legacyAlias: String? = nil, keywords: [String] = []) {
         self.name = name
         self.availabilities = availabilities
         self.category = category ?? []
         self.alias = alias
         self.legacyAlias = legacyAlias
         self.monochromeYearStr = monochromeYearStr
+        self.keywords = keywords
         
         if let year = Double(monochromeYearStr) {
             self.monochromeYear = year
@@ -132,14 +167,19 @@ struct SFSymbol {
 // MARK: - Helper methods
 
 /// 加载plist文件，并处理为json格式
-func loadJSON(at url: URL) -> [String: Any]? {
-    guard let data = try? Data(contentsOf: url) else { return nil }
-    return try? PropertyListSerialization.propertyList(from: data, format: nil) as? [String: Any]
+func loadJSON(at url: URL) throws -> [String: Any] {
+    let data = try Data(contentsOf: url)
+    
+    guard let json = try PropertyListSerialization.propertyList(from: data, format: nil) as? [String: Any] else {
+        throw ParseError("\(url) data is not dictionary")
+    }
+    
+    return json
 }
 
 /// 加载txt文件，并将内容拆分成字符串对，比如 a:b b:a
-func loadSymbolPairs(at url: URL) -> [String: String]? {
-    guard let data = try? Data(contentsOf: url) else { return nil }
+func loadSymbolPairs(at url: URL) throws -> [String: String]? {
+    let data = try Data(contentsOf: url)
     guard let stringValue = String(data: data, encoding: .utf8) else { return nil }
     
     let pairStrings = stringValue.replacing("\"", with: "").replacing(";", with: "").components(separatedBy: "\n")
@@ -153,31 +193,43 @@ func loadSymbolPairs(at url: URL) -> [String: String]? {
     return results
 }
 
-private func loadLayersetAvailabilities(at folder: URL) -> [String: [String: String]]? {
+private func loadLayersetAvailabilities(at folder: URL) throws -> [String: [String: String]]? {
     let fileURL = folder.appendingPathComponent("layerset_availability.plist")
-    guard let json = loadJSON(at: fileURL) else { return nil }
+    let json = try loadJSON(at: fileURL)
     return json["symbols"] as? [String: [String: String]]
 }
 
-private func loadLegacyAliasesStrings(at folder: URL) -> [String: String]? {
-    return loadSymbolPairs(at: folder.appendingPathComponent("legacy_aliases_strings.txt"))
+private func loadLegacyAliasesStrings(at folder: URL) throws -> [String: String]? {
+    return try loadSymbolPairs(at: folder.appendingPathComponent("legacy_aliases.strings"))
 }
 
-private func loadNameAliasesStrings(at folder: URL) -> [String: String]? {
-    return loadSymbolPairs(at: folder.appendingPathComponent("name_aliases_strings.txt"))
+private func loadNameAliasesStrings(at folder: URL) throws -> [String: String]? {
+    return try loadSymbolPairs(at: folder.appendingPathComponent("name_aliases.strings"))
 }
 
-private func loadNameAvailabilities(at folder: URL) -> ([String: String], [String: [ApplePlatform: String]])? {
+private func loadSearchingKeywords(at folder: URL) throws -> [String: [String]]? {
+    let fileURL = folder.appendingPathComponent("symbol_search.plist")
+    return try loadJSON(at: fileURL) as? [String: [String]]
+}
+
+private func loadNameAvailabilities(at folder: URL) throws -> ([String: String], [String: [ApplePlatform: String]])? {
     let fileURL = folder.appendingPathComponent("name_availability.plist")
-    guard let json = loadJSON(at: fileURL) else { return nil }
-    guard let symbols = json["symbols"] as? [String: String] else { return nil }
-    guard let releaseYearsVals = json["year_to_release"] as? [String: [String: String]] else { return nil }
+    let json = try loadJSON(at: fileURL)
+    guard let symbols = json["symbols"] as? [String: String] else {
+        throw ParseError("\(folder) doesn't contains symbols")
+    }
+    
+    guard let releaseYearsVals = json["year_to_release"] as? [String: [String: String]] else {
+        throw ParseError("\(folder) doesn't contains year to release")
+    }
     
     var releaseYears: [String: [ApplePlatform: String]] = [:]
     for (releaseYear, platformVersions) in releaseYearsVals {
         var yearVersions: [ApplePlatform: String] = [:]
         for (platformVal, version) in platformVersions {
-            guard let platform = ApplePlatform(rawValue: platformVal) else { return nil }
+            guard let platform = ApplePlatform(rawValue: platformVal) else {
+                throw ParseError("Unknown platform \(platformVal)")
+            }
             yearVersions[platform] = version
         }
         releaseYears[releaseYear] = yearVersions
@@ -186,9 +238,9 @@ private func loadNameAvailabilities(at folder: URL) -> ([String: String], [Strin
     return (symbols, releaseYears)
 }
 
-private func loadSymbolCategories(at folder: URL) -> [String: [String]]? {
+private func loadSymbolCategories(at folder: URL) throws -> [String: [String]]? {
     let fileURL = folder.appendingPathComponent("symbol_categories.plist")
-    return loadJSON(at: fileURL) as? [String: [String]]
+    return try loadJSON(at: fileURL) as? [String: [String]]
 }
 
 private func SP(_ lv: Int) -> String {
@@ -215,15 +267,41 @@ func write(text: String, to url: URL) {
     }
 }
 
-func export(categories: Set<String>, spmSourceFolder: URL) {
+func exportCategoryies(at folder: URL, spmSourceFolder: URL) throws {
+    let data = try Data(contentsOf: folder.appendingPathComponent("categories.plist"))
+    
+    guard let categories = try PropertyListSerialization.propertyList(from: data, format: nil) as? [[String: String]] else {
+        return
+    }
+    
+    let enums = categories.map {
+        SP(2) + "case \($0["key"]!) /// .\($0["icon"]!.codeName(escaped: false))"
+    }.joined(separator: "\n")
+    
+    let icons = categories.map {
+        SP(2) + "case .\($0["key"]!): return .\($0["icon"]!.codeName(escaped: false))"
+    }.joined(separator: "\n")
+    
+    let names = categories.map {
+        SP(2) + "case .\($0["key"]!): return \"\($0["label"]!)\""
+    }.joined(separator: "\n")
+    
     let categoriesString =
         """
         import Foundation
 
-        @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
+        @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
         public extension SFSymbol {
             enum Category: String {
-        \(categories.sorted(by: { $0 < $1 }).map({ SP(2) + "case \($0)" }).joined(separator: "\n"))
+        \(enums)
+            }
+        }
+        
+        public extension SFSymbol.Category {
+            var name: String {
+                switch self {
+        \(names)
+                }
             }
         }
         """
@@ -246,7 +324,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
     
     let creations = yearOfReleases.sorted(by: { $0.key < $1.key })
         .map({ (year, pm) in
-            SP(2) + "static let \(year.releaseYear) = Availables(iOS: \(pm[.iOS]!), tvOS: \(pm[.tvOS]!), macOS: \(pm[.macOS]!), watchOS: \(pm[.watchOS]!))"
+            SP(2) + "static let \(year.releaseYear) = Availables(iOS: \(pm[.iOS]!), tvOS: \(pm[.tvOS]!), macOS: \(pm[.macOS]!), watchOS: \(pm[.watchOS]!), visionOS: \(pm[.visionOS]!))"
         }).joined(separator: "\n")
     
     let codes =
@@ -254,7 +332,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
         
         import Foundation
 
-        @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
+        @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
         extension SFSymbol {
             public enum ReleaseYear: String {
         \(years)
@@ -265,11 +343,12 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
         
         \(platforms)
         
-                init(iOS: Double, tvOS: Double, macOS: Double, watchOS: Double) {
+                init(iOS: Double, tvOS: Double, macOS: Double, watchOS: Double, visionOS: Double) {
                     self.iOS = iOS
                     self.tvOS = tvOS
                     self.macOS = macOS
                     self.watchOS = watchOS
+                    self.visionOS = visionOS
                 }
         
         \(creations)
@@ -277,7 +356,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
         }
 
         
-        @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, *)
+        @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
         public extension SFSymbol.ReleaseYear {
             var availables: SFSymbol.Availables {
                 switch self {
@@ -306,7 +385,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
 ///             macOS: 11.0
 ///          ]
 ///       ]
-func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], releaseYears: [String: [ApplePlatform: String]]) {
+func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], releaseYears: [String: [ApplePlatform: String]]) throws {
     /// 按年份把所有数据从小到大排序
     let yearGroupedSymbols = yearGroupedSymbols.sorted(by: { $0.key < $1.key })
     
@@ -382,7 +461,6 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             }
             
             \(groupedString)
-            
             """
         
         write(text: codes, to: spmSourceFolder.appendingPathComponent("SFImages+NSUIImage.swift"))
@@ -429,54 +507,111 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             \(groupedString)
             
             #endif
-            
             """
         
         write(text: codes, to: spmSourceFolder.appendingPathComponent("SFImages+SwiftUI.swift"))
     }
     
-    func exportSFSymbols() {
-        let groupedString = yearGroupedSymbols.map { (monoYear, sortedSymbols) in
+    func exportSFSymbols() throws {
+        let symbolsPath = spmSourceFolder.path + "/Symbols"
+        for file in try FileManager.default.contentsOfDirectory(atPath: symbolsPath) {
+            if file.hasPrefix("SFSymbols") {
+                continue
+            }
+            
+            try FileManager.default.removeItem(atPath: symbolsPath + "/" + file)
+        }
+        
+        for (monoYear, sortedSymbols) in yearGroupedSymbols {
             let availabily = releaseYears.availabilities(of: monoYear)
             let symbolStrings = sortedSymbols.map { sfsymbol in
                 let categories = sfsymbol.category.map { ".\($0)" }
                 let categoryStr = categories.count > 0 ? categories.joined(separator: ", ") : ""
                 let releaseYear = sfsymbol.monochromeYearStr.releaseYear
                 
+                var parts: [String] = [ "releaseYear: .\(releaseYear)" ]
+                
+                if !categoryStr.isEmpty {
+                    parts.append("category: [ \(categoryStr) ]")
+                }
+                
+                if sfsymbol.keywords.count > 0 {
+                    parts.append("keywords: \(sfsymbol.keywords)")
+                }
+                
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
-                        static let \(sfsymbol.name.codeName()) = SFSymbol(.\(sfsymbol.name.codeName(escaped: false)), releaseYear: .\(releaseYear), category: [ \(categoryStr) ])
+                        static let \(sfsymbol.name.codeName()) = SFSymbol(.\(sfsymbol.name.codeName(escaped: false)), \(parts.joined(separator: ", ")))
                     """
             }.joined(separator: "\n\n")
             
-            return
+            let code =
                 """
+                import Foundation
+                
+                /// Released at \(monoYear)
+                
                 \(availabily)
                 public extension SFSymbol {
                 
                 \(symbolStrings)
-                
                 }
                 """
-        }.joined(separator: "\n\n")
-        
-        let codes =
-            """
             
+            let fileName = monoYear.replacingOccurrences(of: ".", with: "_")
+            
+            write(text: code, to: spmSourceFolder.appendingPathComponent("Symbols/SFSymbol+\(fileName).swift"))
+        }
+    }
+    
+    func exportSymbolsSet() {
+        let verCodes = yearGroupedSymbols.map { (monoYear, sortedSymbols) in
+            let availability = releaseYears.availabilities(of: monoYear, prefix: "#")
+            
+            var symbolArr: [String] = []
+            
+            for symbol in sortedSymbols {
+                let sfname = "." + symbol.name.codeName()
+                symbolArr.append("                " + sfname)
+            }
+            
+            return
+                """
+                        // MARK: - \(monoYear)
+                        if \(availability) {
+                            symbols.append(contentsOf:[
+                \(symbolArr.joined(separator: ",\n"))
+                            ])
+                        }
+                """
+        }
+        
+        let code =
+            """
             import Foundation
+
+            internal extension SFSymbols {
+                static func generateDatas() -> [SFSymbol] {
+                    var symbols: [SFSymbol] = []
+                    
+            \(verCodes.joined(separator: "\n\n"))
             
-            \(groupedString)
-            
+                    return symbols
+                }
+            }
             """
         
-        write(text: codes, to: spmSourceFolder.appendingPathComponent("SFSymbols.swift"))
+        write(text: code, to: spmSourceFolder.appendingPathComponent("Symbols/SFSymbols+.swift"))
+
     }
     
     exportNames()
 //    exportNSUIImages()
 //    exportSwiftUIImages()
-    exportSFSymbols()
+    try exportSFSymbols()
+    
+    exportSymbolsSet()
 }
 
 // MARK: - Extensions
@@ -485,11 +620,11 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
 extension Dictionary where Key == String, Value == [ApplePlatform: String] {
     /// 将改年份的转换成对应的支持系统版本的代码
     /// 如：@available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, *)
-    func availabilities(of year: String) -> String {
+    func availabilities(of year: String, prefix: String = "@") -> String {
         guard let abilities = self[year] else { return "" }
         var verStrs = abilities.versionStrs()
         verStrs.append("*")
-        return "@available(\(verStrs.joined(separator: ", ")))"
+        return "\(prefix)available(\(verStrs.joined(separator: ", ")))"
     }
     
     func toComment(of availables: [String: String], spacing: String = "    ") -> String? {

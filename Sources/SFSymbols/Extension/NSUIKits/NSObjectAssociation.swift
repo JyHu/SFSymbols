@@ -7,6 +7,15 @@
 
 import Foundation
 
+private extension String {
+    /// 将字符串转换 unsafe raw pointer 格式，可以在 objc association 中使用
+    var sf_unsafePointer: UnsafeRawPointer {
+        return withCString { cString in
+            return UnsafeRawPointer(cString)
+        }
+    }
+}
+
 internal extension NSObject {
     private struct _SFAssociationKeys {
         static var sfsymbol = "com.auu.SFAssociationKeys.sfsymbol"
@@ -15,19 +24,19 @@ internal extension NSObject {
     
     var _SF_associated_symbol: SFSymbol? {
         set {
-            objc_setAssociatedObject(self, &_SFAssociationKeys.sfsymbol, newValue, .OBJC_ASSOCIATION_ASSIGN)
+            objc_setAssociatedObject(self, _SFAssociationKeys.sfsymbol.sf_unsafePointer, newValue, .OBJC_ASSOCIATION_ASSIGN)
         }
         get {
-            return objc_getAssociatedObject(self, &_SFAssociationKeys.sfsymbol) as? SFSymbol
+            return objc_getAssociatedObject(self, _SFAssociationKeys.sfsymbol.sf_unsafePointer) as? SFSymbol
         }
     }
     
     var _SF_associated_name: SFName? {
         set {
-            objc_setAssociatedObject(self, &_SFAssociationKeys.sfname, newValue, .OBJC_ASSOCIATION_ASSIGN)
+            objc_setAssociatedObject(self, _SFAssociationKeys.sfname.sf_unsafePointer, newValue, .OBJC_ASSOCIATION_ASSIGN)
         }
         get {
-            return objc_getAssociatedObject(self, &_SFAssociationKeys.sfname) as? SFName
+            return objc_getAssociatedObject(self, _SFAssociationKeys.sfname.sf_unsafePointer) as? SFName
         }
     }
 }
