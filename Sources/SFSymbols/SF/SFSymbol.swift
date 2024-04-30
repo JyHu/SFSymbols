@@ -230,3 +230,9 @@ public extension SFSymbol {
         return rawValue.contains(keyword) || keywords.contains(where: { $0.contains(keyword) } )
     }
 }
+
+extension SFSymbol: Equatable {
+    public static func == (lhs: Self, rhs: Self) -> Bool {
+        return lhs.name == rhs.name
+    }
+}
