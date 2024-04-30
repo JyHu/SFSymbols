@@ -28,6 +28,9 @@ public struct SFSymbol {
     /// Searching keywords
     public let keywords: [String]
     
+    /// 
+    public let layerset: [Layerset: ReleaseYear]
+    
 #if !os(macOS)
     private var variableValue: Double?
     
@@ -47,21 +50,23 @@ public struct SFSymbol {
     ///   - name: The name of SF Symbol
     ///   - availables: Supported system versions
     ///   - category: The categories of SF Symbol
-    internal init(_ name: SFName, releaseYear: ReleaseYear, category: Set<Category> = [], keywords: [String] = []) {
+    internal init(_ name: SFName, releaseYear: ReleaseYear, category: Set<Category> = [], keywords: [String] = [], layerset: [Layerset: ReleaseYear] = [:]) {
         self.rawValue = name.rawValue
         self.name = name
         self.category = category
         self.releaseYear = releaseYear
         self.keywords = keywords
+        self.layerset = layerset
     }
     
-    public init?(_ rawValue: String, releaseYear: ReleaseYear = ._2019, availables: Availables? = nil, category: Set<Category> = [], keywords: [String] = []) {
+    public init?(_ rawValue: String, releaseYear: ReleaseYear = ._2019, availables: Availables? = nil, category: Set<Category> = [], keywords: [String] = [], layerset: [Layerset: ReleaseYear]) {
         guard let name = SFName(rawValue: rawValue) else { return nil }
         self.rawValue = rawValue
         self.name = name
         self.category = category
         self.releaseYear = releaseYear
         self.keywords = keywords
+        self.layerset = layerset
     }
 }
 
@@ -76,7 +81,7 @@ public extension SFSymbol {
     var image: SymbolImage? {
         func createImage() -> SymbolImage? {
 #if os(macOS)
-            return NSImage(systemSymbolName: name, accessibilityDescription: nil)
+            return NSImage(systemSymbolName: rawValue, accessibilityDescription: nil)
 #else
             
 #if os(iOS)

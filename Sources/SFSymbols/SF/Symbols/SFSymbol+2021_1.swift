@@ -11,7 +11,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    static let boltRingClosed = SFSymbol(.boltRingClosed, releaseYear: ._2021_1, keywords: ["energy", "power"])
+    static let boltRingClosed = SFSymbol(.boltRingClosed, releaseYear: ._2021_1, keywords: ["energy", "power"], layerset: [.hierarchical: ._2021_1])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -20,7 +20,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    static let platterFilledBottomAndArrowDownIphone = SFSymbol(.platterFilledBottomAndArrowDownIphone, releaseYear: ._2021_1, category: [ .devices ])
+    static let platterFilledBottomAndArrowDownIphone = SFSymbol(.platterFilledBottomAndArrowDownIphone, releaseYear: ._2021_1, category: [ .devices ], layerset: [.hierarchical: ._2021_1])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -29,7 +29,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    static let platterFilledBottomIphone = SFSymbol(.platterFilledBottomIphone, releaseYear: ._2021_1, category: [ .devices ])
+    static let platterFilledBottomIphone = SFSymbol(.platterFilledBottomIphone, releaseYear: ._2021_1, category: [ .devices ], layerset: [.hierarchical: ._2021_1])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -38,7 +38,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    static let platterFilledTopAndArrowUpIphone = SFSymbol(.platterFilledTopAndArrowUpIphone, releaseYear: ._2021_1, category: [ .devices ])
+    static let platterFilledTopAndArrowUpIphone = SFSymbol(.platterFilledTopAndArrowUpIphone, releaseYear: ._2021_1, category: [ .devices ], layerset: [.hierarchical: ._2021_1])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -47,7 +47,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    static let platterFilledTopIphone = SFSymbol(.platterFilledTopIphone, releaseYear: ._2021_1, category: [ .devices ])
+    static let platterFilledTopIphone = SFSymbol(.platterFilledTopIphone, releaseYear: ._2021_1, category: [ .devices ], layerset: [.hierarchical: ._2021_1])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -57,7 +57,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownBackward = SFSymbol(.square3Layers3DDownBackward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ])
+    static let square3Layers3DDownBackward = SFSymbol(.square3Layers3DDownBackward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -67,7 +67,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownForward = SFSymbol(.square3Layers3DDownForward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ])
+    static let square3Layers3DDownForward = SFSymbol(.square3Layers3DDownForward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -77,7 +77,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownLeft = SFSymbol(.square3Layers3DDownLeft, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ])
+    static let square3Layers3DDownLeft = SFSymbol(.square3Layers3DDownLeft, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
@@ -87,7 +87,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownRight = SFSymbol(.square3Layers3DDownRight, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ])
+    static let square3Layers3DDownRight = SFSymbol(.square3Layers3DDownRight, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///

@@ -39,7 +39,7 @@ func parse() throws {
         .appending(path: "Files")
     
     guard
-        /// [String: [Availability: ReleaseYear]]
+        /// [String: [String: String]]
         let layersetAvailabilities = try loadLayersetAvailabilities(at: url),
         /// [String: String]
         let legacyAlisases = try loadLegacyAliasesStrings(at: url),
@@ -55,6 +55,7 @@ func parse() throws {
     }
         
     var result: [String: [SFSymbol]] = [:]
+    var layersets: Set<String> = []
     
     for (name, releaseYear) in nameAvabilities {
         let availabilities: [String: String] = layersetAvailabilities[name] ?? [:]
@@ -66,6 +67,12 @@ func parse() throws {
             keywords = searchingKeywords[alias]
         }
         
+        let layers = layersetAvailabilities[name] ?? [:]
+        
+        if layers.count > 0 {
+            layersets.formUnion(layers.keys.map { $0 })
+        }
+        
         let sfsymbol = SFSymbol(
             name: name,
             availabilities: availabilities,
@@ -73,7 +80,8 @@ func parse() throws {
             category: symbolCategories[name],
             alias: alias,
             legacyAlias: legacyAlisases[name],
-            keywords: keywords ?? []
+            keywords: keywords ?? [],
+            layerset: layers
         )
         
         var symbols = result[sfsymbol.monochromeYearStr] ?? []
@@ -86,8 +94,8 @@ func parse() throws {
     let spmFolder = url.deletingLastPathComponent().deletingLastPathComponent().appending(path: "Sources/SFSymbols/SF")
     
     try export(spmSourceFolder: spmFolder, yearGroupedSymbols: result, releaseYears: yearToReleases)
-    try exportCategoryies(at: url, spmSourceFolder: spmFolder)
-    export(yearOfReleases: yearToReleases, spmSourceFolder: spmFolder)
+    try exportCategoryies(at: url, spmSourceFolder: spmFolder, layersets: layersets)
+    try export(yearOfReleases: yearToReleases, spmSourceFolder: spmFolder)
     
     print("Parse complete")
 }
@@ -122,11 +130,13 @@ struct SFSymbol {
     /// 用于搜索的关键词
     var keywords: [String]
     
+    var layerset: [String: String] = [:]
+    
     /// 当前图片最低支持的发版日期
     var monochromeYear: Double = 2019
     var monochromeYearStr: String = "2019"
     
-    init(name: String, availabilities: [String: String], monochromeYearStr: String, category: [String]? = nil, alias: String? = nil, legacyAlias: String? = nil, keywords: [String] = []) {
+    init(name: String, availabilities: [String: String], monochromeYearStr: String, category: [String]? = nil, alias: String? = nil, legacyAlias: String? = nil, keywords: [String] = [], layerset: [String: String]) {
         self.name = name
         self.availabilities = availabilities
         self.category = category ?? []
@@ -134,6 +144,7 @@ struct SFSymbol {
         self.legacyAlias = legacyAlias
         self.monochromeYearStr = monochromeYearStr
         self.keywords = keywords
+        self.layerset = layerset
         
         if let year = Double(monochromeYearStr) {
             self.monochromeYear = year
@@ -267,7 +278,7 @@ func write(text: String, to url: URL) {
     }
 }
 
-func exportCategoryies(at folder: URL, spmSourceFolder: URL) throws {
+func exportCategoryies(at folder: URL, spmSourceFolder: URL, layersets: Set<String>) throws {
     let data = try Data(contentsOf: folder.appendingPathComponent("categories.plist"))
     
     guard let categories = try PropertyListSerialization.propertyList(from: data, format: nil) as? [[String: String]] else {
@@ -286,13 +297,19 @@ func exportCategoryies(at folder: URL, spmSourceFolder: URL) throws {
         SP(2) + "case .\($0["key"]!): return \"\($0["label"]!)\""
     }.joined(separator: "\n")
     
+    let layerEnum = layersets.sorted(by: { $0 < $1 }).map { SP(2) + "case \($0)" }.joined(separator: "\n")
+    
     let categoriesString =
         """
         import Foundation
 
         @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
         public extension SFSymbol {
-            enum Category: String {
+            enum Layerset: String, CaseIterable {
+        \(layerEnum)
+            }
+        
+            enum Category: String, CaseIterable {
         \(enums)
             }
         }
@@ -309,13 +326,13 @@ func exportCategoryies(at folder: URL, spmSourceFolder: URL) throws {
     write(text: categoriesString, to: spmSourceFolder.appendingPathComponent("SFCategory.swift"))
 }
 
-func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: URL) {
-    let years = yearOfReleases.keys.sorted(by: { $0 < $1 })
-        .map{ SP(2) + "case \($0.releaseYear) = \"\($0)\"" }
+func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: URL) throws {
+    let years = try yearOfReleases.keys.sorted(by: { $0 < $1 })
+        .compactMap{ SP(2) + "case \($0.releaseYearAdjust()) = \(try $0.releaseYearVal())" }
         .joined(separator: "\n")
     
     let yearCases = yearOfReleases.keys.sorted(by: { $0 < $1 })
-        .map({ SP(3) + "case .\($0.releaseYear): return .\($0.releaseYear)" })
+        .map({ SP(3) + "case .\($0.releaseYearAdjust()): return .\($0.releaseYear)" })
         .joined(separator: "\n")
     
     let platforms = ApplePlatform.allCases
@@ -324,7 +341,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
     
     let creations = yearOfReleases.sorted(by: { $0.key < $1.key })
         .map({ (year, pm) in
-            SP(2) + "static let \(year.releaseYear) = Availables(iOS: \(pm[.iOS]!), tvOS: \(pm[.tvOS]!), macOS: \(pm[.macOS]!), watchOS: \(pm[.watchOS]!), visionOS: \(pm[.visionOS]!))"
+            SP(2) + "static let \(year.releaseYearAdjust()) = Availables(iOS: \(pm[.iOS]!), tvOS: \(pm[.tvOS]!), macOS: \(pm[.macOS]!), watchOS: \(pm[.watchOS]!), visionOS: \(pm[.visionOS]!))"
         }).joined(separator: "\n")
     
     let codes =
@@ -334,7 +351,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
 
         @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
         extension SFSymbol {
-            public enum ReleaseYear: String {
+            public enum ReleaseYear: Int {
         \(years)
             }
             
@@ -539,6 +556,15 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                     parts.append("keywords: \(sfsymbol.keywords)")
                 }
                 
+                if sfsymbol.layerset.count > 0 {
+                    var layersetYears: [String: String] = [:]
+                    for (layer, year) in sfsymbol.layerset.sorted(by: { $0.key < $1.key }) {
+                        layersetYears[".\(layer)"] = year.releaseYear
+                    }
+                    
+                    parts.append("layerset: [\(layersetYears.map { "\($0): .\($1)" }.joined(separator: ", "))]")
+                }
+                
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
@@ -666,5 +692,34 @@ extension String {
     
     var releaseYear: String {
         return "_" + replacing(".", with: "_")
+    }
+    
+    func releaseYearAdjust() -> String {
+        let target = "_" + replacing(".", with: "_")
+        if target.count == 5 {
+            return target + "  "
+        }
+        return target
+    }
+    
+    func releaseYearVal() throws -> Int {
+        let parts = components(separatedBy: ".")
+        guard parts.count >= 1 else {
+            throw ParseError("\(self) is not a number")
+        }
+                
+        guard let year = Int(parts[0]) else {
+            throw ParseError("\(parts[0]) is not a number of \(self)")
+        }
+        
+        if parts.count == 1 {
+            return year * 100
+        }
+        
+        if parts.count == 2, let month = Int(parts[1]) {
+            return year * 100 + month
+        }
+        
+        throw ParseError("\(self) is not a number, parts > 2")
     }
 }

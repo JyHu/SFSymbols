@@ -97,3 +97,4 @@ public extension SFSymbol.Category {
         }
     }
 }
+

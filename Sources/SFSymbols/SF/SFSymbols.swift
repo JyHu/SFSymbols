@@ -6,12 +6,15 @@ public struct SFSymbols {
     public let symbols: [SFSymbol]
     public let symbolsMap: [SFName: SFSymbol]
     public let categorieToSymbols: [SFSymbol.Category: [SFSymbol]]
+    public let releaseToSymbols: [SFSymbol.ReleaseYear: [SFSymbol]]
     
     private init() {
         self.symbols = SFSymbols.generateDatas().sorted { $0.rawValue < $1.rawValue }
         
         var tmpMap: [SFName: SFSymbol] = [:]
         var categoryMap: [SFSymbol.Category: [SFSymbol]] = [:]
+        var releaseMap: [SFSymbol.ReleaseYear: [SFSymbol]] = [:]
+        
         for symbol in symbols {
             tmpMap[symbol.name] = symbol
             
@@ -20,10 +23,15 @@ public struct SFSymbols {
                 categoryArr.append(symbol)
                 categoryMap[category] = categoryArr
             }
+            
+            var releaseArr = releaseMap[symbol.releaseYear] ?? []
+            releaseArr.append(symbol)
+            releaseMap[symbol.releaseYear] = releaseArr
         }
         
         self.symbolsMap = tmpMap
         self.categorieToSymbols = categoryMap
+        self.releaseToSymbols = releaseMap
     }
 }
 
@@ -47,5 +55,13 @@ public extension SFSymbols {
         }
         
         return categorieToSymbols[category] ?? []
+    }
+    
+    func symbols(of releaseYear: SFSymbol.ReleaseYear) -> [SFSymbol] {
+        return releaseToSymbols[releaseYear] ?? []
+    }
+    
+    func symbols(from releaseYear: SFSymbol.ReleaseYear) -> [SFSymbol] {
+        return symbols.filter { $0.releaseYear >= releaseYear  }
     }
 }

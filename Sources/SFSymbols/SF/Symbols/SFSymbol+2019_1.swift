@@ -13,7 +13,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowUturnLeftCircleBadgeEllipsis = SFSymbol(.arrowUturnLeftCircleBadgeEllipsis, releaseYear: ._2019_1, category: [ .arrows, .multicolor ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"])
+    static let arrowUturnLeftCircleBadgeEllipsis = SFSymbol(.arrowUturnLeftCircleBadgeEllipsis, releaseYear: ._2019_1, category: [ .arrows, .multicolor ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -34,7 +34,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let car = SFSymbol(.car, releaseYear: ._2019_1, category: [ .automotive, .devices, .maps, .multicolor, .transportation ])
+    static let car = SFSymbol(.car, releaseYear: ._2019_1, category: [ .automotive, .devices, .maps, .multicolor, .transportation ], layerset: [.multicolor: ._2022])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -78,7 +78,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let mappinCircle = SFSymbol(.mappinCircle, releaseYear: ._2019_1, category: [ .maps, .multicolor, .objectsandtools ])
+    static let mappinCircle = SFSymbol(.mappinCircle, releaseYear: ._2019_1, category: [ .maps, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -88,7 +88,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0
-    static let mappinCircleFill = SFSymbol(.mappinCircleFill, releaseYear: ._2019_1, category: [ .maps, .multicolor, .objectsandtools ])
+    static let mappinCircleFill = SFSymbol(.mappinCircleFill, releaseYear: ._2019_1, category: [ .maps, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -98,7 +98,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let paperclipCircle = SFSymbol(.paperclipCircle, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["attach", "attachments"])
+    static let paperclipCircle = SFSymbol(.paperclipCircle, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["attach", "attachments"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -108,7 +108,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let paperclipCircleFill = SFSymbol(.paperclipCircleFill, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["attach", "attachments"])
+    static let paperclipCircleFill = SFSymbol(.paperclipCircleFill, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["attach", "attachments"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -118,7 +118,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let pinCircle = SFSymbol(.pinCircle, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["pin"])
+    static let pinCircle = SFSymbol(.pinCircle, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["pin"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -128,7 +128,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0
-    static let pinCircleFill = SFSymbol(.pinCircleFill, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["pin"])
+    static let pinCircleFill = SFSymbol(.pinCircleFill, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["pin"], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -138,7 +138,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let scissorsBadgeEllipsis = SFSymbol(.scissorsBadgeEllipsis, releaseYear: ._2019_1, category: [ .editing, .multicolor, .objectsandtools ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"])
+    static let scissorsBadgeEllipsis = SFSymbol(.scissorsBadgeEllipsis, releaseYear: ._2019_1, category: [ .editing, .multicolor, .objectsandtools ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///

@@ -82,7 +82,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0
-    static let square3Layers3DDownLeftSlash = SFSymbol(.square3Layers3DDownLeftSlash, releaseYear: ._2021_2, category: [ .cameraandphotos ])
+    static let square3Layers3DDownLeftSlash = SFSymbol(.square3Layers3DDownLeftSlash, releaseYear: ._2021_2, category: [ .cameraandphotos ], layerset: [.hierarchical: ._2021_2])
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
@@ -91,7 +91,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0
-    static let square3Layers3DDownRightSlash = SFSymbol(.square3Layers3DDownRightSlash, releaseYear: ._2021_2, category: [ .cameraandphotos ])
+    static let square3Layers3DDownRightSlash = SFSymbol(.square3Layers3DDownRightSlash, releaseYear: ._2021_2, category: [ .cameraandphotos ], layerset: [.hierarchical: ._2021_2])
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
