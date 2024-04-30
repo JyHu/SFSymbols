@@ -13,7 +13,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let aqiHigh = SFSymbol(.aqiHigh, releaseYear: ._2020_1, category: [ .multicolor, .variablecolor, .weather ], keywords: ["!", "warning", "weather"], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let aqiHigh = SFSymbol(.aqiHigh, releaseYear: ._2020_1, category: [ .multicolor, .variablecolor, .weather ], keywords: ["!", "warning", "weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -23,7 +23,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let aqiLow = SFSymbol(.aqiLow, releaseYear: ._2020_1, category: [ .variablecolor, .weather ], keywords: ["weather"], layerset: [.multicolor: ._2022, .hierarchical: ._2022])
+    static let aqiLow = SFSymbol(.aqiLow, releaseYear: ._2020_1, category: [ .variablecolor, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -33,7 +33,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let aqiMedium = SFSymbol(.aqiMedium, releaseYear: ._2020_1, category: [ .variablecolor, .weather ], keywords: ["weather"], layerset: [.multicolor: ._2022, .hierarchical: ._2022])
+    static let aqiMedium = SFSymbol(.aqiMedium, releaseYear: ._2020_1, category: [ .variablecolor, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -52,7 +52,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let brazilianrealsignCircleFill = SFSymbol(.brazilianrealsignCircleFill, releaseYear: ._2020_1, category: [ .commerce, .indices, .multicolor ], keywords: ["currencies", "currency"], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let brazilianrealsignCircleFill = SFSymbol(.brazilianrealsignCircleFill, releaseYear: ._2020_1, category: [ .commerce, .indices, .multicolor ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -71,7 +71,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let brazilianrealsignSquareFill = SFSymbol(.brazilianrealsignSquareFill, releaseYear: ._2020_1, category: [ .commerce, .indices, .multicolor ], keywords: ["currencies", "currency"], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let brazilianrealsignSquareFill = SFSymbol(.brazilianrealsignSquareFill, releaseYear: ._2020_1, category: [ .commerce, .indices, .multicolor ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -90,7 +90,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let cartCircleFill = SFSymbol(.cartCircleFill, releaseYear: ._2020_1, category: [ .commerce, .multicolor, .objectsandtools ], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let cartCircleFill = SFSymbol(.cartCircleFill, releaseYear: ._2020_1, category: [ .commerce, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -307,7 +307,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let infinityCircleFill = SFSymbol(.infinityCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let infinityCircleFill = SFSymbol(.infinityCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -317,7 +317,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let ipadBadgePlay = SFSymbol(.ipadBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let ipadBadgePlay = SFSymbol(.ipadBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -339,7 +339,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let ipadLandscapeBadgePlay = SFSymbol(.ipadLandscapeBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let ipadLandscapeBadgePlay = SFSymbol(.ipadLandscapeBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -349,7 +349,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let iphoneBadgePlay = SFSymbol(.iphoneBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let iphoneBadgePlay = SFSymbol(.iphoneBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -413,7 +413,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let playTvFill = SFSymbol(.playTvFill, releaseYear: ._2020_1, category: [ .devices ], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let playTvFill = SFSymbol(.playTvFill, releaseYear: ._2020_1, category: [ .devices ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -423,7 +423,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let rectangleBadgePersonCrop = SFSymbol(.rectangleBadgePersonCrop, releaseYear: ._2020_1, category: [ .human, .multicolor ], keywords: ["people"], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let rectangleBadgePersonCrop = SFSymbol(.rectangleBadgePersonCrop, releaseYear: ._2020_1, category: [ .human, .multicolor ], keywords: ["people"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -433,7 +433,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let rectangleFillBadgePersonCrop = SFSymbol(.rectangleFillBadgePersonCrop, releaseYear: ._2020_1, category: [ .human, .multicolor ], keywords: ["people"], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let rectangleFillBadgePersonCrop = SFSymbol(.rectangleFillBadgePersonCrop, releaseYear: ._2020_1, category: [ .human, .multicolor ], keywords: ["people"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -458,7 +458,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeat1CircleFill = SFSymbol(.repeat1CircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let repeat1CircleFill = SFSymbol(.repeat1CircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -477,7 +477,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeatCircleFill = SFSymbol(.repeatCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let repeatCircleFill = SFSymbol(.repeatCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -502,7 +502,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let shuffleCircleFill = SFSymbol(.shuffleCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.multicolor: ._2021, .hierarchical: ._2021])
+    static let shuffleCircleFill = SFSymbol(.shuffleCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///

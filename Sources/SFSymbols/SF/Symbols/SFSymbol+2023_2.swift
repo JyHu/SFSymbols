@@ -13,7 +13,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _0CircleFillHi = SFSymbol(._0CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _0CircleFillHi = SFSymbol(._0CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -32,7 +32,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _0SquareFillHi = SFSymbol(._0SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _0SquareFillHi = SFSymbol(._0SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -60,7 +60,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _00CircleFillAr = SFSymbol(._00CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _00CircleFillAr = SFSymbol(._00CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -70,7 +70,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _00CircleFillHi = SFSymbol(._00CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _00CircleFillHi = SFSymbol(._00CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -98,7 +98,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _00SquareFillAr = SFSymbol(._00SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _00SquareFillAr = SFSymbol(._00SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -108,7 +108,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _00SquareFillHi = SFSymbol(._00SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _00SquareFillHi = SFSymbol(._00SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -136,7 +136,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _01CircleFillAr = SFSymbol(._01CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _01CircleFillAr = SFSymbol(._01CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -146,7 +146,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _01CircleFillHi = SFSymbol(._01CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _01CircleFillHi = SFSymbol(._01CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -174,7 +174,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _01SquareFillAr = SFSymbol(._01SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _01SquareFillAr = SFSymbol(._01SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -184,7 +184,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _01SquareFillHi = SFSymbol(._01SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _01SquareFillHi = SFSymbol(._01SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -212,7 +212,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _02CircleFillAr = SFSymbol(._02CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _02CircleFillAr = SFSymbol(._02CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -222,7 +222,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _02CircleFillHi = SFSymbol(._02CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _02CircleFillHi = SFSymbol(._02CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -250,7 +250,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _02SquareFillAr = SFSymbol(._02SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _02SquareFillAr = SFSymbol(._02SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -260,7 +260,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _02SquareFillHi = SFSymbol(._02SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _02SquareFillHi = SFSymbol(._02SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -288,7 +288,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _03CircleFillAr = SFSymbol(._03CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _03CircleFillAr = SFSymbol(._03CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -298,7 +298,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _03CircleFillHi = SFSymbol(._03CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _03CircleFillHi = SFSymbol(._03CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -326,7 +326,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _03SquareFillAr = SFSymbol(._03SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _03SquareFillAr = SFSymbol(._03SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -336,7 +336,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _03SquareFillHi = SFSymbol(._03SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _03SquareFillHi = SFSymbol(._03SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -364,7 +364,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _04CircleFillAr = SFSymbol(._04CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _04CircleFillAr = SFSymbol(._04CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -374,7 +374,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _04CircleFillHi = SFSymbol(._04CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _04CircleFillHi = SFSymbol(._04CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -402,7 +402,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _04SquareFillAr = SFSymbol(._04SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _04SquareFillAr = SFSymbol(._04SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -412,7 +412,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _04SquareFillHi = SFSymbol(._04SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _04SquareFillHi = SFSymbol(._04SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -440,7 +440,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _05CircleFillAr = SFSymbol(._05CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _05CircleFillAr = SFSymbol(._05CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -450,7 +450,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _05CircleFillHi = SFSymbol(._05CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _05CircleFillHi = SFSymbol(._05CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -478,7 +478,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _05SquareFillAr = SFSymbol(._05SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _05SquareFillAr = SFSymbol(._05SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -488,7 +488,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _05SquareFillHi = SFSymbol(._05SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _05SquareFillHi = SFSymbol(._05SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -516,7 +516,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _06CircleFillAr = SFSymbol(._06CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _06CircleFillAr = SFSymbol(._06CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -526,7 +526,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _06CircleFillHi = SFSymbol(._06CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _06CircleFillHi = SFSymbol(._06CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -554,7 +554,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _06SquareFillAr = SFSymbol(._06SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _06SquareFillAr = SFSymbol(._06SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -564,7 +564,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _06SquareFillHi = SFSymbol(._06SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _06SquareFillHi = SFSymbol(._06SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -592,7 +592,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _07CircleFillAr = SFSymbol(._07CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _07CircleFillAr = SFSymbol(._07CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -602,7 +602,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _07CircleFillHi = SFSymbol(._07CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _07CircleFillHi = SFSymbol(._07CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -630,7 +630,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _07SquareFillAr = SFSymbol(._07SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _07SquareFillAr = SFSymbol(._07SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -640,7 +640,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _07SquareFillHi = SFSymbol(._07SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _07SquareFillHi = SFSymbol(._07SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -668,7 +668,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _08CircleFillAr = SFSymbol(._08CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _08CircleFillAr = SFSymbol(._08CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -678,7 +678,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _08CircleFillHi = SFSymbol(._08CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _08CircleFillHi = SFSymbol(._08CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -706,7 +706,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _08SquareFillAr = SFSymbol(._08SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _08SquareFillAr = SFSymbol(._08SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -716,7 +716,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _08SquareFillHi = SFSymbol(._08SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _08SquareFillHi = SFSymbol(._08SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -744,7 +744,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _09CircleFillAr = SFSymbol(._09CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _09CircleFillAr = SFSymbol(._09CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -754,7 +754,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _09CircleFillHi = SFSymbol(._09CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _09CircleFillHi = SFSymbol(._09CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -782,7 +782,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _09SquareFillAr = SFSymbol(._09SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _09SquareFillAr = SFSymbol(._09SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -792,7 +792,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _09SquareFillHi = SFSymbol(._09SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _09SquareFillHi = SFSymbol(._09SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -811,7 +811,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _1CircleFillHi = SFSymbol(._1CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _1CircleFillHi = SFSymbol(._1CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -830,7 +830,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _1SquareFillHi = SFSymbol(._1SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _1SquareFillHi = SFSymbol(._1SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -858,7 +858,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _10CircleFillAr = SFSymbol(._10CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _10CircleFillAr = SFSymbol(._10CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -868,7 +868,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _10CircleFillHi = SFSymbol(._10CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _10CircleFillHi = SFSymbol(._10CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -896,7 +896,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _10SquareFillAr = SFSymbol(._10SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _10SquareFillAr = SFSymbol(._10SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -906,7 +906,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _10SquareFillHi = SFSymbol(._10SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _10SquareFillHi = SFSymbol(._10SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -934,7 +934,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _11CircleFillAr = SFSymbol(._11CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _11CircleFillAr = SFSymbol(._11CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -944,7 +944,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _11CircleFillHi = SFSymbol(._11CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _11CircleFillHi = SFSymbol(._11CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -972,7 +972,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _11SquareFillAr = SFSymbol(._11SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _11SquareFillAr = SFSymbol(._11SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -982,7 +982,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _11SquareFillHi = SFSymbol(._11SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _11SquareFillHi = SFSymbol(._11SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1010,7 +1010,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _12CircleFillAr = SFSymbol(._12CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _12CircleFillAr = SFSymbol(._12CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1020,7 +1020,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _12CircleFillHi = SFSymbol(._12CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _12CircleFillHi = SFSymbol(._12CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1048,7 +1048,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _12SquareFillAr = SFSymbol(._12SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _12SquareFillAr = SFSymbol(._12SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1058,7 +1058,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _12SquareFillHi = SFSymbol(._12SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _12SquareFillHi = SFSymbol(._12SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1086,7 +1086,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _13CircleFillAr = SFSymbol(._13CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _13CircleFillAr = SFSymbol(._13CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1096,7 +1096,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _13CircleFillHi = SFSymbol(._13CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _13CircleFillHi = SFSymbol(._13CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1124,7 +1124,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _13SquareFillAr = SFSymbol(._13SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _13SquareFillAr = SFSymbol(._13SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1134,7 +1134,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _13SquareFillHi = SFSymbol(._13SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _13SquareFillHi = SFSymbol(._13SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1162,7 +1162,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _14CircleFillAr = SFSymbol(._14CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _14CircleFillAr = SFSymbol(._14CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1172,7 +1172,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _14CircleFillHi = SFSymbol(._14CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _14CircleFillHi = SFSymbol(._14CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1200,7 +1200,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _14SquareFillAr = SFSymbol(._14SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _14SquareFillAr = SFSymbol(._14SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1210,7 +1210,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _14SquareFillHi = SFSymbol(._14SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _14SquareFillHi = SFSymbol(._14SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1238,7 +1238,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _15CircleFillAr = SFSymbol(._15CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _15CircleFillAr = SFSymbol(._15CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1248,7 +1248,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _15CircleFillHi = SFSymbol(._15CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _15CircleFillHi = SFSymbol(._15CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1276,7 +1276,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _15SquareFillAr = SFSymbol(._15SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _15SquareFillAr = SFSymbol(._15SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1286,7 +1286,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _15SquareFillHi = SFSymbol(._15SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _15SquareFillHi = SFSymbol(._15SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1314,7 +1314,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _16CircleFillAr = SFSymbol(._16CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _16CircleFillAr = SFSymbol(._16CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1324,7 +1324,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _16CircleFillHi = SFSymbol(._16CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _16CircleFillHi = SFSymbol(._16CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1352,7 +1352,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _16SquareFillAr = SFSymbol(._16SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _16SquareFillAr = SFSymbol(._16SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1362,7 +1362,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _16SquareFillHi = SFSymbol(._16SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _16SquareFillHi = SFSymbol(._16SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1390,7 +1390,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _17CircleFillAr = SFSymbol(._17CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _17CircleFillAr = SFSymbol(._17CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1400,7 +1400,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _17CircleFillHi = SFSymbol(._17CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _17CircleFillHi = SFSymbol(._17CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1428,7 +1428,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _17SquareFillAr = SFSymbol(._17SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _17SquareFillAr = SFSymbol(._17SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1438,7 +1438,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _17SquareFillHi = SFSymbol(._17SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _17SquareFillHi = SFSymbol(._17SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1466,7 +1466,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _18CircleFillAr = SFSymbol(._18CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _18CircleFillAr = SFSymbol(._18CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1476,7 +1476,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _18CircleFillHi = SFSymbol(._18CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _18CircleFillHi = SFSymbol(._18CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1504,7 +1504,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _18SquareFillAr = SFSymbol(._18SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _18SquareFillAr = SFSymbol(._18SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1514,7 +1514,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _18SquareFillHi = SFSymbol(._18SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _18SquareFillHi = SFSymbol(._18SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1542,7 +1542,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _19CircleFillAr = SFSymbol(._19CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _19CircleFillAr = SFSymbol(._19CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1552,7 +1552,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _19CircleFillHi = SFSymbol(._19CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _19CircleFillHi = SFSymbol(._19CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1580,7 +1580,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _19SquareFillAr = SFSymbol(._19SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _19SquareFillAr = SFSymbol(._19SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1590,7 +1590,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _19SquareFillHi = SFSymbol(._19SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _19SquareFillHi = SFSymbol(._19SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1609,7 +1609,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _2CircleFillHi = SFSymbol(._2CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _2CircleFillHi = SFSymbol(._2CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1628,7 +1628,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _2SquareFillHi = SFSymbol(._2SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _2SquareFillHi = SFSymbol(._2SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1656,7 +1656,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _20CircleFillAr = SFSymbol(._20CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _20CircleFillAr = SFSymbol(._20CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1666,7 +1666,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _20CircleFillHi = SFSymbol(._20CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _20CircleFillHi = SFSymbol(._20CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1694,7 +1694,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _20SquareFillAr = SFSymbol(._20SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _20SquareFillAr = SFSymbol(._20SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1704,7 +1704,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _20SquareFillHi = SFSymbol(._20SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _20SquareFillHi = SFSymbol(._20SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1732,7 +1732,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _21CircleFillAr = SFSymbol(._21CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _21CircleFillAr = SFSymbol(._21CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1742,7 +1742,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _21CircleFillHi = SFSymbol(._21CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _21CircleFillHi = SFSymbol(._21CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1770,7 +1770,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _21SquareFillAr = SFSymbol(._21SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _21SquareFillAr = SFSymbol(._21SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1780,7 +1780,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _21SquareFillHi = SFSymbol(._21SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _21SquareFillHi = SFSymbol(._21SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1808,7 +1808,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _22CircleFillAr = SFSymbol(._22CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _22CircleFillAr = SFSymbol(._22CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1818,7 +1818,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _22CircleFillHi = SFSymbol(._22CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _22CircleFillHi = SFSymbol(._22CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1846,7 +1846,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _22SquareFillAr = SFSymbol(._22SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _22SquareFillAr = SFSymbol(._22SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1856,7 +1856,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _22SquareFillHi = SFSymbol(._22SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _22SquareFillHi = SFSymbol(._22SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1884,7 +1884,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _23CircleFillAr = SFSymbol(._23CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _23CircleFillAr = SFSymbol(._23CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1894,7 +1894,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _23CircleFillHi = SFSymbol(._23CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _23CircleFillHi = SFSymbol(._23CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1922,7 +1922,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _23SquareFillAr = SFSymbol(._23SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _23SquareFillAr = SFSymbol(._23SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1932,7 +1932,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _23SquareFillHi = SFSymbol(._23SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _23SquareFillHi = SFSymbol(._23SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1960,7 +1960,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _24CircleFillAr = SFSymbol(._24CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _24CircleFillAr = SFSymbol(._24CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1970,7 +1970,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _24CircleFillHi = SFSymbol(._24CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _24CircleFillHi = SFSymbol(._24CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1998,7 +1998,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _24SquareFillAr = SFSymbol(._24SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _24SquareFillAr = SFSymbol(._24SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2008,7 +2008,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _24SquareFillHi = SFSymbol(._24SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _24SquareFillHi = SFSymbol(._24SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2036,7 +2036,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _25CircleFillAr = SFSymbol(._25CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _25CircleFillAr = SFSymbol(._25CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2046,7 +2046,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _25CircleFillHi = SFSymbol(._25CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _25CircleFillHi = SFSymbol(._25CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2074,7 +2074,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _25SquareFillAr = SFSymbol(._25SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _25SquareFillAr = SFSymbol(._25SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2084,7 +2084,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _25SquareFillHi = SFSymbol(._25SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _25SquareFillHi = SFSymbol(._25SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2112,7 +2112,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _26CircleFillAr = SFSymbol(._26CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _26CircleFillAr = SFSymbol(._26CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2122,7 +2122,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _26CircleFillHi = SFSymbol(._26CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _26CircleFillHi = SFSymbol(._26CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2150,7 +2150,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _26SquareFillAr = SFSymbol(._26SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _26SquareFillAr = SFSymbol(._26SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2160,7 +2160,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _26SquareFillHi = SFSymbol(._26SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _26SquareFillHi = SFSymbol(._26SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2188,7 +2188,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _27CircleFillAr = SFSymbol(._27CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _27CircleFillAr = SFSymbol(._27CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2198,7 +2198,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _27CircleFillHi = SFSymbol(._27CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _27CircleFillHi = SFSymbol(._27CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2226,7 +2226,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _27SquareFillAr = SFSymbol(._27SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _27SquareFillAr = SFSymbol(._27SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2236,7 +2236,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _27SquareFillHi = SFSymbol(._27SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _27SquareFillHi = SFSymbol(._27SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2264,7 +2264,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _28CircleFillAr = SFSymbol(._28CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _28CircleFillAr = SFSymbol(._28CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2274,7 +2274,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _28CircleFillHi = SFSymbol(._28CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _28CircleFillHi = SFSymbol(._28CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2302,7 +2302,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _28SquareFillAr = SFSymbol(._28SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _28SquareFillAr = SFSymbol(._28SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2312,7 +2312,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _28SquareFillHi = SFSymbol(._28SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _28SquareFillHi = SFSymbol(._28SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2340,7 +2340,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _29CircleFillAr = SFSymbol(._29CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _29CircleFillAr = SFSymbol(._29CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2350,7 +2350,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _29CircleFillHi = SFSymbol(._29CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _29CircleFillHi = SFSymbol(._29CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2378,7 +2378,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _29SquareFillAr = SFSymbol(._29SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _29SquareFillAr = SFSymbol(._29SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2388,7 +2388,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _29SquareFillHi = SFSymbol(._29SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _29SquareFillHi = SFSymbol(._29SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2407,7 +2407,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _3CircleFillHi = SFSymbol(._3CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _3CircleFillHi = SFSymbol(._3CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2426,7 +2426,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _3SquareFillHi = SFSymbol(._3SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _3SquareFillHi = SFSymbol(._3SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2454,7 +2454,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _30CircleFillAr = SFSymbol(._30CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _30CircleFillAr = SFSymbol(._30CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2464,7 +2464,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _30CircleFillHi = SFSymbol(._30CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _30CircleFillHi = SFSymbol(._30CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2492,7 +2492,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _30SquareFillAr = SFSymbol(._30SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _30SquareFillAr = SFSymbol(._30SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2502,7 +2502,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _30SquareFillHi = SFSymbol(._30SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _30SquareFillHi = SFSymbol(._30SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2530,7 +2530,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _31CircleFillAr = SFSymbol(._31CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _31CircleFillAr = SFSymbol(._31CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2540,7 +2540,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _31CircleFillHi = SFSymbol(._31CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _31CircleFillHi = SFSymbol(._31CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2568,7 +2568,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _31SquareFillAr = SFSymbol(._31SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _31SquareFillAr = SFSymbol(._31SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2578,7 +2578,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _31SquareFillHi = SFSymbol(._31SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _31SquareFillHi = SFSymbol(._31SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2606,7 +2606,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _32CircleFillAr = SFSymbol(._32CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _32CircleFillAr = SFSymbol(._32CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2616,7 +2616,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _32CircleFillHi = SFSymbol(._32CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _32CircleFillHi = SFSymbol(._32CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2644,7 +2644,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _32SquareFillAr = SFSymbol(._32SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _32SquareFillAr = SFSymbol(._32SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2654,7 +2654,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _32SquareFillHi = SFSymbol(._32SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _32SquareFillHi = SFSymbol(._32SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2682,7 +2682,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _33CircleFillAr = SFSymbol(._33CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _33CircleFillAr = SFSymbol(._33CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2692,7 +2692,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _33CircleFillHi = SFSymbol(._33CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _33CircleFillHi = SFSymbol(._33CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2720,7 +2720,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _33SquareFillAr = SFSymbol(._33SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _33SquareFillAr = SFSymbol(._33SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2730,7 +2730,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _33SquareFillHi = SFSymbol(._33SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _33SquareFillHi = SFSymbol(._33SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2758,7 +2758,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _34CircleFillAr = SFSymbol(._34CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _34CircleFillAr = SFSymbol(._34CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2768,7 +2768,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _34CircleFillHi = SFSymbol(._34CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _34CircleFillHi = SFSymbol(._34CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2796,7 +2796,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _34SquareFillAr = SFSymbol(._34SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _34SquareFillAr = SFSymbol(._34SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2806,7 +2806,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _34SquareFillHi = SFSymbol(._34SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _34SquareFillHi = SFSymbol(._34SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2834,7 +2834,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _35CircleFillAr = SFSymbol(._35CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _35CircleFillAr = SFSymbol(._35CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2844,7 +2844,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _35CircleFillHi = SFSymbol(._35CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _35CircleFillHi = SFSymbol(._35CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2872,7 +2872,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _35SquareFillAr = SFSymbol(._35SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _35SquareFillAr = SFSymbol(._35SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2882,7 +2882,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _35SquareFillHi = SFSymbol(._35SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _35SquareFillHi = SFSymbol(._35SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2910,7 +2910,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _36CircleFillAr = SFSymbol(._36CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _36CircleFillAr = SFSymbol(._36CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2920,7 +2920,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _36CircleFillHi = SFSymbol(._36CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _36CircleFillHi = SFSymbol(._36CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2948,7 +2948,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _36SquareFillAr = SFSymbol(._36SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _36SquareFillAr = SFSymbol(._36SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2958,7 +2958,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _36SquareFillHi = SFSymbol(._36SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _36SquareFillHi = SFSymbol(._36SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2986,7 +2986,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _37CircleFillAr = SFSymbol(._37CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _37CircleFillAr = SFSymbol(._37CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2996,7 +2996,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _37CircleFillHi = SFSymbol(._37CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _37CircleFillHi = SFSymbol(._37CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3024,7 +3024,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _37SquareFillAr = SFSymbol(._37SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _37SquareFillAr = SFSymbol(._37SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3034,7 +3034,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _37SquareFillHi = SFSymbol(._37SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _37SquareFillHi = SFSymbol(._37SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3062,7 +3062,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _38CircleFillAr = SFSymbol(._38CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _38CircleFillAr = SFSymbol(._38CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3072,7 +3072,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _38CircleFillHi = SFSymbol(._38CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _38CircleFillHi = SFSymbol(._38CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3100,7 +3100,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _38SquareFillAr = SFSymbol(._38SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _38SquareFillAr = SFSymbol(._38SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3110,7 +3110,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _38SquareFillHi = SFSymbol(._38SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _38SquareFillHi = SFSymbol(._38SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3138,7 +3138,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _39CircleFillAr = SFSymbol(._39CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _39CircleFillAr = SFSymbol(._39CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3148,7 +3148,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _39CircleFillHi = SFSymbol(._39CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _39CircleFillHi = SFSymbol(._39CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3176,7 +3176,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _39SquareFillAr = SFSymbol(._39SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _39SquareFillAr = SFSymbol(._39SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3186,7 +3186,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _39SquareFillHi = SFSymbol(._39SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _39SquareFillHi = SFSymbol(._39SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3205,7 +3205,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _4CircleFillHi = SFSymbol(._4CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _4CircleFillHi = SFSymbol(._4CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3224,7 +3224,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _4SquareFillHi = SFSymbol(._4SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _4SquareFillHi = SFSymbol(._4SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3252,7 +3252,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _40CircleFillAr = SFSymbol(._40CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _40CircleFillAr = SFSymbol(._40CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3262,7 +3262,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _40CircleFillHi = SFSymbol(._40CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _40CircleFillHi = SFSymbol(._40CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3290,7 +3290,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _40SquareFillAr = SFSymbol(._40SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _40SquareFillAr = SFSymbol(._40SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3300,7 +3300,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _40SquareFillHi = SFSymbol(._40SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _40SquareFillHi = SFSymbol(._40SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3328,7 +3328,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _41CircleFillAr = SFSymbol(._41CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _41CircleFillAr = SFSymbol(._41CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3338,7 +3338,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _41CircleFillHi = SFSymbol(._41CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _41CircleFillHi = SFSymbol(._41CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3366,7 +3366,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _41SquareFillAr = SFSymbol(._41SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _41SquareFillAr = SFSymbol(._41SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3376,7 +3376,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _41SquareFillHi = SFSymbol(._41SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _41SquareFillHi = SFSymbol(._41SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3404,7 +3404,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _42CircleFillAr = SFSymbol(._42CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _42CircleFillAr = SFSymbol(._42CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3414,7 +3414,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _42CircleFillHi = SFSymbol(._42CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _42CircleFillHi = SFSymbol(._42CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3442,7 +3442,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _42SquareFillAr = SFSymbol(._42SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _42SquareFillAr = SFSymbol(._42SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3452,7 +3452,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _42SquareFillHi = SFSymbol(._42SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _42SquareFillHi = SFSymbol(._42SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3480,7 +3480,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _43CircleFillAr = SFSymbol(._43CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _43CircleFillAr = SFSymbol(._43CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3490,7 +3490,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _43CircleFillHi = SFSymbol(._43CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _43CircleFillHi = SFSymbol(._43CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3518,7 +3518,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _43SquareFillAr = SFSymbol(._43SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _43SquareFillAr = SFSymbol(._43SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3528,7 +3528,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _43SquareFillHi = SFSymbol(._43SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _43SquareFillHi = SFSymbol(._43SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3556,7 +3556,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _44CircleFillAr = SFSymbol(._44CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _44CircleFillAr = SFSymbol(._44CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3566,7 +3566,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _44CircleFillHi = SFSymbol(._44CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _44CircleFillHi = SFSymbol(._44CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3594,7 +3594,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _44SquareFillAr = SFSymbol(._44SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _44SquareFillAr = SFSymbol(._44SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3604,7 +3604,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _44SquareFillHi = SFSymbol(._44SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _44SquareFillHi = SFSymbol(._44SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3632,7 +3632,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _45CircleFillAr = SFSymbol(._45CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _45CircleFillAr = SFSymbol(._45CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3642,7 +3642,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _45CircleFillHi = SFSymbol(._45CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _45CircleFillHi = SFSymbol(._45CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3670,7 +3670,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _45SquareFillAr = SFSymbol(._45SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _45SquareFillAr = SFSymbol(._45SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3680,7 +3680,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _45SquareFillHi = SFSymbol(._45SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _45SquareFillHi = SFSymbol(._45SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3708,7 +3708,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _46CircleFillAr = SFSymbol(._46CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _46CircleFillAr = SFSymbol(._46CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3718,7 +3718,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _46CircleFillHi = SFSymbol(._46CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _46CircleFillHi = SFSymbol(._46CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3746,7 +3746,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _46SquareFillAr = SFSymbol(._46SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _46SquareFillAr = SFSymbol(._46SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3756,7 +3756,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _46SquareFillHi = SFSymbol(._46SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _46SquareFillHi = SFSymbol(._46SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3784,7 +3784,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _47CircleFillAr = SFSymbol(._47CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _47CircleFillAr = SFSymbol(._47CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3794,7 +3794,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _47CircleFillHi = SFSymbol(._47CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _47CircleFillHi = SFSymbol(._47CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3822,7 +3822,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _47SquareFillAr = SFSymbol(._47SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _47SquareFillAr = SFSymbol(._47SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3832,7 +3832,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _47SquareFillHi = SFSymbol(._47SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _47SquareFillHi = SFSymbol(._47SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3860,7 +3860,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _48CircleFillAr = SFSymbol(._48CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _48CircleFillAr = SFSymbol(._48CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3870,7 +3870,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _48CircleFillHi = SFSymbol(._48CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _48CircleFillHi = SFSymbol(._48CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3898,7 +3898,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _48SquareFillAr = SFSymbol(._48SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _48SquareFillAr = SFSymbol(._48SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3908,7 +3908,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _48SquareFillHi = SFSymbol(._48SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _48SquareFillHi = SFSymbol(._48SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3936,7 +3936,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _49CircleFillAr = SFSymbol(._49CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _49CircleFillAr = SFSymbol(._49CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3946,7 +3946,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _49CircleFillHi = SFSymbol(._49CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _49CircleFillHi = SFSymbol(._49CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3974,7 +3974,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _49SquareFillAr = SFSymbol(._49SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _49SquareFillAr = SFSymbol(._49SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3984,7 +3984,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _49SquareFillHi = SFSymbol(._49SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _49SquareFillHi = SFSymbol(._49SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4003,7 +4003,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _5CircleFillHi = SFSymbol(._5CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _5CircleFillHi = SFSymbol(._5CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4022,7 +4022,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _5SquareFillHi = SFSymbol(._5SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _5SquareFillHi = SFSymbol(._5SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4050,7 +4050,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _50CircleFillAr = SFSymbol(._50CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _50CircleFillAr = SFSymbol(._50CircleFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4060,7 +4060,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _50CircleFillHi = SFSymbol(._50CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _50CircleFillHi = SFSymbol(._50CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4088,7 +4088,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _50SquareFillAr = SFSymbol(._50SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _50SquareFillAr = SFSymbol(._50SquareFillAr, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4098,7 +4098,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _50SquareFillHi = SFSymbol(._50SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _50SquareFillHi = SFSymbol(._50SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4117,7 +4117,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _6CircleFillHi = SFSymbol(._6CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _6CircleFillHi = SFSymbol(._6CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4136,7 +4136,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _6SquareFillHi = SFSymbol(._6SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _6SquareFillHi = SFSymbol(._6SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4155,7 +4155,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _7CircleFillHi = SFSymbol(._7CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _7CircleFillHi = SFSymbol(._7CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4174,7 +4174,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _7SquareFillHi = SFSymbol(._7SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _7SquareFillHi = SFSymbol(._7SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4193,7 +4193,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _8CircleFillHi = SFSymbol(._8CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _8CircleFillHi = SFSymbol(._8CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4212,7 +4212,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _8SquareFillHi = SFSymbol(._8SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _8SquareFillHi = SFSymbol(._8SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4231,7 +4231,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _9CircleFillHi = SFSymbol(._9CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _9CircleFillHi = SFSymbol(._9CircleFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4250,7 +4250,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _9SquareFillHi = SFSymbol(._9SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let _9SquareFillHi = SFSymbol(._9SquareFillHi, releaseYear: ._2023_2, category: [ .indices, .multicolor, .whatsnew ], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4269,7 +4269,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let squareAndArrowUpBadgeClock = SFSymbol(.squareAndArrowUpBadgeClock, releaseYear: ._2023_2, category: [ .multicolor, .whatsnew ], keywords: ["export", "share", "sharrow", "upload"], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let squareAndArrowUpBadgeClock = SFSymbol(.squareAndArrowUpBadgeClock, releaseYear: ._2023_2, category: [ .multicolor, .whatsnew ], keywords: ["export", "share", "sharrow", "upload"], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4279,5 +4279,5 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
     /// - multicolor: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let squareAndArrowUpBadgeClockFill = SFSymbol(.squareAndArrowUpBadgeClockFill, releaseYear: ._2023_2, category: [ .multicolor, .whatsnew ], keywords: ["export", "share", "sharrow", "upload"], layerset: [.multicolor: ._2023_2, .hierarchical: ._2023_2])
+    static let squareAndArrowUpBadgeClockFill = SFSymbol(.squareAndArrowUpBadgeClockFill, releaseYear: ._2023_2, category: [ .multicolor, .whatsnew ], keywords: ["export", "share", "sharrow", "upload"], layerset: [.hierarchical: ._2023_2, .multicolor: ._2023_2])
 }

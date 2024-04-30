@@ -558,11 +558,15 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 
                 if sfsymbol.layerset.count > 0 {
                     var layersetYears: [String: String] = [:]
-                    for (layer, year) in sfsymbol.layerset.sorted(by: { $0.key < $1.key }) {
+                    for (layer, year) in sfsymbol.layerset {
                         layersetYears[".\(layer)"] = year.releaseYear
                     }
                     
-                    parts.append("layerset: [\(layersetYears.map { "\($0): .\($1)" }.joined(separator: ", "))]")
+                    let layersetString = layersetYears
+                        .sorted { $0.key < $1.key }
+                        .map { "\($0): .\($1)" }
+                        .joined(separator: ", ")
+                    parts.append("layerset: [\(layersetString)]")
                 }
                 
                 return

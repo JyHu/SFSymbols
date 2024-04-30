@@ -52,7 +52,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let characterBubbleFill = SFSymbol(.characterBubbleFill, releaseYear: ._2020_2, category: [ .communication ], keywords: ["a"], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let characterBubbleFill = SFSymbol(.characterBubbleFill, releaseYear: ._2020_2, category: [ .communication ], keywords: ["a"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -63,7 +63,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let characterBubbleFillAr = SFSymbol(.characterBubbleFillAr, releaseYear: ._2020_2, category: [ .communication ], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let characterBubbleFillAr = SFSymbol(.characterBubbleFillAr, releaseYear: ._2020_2, category: [ .communication ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -74,7 +74,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let characterBubbleFillHe = SFSymbol(.characterBubbleFillHe, releaseYear: ._2020_2, category: [ .communication ], layerset: [.multicolor: ._2022, .hierarchical: ._2021])
+    static let characterBubbleFillHe = SFSymbol(.characterBubbleFillHe, releaseYear: ._2020_2, category: [ .communication ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
