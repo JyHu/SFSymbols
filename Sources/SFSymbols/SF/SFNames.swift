@@ -1,7 +1,7 @@
 
 import Foundation
 
-public enum SFName: String, Identifiable {
+public enum SFName: String, CaseIterable, Identifiable {
 
     public var id: String {
         self.rawValue

@@ -5,6 +5,7 @@ public struct SFSymbols {
     
     public let symbols: [SFSymbol]
     public let symbolsMap: [SFName: SFSymbol]
+    public let activeCategories: [SFSymbol.Category]
     public let categorieToSymbols: [SFSymbol.Category: [SFSymbol]]
     public let releaseToSymbols: [SFSymbol.ReleaseYear: [SFSymbol]]
     
@@ -32,6 +33,11 @@ public struct SFSymbols {
         self.symbolsMap = tmpMap
         self.categorieToSymbols = categoryMap
         self.releaseToSymbols = releaseMap
+        
+        self.activeCategories = SFSymbol.Category.allCases.filter {
+            if $0 == .all { return true }
+            return (categoryMap[$0] ?? []).count > 0
+        }
     }
 }
 

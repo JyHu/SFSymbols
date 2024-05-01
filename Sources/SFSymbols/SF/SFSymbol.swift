@@ -236,3 +236,9 @@ extension SFSymbol: Equatable {
         return lhs.name == rhs.name
     }
 }
+
+extension SFSymbol: Identifiable {
+    public var id: String {
+        return rawValue
+    }
+}
