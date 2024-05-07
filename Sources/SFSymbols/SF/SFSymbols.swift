@@ -52,7 +52,8 @@ public extension SFSymbols {
     }
     
     func search(_ keyword: String, category: SFSymbol.Category? = nil) -> [SFSymbol] {
-        return symbols(of: category ?? .all).filter { $0.isMatch(keyword) }
+        let trimmedKeyWord = keyword.trimmingCharacters(in: .whitespacesAndNewlines)
+        return symbols(of: category ?? .all).filter { $0.isMatch(trimmedKeyWord) }
     }
     
     func symbols(of category: SFSymbol.Category) -> [SFSymbol] {

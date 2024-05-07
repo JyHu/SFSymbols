@@ -14,6 +14,10 @@ public extension Image {
     init(sfname: SFName) {
         self.init(systemName: sfname.rawValue)
     }
+    
+    init(sfsymbol: SFSymbol) {
+        self.init(systemName: sfsymbol.rawValue)
+    }
 }
 
 #endif

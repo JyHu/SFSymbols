@@ -45,6 +45,8 @@ public struct SFSymbol {
     public private(set) var configuration: NSImage.SymbolConfiguration?
 #endif
     
+    private let searchedString: String
+    
     /// Create a SF Symbol model.
     /// - Parameters:
     ///   - name: The name of SF Symbol
@@ -57,16 +59,7 @@ public struct SFSymbol {
         self.releaseYear = releaseYear
         self.keywords = keywords
         self.layerset = layerset
-    }
-    
-    public init?(_ rawValue: String, releaseYear: ReleaseYear = ._2019, availables: Availables? = nil, category: Set<Category> = [], keywords: [String] = [], layerset: [Layerset: ReleaseYear]) {
-        guard let name = SFName(rawValue: rawValue) else { return nil }
-        self.rawValue = rawValue
-        self.name = name
-        self.category = category
-        self.releaseYear = releaseYear
-        self.keywords = keywords
-        self.layerset = layerset
+        self.searchedString = rawValue + "\n" + keywords.joined(separator: "\n")
     }
 }
 
@@ -227,7 +220,7 @@ private extension SFSymbol {
 
 public extension SFSymbol {
     func isMatch(_ keyword: String) -> Bool {
-        return rawValue.contains(keyword) || keywords.contains(where: { $0.contains(keyword) } )
+        return searchedString.range(of: keyword, options: .caseInsensitive) != nil
     }
 }
 

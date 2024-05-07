@@ -341,7 +341,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
     
     let creations = yearOfReleases.sorted(by: { $0.key < $1.key })
         .map({ (year, pm) in
-            SP(2) + "static let \(year.releaseYearAdjust()) = Availables(iOS: \(pm[.iOS]!), tvOS: \(pm[.tvOS]!), macOS: \(pm[.macOS]!), watchOS: \(pm[.watchOS]!), visionOS: \(pm[.visionOS]!))"
+            SP(2) + "public static let \(year.releaseYearAdjust()) = Availables(iOS: \(pm[.iOS]!), tvOS: \(pm[.tvOS]!), macOS: \(pm[.macOS]!), watchOS: \(pm[.watchOS]!), visionOS: \(pm[.visionOS]!))"
         }).joined(separator: "\n")
     
     let codes =
@@ -350,17 +350,20 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
         import Foundation
 
         @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
-        extension SFSymbol {
-            public enum ReleaseYear: Int {
+        public extension SFSymbol {
+            enum ReleaseYear: Int, CaseIterable, Identifiable {
         \(years)
+        
+                public var id: Int {
+                    rawValue
+                }
             }
             
             /// Each suported sysmtem version number of the SF Symbol.
-            public struct Availables {
-        
+            struct Availables {
         \(platforms)
         
-                init(iOS: Double, tvOS: Double, macOS: Double, watchOS: Double, visionOS: Double) {
+                internal init(iOS: Double, tvOS: Double, macOS: Double, watchOS: Double, visionOS: Double) {
                     self.iOS = iOS
                     self.tvOS = tvOS
                     self.macOS = macOS
