@@ -98,8 +98,8 @@ public extension SFSymbol.Category {
     }
 }
 
-public extension SFSymbol.Category {
-    var id: String {
+extension SFSymbol.Category: Identifiable {
+    public var id: String {
         return rawValue
     }
 }
