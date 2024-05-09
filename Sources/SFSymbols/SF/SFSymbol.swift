@@ -67,7 +67,11 @@ public struct SFSymbol {
         self.layerset = layerset
         self.recommendedRawValue = recommendedRawValue
         self.legacyRawValue = legacyRawValue
-        self.searchedString = rawValue + "\n" + keywords.joined(separator: "\n")
+        
+        self.searchedString = rawValue + "\n" + 
+            keywords.joined(separator: "\n") +
+            (recommendedRawValue ?? "") + "\n" +
+            (legacyRawValue ?? "")
     }
 }
 
@@ -228,11 +232,7 @@ private extension SFSymbol {
 
 public extension SFSymbol {
     func isMatch(_ keyword: String) -> Bool {
-        if searchedString.range(of: keyword, options: .caseInsensitive) != nil {
-            return true
-        }
-        
-        return false
+        return searchedString.range(of: keyword, options: .caseInsensitive) != nil
     }
 }
 
