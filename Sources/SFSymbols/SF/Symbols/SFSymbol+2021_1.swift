@@ -98,14 +98,12 @@ public extension SFSymbol {
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.justify.left
-    /// - Alias: text.justifyleft
     /// - Category: textformatting
     static let textJustifyLeft = SFSymbol(.textJustifyLeft, releaseYear: ._2021_1, category: [ .textformatting ])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.justify.right
-    /// - Alias: text.justifyright
     /// - Category: textformatting
     static let textJustifyRight = SFSymbol(.textJustifyRight, releaseYear: ._2021_1, category: [ .textformatting ])
 

@@ -156,7 +156,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: apple.terminal
-    /// - Alias: terminal
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -166,7 +165,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: apple.terminal.fill
-    /// - Alias: terminal.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -1336,7 +1334,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.brakesignal
-    /// - Alias: auto.brakesignal
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -1346,7 +1343,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.high.beam
-    /// - Alias: auto.headlight.high.beam
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -1357,7 +1353,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.high.beam.fill
-    /// - Alias: auto.headlight.high.beam.fill
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -1368,7 +1363,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.low.beam
-    /// - Alias: auto.headlight.low.beam
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -1379,7 +1373,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.low.beam.fill
-    /// - Alias: auto.headlight.low.beam.fill
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -1435,7 +1428,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.0percent
-    /// - Alias: battery.0
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1445,7 +1437,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent
-    /// - Alias: battery.100
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1456,7 +1447,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.bolt
-    /// - Alias: battery.100.bolt
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1467,7 +1457,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.bolt.rtl
-    /// - Alias: battery.100.bolt.rtl
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1478,7 +1467,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.circle
-    /// - Alias: battery.100.circle
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1489,7 +1477,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.circle.fill
-    /// - Alias: battery.100.circle.fill
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1500,7 +1487,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.25percent
-    /// - Alias: battery.25
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1511,7 +1497,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.50percent
-    /// - Alias: battery.50
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1522,7 +1507,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.75percent
-    /// - Alias: battery.75
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -1533,7 +1517,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro
-    /// - Alias: beats.fit.pro
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1543,21 +1526,18 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.chargingcase
-    /// - Alias: beats.fit.pro.chargingcase
     /// - Category: devices
     static let beatsFitproChargingcase = SFSymbol(.beatsFitproChargingcase, releaseYear: ._2023, category: [ .devices ], keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.chargingcase.fill
-    /// - Alias: beats.fit.pro.chargingcase.fill
     /// - Category: devices
     static let beatsFitproChargingcaseFill = SFSymbol(.beatsFitproChargingcaseFill, releaseYear: ._2023, category: [ .devices ], keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.left
-    /// - Alias: beats.fit.pro.left
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1567,7 +1547,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.right
-    /// - Alias: beats.fit.pro.right
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1652,7 +1631,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bell.badge.waveform
-    /// - Alias: bell.and.waveform
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -1663,7 +1641,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bell.badge.waveform.fill
-    /// - Alias: bell.and.waveform.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -1721,7 +1698,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bolt.badge.automatic
-    /// - Alias: bolt.badge.a
     /// - Category: cameraandphotos, multicolor, nature
     ///
     /// Availabilities:
@@ -1732,7 +1708,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bolt.badge.automatic.fill
-    /// - Alias: bolt.badge.a.fill
     /// - Category: cameraandphotos, multicolor, nature
     ///
     /// Availabilities:
@@ -1997,28 +1972,24 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedbottom.horizontal
-    /// - Alias: rectangle.roundedbottom
     /// - Category: gaming, shapes
     static let buttonRoundedbottomHorizontal = SFSymbol(.buttonRoundedbottomHorizontal, releaseYear: ._2023, category: [ .gaming, .shapes ])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedbottom.horizontal.fill
-    /// - Alias: rectangle.roundedbottom.fill
     /// - Category: gaming, shapes
     static let buttonRoundedbottomHorizontalFill = SFSymbol(.buttonRoundedbottomHorizontalFill, releaseYear: ._2023, category: [ .gaming, .shapes ])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedtop.horizontal
-    /// - Alias: rectangle.roundedtop
     /// - Category: gaming, shapes
     static let buttonRoundedtopHorizontal = SFSymbol(.buttonRoundedtopHorizontal, releaseYear: ._2023, category: [ .gaming, .shapes ])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedtop.horizontal.fill
-    /// - Alias: rectangle.roundedtop.fill
     /// - Category: gaming, shapes
     static let buttonRoundedtopHorizontalFill = SFSymbol(.buttonRoundedtopHorizontalFill, releaseYear: ._2023, category: [ .gaming, .shapes ])
 
@@ -2116,7 +2087,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: camera.badge.ellipsis.fill
-    /// - Alias: camera.fill.badge.ellipsis
     /// - Category: cameraandphotos, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -2906,7 +2876,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.magnify
-    /// - Alias: a.magnify
     /// - Category: accessibility, textformatting
     ///
     /// Availabilities:
@@ -3707,7 +3676,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ear.badge.waveform
-    /// - Alias: ear.and.waveform
     /// - Category: accessibility, health, human, variablecolor
     ///
     /// Availabilities:
@@ -4093,7 +4061,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan
-    /// - Alias: fanblades
     /// - Category: automotive, home, objectsandtools
     static let fan = SFSymbol(.fan, releaseYear: ._2023, category: [ .automotive, .home, .objectsandtools ])
 
@@ -4120,14 +4087,12 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan.fill
-    /// - Alias: fanblades.fill
     /// - Category: automotive, home, objectsandtools
     static let fanFill = SFSymbol(.fanFill, releaseYear: ._2023, category: [ .automotive, .home, .objectsandtools ])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan.slash
-    /// - Alias: fanblades.slash
     /// - Category: automotive, home, objectsandtools
     ///
     /// Availabilities:
@@ -4137,7 +4102,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan.slash.fill
-    /// - Alias: fanblades.slash.fill
     /// - Category: automotive, home, objectsandtools
     ///
     /// Availabilities:
@@ -4275,7 +4239,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.lower
-    /// - Alias: figure.seated.side.air.lower
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -4285,7 +4248,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.middle
-    /// - Alias: figure.seated.side.air.upper
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -4295,7 +4257,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.middle.and.lower
-    /// - Alias: figure.seated.side.air.upper.and.lower
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -4314,7 +4275,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.upper
-    /// - Alias: figure.seated.side.air.windshield
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -4706,7 +4666,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.67percent
-    /// - Alias: speedometer
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -4716,7 +4675,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.0percent
-    /// - Alias: gauge.low
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -4726,7 +4684,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.100percent
-    /// - Alias: gauge.high
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -4736,7 +4693,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.50percent
-    /// - Alias: gauge.medium
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -4746,7 +4702,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.50percent.badge.minus
-    /// - Alias: gauge.medium.badge.minus
     /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -4757,7 +4712,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.50percent.badge.plus
-    /// - Alias: gauge.medium.badge.plus
     /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -4850,7 +4804,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hands.and.sparkles
-    /// - Alias: hands.sparkles
     /// - Category: human
     ///
     /// Availabilities:
@@ -4860,7 +4813,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hands.and.sparkles.fill
-    /// - Alias: hands.sparkles.fill
     /// - Category: human
     ///
     /// Availabilities:
@@ -5079,7 +5031,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.button.roundedbottom.horizontal
-    /// - Alias: l.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -5089,7 +5040,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.button.roundedbottom.horizontal.fill
-    /// - Alias: l.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -5100,7 +5050,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l1.button.roundedbottom.horizontal
-    /// - Alias: l1.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -5110,7 +5059,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l1.button.roundedbottom.horizontal.fill
-    /// - Alias: l1.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -5159,7 +5107,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l2.button.roundedtop.horizontal
-    /// - Alias: l2.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -5169,7 +5116,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l2.button.roundedtop.horizontal.fill
-    /// - Alias: l2.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -5271,7 +5217,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lasso.badge.sparkles
-    /// - Alias: lasso.sparkles
     /// - Category: editing, objectsandtools
     ///
     /// Availabilities:
@@ -5281,7 +5226,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lb.button.roundedbottom.horizontal
-    /// - Alias: lb.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -5291,7 +5235,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lb.button.roundedbottom.horizontal.fill
-    /// - Alias: lb.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -5476,7 +5419,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: livephoto.badge.automatic
-    /// - Alias: livephoto.badge.a
     /// - Category: cameraandphotos, multicolor
     ///
     /// Availabilities:
@@ -5582,7 +5524,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lt.button.roundedtop.horizontal
-    /// - Alias: lt.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -5592,7 +5533,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lt.button.roundedtop.horizontal.fill
-    /// - Alias: lt.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -5781,7 +5721,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: message.badge.waveform
-    /// - Alias: message.and.waveform
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -5792,7 +5731,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: message.badge.waveform.fill
-    /// - Alias: message.and.waveform.fill
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -6421,7 +6359,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.badge.waveform
-    /// - Alias: phone.and.waveform
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -6432,7 +6369,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.badge.waveform.fill
-    /// - Alias: phone.and.waveform.fill
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -6443,7 +6379,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.bubble
-    /// - Alias: phone.bubble.left
     /// - Category: communication
     ///
     /// Availabilities:
@@ -6453,7 +6388,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.bubble.fill
-    /// - Alias: phone.bubble.left.fill
     /// - Category: communication
     ///
     /// Availabilities:
@@ -6652,7 +6586,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.to.point.bottomright.curvepath
-    /// - Alias: point.topleft.down.curvedto.point.bottomright.up
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -6662,7 +6595,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.to.point.bottomright.curvepath.fill
-    /// - Alias: point.topleft.down.curvedto.point.bottomright.up.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -6672,7 +6604,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.to.point.bottomright.filled.curvepath
-    /// - Alias: point.topleft.down.curvedto.point.filled.bottomright.up
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -6682,7 +6613,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.filled.down.to.point.bottomright.curvepath
-    /// - Alias: point.filled.topleft.down.curvedto.point.bottomright.up
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -6757,7 +6687,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.button.roundedbottom.horizontal
-    /// - Alias: r.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -6767,7 +6696,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.button.roundedbottom.horizontal.fill
-    /// - Alias: r.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -6778,7 +6706,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r1.button.roundedbottom.horizontal
-    /// - Alias: r1.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -6788,7 +6715,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r1.button.roundedbottom.horizontal.fill
-    /// - Alias: r1.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -6837,7 +6763,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r2.button.roundedtop.horizontal
-    /// - Alias: r2.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -6847,7 +6772,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r2.button.roundedtop.horizontal.fill
-    /// - Alias: r2.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -6924,7 +6848,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rb.button.roundedbottom.horizontal
-    /// - Alias: rb.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -6934,7 +6857,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rb.button.roundedbottom.horizontal.fill
-    /// - Alias: rb.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -6964,7 +6886,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.bubble
-    /// - Alias: rectangle.3.offgrid.bubble.left
     /// - Category: accessibility, communication
     ///
     /// Availabilities:
@@ -6974,7 +6895,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.bubble.fill
-    /// - Alias: rectangle.3.offgrid.bubble.left.fill
     /// - Category: accessibility, communication
     ///
     /// Availabilities:
@@ -6985,7 +6905,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.checkered
-    /// - Alias: checkerboard.rectangle
     static let rectangleCheckered = SFSymbol(.rectangleCheckered, releaseYear: ._2023)
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -7253,7 +7172,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rt.button.roundedtop.horizontal
-    /// - Alias: rt.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -7263,7 +7181,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rt.button.roundedtop.horizontal.fill
-    /// - Alias: rt.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -7339,7 +7256,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shield.checkered
-    /// - Alias: shield.checkerboard
     /// - Category: objectsandtools
     static let shieldCheckered = SFSymbol(.shieldCheckered, releaseYear: ._2023, category: [ .objectsandtools ])
 
@@ -7472,7 +7388,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble
-    /// - Alias: speaker.wave.2.bubble.left
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -7483,7 +7398,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.fill
-    /// - Alias: speaker.wave.2.bubble.left.fill
     /// - Category: communication, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -7494,7 +7408,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.fill.rtl
-    /// - Alias: speaker.wave.2.bubble.left.fill.rtl
     /// - Category: communication, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -7505,7 +7418,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.rtl
-    /// - Alias: speaker.wave.2.bubble.left.rtl
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -7581,7 +7493,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.up.badge.automatic
-    /// - Alias: square.stack.3d.up.badge.a
     /// - Category: multicolor, variablecolor
     ///
     /// Availabilities:
@@ -7592,7 +7503,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.up.badge.automatic.fill
-    /// - Alias: square.stack.3d.up.badge.a.fill
     /// - Category: multicolor, variablecolor
     ///
     /// Availabilities:
@@ -7629,7 +7539,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: squareshape.dotted.squareshape
-    /// - Alias: squareshape.dashed.squareshape
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -7638,7 +7547,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: squareshape.squareshape.dotted
-    /// - Alias: squareshape.squareshape.dashed
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -7759,7 +7667,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon
-    /// - Alias: sun.and.horizon
     /// - Category: nature, weather
     ///
     /// Availabilities:
@@ -7770,7 +7677,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon.circle
-    /// - Alias: sun.and.horizon.circle
     /// - Category: nature, weather
     ///
     /// Availabilities:
@@ -7780,7 +7686,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon.circle.fill
-    /// - Alias: sun.and.horizon.circle.fill
     /// - Category: multicolor, nature, weather
     ///
     /// Availabilities:
@@ -7791,7 +7696,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon.fill
-    /// - Alias: sun.and.horizon.fill
     /// - Category: multicolor, nature, weather
     ///
     /// Availabilities:
@@ -8163,14 +8067,12 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box
-    /// - Alias: box.truck
     /// - Category: transportation
     static let truckBox = SFSymbol(.truckBox, releaseYear: ._2023, category: [ .transportation ])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock
-    /// - Alias: box.truck.badge.clock
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -8181,7 +8083,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock.fill
-    /// - Alias: box.truck.badge.clock.fill
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -8192,7 +8093,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock.fill.rtl
-    /// - Alias: box.truck.badge.clock.fill.rtl
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -8203,7 +8103,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock.rtl
-    /// - Alias: box.truck.badge.clock.rtl
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -8214,7 +8113,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.fill
-    /// - Alias: box.truck.fill
     /// - Category: transportation
     static let truckBoxFill = SFSymbol(.truckBoxFill, releaseYear: ._2023, category: [ .transportation ])
 
@@ -8508,7 +8406,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.badge.waveform
-    /// - Alias: video.and.waveform
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -8519,7 +8416,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.badge.waveform.fill
-    /// - Alias: video.and.waveform.fill
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -8530,7 +8426,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.bubble
-    /// - Alias: video.bubble.left
     /// - Category: communication
     ///
     /// Availabilities:
@@ -8540,7 +8435,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.bubble.fill
-    /// - Alias: video.bubble.left.fill
     /// - Category: communication
     ///
     /// Availabilities:
@@ -8804,7 +8698,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.badge.magnifyingglass
-    /// - Alias: waveform.and.magnifyingglass
     /// - Category: accessibility, communication, variablecolor
     ///
     /// Availabilities:
@@ -8815,7 +8708,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.badge.mic
-    /// - Alias: waveform.and.mic
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -8889,7 +8781,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zl.button.roundedtop.horizontal
-    /// - Alias: zl.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -8899,7 +8790,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zl.button.roundedtop.horizontal.fill
-    /// - Alias: zl.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -8910,7 +8800,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zr.button.roundedtop.horizontal
-    /// - Alias: zr.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -8920,7 +8809,6 @@ public extension SFSymbol {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zr.button.roundedtop.horizontal.fill
-    /// - Alias: zr.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:

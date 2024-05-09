@@ -224,14 +224,12 @@ public extension SFSymbol {
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2
-    /// - Alias: axel.2
     /// - Category: automotive
     static let axle2 = SFSymbol(.axle2, releaseYear: ._2022_2, category: [ .automotive ])
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2.front.and.rear.engaged
-    /// - Alias: axel.2.front.and.rear.engaged
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -241,7 +239,6 @@ public extension SFSymbol {
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2.front.engaged
-    /// - Alias: axel.2.front.engaged
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -251,7 +248,6 @@ public extension SFSymbol {
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2.rear.engaged
-    /// - Alias: axel.2.rear.engaged
     /// - Category: automotive
     ///
     /// Availabilities:

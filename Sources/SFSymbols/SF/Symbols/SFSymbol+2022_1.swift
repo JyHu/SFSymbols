@@ -554,31 +554,31 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: auto.brakesignal
     /// - Alias: automatic.brakesignal
-    static let autoBrakesignal = SFSymbol(.autoBrakesignal, releaseYear: ._2022_1)
+    static let autoBrakesignal = SFSymbol(.autoBrakesignal, releaseYear: ._2022_1, recommendedRawValue: "automatic.brakesignal")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.high.beam
     /// - Alias: automatic.headlight.high.beam
-    static let autoHeadlightHighBeam = SFSymbol(.autoHeadlightHighBeam, releaseYear: ._2022_1)
+    static let autoHeadlightHighBeam = SFSymbol(.autoHeadlightHighBeam, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.high.beam")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.high.beam.fill
     /// - Alias: automatic.headlight.high.beam.fill
-    static let autoHeadlightHighBeamFill = SFSymbol(.autoHeadlightHighBeamFill, releaseYear: ._2022_1)
+    static let autoHeadlightHighBeamFill = SFSymbol(.autoHeadlightHighBeamFill, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.high.beam.fill")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.low.beam
     /// - Alias: automatic.headlight.low.beam
-    static let autoHeadlightLowBeam = SFSymbol(.autoHeadlightLowBeam, releaseYear: ._2022_1)
+    static let autoHeadlightLowBeam = SFSymbol(.autoHeadlightLowBeam, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.low.beam")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.low.beam.fill
     /// - Alias: automatic.headlight.low.beam.fill
-    static let autoHeadlightLowBeamFill = SFSymbol(.autoHeadlightLowBeamFill, releaseYear: ._2022_1)
+    static let autoHeadlightLowBeamFill = SFSymbol(.autoHeadlightLowBeamFill, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.low.beam.fill")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -614,25 +614,25 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: axel.2
     /// - Alias: axle.2
-    static let axel2 = SFSymbol(.axel2, releaseYear: ._2022_1)
+    static let axel2 = SFSymbol(.axel2, releaseYear: ._2022_1, recommendedRawValue: "axle.2")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: axel.2.front.and.rear.engaged
     /// - Alias: axle.2.front.and.rear.engaged
-    static let axel2FrontAndRearEngaged = SFSymbol(.axel2FrontAndRearEngaged, releaseYear: ._2022_1)
+    static let axel2FrontAndRearEngaged = SFSymbol(.axel2FrontAndRearEngaged, releaseYear: ._2022_1, recommendedRawValue: "axle.2.front.and.rear.engaged")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: axel.2.front.engaged
     /// - Alias: axle.2.front.engaged
-    static let axel2FrontEngaged = SFSymbol(.axel2FrontEngaged, releaseYear: ._2022_1)
+    static let axel2FrontEngaged = SFSymbol(.axel2FrontEngaged, releaseYear: ._2022_1, recommendedRawValue: "axle.2.front.engaged")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: axel.2.rear.engaged
     /// - Alias: axle.2.rear.engaged
-    static let axel2RearEngaged = SFSymbol(.axel2RearEngaged, releaseYear: ._2022_1)
+    static let axel2RearEngaged = SFSymbol(.axel2RearEngaged, releaseYear: ._2022_1, recommendedRawValue: "axle.2.rear.engaged")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -1511,25 +1511,25 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: figure.seated.side.air.lower
     /// - Alias: figure.seated.side.air.distribution.lower
-    static let figureSeatedSideAirLower = SFSymbol(.figureSeatedSideAirLower, releaseYear: ._2022_1, keywords: ["human", "person"])
+    static let figureSeatedSideAirLower = SFSymbol(.figureSeatedSideAirLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.lower", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.upper
     /// - Alias: figure.seated.side.air.distribution.middle
-    static let figureSeatedSideAirUpper = SFSymbol(.figureSeatedSideAirUpper, releaseYear: ._2022_1, keywords: ["human", "person"])
+    static let figureSeatedSideAirUpper = SFSymbol(.figureSeatedSideAirUpper, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.middle", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.upper.and.lower
     /// - Alias: figure.seated.side.air.distribution.middle.and.lower
-    static let figureSeatedSideAirUpperAndLower = SFSymbol(.figureSeatedSideAirUpperAndLower, releaseYear: ._2022_1, keywords: ["human", "person"])
+    static let figureSeatedSideAirUpperAndLower = SFSymbol(.figureSeatedSideAirUpperAndLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.middle.and.lower", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.windshield
     /// - Alias: figure.seated.side.air.distribution.upper
-    static let figureSeatedSideAirWindshield = SFSymbol(.figureSeatedSideAirWindshield, releaseYear: ._2022_1, keywords: ["human", "person"])
+    static let figureSeatedSideAirWindshield = SFSymbol(.figureSeatedSideAirWindshield, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.upper", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -1633,7 +1633,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: hand.raised.app
-    /// - Alias: hand.app
     /// - Category: human, multicolor, privacyandsecurity
     ///
     /// Availabilities:
@@ -1644,7 +1643,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: hand.raised.app.fill
-    /// - Alias: hand.app.fill
     /// - Category: human, multicolor, privacyandsecurity
     ///
     /// Availabilities:
@@ -1833,7 +1831,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1
-    /// - Alias: ipad.homebutton
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1843,7 +1840,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1.badge.play
-    /// - Alias: ipad.homebutton.badge.play
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -1854,7 +1850,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1.landscape
-    /// - Alias: ipad.homebutton.landscape
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1864,7 +1859,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1.landscape.badge.play
-    /// - Alias: ipad.homebutton.landscape.badge.play
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -1913,7 +1907,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1
-    /// - Alias: iphone.homebutton
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1923,7 +1916,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.badge.play
-    /// - Alias: iphone.homebutton.badge.play
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -1934,7 +1926,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.circle
-    /// - Alias: iphone.homebutton.circle
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1944,7 +1935,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.circle.fill
-    /// - Alias: iphone.homebutton.circle.fill
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -1955,7 +1945,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.landscape
-    /// - Alias: iphone.homebutton.landscape
     /// - Category: devices
     ///
     /// Availabilities:
@@ -1965,7 +1954,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.radiowaves.left.and.right
-    /// - Alias: iphone.homebutton.radiowaves.left.and.right
     /// - Category: devices, variablecolor
     ///
     /// Availabilities:
@@ -1976,7 +1964,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.radiowaves.left.and.right.circle
-    /// - Alias: iphone.homebutton.radiowaves.left.and.right.circle
     /// - Category: devices, variablecolor
     ///
     /// Availabilities:
@@ -1987,7 +1974,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.radiowaves.left.and.right.circle.fill
-    /// - Alias: iphone.homebutton.radiowaves.left.and.right.circle.fill
     /// - Category: devices, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -1998,7 +1984,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.slash
-    /// - Alias: iphone.homebutton.slash
     /// - Category: devices
     ///
     /// Availabilities:
@@ -2008,7 +1993,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.slash.circle
-    /// - Alias: iphone.homebutton.slash.circle
     /// - Category: devices
     ///
     /// Availabilities:
@@ -2018,7 +2002,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.slash.circle.fill
-    /// - Alias: iphone.homebutton.slash.circle.fill
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -2335,7 +2318,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: lock.open.rotation
-    /// - Alias: lock.rotation.open
     /// - Category: objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
@@ -2345,7 +2327,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: macbook.and.ipad
-    /// - Alias: laptopcomputer.and.ipad
     /// - Category: devices
     ///
     /// Availabilities:
@@ -2355,7 +2336,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: macbook.and.iphone
-    /// - Alias: laptopcomputer.and.iphone
     /// - Category: devices
     ///
     /// Availabilities:
@@ -3242,7 +3222,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: windshield.front.and.spray
-    /// - Alias: windshield.front.and.fluid
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -3302,7 +3281,6 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: windshield.rear.and.spray
-    /// - Alias: windshield.rear.and.fluid
     /// - Category: automotive
     ///
     /// Availabilities:

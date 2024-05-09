@@ -26,7 +26,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble
-    /// - Alias: t.bubble
     /// - Category: communication
     ///
     /// Availabilities:
@@ -36,7 +35,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.ar
-    /// - Alias: t.bubble.ar
     /// - Category: communication
     ///
     /// Availabilities:
@@ -46,7 +44,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.fill
-    /// - Alias: t.bubble.fill
     /// - Category: communication
     ///
     /// Availabilities:
@@ -57,7 +54,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.ar
-    /// - Alias: t.bubble.fill.ar
     /// - Category: communication
     ///
     /// Availabilities:
@@ -68,7 +64,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.he
-    /// - Alias: t.bubble.fill.he
     /// - Category: communication
     ///
     /// Availabilities:
@@ -79,7 +74,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.he
-    /// - Alias: t.bubble.he
     /// - Category: communication
     ///
     /// Availabilities:
@@ -89,7 +83,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam
-    /// - Alias: text.cursor
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -99,7 +92,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.ar
-    /// - Alias: text.cursor.ar
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -109,7 +101,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.he
-    /// - Alias: text.cursor.he
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -119,7 +110,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.hi
-    /// - Alias: text.cursor.hi
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -129,7 +119,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.ja
-    /// - Alias: text.cursor.ja
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -139,7 +128,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.ko
-    /// - Alias: text.cursor.ko
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -149,7 +137,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.th
-    /// - Alias: text.cursor.th
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -159,7 +146,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.zh
-    /// - Alias: text.cursor.zh
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -169,7 +155,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox
-    /// - Alias: textbox
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -179,7 +164,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.ar
-    /// - Alias: textbox.ar
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -189,7 +173,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.he
-    /// - Alias: textbox.he
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -199,7 +182,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.hi
-    /// - Alias: textbox.hi
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -209,7 +191,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.ja
-    /// - Alias: textbox.ja
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -219,7 +200,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.ko
-    /// - Alias: textbox.ko
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -229,7 +209,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.th
-    /// - Alias: textbox.th
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -239,7 +218,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.zh
-    /// - Alias: textbox.zh
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -322,5 +300,5 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: rectangle.topthird.inset.fill
     /// - Alias: rectangle.topthird.inset.filled
-    static let rectangleTopthirdInsetFill = SFSymbol(.rectangleTopthirdInsetFill, releaseYear: ._2020_2)
+    static let rectangleTopthirdInsetFill = SFSymbol(.rectangleTopthirdInsetFill, releaseYear: ._2020_2, recommendedRawValue: "rectangle.topthird.inset.filled")
 }

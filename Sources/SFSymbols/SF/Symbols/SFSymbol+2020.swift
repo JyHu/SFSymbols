@@ -34,103 +34,103 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: a.book.closed
     /// - Alias: character.book.closed
-    static let aBookClosed = SFSymbol(.aBookClosed, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosed = SFSymbol(.aBookClosed, releaseYear: ._2020, recommendedRawValue: "character.book.closed", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.ar
     /// - Alias: character.book.closed.ar
-    static let aBookClosedAr = SFSymbol(.aBookClosedAr, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedAr = SFSymbol(.aBookClosedAr, releaseYear: ._2020, recommendedRawValue: "character.book.closed.ar", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill
     /// - Alias: character.book.closed.fill
-    static let aBookClosedFill = SFSymbol(.aBookClosedFill, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFill = SFSymbol(.aBookClosedFill, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill.ar
     /// - Alias: character.book.closed.fill.ar
-    static let aBookClosedFillAr = SFSymbol(.aBookClosedFillAr, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFillAr = SFSymbol(.aBookClosedFillAr, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill.ar", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill.he
     /// - Alias: character.book.closed.fill.he
-    static let aBookClosedFillHe = SFSymbol(.aBookClosedFillHe, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFillHe = SFSymbol(.aBookClosedFillHe, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill.he", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill.hi
     /// - Alias: character.book.closed.fill.hi
-    static let aBookClosedFillHi = SFSymbol(.aBookClosedFillHi, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFillHi = SFSymbol(.aBookClosedFillHi, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill.hi", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill.ja
     /// - Alias: character.book.closed.fill.ja
-    static let aBookClosedFillJa = SFSymbol(.aBookClosedFillJa, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFillJa = SFSymbol(.aBookClosedFillJa, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill.ja", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill.ko
     /// - Alias: character.book.closed.fill.ko
-    static let aBookClosedFillKo = SFSymbol(.aBookClosedFillKo, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFillKo = SFSymbol(.aBookClosedFillKo, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill.ko", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill.th
     /// - Alias: character.book.closed.fill.th
-    static let aBookClosedFillTh = SFSymbol(.aBookClosedFillTh, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFillTh = SFSymbol(.aBookClosedFillTh, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill.th", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.fill.zh
     /// - Alias: character.book.closed.fill.zh
-    static let aBookClosedFillZh = SFSymbol(.aBookClosedFillZh, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedFillZh = SFSymbol(.aBookClosedFillZh, releaseYear: ._2020, recommendedRawValue: "character.book.closed.fill.zh", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.he
     /// - Alias: character.book.closed.he
-    static let aBookClosedHe = SFSymbol(.aBookClosedHe, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedHe = SFSymbol(.aBookClosedHe, releaseYear: ._2020, recommendedRawValue: "character.book.closed.he", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.hi
     /// - Alias: character.book.closed.hi
-    static let aBookClosedHi = SFSymbol(.aBookClosedHi, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedHi = SFSymbol(.aBookClosedHi, releaseYear: ._2020, recommendedRawValue: "character.book.closed.hi", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.ja
     /// - Alias: character.book.closed.ja
-    static let aBookClosedJa = SFSymbol(.aBookClosedJa, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedJa = SFSymbol(.aBookClosedJa, releaseYear: ._2020, recommendedRawValue: "character.book.closed.ja", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.ko
     /// - Alias: character.book.closed.ko
-    static let aBookClosedKo = SFSymbol(.aBookClosedKo, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedKo = SFSymbol(.aBookClosedKo, releaseYear: ._2020, recommendedRawValue: "character.book.closed.ko", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.th
     /// - Alias: character.book.closed.th
-    static let aBookClosedTh = SFSymbol(.aBookClosedTh, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedTh = SFSymbol(.aBookClosedTh, releaseYear: ._2020, recommendedRawValue: "character.book.closed.th", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.book.closed.zh
     /// - Alias: character.book.closed.zh
-    static let aBookClosedZh = SFSymbol(.aBookClosedZh, releaseYear: ._2020, keywords: ["dictionary"])
+    static let aBookClosedZh = SFSymbol(.aBookClosedZh, releaseYear: ._2020, recommendedRawValue: "character.book.closed.zh", keywords: ["dictionary"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: a.magnify
     /// - Alias: character.magnify
-    static let aMagnify = SFSymbol(.aMagnify, releaseYear: ._2020, keywords: ["a"])
+    static let aMagnify = SFSymbol(.aMagnify, releaseYear: ._2020, recommendedRawValue: "character.magnify", keywords: ["a"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -239,7 +239,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: applelogo
     /// - Alias: apple.logo
-    static let applelogo = SFSymbol(.applelogo, releaseYear: ._2020)
+    static let applelogo = SFSymbol(.applelogo, releaseYear: ._2020, recommendedRawValue: "apple.logo")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -661,7 +661,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right
-    /// - Alias: flip.horizontal
     /// - Category: cameraandphotos, editing
     ///
     /// Availabilities:
@@ -671,7 +670,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right.fill
-    /// - Alias: flip.horizontal.fill
     /// - Category: cameraandphotos, editing
     ///
     /// Availabilities:
@@ -681,7 +679,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right
-    /// - Alias: arrow.right.arrow.left
     /// - Category: arrows
     ///
     /// Availabilities:
@@ -691,7 +688,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.circle
-    /// - Alias: arrow.right.arrow.left.circle
     /// - Category: arrows
     ///
     /// Availabilities:
@@ -701,7 +697,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.circle.fill
-    /// - Alias: arrow.right.arrow.left.circle.fill
     /// - Category: arrows, multicolor
     ///
     /// Availabilities:
@@ -712,7 +707,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.square
-    /// - Alias: arrow.right.arrow.left.square
     /// - Category: arrows
     ///
     /// Availabilities:
@@ -722,7 +716,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.square.fill
-    /// - Alias: arrow.right.arrow.left.square.fill
     /// - Category: arrows, multicolor
     ///
     /// Availabilities:
@@ -749,14 +742,12 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath
-    /// - Alias: arrow.2.circlepath
     /// - Category: arrows, cameraandphotos
     static let arrowTriangle2Circlepath = SFSymbol(.arrowTriangle2Circlepath, releaseYear: ._2020, category: [ .arrows, .cameraandphotos ], keywords: ["sync", "syncing"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.camera
-    /// - Alias: camera.rotate
     /// - Category: cameraandphotos, objectsandtools
     ///
     /// Availabilities:
@@ -766,7 +757,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.camera.fill
-    /// - Alias: camera.rotate.fill
     /// - Category: cameraandphotos, objectsandtools
     ///
     /// Availabilities:
@@ -777,7 +767,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.circle
-    /// - Alias: arrow.2.circlepath.circle
     /// - Category: arrows, cameraandphotos
     ///
     /// Availabilities:
@@ -787,7 +776,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.circle.fill
-    /// - Alias: arrow.2.circlepath.circle.fill
     /// - Category: arrows, cameraandphotos, multicolor
     ///
     /// Availabilities:
@@ -808,7 +796,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.branch
-    /// - Alias: arrow.branch
     /// - Category: arrows, maps
     static let arrowTriangleBranch = SFSymbol(.arrowTriangleBranch, releaseYear: ._2020, category: [ .arrows, .maps ])
 
@@ -821,7 +808,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.merge
-    /// - Alias: arrow.merge
     /// - Category: arrows, maps
     static let arrowTriangleMerge = SFSymbol(.arrowTriangleMerge, releaseYear: ._2020, category: [ .arrows, .maps ])
 
@@ -834,7 +820,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.swap
-    /// - Alias: arrow.swap
     /// - Category: arrows, maps
     static let arrowTriangleSwap = SFSymbol(.arrowTriangleSwap, releaseYear: ._2020, category: [ .arrows, .maps ])
 
@@ -860,7 +845,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond
-    /// - Alias: arrow.up.right.diamond
     /// - Category: arrows, maps
     ///
     /// Availabilities:
@@ -870,7 +854,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond.fill
-    /// - Alias: arrow.up.right.diamond.fill
     /// - Category: arrows, maps, multicolor
     ///
     /// Availabilities:
@@ -906,7 +889,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: arrow.up.and.down.righttriangle.up.fill.righttriangle.down.fill
     /// - Alias: arrow.up.and.down.righttriangle.up.righttriangle.down.fill
-    static let arrowUpAndDownRighttriangleUpFillRighttriangleDownFill = SFSymbol(.arrowUpAndDownRighttriangleUpFillRighttriangleDownFill, releaseYear: ._2020, keywords: ["flip vertical"])
+    static let arrowUpAndDownRighttriangleUpFillRighttriangleDownFill = SFSymbol(.arrowUpAndDownRighttriangleUpFillRighttriangleDownFill, releaseYear: ._2020, recommendedRawValue: "arrow.up.and.down.righttriangle.up.righttriangle.down.fill", keywords: ["flip vertical"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -1540,7 +1523,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: arrowtriangle.left.fill.and.line.vertical.and.arrowtriangle.right.fill
     /// - Alias: arrowtriangle.left.and.line.vertical.and.arrowtriangle.right.fill
-    static let arrowtriangleLeftFillAndLineVerticalAndArrowtriangleRightFill = SFSymbol(.arrowtriangleLeftFillAndLineVerticalAndArrowtriangleRightFill, releaseYear: ._2020)
+    static let arrowtriangleLeftFillAndLineVerticalAndArrowtriangleRightFill = SFSymbol(.arrowtriangleLeftFillAndLineVerticalAndArrowtriangleRightFill, releaseYear: ._2020, recommendedRawValue: "arrowtriangle.left.and.line.vertical.and.arrowtriangle.right.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -1552,7 +1535,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: arrowtriangle.right.fill.and.line.vertical.and.arrowtriangle.left.fill
     /// - Alias: arrowtriangle.right.and.line.vertical.and.arrowtriangle.left.fill
-    static let arrowtriangleRightFillAndLineVerticalAndArrowtriangleLeftFill = SFSymbol(.arrowtriangleRightFillAndLineVerticalAndArrowtriangleLeftFill, releaseYear: ._2020)
+    static let arrowtriangleRightFillAndLineVerticalAndArrowtriangleLeftFill = SFSymbol(.arrowtriangleRightFillAndLineVerticalAndArrowtriangleLeftFill, releaseYear: ._2020, recommendedRawValue: "arrowtriangle.right.and.line.vertical.and.arrowtriangle.left.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -1655,13 +1638,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: battery.100.bolt
     /// - Alias: battery.100percent.bolt
-    static let battery100Bolt = SFSymbol(.battery100Bolt, releaseYear: ._2020)
+    static let battery100Bolt = SFSymbol(.battery100Bolt, releaseYear: ._2020, recommendedRawValue: "battery.100percent.bolt")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100.bolt.rtl
     /// - Alias: battery.100percent.bolt.rtl
-    static let battery100BoltRtl = SFSymbol(.battery100BoltRtl, releaseYear: ._2020)
+    static let battery100BoltRtl = SFSymbol(.battery100BoltRtl, releaseYear: ._2020, recommendedRawValue: "battery.100percent.bolt.rtl")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -1764,13 +1747,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: bolt.fill.batteryblock
     /// - Alias: bolt.batteryblock
-    static let boltFillBatteryblock = SFSymbol(.boltFillBatteryblock, releaseYear: ._2020)
+    static let boltFillBatteryblock = SFSymbol(.boltFillBatteryblock, releaseYear: ._2020, recommendedRawValue: "bolt.batteryblock")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bolt.fill.batteryblock.fill
     /// - Alias: bolt.batteryblock.fill
-    static let boltFillBatteryblockFill = SFSymbol(.boltFillBatteryblockFill, releaseYear: ._2020)
+    static let boltFillBatteryblockFill = SFSymbol(.boltFillBatteryblockFill, releaseYear: ._2020, recommendedRawValue: "bolt.batteryblock.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2016,7 +1999,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: camera.fill.badge.ellipsis
     /// - Alias: camera.badge.ellipsis.fill
-    static let cameraFillBadgeEllipsis = SFSymbol(.cameraFillBadgeEllipsis, releaseYear: ._2020, keywords: ["action", "dot.3", "extra", "more", "overflow", "…"])
+    static let cameraFillBadgeEllipsis = SFSymbol(.cameraFillBadgeEllipsis, releaseYear: ._2020, recommendedRawValue: "camera.badge.ellipsis.fill", keywords: ["action", "dot.3", "extra", "more", "overflow", "…"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2212,7 +2195,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: checkerboard.rectangle
     /// - Alias: rectangle.checkered
-    static let checkerboardRectangle = SFSymbol(.checkerboardRectangle, releaseYear: ._2020)
+    static let checkerboardRectangle = SFSymbol(.checkerboardRectangle, releaseYear: ._2020, recommendedRawValue: "rectangle.checkered")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2357,7 +2340,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: circle.bottomhalf.fill
     /// - Alias: circle.bottomhalf.filled
-    static let circleBottomhalfFill = SFSymbol(.circleBottomhalfFill, releaseYear: ._2020)
+    static let circleBottomhalfFill = SFSymbol(.circleBottomhalfFill, releaseYear: ._2020, recommendedRawValue: "circle.bottomhalf.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2388,13 +2371,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: circle.dashed.inset.fill
     /// - Alias: circle.dashed.inset.filled
-    static let circleDashedInsetFill = SFSymbol(.circleDashedInsetFill, releaseYear: ._2020)
+    static let circleDashedInsetFill = SFSymbol(.circleDashedInsetFill, releaseYear: ._2020, recommendedRawValue: "circle.dashed.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.fill.square.fill
     /// - Alias: circle.square.fill
-    static let circleFillSquareFill = SFSymbol(.circleFillSquareFill, releaseYear: ._2020)
+    static let circleFillSquareFill = SFSymbol(.circleFillSquareFill, releaseYear: ._2020, recommendedRawValue: "circle.square.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2406,7 +2389,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: circle.grid.cross.down.fill
     /// - Alias: circle.grid.cross.down.filled
-    static let circleGridCrossDownFill = SFSymbol(.circleGridCrossDownFill, releaseYear: ._2020)
+    static let circleGridCrossDownFill = SFSymbol(.circleGridCrossDownFill, releaseYear: ._2020, recommendedRawValue: "circle.grid.cross.down.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2418,19 +2401,19 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: circle.grid.cross.left.fill
     /// - Alias: circle.grid.cross.left.filled
-    static let circleGridCrossLeftFill = SFSymbol(.circleGridCrossLeftFill, releaseYear: ._2020)
+    static let circleGridCrossLeftFill = SFSymbol(.circleGridCrossLeftFill, releaseYear: ._2020, recommendedRawValue: "circle.grid.cross.left.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.grid.cross.right.fill
     /// - Alias: circle.grid.cross.right.filled
-    static let circleGridCrossRightFill = SFSymbol(.circleGridCrossRightFill, releaseYear: ._2020)
+    static let circleGridCrossRightFill = SFSymbol(.circleGridCrossRightFill, releaseYear: ._2020, recommendedRawValue: "circle.grid.cross.right.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.grid.cross.up.fill
     /// - Alias: circle.grid.cross.up.filled
-    static let circleGridCrossUpFill = SFSymbol(.circleGridCrossUpFill, releaseYear: ._2020)
+    static let circleGridCrossUpFill = SFSymbol(.circleGridCrossUpFill, releaseYear: ._2020, recommendedRawValue: "circle.grid.cross.up.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2445,7 +2428,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: circle.tophalf.fill
     /// - Alias: circle.tophalf.filled
-    static let circleTophalfFill = SFSymbol(.circleTophalfFill, releaseYear: ._2020)
+    static let circleTophalfFill = SFSymbol(.circleTophalfFill, releaseYear: ._2020, recommendedRawValue: "circle.tophalf.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2475,25 +2458,25 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: circles.hexagongrid
     /// - Alias: circle.hexagongrid
-    static let circlesHexagongrid = SFSymbol(.circlesHexagongrid, releaseYear: ._2020)
+    static let circlesHexagongrid = SFSymbol(.circlesHexagongrid, releaseYear: ._2020, recommendedRawValue: "circle.hexagongrid")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circles.hexagongrid.fill
     /// - Alias: circle.hexagongrid.fill
-    static let circlesHexagongridFill = SFSymbol(.circlesHexagongridFill, releaseYear: ._2020)
+    static let circlesHexagongridFill = SFSymbol(.circlesHexagongridFill, releaseYear: ._2020, recommendedRawValue: "circle.hexagongrid.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circles.hexagonpath
     /// - Alias: circle.hexagonpath
-    static let circlesHexagonpath = SFSymbol(.circlesHexagonpath, releaseYear: ._2020)
+    static let circlesHexagonpath = SFSymbol(.circlesHexagonpath, releaseYear: ._2020, recommendedRawValue: "circle.hexagonpath")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circles.hexagonpath.fill
     /// - Alias: circle.hexagonpath.fill
-    static let circlesHexagonpathFill = SFSymbol(.circlesHexagonpathFill, releaseYear: ._2020)
+    static let circlesHexagonpathFill = SFSymbol(.circlesHexagonpathFill, releaseYear: ._2020, recommendedRawValue: "circle.hexagonpath.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -2761,7 +2744,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: cursorarrow.rays
-    /// - Alias: cursor.rays
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -2818,25 +2800,25 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: dial.max
     /// - Alias: dial.high
-    static let dialMax = SFSymbol(.dialMax, releaseYear: ._2020)
+    static let dialMax = SFSymbol(.dialMax, releaseYear: ._2020, recommendedRawValue: "dial.high")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dial.max.fill
     /// - Alias: dial.high.fill
-    static let dialMaxFill = SFSymbol(.dialMaxFill, releaseYear: ._2020)
+    static let dialMaxFill = SFSymbol(.dialMaxFill, releaseYear: ._2020, recommendedRawValue: "dial.high.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dial.min
     /// - Alias: dial.low
-    static let dialMin = SFSymbol(.dialMin, releaseYear: ._2020)
+    static let dialMin = SFSymbol(.dialMin, releaseYear: ._2020, recommendedRawValue: "dial.low")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dial.min.fill
     /// - Alias: dial.low.fill
-    static let dialMinFill = SFSymbol(.dialMinFill, releaseYear: ._2020)
+    static let dialMinFill = SFSymbol(.dialMinFill, releaseYear: ._2020, recommendedRawValue: "dial.low.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3114,7 +3096,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: doc.text.fill.viewfinder
     /// - Alias: doc.viewfinder.fill
-    static let docTextFillViewfinder = SFSymbol(.docTextFillViewfinder, releaseYear: ._2020, keywords: ["scan document"])
+    static let docTextFillViewfinder = SFSymbol(.docTextFillViewfinder, releaseYear: ._2020, recommendedRawValue: "doc.viewfinder.fill", keywords: ["scan document"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3140,7 +3122,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dock.rectangle
-    /// - Alias: rectangle.dock
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -3210,7 +3191,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: dpad.down.fill
     /// - Alias: dpad.down.filled
-    static let dpadDownFill = SFSymbol(.dpadDownFill, releaseYear: ._2020)
+    static let dpadDownFill = SFSymbol(.dpadDownFill, releaseYear: ._2020, recommendedRawValue: "dpad.down.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3222,19 +3203,19 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: dpad.left.fill
     /// - Alias: dpad.left.filled
-    static let dpadLeftFill = SFSymbol(.dpadLeftFill, releaseYear: ._2020)
+    static let dpadLeftFill = SFSymbol(.dpadLeftFill, releaseYear: ._2020, recommendedRawValue: "dpad.left.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dpad.right.fill
     /// - Alias: dpad.right.filled
-    static let dpadRightFill = SFSymbol(.dpadRightFill, releaseYear: ._2020)
+    static let dpadRightFill = SFSymbol(.dpadRightFill, releaseYear: ._2020, recommendedRawValue: "dpad.right.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dpad.up.fill
     /// - Alias: dpad.up.filled
-    static let dpadUpFill = SFSymbol(.dpadUpFill, releaseYear: ._2020)
+    static let dpadUpFill = SFSymbol(.dpadUpFill, releaseYear: ._2020, recommendedRawValue: "dpad.up.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3305,7 +3286,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ellipsis.bubble
-    /// - Alias: ellipses.bubble
     /// - Category: accessibility, communication, variablecolor
     ///
     /// Availabilities:
@@ -3316,7 +3296,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ellipsis.bubble.fill
-    /// - Alias: ellipses.bubble.fill
     /// - Category: accessibility, communication, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -3366,13 +3345,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: envelope.badge.shield.leadinghalf.fill
     /// - Alias: envelope.badge.shield.half.filled
-    static let envelopeBadgeShieldLeadinghalfFill = SFSymbol(.envelopeBadgeShieldLeadinghalfFill, releaseYear: ._2020)
+    static let envelopeBadgeShieldLeadinghalfFill = SFSymbol(.envelopeBadgeShieldLeadinghalfFill, releaseYear: ._2020, recommendedRawValue: "envelope.badge.shield.half.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: envelope.fill.badge.shield.trailinghalf.fill
     /// - Alias: envelope.badge.shield.half.filled.fill
-    static let envelopeFillBadgeShieldTrailinghalfFill = SFSymbol(.envelopeFillBadgeShieldTrailinghalfFill, releaseYear: ._2020)
+    static let envelopeFillBadgeShieldTrailinghalfFill = SFSymbol(.envelopeFillBadgeShieldTrailinghalfFill, releaseYear: ._2020, recommendedRawValue: "envelope.badge.shield.half.filled.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3665,7 +3644,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: face.smiling
-    /// - Alias: smiley
     /// - Category: human
     ///
     /// Availabilities:
@@ -3676,7 +3654,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: face.smiling.fill
     /// - Alias: face.smiling.inverse
-    static let faceSmilingFill = SFSymbol(.faceSmilingFill, releaseYear: ._2020)
+    static let faceSmilingFill = SFSymbol(.faceSmilingFill, releaseYear: ._2020, recommendedRawValue: "face.smiling.inverse")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3688,7 +3666,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: fiberchannel
     /// - Alias: fibrechannel
-    static let fiberchannel = SFSymbol(.fiberchannel, releaseYear: ._2020)
+    static let fiberchannel = SFSymbol(.fiberchannel, releaseYear: ._2020, recommendedRawValue: "fibrechannel")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3857,7 +3835,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: folder.badge.gear
     /// - Alias: folder.badge.gearshape
-    static let folderBadgeGear = SFSymbol(.folderBadgeGear, releaseYear: ._2020)
+    static let folderBadgeGear = SFSymbol(.folderBadgeGear, releaseYear: ._2020, recommendedRawValue: "folder.badge.gearshape")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -3883,7 +3861,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: folder.fill.badge.gear
     /// - Alias: folder.fill.badge.gearshape
-    static let folderFillBadgeGear = SFSymbol(.folderFillBadgeGear, releaseYear: ._2020)
+    static let folderFillBadgeGear = SFSymbol(.folderFillBadgeGear, releaseYear: ._2020, recommendedRawValue: "folder.fill.badge.gearshape")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4016,7 +3994,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: h.square.fill.on.square.fill
     /// - Alias: h.square.on.square.fill
-    static let hSquareFillOnSquareFill = SFSymbol(.hSquareFillOnSquareFill, releaseYear: ._2020)
+    static let hSquareFillOnSquareFill = SFSymbol(.hSquareFillOnSquareFill, releaseYear: ._2020, recommendedRawValue: "h.square.on.square.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4133,13 +4111,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: hands.sparkles
     /// - Alias: hands.and.sparkles
-    static let handsSparkles = SFSymbol(.handsSparkles, releaseYear: ._2020)
+    static let handsSparkles = SFSymbol(.handsSparkles, releaseYear: ._2020, recommendedRawValue: "hands.and.sparkles")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hands.sparkles.fill
     /// - Alias: hands.and.sparkles.fill
-    static let handsSparklesFill = SFSymbol(.handsSparklesFill, releaseYear: ._2020)
+    static let handsSparklesFill = SFSymbol(.handsSparklesFill, releaseYear: ._2020, recommendedRawValue: "hands.and.sparkles.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4164,7 +4142,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: hearingaid.ear
     /// - Alias: hearingdevice.ear
-    static let hearingaidEar = SFSymbol(.hearingaidEar, releaseYear: ._2020)
+    static let hearingaidEar = SFSymbol(.hearingaidEar, releaseYear: ._2020, recommendedRawValue: "hearingdevice.ear")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4334,13 +4312,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: ipad.homebutton
     /// - Alias: ipad.gen1
-    static let ipadHomebutton = SFSymbol(.ipadHomebutton, releaseYear: ._2020)
+    static let ipadHomebutton = SFSymbol(.ipadHomebutton, releaseYear: ._2020, recommendedRawValue: "ipad.gen1")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.homebutton.landscape
     /// - Alias: ipad.gen1.landscape
-    static let ipadHomebuttonLandscape = SFSymbol(.ipadHomebuttonLandscape, releaseYear: ._2020)
+    static let ipadHomebuttonLandscape = SFSymbol(.ipadHomebuttonLandscape, releaseYear: ._2020, recommendedRawValue: "ipad.gen1.landscape")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4364,19 +4342,19 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: iphone.homebutton
     /// - Alias: iphone.gen1
-    static let iphoneHomebutton = SFSymbol(.iphoneHomebutton, releaseYear: ._2020)
+    static let iphoneHomebutton = SFSymbol(.iphoneHomebutton, releaseYear: ._2020, recommendedRawValue: "iphone.gen1")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.radiowaves.left.and.right
     /// - Alias: iphone.gen1.radiowaves.left.and.right
-    static let iphoneHomebuttonRadiowavesLeftAndRight = SFSymbol(.iphoneHomebuttonRadiowavesLeftAndRight, releaseYear: ._2020)
+    static let iphoneHomebuttonRadiowavesLeftAndRight = SFSymbol(.iphoneHomebuttonRadiowavesLeftAndRight, releaseYear: ._2020, recommendedRawValue: "iphone.gen1.radiowaves.left.and.right")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.slash
     /// - Alias: iphone.gen1.slash
-    static let iphoneHomebuttonSlash = SFSymbol(.iphoneHomebuttonSlash, releaseYear: ._2020, keywords: ["remove"])
+    static let iphoneHomebuttonSlash = SFSymbol(.iphoneHomebuttonSlash, releaseYear: ._2020, recommendedRawValue: "iphone.gen1.slash", keywords: ["remove"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4443,7 +4421,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: j.square.fill.on.square.fill
     /// - Alias: j.square.on.square.fill
-    static let jSquareFillOnSquareFill = SFSymbol(.jSquareFillOnSquareFill, releaseYear: ._2020)
+    static let jSquareFillOnSquareFill = SFSymbol(.jSquareFillOnSquareFill, releaseYear: ._2020, recommendedRawValue: "j.square.on.square.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4542,13 +4520,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: l.joystick.down
     /// - Alias: l.joystick.press.down
-    static let lJoystickDown = SFSymbol(.lJoystickDown, releaseYear: ._2020)
+    static let lJoystickDown = SFSymbol(.lJoystickDown, releaseYear: ._2020, recommendedRawValue: "l.joystick.press.down")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.joystick.down.fill
     /// - Alias: l.joystick.press.down.fill
-    static let lJoystickDownFill = SFSymbol(.lJoystickDownFill, releaseYear: ._2020)
+    static let lJoystickDownFill = SFSymbol(.lJoystickDownFill, releaseYear: ._2020, recommendedRawValue: "l.joystick.press.down.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4564,37 +4542,37 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: l.rectangle.roundedbottom
     /// - Alias: l.button.roundedbottom.horizontal
-    static let lRectangleRoundedbottom = SFSymbol(.lRectangleRoundedbottom, releaseYear: ._2020)
+    static let lRectangleRoundedbottom = SFSymbol(.lRectangleRoundedbottom, releaseYear: ._2020, recommendedRawValue: "l.button.roundedbottom.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.rectangle.roundedbottom.fill
     /// - Alias: l.button.roundedbottom.horizontal.fill
-    static let lRectangleRoundedbottomFill = SFSymbol(.lRectangleRoundedbottomFill, releaseYear: ._2020)
+    static let lRectangleRoundedbottomFill = SFSymbol(.lRectangleRoundedbottomFill, releaseYear: ._2020, recommendedRawValue: "l.button.roundedbottom.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l1.rectangle.roundedbottom
     /// - Alias: l1.button.roundedbottom.horizontal
-    static let l1RectangleRoundedbottom = SFSymbol(.l1RectangleRoundedbottom, releaseYear: ._2020)
+    static let l1RectangleRoundedbottom = SFSymbol(.l1RectangleRoundedbottom, releaseYear: ._2020, recommendedRawValue: "l1.button.roundedbottom.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l1.rectangle.roundedbottom.fill
     /// - Alias: l1.button.roundedbottom.horizontal.fill
-    static let l1RectangleRoundedbottomFill = SFSymbol(.l1RectangleRoundedbottomFill, releaseYear: ._2020)
+    static let l1RectangleRoundedbottomFill = SFSymbol(.l1RectangleRoundedbottomFill, releaseYear: ._2020, recommendedRawValue: "l1.button.roundedbottom.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l2.rectangle.roundedtop
     /// - Alias: l2.button.roundedtop.horizontal
-    static let l2RectangleRoundedtop = SFSymbol(.l2RectangleRoundedtop, releaseYear: ._2020)
+    static let l2RectangleRoundedtop = SFSymbol(.l2RectangleRoundedtop, releaseYear: ._2020, recommendedRawValue: "l2.button.roundedtop.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l2.rectangle.roundedtop.fill
     /// - Alias: l2.button.roundedtop.horizontal.fill
-    static let l2RectangleRoundedtopFill = SFSymbol(.l2RectangleRoundedtopFill, releaseYear: ._2020)
+    static let l2RectangleRoundedtopFill = SFSymbol(.l2RectangleRoundedtopFill, releaseYear: ._2020, recommendedRawValue: "l2.button.roundedtop.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4625,13 +4603,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: laptopcomputer.and.iphone
     /// - Alias: macbook.and.iphone
-    static let laptopcomputerAndIphone = SFSymbol(.laptopcomputerAndIphone, releaseYear: ._2020)
+    static let laptopcomputerAndIphone = SFSymbol(.laptopcomputerAndIphone, releaseYear: ._2020, recommendedRawValue: "macbook.and.iphone")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lasso.sparkles
     /// - Alias: lasso.badge.sparkles
-    static let lassoSparkles = SFSymbol(.lassoSparkles, releaseYear: ._2020)
+    static let lassoSparkles = SFSymbol(.lassoSparkles, releaseYear: ._2020, recommendedRawValue: "lasso.badge.sparkles")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4649,13 +4627,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: lb.rectangle.roundedbottom
     /// - Alias: lb.button.roundedbottom.horizontal
-    static let lbRectangleRoundedbottom = SFSymbol(.lbRectangleRoundedbottom, releaseYear: ._2020)
+    static let lbRectangleRoundedbottom = SFSymbol(.lbRectangleRoundedbottom, releaseYear: ._2020, recommendedRawValue: "lb.button.roundedbottom.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lb.rectangle.roundedbottom.fill
     /// - Alias: lb.button.roundedbottom.horizontal.fill
-    static let lbRectangleRoundedbottomFill = SFSymbol(.lbRectangleRoundedbottomFill, releaseYear: ._2020)
+    static let lbRectangleRoundedbottomFill = SFSymbol(.lbRectangleRoundedbottomFill, releaseYear: ._2020, recommendedRawValue: "lb.button.roundedbottom.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4669,7 +4647,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: leaf.arrow.triangle.circlepath
-    /// - Alias: leaf.arrow.circlepath
     /// - Category: arrows, multicolor, nature
     ///
     /// Availabilities:
@@ -4738,25 +4715,25 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: line.horizontal.2.decrease.circle
     /// - Alias: line.2.horizontal.decrease.circle
-    static let lineHorizontal2DecreaseCircle = SFSymbol(.lineHorizontal2DecreaseCircle, releaseYear: ._2020)
+    static let lineHorizontal2DecreaseCircle = SFSymbol(.lineHorizontal2DecreaseCircle, releaseYear: ._2020, recommendedRawValue: "line.2.horizontal.decrease.circle")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.horizontal.2.decrease.circle.fill
     /// - Alias: line.2.horizontal.decrease.circle.fill
-    static let lineHorizontal2DecreaseCircleFill = SFSymbol(.lineHorizontal2DecreaseCircleFill, releaseYear: ._2020)
+    static let lineHorizontal2DecreaseCircleFill = SFSymbol(.lineHorizontal2DecreaseCircleFill, releaseYear: ._2020, recommendedRawValue: "line.2.horizontal.decrease.circle.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.horizontal.3.circle
     /// - Alias: line.3.horizontal.circle
-    static let lineHorizontal3Circle = SFSymbol(.lineHorizontal3Circle, releaseYear: ._2020)
+    static let lineHorizontal3Circle = SFSymbol(.lineHorizontal3Circle, releaseYear: ._2020, recommendedRawValue: "line.3.horizontal.circle")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.horizontal.3.circle.fill
     /// - Alias: line.3.horizontal.circle.fill
-    static let lineHorizontal3CircleFill = SFSymbol(.lineHorizontal3CircleFill, releaseYear: ._2020)
+    static let lineHorizontal3CircleFill = SFSymbol(.lineHorizontal3CircleFill, releaseYear: ._2020, recommendedRawValue: "line.3.horizontal.circle.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4831,7 +4808,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: livephoto.badge.a
     /// - Alias: livephoto.badge.automatic
-    static let livephotoBadgeA = SFSymbol(.livephotoBadgeA, releaseYear: ._2020)
+    static let livephotoBadgeA = SFSymbol(.livephotoBadgeA, releaseYear: ._2020, recommendedRawValue: "livephoto.badge.automatic")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -4976,13 +4953,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: lt.rectangle.roundedtop
     /// - Alias: lt.button.roundedtop.horizontal
-    static let ltRectangleRoundedtop = SFSymbol(.ltRectangleRoundedtop, releaseYear: ._2020)
+    static let ltRectangleRoundedtop = SFSymbol(.ltRectangleRoundedtop, releaseYear: ._2020, recommendedRawValue: "lt.button.roundedtop.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lt.rectangle.roundedtop.fill
     /// - Alias: lt.button.roundedtop.horizontal.fill
-    static let ltRectangleRoundedtopFill = SFSymbol(.ltRectangleRoundedtopFill, releaseYear: ._2020)
+    static let ltRectangleRoundedtopFill = SFSymbol(.ltRectangleRoundedtopFill, releaseYear: ._2020, recommendedRawValue: "lt.button.roundedtop.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -5276,7 +5253,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.note.house
-    /// - Alias: music.house
     /// - Category: media
     ///
     /// Availabilities:
@@ -5286,7 +5262,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.note.house.fill
-    /// - Alias: music.house.fill
     /// - Category: media
     ///
     /// Availabilities:
@@ -5486,7 +5461,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: paragraphsign
-    /// - Alias: paragraph
     /// - Category: textformatting
     static let paragraphsign = SFSymbol(.paragraphsign, releaseYear: ._2020, category: [ .textformatting ])
 
@@ -5547,7 +5521,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.badge.exclamationmark
-    /// - Alias: person.crop.circle.badge.exclam
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -5579,25 +5552,25 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: person.crop.circle.fill.badge.exclamationmark
     /// - Alias: person.crop.circle.badge.exclamationmark.fill
-    static let personCropCircleFillBadgeExclamationmark = SFSymbol(.personCropCircleFillBadgeExclamationmark, releaseYear: ._2020, keywords: ["!", "account", "contact", "error", "people", "user", "warning"])
+    static let personCropCircleFillBadgeExclamationmark = SFSymbol(.personCropCircleFillBadgeExclamationmark, releaseYear: ._2020, recommendedRawValue: "person.crop.circle.badge.exclamationmark.fill", keywords: ["!", "account", "contact", "error", "people", "user", "warning"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.fill.badge.questionmark
     /// - Alias: person.crop.circle.badge.questionmark.fill
-    static let personCropCircleFillBadgeQuestionmark = SFSymbol(.personCropCircleFillBadgeQuestionmark, releaseYear: ._2020, keywords: ["?", "account", "contact", "people", "user"])
+    static let personCropCircleFillBadgeQuestionmark = SFSymbol(.personCropCircleFillBadgeQuestionmark, releaseYear: ._2020, recommendedRawValue: "person.crop.circle.badge.questionmark.fill", keywords: ["?", "account", "contact", "people", "user"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.fill.badge.questionmark.ar
     /// - Alias: person.crop.circle.badge.questionmark.fill.ar
-    static let personCropCircleFillBadgeQuestionmarkAr = SFSymbol(.personCropCircleFillBadgeQuestionmarkAr, releaseYear: ._2020, keywords: ["account", "contact", "people", "user"])
+    static let personCropCircleFillBadgeQuestionmarkAr = SFSymbol(.personCropCircleFillBadgeQuestionmarkAr, releaseYear: ._2020, recommendedRawValue: "person.crop.circle.badge.questionmark.fill.ar", keywords: ["account", "contact", "people", "user"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.square.fill.and.at.rectangle
     /// - Alias: person.crop.square.filled.and.at.rectangle
-    static let personCropSquareFillAndAtRectangle = SFSymbol(.personCropSquareFillAndAtRectangle, releaseYear: ._2020, keywords: ["people", "vcard"])
+    static let personCropSquareFillAndAtRectangle = SFSymbol(.personCropSquareFillAndAtRectangle, releaseYear: ._2020, recommendedRawValue: "person.crop.square.filled.and.at.rectangle", keywords: ["people", "vcard"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -5611,7 +5584,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.fill.badge.minus
-    /// - Alias: person.badge.minus.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -5622,7 +5594,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.fill.badge.plus
-    /// - Alias: person.badge.plus.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -5724,13 +5695,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: phone.bubble.left
     /// - Alias: phone.bubble
-    static let phoneBubbleLeft = SFSymbol(.phoneBubbleLeft, releaseYear: ._2020)
+    static let phoneBubbleLeft = SFSymbol(.phoneBubbleLeft, releaseYear: ._2020, recommendedRawValue: "phone.bubble")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.bubble.left.fill
     /// - Alias: phone.bubble.fill
-    static let phoneBubbleLeftFill = SFSymbol(.phoneBubbleLeftFill, releaseYear: ._2020)
+    static let phoneBubbleLeftFill = SFSymbol(.phoneBubbleLeftFill, releaseYear: ._2020, recommendedRawValue: "phone.bubble.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -5745,7 +5716,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: phone.fill.connection
     /// - Alias: phone.connection.fill
-    static let phoneFillConnection = SFSymbol(.phoneFillConnection, releaseYear: ._2020)
+    static let phoneFillConnection = SFSymbol(.phoneFillConnection, releaseYear: ._2020, recommendedRawValue: "phone.connection.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -5907,7 +5878,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: plus.rectangle.fill.on.folder.fill
     /// - Alias: plus.rectangle.on.folder.fill
-    static let plusRectangleFillOnFolderFill = SFSymbol(.plusRectangleFillOnFolderFill, releaseYear: ._2020, keywords: ["add"])
+    static let plusRectangleFillOnFolderFill = SFSymbol(.plusRectangleFillOnFolderFill, releaseYear: ._2020, recommendedRawValue: "plus.rectangle.on.folder.fill", keywords: ["add"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -5952,13 +5923,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: point.fill.topleft.down.curvedto.point.fill.bottomright.up
     /// - Alias: point.topleft.down.to.point.bottomright.curvepath.fill
-    static let pointFillTopleftDownCurvedtoPointFillBottomrightUp = SFSymbol(.pointFillTopleftDownCurvedtoPointFillBottomrightUp, releaseYear: ._2020, keywords: ["activities", "path", "trail"])
+    static let pointFillTopleftDownCurvedtoPointFillBottomrightUp = SFSymbol(.pointFillTopleftDownCurvedtoPointFillBottomrightUp, releaseYear: ._2020, recommendedRawValue: "point.topleft.down.to.point.bottomright.curvepath.fill", keywords: ["activities", "path", "trail"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.curvedto.point.bottomright.up
     /// - Alias: point.topleft.down.to.point.bottomright.curvepath
-    static let pointTopleftDownCurvedtoPointBottomrightUp = SFSymbol(.pointTopleftDownCurvedtoPointBottomrightUp, releaseYear: ._2020, keywords: ["activities", "path", "trail"])
+    static let pointTopleftDownCurvedtoPointBottomrightUp = SFSymbol(.pointTopleftDownCurvedtoPointBottomrightUp, releaseYear: ._2020, recommendedRawValue: "point.topleft.down.to.point.bottomright.curvepath", keywords: ["activities", "path", "trail"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -5991,13 +5962,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: printer.dotmatrix.fill.and.paper.fill
     /// - Alias: printer.dotmatrix.filled.and.paper
-    static let printerDotmatrixFillAndPaperFill = SFSymbol(.printerDotmatrixFillAndPaperFill, releaseYear: ._2020)
+    static let printerDotmatrixFillAndPaperFill = SFSymbol(.printerDotmatrixFillAndPaperFill, releaseYear: ._2020, recommendedRawValue: "printer.dotmatrix.filled.and.paper")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: printer.fill.and.paper.fill
     /// - Alias: printer.filled.and.paper
-    static let printerFillAndPaperFill = SFSymbol(.printerFillAndPaperFill, releaseYear: ._2020)
+    static let printerFillAndPaperFill = SFSymbol(.printerFillAndPaperFill, releaseYear: ._2020, recommendedRawValue: "printer.filled.and.paper")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6147,7 +6118,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: questionmark.video.ar
-    /// - Alias: questionmark.video.rtl
     /// - Category: communication
     ///
     /// Availabilities:
@@ -6157,7 +6127,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: questionmark.video.fill.ar
-    /// - Alias: questionmark.video.fill.rtl
     /// - Category: communication
     ///
     /// Availabilities:
@@ -6197,13 +6166,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: r.joystick.down
     /// - Alias: r.joystick.press.down
-    static let rJoystickDown = SFSymbol(.rJoystickDown, releaseYear: ._2020)
+    static let rJoystickDown = SFSymbol(.rJoystickDown, releaseYear: ._2020, recommendedRawValue: "r.joystick.press.down")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.joystick.down.fill
     /// - Alias: r.joystick.press.down.fill
-    static let rJoystickDownFill = SFSymbol(.rJoystickDownFill, releaseYear: ._2020)
+    static let rJoystickDownFill = SFSymbol(.rJoystickDownFill, releaseYear: ._2020, recommendedRawValue: "r.joystick.press.down.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6219,19 +6188,19 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: r.rectangle.roundedbottom
     /// - Alias: r.button.roundedbottom.horizontal
-    static let rRectangleRoundedbottom = SFSymbol(.rRectangleRoundedbottom, releaseYear: ._2020)
+    static let rRectangleRoundedbottom = SFSymbol(.rRectangleRoundedbottom, releaseYear: ._2020, recommendedRawValue: "r.button.roundedbottom.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.rectangle.roundedbottom.fill
     /// - Alias: r.button.roundedbottom.horizontal.fill
-    static let rRectangleRoundedbottomFill = SFSymbol(.rRectangleRoundedbottomFill, releaseYear: ._2020)
+    static let rRectangleRoundedbottomFill = SFSymbol(.rRectangleRoundedbottomFill, releaseYear: ._2020, recommendedRawValue: "r.button.roundedbottom.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.square.fill.on.square.fill
     /// - Alias: r.square.on.square.fill
-    static let rSquareFillOnSquareFill = SFSymbol(.rSquareFillOnSquareFill, releaseYear: ._2020)
+    static let rSquareFillOnSquareFill = SFSymbol(.rSquareFillOnSquareFill, releaseYear: ._2020, recommendedRawValue: "r.square.on.square.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6246,25 +6215,25 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: r1.rectangle.roundedbottom
     /// - Alias: r1.button.roundedbottom.horizontal
-    static let r1RectangleRoundedbottom = SFSymbol(.r1RectangleRoundedbottom, releaseYear: ._2020)
+    static let r1RectangleRoundedbottom = SFSymbol(.r1RectangleRoundedbottom, releaseYear: ._2020, recommendedRawValue: "r1.button.roundedbottom.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r1.rectangle.roundedbottom.fill
     /// - Alias: r1.button.roundedbottom.horizontal.fill
-    static let r1RectangleRoundedbottomFill = SFSymbol(.r1RectangleRoundedbottomFill, releaseYear: ._2020)
+    static let r1RectangleRoundedbottomFill = SFSymbol(.r1RectangleRoundedbottomFill, releaseYear: ._2020, recommendedRawValue: "r1.button.roundedbottom.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r2.rectangle.roundedtop
     /// - Alias: r2.button.roundedtop.horizontal
-    static let r2RectangleRoundedtop = SFSymbol(.r2RectangleRoundedtop, releaseYear: ._2020)
+    static let r2RectangleRoundedtop = SFSymbol(.r2RectangleRoundedtop, releaseYear: ._2020, recommendedRawValue: "r2.button.roundedtop.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r2.rectangle.roundedtop.fill
     /// - Alias: r2.button.roundedtop.horizontal.fill
-    static let r2RectangleRoundedtopFill = SFSymbol(.r2RectangleRoundedtopFill, releaseYear: ._2020)
+    static let r2RectangleRoundedtopFill = SFSymbol(.r2RectangleRoundedtopFill, releaseYear: ._2020, recommendedRawValue: "r2.button.roundedtop.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6282,13 +6251,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: rb.rectangle.roundedbottom
     /// - Alias: rb.button.roundedbottom.horizontal
-    static let rbRectangleRoundedbottom = SFSymbol(.rbRectangleRoundedbottom, releaseYear: ._2020)
+    static let rbRectangleRoundedbottom = SFSymbol(.rbRectangleRoundedbottom, releaseYear: ._2020, recommendedRawValue: "rb.button.roundedbottom.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rb.rectangle.roundedbottom.fill
     /// - Alias: rb.button.roundedbottom.horizontal.fill
-    static let rbRectangleRoundedbottomFill = SFSymbol(.rbRectangleRoundedbottomFill, releaseYear: ._2020)
+    static let rbRectangleRoundedbottomFill = SFSymbol(.rbRectangleRoundedbottomFill, releaseYear: ._2020, recommendedRawValue: "rb.button.roundedbottom.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6313,18 +6282,17 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: rectangle.3.offgrid.bubble.left
     /// - Alias: rectangle.3.group.bubble
-    static let rectangle3OffgridBubbleLeft = SFSymbol(.rectangle3OffgridBubbleLeft, releaseYear: ._2020, keywords: ["speech"])
+    static let rectangle3OffgridBubbleLeft = SFSymbol(.rectangle3OffgridBubbleLeft, releaseYear: ._2020, recommendedRawValue: "rectangle.3.group.bubble", keywords: ["speech"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.offgrid.bubble.left.fill
     /// - Alias: rectangle.3.group.bubble.fill
-    static let rectangle3OffgridBubbleLeftFill = SFSymbol(.rectangle3OffgridBubbleLeftFill, releaseYear: ._2020, keywords: ["speech"])
+    static let rectangle3OffgridBubbleLeftFill = SFSymbol(.rectangle3OffgridBubbleLeftFill, releaseYear: ._2020, recommendedRawValue: "rectangle.3.group.bubble.fill", keywords: ["speech"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.and.pencil.and.ellipsis
-    /// - Alias: pencil.and.ellipsis.rectangle
     /// - Category: editing, objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -6402,13 +6370,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: rectangle.bottomthird.inset.fill
     /// - Alias: rectangle.bottomthird.inset.filled
-    static let rectangleBottomthirdInsetFill = SFSymbol(.rectangleBottomthirdInsetFill, releaseYear: ._2020)
+    static let rectangleBottomthirdInsetFill = SFSymbol(.rectangleBottomthirdInsetFill, releaseYear: ._2020, recommendedRawValue: "rectangle.bottomthird.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.center.inset.fill
     /// - Alias: rectangle.center.inset.filled
-    static let rectangleCenterInsetFill = SFSymbol(.rectangleCenterInsetFill, releaseYear: ._2020)
+    static let rectangleCenterInsetFill = SFSymbol(.rectangleCenterInsetFill, releaseYear: ._2020, recommendedRawValue: "rectangle.center.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6463,73 +6431,73 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.circle
     /// - Alias: rectangle.on.rectangle.circle
-    static let rectangleFillOnRectangleFillCircle = SFSymbol(.rectangleFillOnRectangleFillCircle, releaseYear: ._2020)
+    static let rectangleFillOnRectangleFillCircle = SFSymbol(.rectangleFillOnRectangleFillCircle, releaseYear: ._2020, recommendedRawValue: "rectangle.on.rectangle.circle")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.circle.fill
     /// - Alias: rectangle.on.rectangle.circle.fill
-    static let rectangleFillOnRectangleFillCircleFill = SFSymbol(.rectangleFillOnRectangleFillCircleFill, releaseYear: ._2020)
+    static let rectangleFillOnRectangleFillCircleFill = SFSymbol(.rectangleFillOnRectangleFillCircleFill, releaseYear: ._2020, recommendedRawValue: "rectangle.on.rectangle.circle.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.fill.on.rectangle.fill.slash.fill
     /// - Alias: rectangle.on.rectangle.slash.fill
-    static let rectangleFillOnRectangleFillSlashFill = SFSymbol(.rectangleFillOnRectangleFillSlashFill, releaseYear: ._2020, keywords: ["remove"])
+    static let rectangleFillOnRectangleFillSlashFill = SFSymbol(.rectangleFillOnRectangleFillSlashFill, releaseYear: ._2020, recommendedRawValue: "rectangle.on.rectangle.slash.fill", keywords: ["remove"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.bottomleft.fill
     /// - Alias: rectangle.inset.bottomleft.filled
-    static let rectangleInsetBottomleftFill = SFSymbol(.rectangleInsetBottomleftFill, releaseYear: ._2020)
+    static let rectangleInsetBottomleftFill = SFSymbol(.rectangleInsetBottomleftFill, releaseYear: ._2020, recommendedRawValue: "rectangle.inset.bottomleft.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.bottomright.fill
     /// - Alias: rectangle.inset.bottomright.filled
-    static let rectangleInsetBottomrightFill = SFSymbol(.rectangleInsetBottomrightFill, releaseYear: ._2020)
+    static let rectangleInsetBottomrightFill = SFSymbol(.rectangleInsetBottomrightFill, releaseYear: ._2020, recommendedRawValue: "rectangle.inset.bottomright.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.fill
     /// - Alias: rectangle.inset.filled
-    static let rectangleInsetFill = SFSymbol(.rectangleInsetFill, releaseYear: ._2020)
+    static let rectangleInsetFill = SFSymbol(.rectangleInsetFill, releaseYear: ._2020, recommendedRawValue: "rectangle.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.topleft.fill
     /// - Alias: rectangle.inset.topleft.filled
-    static let rectangleInsetTopleftFill = SFSymbol(.rectangleInsetTopleftFill, releaseYear: ._2020)
+    static let rectangleInsetTopleftFill = SFSymbol(.rectangleInsetTopleftFill, releaseYear: ._2020, recommendedRawValue: "rectangle.inset.topleft.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.topright.fill
     /// - Alias: rectangle.inset.topright.filled
-    static let rectangleInsetToprightFill = SFSymbol(.rectangleInsetToprightFill, releaseYear: ._2020)
+    static let rectangleInsetToprightFill = SFSymbol(.rectangleInsetToprightFill, releaseYear: ._2020, recommendedRawValue: "rectangle.inset.topright.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.lefthalf.fill
     /// - Alias: rectangle.lefthalf.filled
-    static let rectangleLefthalfFill = SFSymbol(.rectangleLefthalfFill, releaseYear: ._2020)
+    static let rectangleLefthalfFill = SFSymbol(.rectangleLefthalfFill, releaseYear: ._2020, recommendedRawValue: "rectangle.lefthalf.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.lefthalf.inset.fill
     /// - Alias: rectangle.lefthalf.inset.filled
-    static let rectangleLefthalfInsetFill = SFSymbol(.rectangleLefthalfInsetFill, releaseYear: ._2020)
+    static let rectangleLefthalfInsetFill = SFSymbol(.rectangleLefthalfInsetFill, releaseYear: ._2020, recommendedRawValue: "rectangle.lefthalf.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.lefthalf.inset.fill.arrow.left
     /// - Alias: rectangle.lefthalf.inset.filled.arrow.left
-    static let rectangleLefthalfInsetFillArrowLeft = SFSymbol(.rectangleLefthalfInsetFillArrowLeft, releaseYear: ._2020)
+    static let rectangleLefthalfInsetFillArrowLeft = SFSymbol(.rectangleLefthalfInsetFillArrowLeft, releaseYear: ._2020, recommendedRawValue: "rectangle.lefthalf.inset.filled.arrow.left")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.leftthird.inset.fill
     /// - Alias: rectangle.leftthird.inset.filled
-    static let rectangleLeftthirdInsetFill = SFSymbol(.rectangleLeftthirdInsetFill, releaseYear: ._2020)
+    static let rectangleLeftthirdInsetFill = SFSymbol(.rectangleLeftthirdInsetFill, releaseYear: ._2020, recommendedRawValue: "rectangle.leftthird.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6571,49 +6539,49 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: rectangle.righthalf.fill
     /// - Alias: rectangle.righthalf.filled
-    static let rectangleRighthalfFill = SFSymbol(.rectangleRighthalfFill, releaseYear: ._2020)
+    static let rectangleRighthalfFill = SFSymbol(.rectangleRighthalfFill, releaseYear: ._2020, recommendedRawValue: "rectangle.righthalf.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.righthalf.inset.fill
     /// - Alias: rectangle.righthalf.inset.filled
-    static let rectangleRighthalfInsetFill = SFSymbol(.rectangleRighthalfInsetFill, releaseYear: ._2020)
+    static let rectangleRighthalfInsetFill = SFSymbol(.rectangleRighthalfInsetFill, releaseYear: ._2020, recommendedRawValue: "rectangle.righthalf.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.righthalf.inset.fill.arrow.right
     /// - Alias: rectangle.righthalf.inset.filled.arrow.right
-    static let rectangleRighthalfInsetFillArrowRight = SFSymbol(.rectangleRighthalfInsetFillArrowRight, releaseYear: ._2020)
+    static let rectangleRighthalfInsetFillArrowRight = SFSymbol(.rectangleRighthalfInsetFillArrowRight, releaseYear: ._2020, recommendedRawValue: "rectangle.righthalf.inset.filled.arrow.right")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.rightthird.inset.fill
     /// - Alias: rectangle.rightthird.inset.filled
-    static let rectangleRightthirdInsetFill = SFSymbol(.rectangleRightthirdInsetFill, releaseYear: ._2020)
+    static let rectangleRightthirdInsetFill = SFSymbol(.rectangleRightthirdInsetFill, releaseYear: ._2020, recommendedRawValue: "rectangle.rightthird.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.roundedbottom
     /// - Alias: button.roundedbottom.horizontal
-    static let rectangleRoundedbottom = SFSymbol(.rectangleRoundedbottom, releaseYear: ._2020)
+    static let rectangleRoundedbottom = SFSymbol(.rectangleRoundedbottom, releaseYear: ._2020, recommendedRawValue: "button.roundedbottom.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.roundedbottom.fill
     /// - Alias: button.roundedbottom.horizontal.fill
-    static let rectangleRoundedbottomFill = SFSymbol(.rectangleRoundedbottomFill, releaseYear: ._2020)
+    static let rectangleRoundedbottomFill = SFSymbol(.rectangleRoundedbottomFill, releaseYear: ._2020, recommendedRawValue: "button.roundedbottom.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.roundedtop
     /// - Alias: button.roundedtop.horizontal
-    static let rectangleRoundedtop = SFSymbol(.rectangleRoundedtop, releaseYear: ._2020)
+    static let rectangleRoundedtop = SFSymbol(.rectangleRoundedtop, releaseYear: ._2020, recommendedRawValue: "button.roundedtop.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.roundedtop.fill
     /// - Alias: button.roundedtop.horizontal.fill
-    static let rectangleRoundedtopFill = SFSymbol(.rectangleRoundedtopFill, releaseYear: ._2020)
+    static let rectangleRoundedtopFill = SFSymbol(.rectangleRoundedtopFill, releaseYear: ._2020, recommendedRawValue: "button.roundedtop.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6684,13 +6652,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: rt.rectangle.roundedtop
     /// - Alias: rt.button.roundedtop.horizontal
-    static let rtRectangleRoundedtop = SFSymbol(.rtRectangleRoundedtop, releaseYear: ._2020)
+    static let rtRectangleRoundedtop = SFSymbol(.rtRectangleRoundedtop, releaseYear: ._2020, recommendedRawValue: "rt.button.roundedtop.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rt.rectangle.roundedtop.fill
     /// - Alias: rt.button.roundedtop.horizontal.fill
-    static let rtRectangleRoundedtopFill = SFSymbol(.rtRectangleRoundedtopFill, releaseYear: ._2020)
+    static let rtRectangleRoundedtopFill = SFSymbol(.rtRectangleRoundedtopFill, releaseYear: ._2020, recommendedRawValue: "rt.button.roundedtop.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -6794,7 +6762,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.circle
-    /// - Alias: sheqelsign.circle
     /// - Category: commerce, indices
     ///
     /// Availabilities:
@@ -6804,7 +6771,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.circle.fill
-    /// - Alias: sheqelsign.circle.fill
     /// - Category: commerce, indices, multicolor
     ///
     /// Availabilities:
@@ -6815,7 +6781,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.square
-    /// - Alias: sheqelsign.square
     /// - Category: commerce, indices
     ///
     /// Availabilities:
@@ -6825,7 +6790,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.square.fill
-    /// - Alias: sheqelsign.square.fill
     /// - Category: commerce, indices, multicolor
     ///
     /// Availabilities:
@@ -6837,19 +6801,17 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: shield.lefthalf.fill.slash
     /// - Alias: shield.lefthalf.filled.slash
-    static let shieldLefthalfFillSlash = SFSymbol(.shieldLefthalfFillSlash, releaseYear: ._2020, keywords: ["remove"])
+    static let shieldLefthalfFillSlash = SFSymbol(.shieldLefthalfFillSlash, releaseYear: ._2020, recommendedRawValue: "shield.lefthalf.filled.slash", keywords: ["remove"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shippingbox
-    /// - Alias: cube.box
     /// - Category: objectsandtools
     static let shippingbox = SFSymbol(.shippingbox, releaseYear: ._2020, category: [ .objectsandtools ])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shippingbox.fill
-    /// - Alias: cube.box.fill
     /// - Category: objectsandtools
     static let shippingboxFill = SFSymbol(.shippingboxFill, releaseYear: ._2020, category: [ .objectsandtools ])
 
@@ -6968,14 +6930,13 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sleep
-    /// - Alias: circle.bottomthird.split
     static let sleep = SFSymbol(.sleep, releaseYear: ._2020, keywords: ["sleep"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: slider.horizontal.below.square.fill.and.square
     /// - Alias: slider.horizontal.below.square.filled.and.square
-    static let sliderHorizontalBelowSquareFillAndSquare = SFSymbol(.sliderHorizontalBelowSquareFillAndSquare, releaseYear: ._2020, keywords: ["adjust", "edit"])
+    static let sliderHorizontalBelowSquareFillAndSquare = SFSymbol(.sliderHorizontalBelowSquareFillAndSquare, releaseYear: ._2020, recommendedRawValue: "slider.horizontal.below.square.filled.and.square", keywords: ["adjust", "edit"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7013,7 +6974,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: sparkles.square.fill.on.square
     /// - Alias: sparkles.square.filled.on.square
-    static let sparklesSquareFillOnSquare = SFSymbol(.sparklesSquareFillOnSquare, releaseYear: ._2020)
+    static let sparklesSquareFillOnSquare = SFSymbol(.sparklesSquareFillOnSquare, releaseYear: ._2020, recommendedRawValue: "sparkles.square.filled.on.square")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7056,7 +7017,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.1
-    /// - Alias: volume.1
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -7067,7 +7027,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.1.fill
-    /// - Alias: volume.1.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -7078,7 +7037,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2
-    /// - Alias: volume.2
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -7109,7 +7067,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.fill
-    /// - Alias: volume.2.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -7120,7 +7077,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.3
-    /// - Alias: volume.3
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -7131,7 +7087,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.3.fill
-    /// - Alias: volume.3.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -7143,43 +7098,43 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.2.stack.3d
     /// - Alias: square.2.layers.3d
-    static let square2Stack3D = SFSymbol(.square2Stack3D, releaseYear: ._2020)
+    static let square2Stack3D = SFSymbol(.square2Stack3D, releaseYear: ._2020, recommendedRawValue: "square.2.layers.3d")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.2.stack.3d.bottom.fill
     /// - Alias: square.2.layers.3d.bottom.filled
-    static let square2Stack3DBottomFill = SFSymbol(.square2Stack3DBottomFill, releaseYear: ._2020)
+    static let square2Stack3DBottomFill = SFSymbol(.square2Stack3DBottomFill, releaseYear: ._2020, recommendedRawValue: "square.2.layers.3d.bottom.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.2.stack.3d.top.fill
     /// - Alias: square.2.layers.3d.top.filled
-    static let square2Stack3DTopFill = SFSymbol(.square2Stack3DTopFill, releaseYear: ._2020)
+    static let square2Stack3DTopFill = SFSymbol(.square2Stack3DTopFill, releaseYear: ._2020, recommendedRawValue: "square.2.layers.3d.top.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d
     /// - Alias: square.3.layers.3d
-    static let square3Stack3D = SFSymbol(.square3Stack3D, releaseYear: ._2020)
+    static let square3Stack3D = SFSymbol(.square3Stack3D, releaseYear: ._2020, recommendedRawValue: "square.3.layers.3d")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d.bottom.fill
     /// - Alias: square.3.layers.3d.bottom.filled
-    static let square3Stack3DBottomFill = SFSymbol(.square3Stack3DBottomFill, releaseYear: ._2020)
+    static let square3Stack3DBottomFill = SFSymbol(.square3Stack3DBottomFill, releaseYear: ._2020, recommendedRawValue: "square.3.layers.3d.bottom.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d.middle.fill
     /// - Alias: square.3.layers.3d.middle.filled
-    static let square3Stack3DMiddleFill = SFSymbol(.square3Stack3DMiddleFill, releaseYear: ._2020)
+    static let square3Stack3DMiddleFill = SFSymbol(.square3Stack3DMiddleFill, releaseYear: ._2020, recommendedRawValue: "square.3.layers.3d.middle.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d.top.fill
     /// - Alias: square.3.layers.3d.top.filled
-    static let square3Stack3DTopFill = SFSymbol(.square3Stack3DTopFill, releaseYear: ._2020)
+    static let square3Stack3DTopFill = SFSymbol(.square3Stack3DTopFill, releaseYear: ._2020, recommendedRawValue: "square.3.layers.3d.top.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7193,7 +7148,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.bottomhalf.fill
     /// - Alias: square.bottomhalf.filled
-    static let squareBottomhalfFill = SFSymbol(.squareBottomhalfFill, releaseYear: ._2020)
+    static let squareBottomhalfFill = SFSymbol(.squareBottomhalfFill, releaseYear: ._2020, recommendedRawValue: "square.bottomhalf.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7224,13 +7179,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.dashed.inset.fill
     /// - Alias: square.dashed.inset.filled
-    static let squareDashedInsetFill = SFSymbol(.squareDashedInsetFill, releaseYear: ._2020)
+    static let squareDashedInsetFill = SFSymbol(.squareDashedInsetFill, releaseYear: ._2020, recommendedRawValue: "square.dashed.inset.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.fill.on.square
     /// - Alias: square.filled.on.square
-    static let squareFillOnSquare = SFSymbol(.squareFillOnSquare, releaseYear: ._2020)
+    static let squareFillOnSquare = SFSymbol(.squareFillOnSquare, releaseYear: ._2020, recommendedRawValue: "square.filled.on.square")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7249,7 +7204,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.grid.3x1.fill.below.line.grid.1x2
     /// - Alias: square.grid.3x1.below.line.grid.1x2.fill
-    static let squareGrid3X1FillBelowLineGrid1X2 = SFSymbol(.squareGrid3X1FillBelowLineGrid1X2, releaseYear: ._2020)
+    static let squareGrid3X1FillBelowLineGrid1X2 = SFSymbol(.squareGrid3X1FillBelowLineGrid1X2, releaseYear: ._2020, recommendedRawValue: "square.grid.3x1.below.line.grid.1x2.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7280,19 +7235,19 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.grid.3x3.bottomleft.fill
     /// - Alias: square.grid.3x3.bottomleft.filled
-    static let squareGrid3X3BottomleftFill = SFSymbol(.squareGrid3X3BottomleftFill, releaseYear: ._2020)
+    static let squareGrid3X3BottomleftFill = SFSymbol(.squareGrid3X3BottomleftFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.bottomleft.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.bottommiddle.fill
     /// - Alias: square.grid.3x3.bottommiddle.filled
-    static let squareGrid3X3BottommiddleFill = SFSymbol(.squareGrid3X3BottommiddleFill, releaseYear: ._2020)
+    static let squareGrid3X3BottommiddleFill = SFSymbol(.squareGrid3X3BottommiddleFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.bottommiddle.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.bottomright.fill
     /// - Alias: square.grid.3x3.bottomright.filled
-    static let squareGrid3X3BottomrightFill = SFSymbol(.squareGrid3X3BottomrightFill, releaseYear: ._2020)
+    static let squareGrid3X3BottomrightFill = SFSymbol(.squareGrid3X3BottomrightFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.bottomright.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7303,43 +7258,43 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.grid.3x3.fill.square
     /// - Alias: square.grid.3x3.square
-    static let squareGrid3X3FillSquare = SFSymbol(.squareGrid3X3FillSquare, releaseYear: ._2020)
+    static let squareGrid3X3FillSquare = SFSymbol(.squareGrid3X3FillSquare, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.square")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.middle.fill
     /// - Alias: square.grid.3x3.middle.filled
-    static let squareGrid3X3MiddleFill = SFSymbol(.squareGrid3X3MiddleFill, releaseYear: ._2020)
+    static let squareGrid3X3MiddleFill = SFSymbol(.squareGrid3X3MiddleFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.middle.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.middleleft.fill
     /// - Alias: square.grid.3x3.middleleft.filled
-    static let squareGrid3X3MiddleleftFill = SFSymbol(.squareGrid3X3MiddleleftFill, releaseYear: ._2020)
+    static let squareGrid3X3MiddleleftFill = SFSymbol(.squareGrid3X3MiddleleftFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.middleleft.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.middleright.fill
     /// - Alias: square.grid.3x3.middleright.filled
-    static let squareGrid3X3MiddlerightFill = SFSymbol(.squareGrid3X3MiddlerightFill, releaseYear: ._2020)
+    static let squareGrid3X3MiddlerightFill = SFSymbol(.squareGrid3X3MiddlerightFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.middleright.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.topleft.fill
     /// - Alias: square.grid.3x3.topleft.filled
-    static let squareGrid3X3TopleftFill = SFSymbol(.squareGrid3X3TopleftFill, releaseYear: ._2020)
+    static let squareGrid3X3TopleftFill = SFSymbol(.squareGrid3X3TopleftFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.topleft.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.topmiddle.fill
     /// - Alias: square.grid.3x3.topmiddle.filled
-    static let squareGrid3X3TopmiddleFill = SFSymbol(.squareGrid3X3TopmiddleFill, releaseYear: ._2020)
+    static let squareGrid3X3TopmiddleFill = SFSymbol(.squareGrid3X3TopmiddleFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.topmiddle.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.topright.fill
     /// - Alias: square.grid.3x3.topright.filled
-    static let squareGrid3X3ToprightFill = SFSymbol(.squareGrid3X3ToprightFill, releaseYear: ._2020)
+    static let squareGrid3X3ToprightFill = SFSymbol(.squareGrid3X3ToprightFill, releaseYear: ._2020, recommendedRawValue: "square.grid.3x3.topright.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7430,7 +7385,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.forward.dottedline
-    /// - Alias: square.stack.3d.down.dottedline
     /// - Category: variablecolor
     ///
     /// Availabilities:
@@ -7452,19 +7406,19 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.stack.3d.up.badge.a
     /// - Alias: square.stack.3d.up.badge.automatic
-    static let squareStack3DUpBadgeA = SFSymbol(.squareStack3DUpBadgeA, releaseYear: ._2020, keywords: ["a"])
+    static let squareStack3DUpBadgeA = SFSymbol(.squareStack3DUpBadgeA, releaseYear: ._2020, recommendedRawValue: "square.stack.3d.up.badge.automatic", keywords: ["a"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.up.badge.a.fill
     /// - Alias: square.stack.3d.up.badge.automatic.fill
-    static let squareStack3DUpBadgeAFill = SFSymbol(.squareStack3DUpBadgeAFill, releaseYear: ._2020, keywords: ["a"])
+    static let squareStack3DUpBadgeAFill = SFSymbol(.squareStack3DUpBadgeAFill, releaseYear: ._2020, recommendedRawValue: "square.stack.3d.up.badge.automatic.fill", keywords: ["a"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.tophalf.fill
     /// - Alias: square.tophalf.filled
-    static let squareTophalfFill = SFSymbol(.squareTophalfFill, releaseYear: ._2020)
+    static let squareTophalfFill = SFSymbol(.squareTophalfFill, releaseYear: ._2020, recommendedRawValue: "square.tophalf.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7484,7 +7438,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: squareshape.dashed.squareshape
     /// - Alias: squareshape.dotted.squareshape
-    static let squareshapeDashedSquareshape = SFSymbol(.squareshapeDashedSquareshape, releaseYear: ._2020)
+    static let squareshapeDashedSquareshape = SFSymbol(.squareshapeDashedSquareshape, releaseYear: ._2020, recommendedRawValue: "squareshape.dotted.squareshape")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7510,13 +7464,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: squareshape.squareshape.dashed
     /// - Alias: squareshape.squareshape.dotted
-    static let squareshapeSquareshapeDashed = SFSymbol(.squareshapeSquareshapeDashed, releaseYear: ._2020)
+    static let squareshapeSquareshapeDashed = SFSymbol(.squareshapeSquareshapeDashed, releaseYear: ._2020, recommendedRawValue: "squareshape.squareshape.dotted")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: star.leadinghalf.fill
     /// - Alias: star.leadinghalf.filled
-    static let starLeadinghalfFill = SFSymbol(.starLeadinghalfFill, releaseYear: ._2020)
+    static let starLeadinghalfFill = SFSymbol(.starLeadinghalfFill, releaseYear: ._2020, recommendedRawValue: "star.leadinghalf.filled")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7590,36 +7544,34 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: t.bubble.ar
     /// - Alias: character.bubble.ar
-    static let tBubbleAr = SFSymbol(.tBubbleAr, releaseYear: ._2020)
+    static let tBubbleAr = SFSymbol(.tBubbleAr, releaseYear: ._2020, recommendedRawValue: "character.bubble.ar")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: t.bubble.fill.ar
     /// - Alias: character.bubble.fill.ar
-    static let tBubbleFillAr = SFSymbol(.tBubbleFillAr, releaseYear: ._2020)
+    static let tBubbleFillAr = SFSymbol(.tBubbleFillAr, releaseYear: ._2020, recommendedRawValue: "character.bubble.fill.ar")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: t.bubble.fill.he
     /// - Alias: character.bubble.fill.he
-    static let tBubbleFillHe = SFSymbol(.tBubbleFillHe, releaseYear: ._2020)
+    static let tBubbleFillHe = SFSymbol(.tBubbleFillHe, releaseYear: ._2020, recommendedRawValue: "character.bubble.fill.he")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: t.bubble.he
     /// - Alias: character.bubble.he
-    static let tBubbleHe = SFSymbol(.tBubbleHe, releaseYear: ._2020)
+    static let tBubbleHe = SFSymbol(.tBubbleHe, releaseYear: ._2020, recommendedRawValue: "character.bubble.he")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tablecells
-    /// - Alias: table
     static let tablecells = SFSymbol(.tablecells, releaseYear: ._2020)
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tablecells.badge.ellipsis
-    /// - Alias: table.badge.more
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -7631,12 +7583,11 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: tablecells.badge.ellipsis.fill
     /// - Alias: tablecells.fill.badge.ellipsis
-    static let tablecellsBadgeEllipsisFill = SFSymbol(.tablecellsBadgeEllipsisFill, releaseYear: ._2020, keywords: ["action", "dot.3", "extra", "more", "overflow", "…"])
+    static let tablecellsBadgeEllipsisFill = SFSymbol(.tablecellsBadgeEllipsisFill, releaseYear: ._2020, recommendedRawValue: "tablecells.fill.badge.ellipsis", keywords: ["action", "dot.3", "extra", "more", "overflow", "…"])
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tablecells.fill
-    /// - Alias: table.fill
     static let tablecellsFill = SFSymbol(.tablecellsFill, releaseYear: ._2020)
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7691,13 +7642,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: terminal
     /// - Alias: apple.terminal
-    static let terminal = SFSymbol(.terminal, releaseYear: ._2020)
+    static let terminal = SFSymbol(.terminal, releaseYear: ._2020, recommendedRawValue: "apple.terminal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: terminal.fill
     /// - Alias: apple.terminal.fill
-    static let terminalFill = SFSymbol(.terminalFill, releaseYear: ._2020)
+    static let terminalFill = SFSymbol(.terminalFill, releaseYear: ._2020, recommendedRawValue: "apple.terminal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7761,43 +7712,43 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: text.cursor.ar
     /// - Alias: character.cursor.ibeam.ar
-    static let textCursorAr = SFSymbol(.textCursorAr, releaseYear: ._2020)
+    static let textCursorAr = SFSymbol(.textCursorAr, releaseYear: ._2020, recommendedRawValue: "character.cursor.ibeam.ar")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.cursor.he
     /// - Alias: character.cursor.ibeam.he
-    static let textCursorHe = SFSymbol(.textCursorHe, releaseYear: ._2020)
+    static let textCursorHe = SFSymbol(.textCursorHe, releaseYear: ._2020, recommendedRawValue: "character.cursor.ibeam.he")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.cursor.hi
     /// - Alias: character.cursor.ibeam.hi
-    static let textCursorHi = SFSymbol(.textCursorHi, releaseYear: ._2020)
+    static let textCursorHi = SFSymbol(.textCursorHi, releaseYear: ._2020, recommendedRawValue: "character.cursor.ibeam.hi")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.cursor.ja
     /// - Alias: character.cursor.ibeam.ja
-    static let textCursorJa = SFSymbol(.textCursorJa, releaseYear: ._2020)
+    static let textCursorJa = SFSymbol(.textCursorJa, releaseYear: ._2020, recommendedRawValue: "character.cursor.ibeam.ja")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.cursor.ko
     /// - Alias: character.cursor.ibeam.ko
-    static let textCursorKo = SFSymbol(.textCursorKo, releaseYear: ._2020)
+    static let textCursorKo = SFSymbol(.textCursorKo, releaseYear: ._2020, recommendedRawValue: "character.cursor.ibeam.ko")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.cursor.th
     /// - Alias: character.cursor.ibeam.th
-    static let textCursorTh = SFSymbol(.textCursorTh, releaseYear: ._2020)
+    static let textCursorTh = SFSymbol(.textCursorTh, releaseYear: ._2020, recommendedRawValue: "character.cursor.ibeam.th")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.cursor.zh
     /// - Alias: character.cursor.ibeam.zh
-    static let textCursorZh = SFSymbol(.textCursorZh, releaseYear: ._2020)
+    static let textCursorZh = SFSymbol(.textCursorZh, releaseYear: ._2020, recommendedRawValue: "character.cursor.ibeam.zh")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7832,43 +7783,43 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: textbox.ar
     /// - Alias: character.textbox.ar
-    static let textboxAr = SFSymbol(.textboxAr, releaseYear: ._2020)
+    static let textboxAr = SFSymbol(.textboxAr, releaseYear: ._2020, recommendedRawValue: "character.textbox.ar")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textbox.he
     /// - Alias: character.textbox.he
-    static let textboxHe = SFSymbol(.textboxHe, releaseYear: ._2020)
+    static let textboxHe = SFSymbol(.textboxHe, releaseYear: ._2020, recommendedRawValue: "character.textbox.he")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textbox.hi
     /// - Alias: character.textbox.hi
-    static let textboxHi = SFSymbol(.textboxHi, releaseYear: ._2020)
+    static let textboxHi = SFSymbol(.textboxHi, releaseYear: ._2020, recommendedRawValue: "character.textbox.hi")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textbox.ja
     /// - Alias: character.textbox.ja
-    static let textboxJa = SFSymbol(.textboxJa, releaseYear: ._2020)
+    static let textboxJa = SFSymbol(.textboxJa, releaseYear: ._2020, recommendedRawValue: "character.textbox.ja")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textbox.ko
     /// - Alias: character.textbox.ko
-    static let textboxKo = SFSymbol(.textboxKo, releaseYear: ._2020)
+    static let textboxKo = SFSymbol(.textboxKo, releaseYear: ._2020, recommendedRawValue: "character.textbox.ko")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textbox.th
     /// - Alias: character.textbox.th
-    static let textboxTh = SFSymbol(.textboxTh, releaseYear: ._2020)
+    static let textboxTh = SFSymbol(.textboxTh, releaseYear: ._2020, recommendedRawValue: "character.textbox.th")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textbox.zh
     /// - Alias: character.textbox.zh
-    static let textboxZh = SFSymbol(.textboxZh, releaseYear: ._2020)
+    static let textboxZh = SFSymbol(.textboxZh, releaseYear: ._2020, recommendedRawValue: "character.textbox.zh")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -7963,7 +7914,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: tram.tunnel.fill
     /// - Alias: tram.fill.tunnel
-    static let tramTunnelFill = SFSymbol(.tramTunnelFill, releaseYear: ._2020)
+    static let tramTunnelFill = SFSymbol(.tramTunnelFill, releaseYear: ._2020, recommendedRawValue: "tram.fill.tunnel")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -8026,13 +7977,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: video.bubble.left
     /// - Alias: video.bubble
-    static let videoBubbleLeft = SFSymbol(.videoBubbleLeft, releaseYear: ._2020)
+    static let videoBubbleLeft = SFSymbol(.videoBubbleLeft, releaseYear: ._2020, recommendedRawValue: "video.bubble")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.bubble.left.fill
     /// - Alias: video.bubble.fill
-    static let videoBubbleLeftFill = SFSymbol(.videoBubbleLeftFill, releaseYear: ._2020)
+    static let videoBubbleLeftFill = SFSymbol(.videoBubbleLeftFill, releaseYear: ._2020, recommendedRawValue: "video.bubble.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
@@ -8047,7 +7998,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.fill.badge.plus
-    /// - Alias: video.badge.plus.fill
     /// - Category: communication, multicolor
     ///
     /// Availabilities:
@@ -8134,7 +8084,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wave.3.left
-    /// - Alias: radiowaves.left
     /// - Category: connectivity, variablecolor
     ///
     /// Availabilities:
@@ -8165,7 +8114,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wave.3.right
-    /// - Alias: radiowaves.right
     /// - Category: connectivity, variablecolor
     ///
     /// Availabilities:
@@ -8232,7 +8180,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: xmark.bin
-    /// - Alias: bin.xmark
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -8261,7 +8208,6 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: xmark.bin.fill
-    /// - Alias: bin.xmark.fill
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -8319,23 +8265,23 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: zl.rectangle.roundedtop
     /// - Alias: zl.button.roundedtop.horizontal
-    static let zlRectangleRoundedtop = SFSymbol(.zlRectangleRoundedtop, releaseYear: ._2020)
+    static let zlRectangleRoundedtop = SFSymbol(.zlRectangleRoundedtop, releaseYear: ._2020, recommendedRawValue: "zl.button.roundedtop.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zl.rectangle.roundedtop.fill
     /// - Alias: zl.button.roundedtop.horizontal.fill
-    static let zlRectangleRoundedtopFill = SFSymbol(.zlRectangleRoundedtopFill, releaseYear: ._2020)
+    static let zlRectangleRoundedtopFill = SFSymbol(.zlRectangleRoundedtopFill, releaseYear: ._2020, recommendedRawValue: "zl.button.roundedtop.horizontal.fill")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zr.rectangle.roundedtop
     /// - Alias: zr.button.roundedtop.horizontal
-    static let zrRectangleRoundedtop = SFSymbol(.zrRectangleRoundedtop, releaseYear: ._2020)
+    static let zrRectangleRoundedtop = SFSymbol(.zrRectangleRoundedtop, releaseYear: ._2020, recommendedRawValue: "zr.button.roundedtop.horizontal")
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zr.rectangle.roundedtop.fill
     /// - Alias: zr.button.roundedtop.horizontal.fill
-    static let zrRectangleRoundedtopFill = SFSymbol(.zrRectangleRoundedtopFill, releaseYear: ._2020)
+    static let zrRectangleRoundedtopFill = SFSymbol(.zrRectangleRoundedtopFill, releaseYear: ._2020, recommendedRawValue: "zr.button.roundedtop.horizontal.fill")
 }

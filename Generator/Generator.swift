@@ -162,9 +162,15 @@ struct SFSymbol {
         stringValues.append(prefix + "/// Support only \(cmt) and later")
         stringValues.append(prefix + "///")
         stringValues.append(prefix + "/// - Symbol Name: \(name)")
+        
+        if let legacyAlias {
+            stringValues.append(prefix + "/// - Legacy Name: \(legacyAlias)")
+        }
+        
         if let alias = alias {
             stringValues.append(prefix + "/// - Alias: \(alias)")
         }
+        
         if category.count > 0 {
             stringValues.append("\(prefix)/// - Category: \(category.sorted { $0 < $1}.joined(separator: ", "))")
         }
@@ -199,7 +205,6 @@ func loadSymbolPairs(at url: URL) throws -> [String: String]? {
         let components = pairString.components(separatedBy: "=").map({ $0.trimmingCharacters(in: .whitespacesAndNewlines) })
         guard components.count == 2 else { continue }
         results[components[0]] = components[1]
-        results[components[1]] = components[0]
     }
     return results
 }
@@ -549,7 +554,18 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 let categoryStr = categories.count > 0 ? categories.joined(separator: ", ") : ""
                 let releaseYear = sfsymbol.monochromeYearStr.releaseYear
                 
-                var parts: [String] = [ "releaseYear: .\(releaseYear)" ]
+                var parts: [String] = []
+                
+                parts.append("releaseYear: .\(releaseYear)")
+                
+                if let alias = sfsymbol.alias {
+                    parts.append("recommendedRawValue: \"\(alias)\"")
+                }
+                
+                if let legacyRawValue = sfsymbol.legacyAlias {
+                    parts.append("legacyRawValue: \"\(legacyRawValue)\"")
+                }
+                
                 
                 if !categoryStr.isEmpty {
                     parts.append("category: [ \(categoryStr) ]")

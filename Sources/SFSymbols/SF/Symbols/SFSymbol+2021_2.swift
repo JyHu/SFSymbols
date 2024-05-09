@@ -39,31 +39,31 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: beats.fit.pro
     /// - Alias: beats.fitpro
-    static let beatsFitPro = SFSymbol(.beatsFitPro, releaseYear: ._2021_2, keywords: ["audio", "sound", "speaker"])
+    static let beatsFitPro = SFSymbol(.beatsFitPro, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.chargingcase
     /// - Alias: beats.fitpro.chargingcase
-    static let beatsFitProChargingcase = SFSymbol(.beatsFitProChargingcase, releaseYear: ._2021_2, keywords: ["audio", "sound", "speaker"])
+    static let beatsFitProChargingcase = SFSymbol(.beatsFitProChargingcase, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.chargingcase", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.chargingcase.fill
     /// - Alias: beats.fitpro.chargingcase.fill
-    static let beatsFitProChargingcaseFill = SFSymbol(.beatsFitProChargingcaseFill, releaseYear: ._2021_2, keywords: ["audio", "sound", "speaker"])
+    static let beatsFitProChargingcaseFill = SFSymbol(.beatsFitProChargingcaseFill, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.chargingcase.fill", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.left
     /// - Alias: beats.fitpro.left
-    static let beatsFitProLeft = SFSymbol(.beatsFitProLeft, releaseYear: ._2021_2, keywords: ["audio", "sound", "speaker"])
+    static let beatsFitProLeft = SFSymbol(.beatsFitProLeft, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.left", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.right
     /// - Alias: beats.fitpro.right
-    static let beatsFitProRight = SFSymbol(.beatsFitProRight, releaseYear: ._2021_2, keywords: ["audio", "sound", "speaker"])
+    static let beatsFitProRight = SFSymbol(.beatsFitProRight, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.right", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
@@ -97,5 +97,5 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: square.3.stack.3d.slash
     /// - Alias: square.3.layers.3d.slash
-    static let square3Stack3DSlash = SFSymbol(.square3Stack3DSlash, releaseYear: ._2021_2)
+    static let square3Stack3DSlash = SFSymbol(.square3Stack3DSlash, releaseYear: ._2021_2, recommendedRawValue: "square.3.layers.3d.slash")
 }

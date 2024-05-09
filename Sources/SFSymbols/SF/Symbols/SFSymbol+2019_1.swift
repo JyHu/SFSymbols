@@ -62,13 +62,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: flip.horizontal
     /// - Alias: arrow.left.and.right.righttriangle.left.righttriangle.right
-    static let flipHorizontal = SFSymbol(.flipHorizontal, releaseYear: ._2019_1, keywords: ["flip horizontal"])
+    static let flipHorizontal = SFSymbol(.flipHorizontal, releaseYear: ._2019_1, recommendedRawValue: "arrow.left.and.right.righttriangle.left.righttriangle.right", keywords: ["flip horizontal"])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: flip.horizontal.fill
     /// - Alias: arrow.left.and.right.righttriangle.left.righttriangle.right.fill
-    static let flipHorizontalFill = SFSymbol(.flipHorizontalFill, releaseYear: ._2019_1, keywords: ["flip horizontal"])
+    static let flipHorizontalFill = SFSymbol(.flipHorizontalFill, releaseYear: ._2019_1, recommendedRawValue: "arrow.left.and.right.righttriangle.left.righttriangle.right.fill", keywords: ["flip horizontal"])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///

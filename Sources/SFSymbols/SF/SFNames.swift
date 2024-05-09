@@ -3787,7 +3787,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.right.circle
-    /// - Alias: arrow.upright.circle
     /// - Category: arrows
     ///
     /// Availabilities:
@@ -4629,7 +4628,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bag.fill.badge.minus
-    /// - Alias: bag.badge.minus.fill
     /// - Category: commerce, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -4641,7 +4639,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bag.fill.badge.plus
-    /// - Alias: bag.badge.plus.fill
     /// - Category: commerce, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -5496,7 +5493,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: cart.fill.badge.minus
-    /// - Alias: cart.badge.minus.fill
     /// - Category: commerce, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -5508,7 +5504,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: cart.fill.badge.plus
-    /// - Alias: cart.badge.plus.fill
     /// - Category: commerce, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -6653,7 +6648,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: decrease.indent
-    /// - Alias: text.chevron.left
     /// - Category: multicolor, textformatting
     ///
     /// Availabilities:
@@ -7878,7 +7872,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: folder.fill.badge.minus
-    /// - Alias: folder.badge.minus.fill
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -7890,7 +7883,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: folder.fill.badge.person.crop
-    /// - Alias: folder.badge.person.crop.fill
     /// - Category: human, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -7902,7 +7894,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: folder.fill.badge.plus
-    /// - Alias: folder.badge.plus.fill
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -9262,7 +9253,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: increase.indent
-    /// - Alias: text.chevron.right
     /// - Category: multicolor, textformatting
     ///
     /// Availabilities:
@@ -11230,7 +11220,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.2
-    /// - Alias: person.and.person
     /// - Category: human
     ///
     /// Availabilities:
@@ -11241,7 +11230,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.2.fill
-    /// - Alias: person.and.person.fill
     /// - Category: human
     ///
     /// Availabilities:
@@ -11412,7 +11400,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.fill.badge.checkmark
-    /// - Alias: person.crop.circle.badge.checkmark.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -11431,7 +11418,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.fill.badge.minus
-    /// - Alias: person.crop.circle.badge.minus.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -11443,7 +11429,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.fill.badge.plus
-    /// - Alias: person.crop.circle.badge.plus.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -11455,7 +11440,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.fill.badge.xmark
-    /// - Alias: person.crop.circle.badge.xmark.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -11776,7 +11760,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.fill.badge.plus
-    /// - Alias: phone.badge.plus.fill
     /// - Category: communication, multicolor
     ///
     /// Availabilities:
@@ -11802,7 +11785,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: photo.fill.on.rectangle.fill
-    /// - Alias: photo.on.rectangle.fill
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -12038,7 +12020,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: plus.rectangle.fill.on.rectangle.fill
-    /// - Alias: plus.rectangle.on.rectangle.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -12088,7 +12069,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: plus.square.fill.on.square.fill
-    /// - Alias: plus.square.on.square.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -12559,7 +12539,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.fill.badge.checkmark
-    /// - Alias: rectangle.badge.checkmark.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -12571,7 +12550,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.fill.badge.xmark
-    /// - Alias: rectangle.badge.xmark.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -12583,7 +12561,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.fill.on.rectangle.angled.fill
-    /// - Alias: rectangle.on.rectangle.angled.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -12593,7 +12570,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.fill.on.rectangle.fill
-    /// - Alias: rectangle.on.rectangle.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -12730,7 +12706,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.stack.fill.badge.minus
-    /// - Alias: rectangle.stack.badge.minus.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -12749,7 +12724,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.stack.fill.badge.plus
-    /// - Alias: rectangle.stack.badge.plus.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -13202,7 +13176,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: smallcircle.circle
-    /// - Alias: ring.circle
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -13212,7 +13185,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: smallcircle.circle.fill
-    /// - Alias: ring.circle.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -13286,7 +13258,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker
-    /// - Alias: volume
     /// - Category: objectsandtools
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0, *)
     case speaker = "speaker"
@@ -13336,7 +13307,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.fill
-    /// - Alias: volume.fill
     /// - Category: objectsandtools
     @available(iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0, *)
     case speakerFill = "speaker.fill"
@@ -13344,7 +13314,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.slash
-    /// - Alias: volume.slash
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -13355,7 +13324,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.slash.fill
-    /// - Alias: volume.slash.fill
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -13366,7 +13334,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.slash.fill.rtl
-    /// - Alias: volume.slash.fill.rtl
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -13377,7 +13344,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.slash.rtl
-    /// - Alias: volume.slash.rtl
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -13388,7 +13354,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.zzz
-    /// - Alias: volume.zzz
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -13399,7 +13364,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.zzz.fill
-    /// - Alias: volume.zzz.fill
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -13562,7 +13526,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.fill.on.circle.fill
-    /// - Alias: square.on.circle.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -13572,7 +13535,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.fill.on.square.fill
-    /// - Alias: square.on.square.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -14298,7 +14260,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: teletype.answer
-    /// - Alias: realtimetext
     /// - Category: accessibility, communication, multicolor
     ///
     /// Availabilities:
@@ -14585,7 +14546,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: thermometer.snowflake
-    /// - Alias: thermometer.snowlake
     /// - Category: multicolor, nature, weather
     ///
     /// Availabilities:
@@ -16727,7 +16687,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right
-    /// - Alias: flip.horizontal
     /// - Category: cameraandphotos, editing
     ///
     /// Availabilities:
@@ -16738,7 +16697,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.and.right.righttriangle.left.righttriangle.right.fill
-    /// - Alias: flip.horizontal.fill
     /// - Category: cameraandphotos, editing
     ///
     /// Availabilities:
@@ -16749,7 +16707,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right
-    /// - Alias: arrow.right.arrow.left
     /// - Category: arrows
     ///
     /// Availabilities:
@@ -16760,7 +16717,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.circle
-    /// - Alias: arrow.right.arrow.left.circle
     /// - Category: arrows
     ///
     /// Availabilities:
@@ -16771,7 +16727,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.circle.fill
-    /// - Alias: arrow.right.arrow.left.circle.fill
     /// - Category: arrows, multicolor
     ///
     /// Availabilities:
@@ -16783,7 +16738,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.square
-    /// - Alias: arrow.right.arrow.left.square
     /// - Category: arrows
     ///
     /// Availabilities:
@@ -16794,7 +16748,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.arrow.right.square.fill
-    /// - Alias: arrow.right.arrow.left.square.fill
     /// - Category: arrows, multicolor
     ///
     /// Availabilities:
@@ -16824,7 +16777,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath
-    /// - Alias: arrow.2.circlepath
     /// - Category: arrows, cameraandphotos
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case arrowTriangle2Circlepath = "arrow.triangle.2.circlepath"
@@ -16832,7 +16784,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.camera
-    /// - Alias: camera.rotate
     /// - Category: cameraandphotos, objectsandtools
     ///
     /// Availabilities:
@@ -16843,7 +16794,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.camera.fill
-    /// - Alias: camera.rotate.fill
     /// - Category: cameraandphotos, objectsandtools
     ///
     /// Availabilities:
@@ -16855,7 +16805,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.circle
-    /// - Alias: arrow.2.circlepath.circle
     /// - Category: arrows, cameraandphotos
     ///
     /// Availabilities:
@@ -16866,7 +16815,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.2.circlepath.circle.fill
-    /// - Alias: arrow.2.circlepath.circle.fill
     /// - Category: arrows, cameraandphotos, multicolor
     ///
     /// Availabilities:
@@ -16889,7 +16837,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.branch
-    /// - Alias: arrow.branch
     /// - Category: arrows, maps
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case arrowTriangleBranch = "arrow.triangle.branch"
@@ -16904,7 +16851,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.merge
-    /// - Alias: arrow.merge
     /// - Category: arrows, maps
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case arrowTriangleMerge = "arrow.triangle.merge"
@@ -16919,7 +16865,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.swap
-    /// - Alias: arrow.swap
     /// - Category: arrows, maps
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case arrowTriangleSwap = "arrow.triangle.swap"
@@ -16948,7 +16893,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond
-    /// - Alias: arrow.up.right.diamond
     /// - Category: arrows, maps
     ///
     /// Availabilities:
@@ -16959,7 +16903,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.triangle.turn.up.right.diamond.fill
-    /// - Alias: arrow.up.right.diamond.fill
     /// - Category: arrows, maps, multicolor
     ///
     /// Availabilities:
@@ -19085,7 +19028,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: cursorarrow.rays
-    /// - Alias: cursor.rays
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -19514,7 +19456,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dock.rectangle
-    /// - Alias: rectangle.dock
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -19700,7 +19641,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ellipsis.bubble
-    /// - Alias: ellipses.bubble
     /// - Category: accessibility, communication, variablecolor
     ///
     /// Availabilities:
@@ -19712,7 +19652,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ellipsis.bubble.fill
-    /// - Alias: ellipses.bubble.fill
     /// - Category: accessibility, communication, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -20101,7 +20040,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: face.smiling
-    /// - Alias: smiley
     /// - Category: human
     ///
     /// Availabilities:
@@ -21237,7 +21175,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: leaf.arrow.triangle.circlepath
-    /// - Alias: leaf.arrow.circlepath
     /// - Category: arrows, multicolor, nature
     ///
     /// Availabilities:
@@ -21924,7 +21861,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.note.house
-    /// - Alias: music.house
     /// - Category: media
     ///
     /// Availabilities:
@@ -21935,7 +21871,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.note.house.fill
-    /// - Alias: music.house.fill
     /// - Category: media
     ///
     /// Availabilities:
@@ -22163,7 +22098,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: paragraphsign
-    /// - Alias: paragraph
     /// - Category: textformatting
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case paragraphsign = "paragraphsign"
@@ -22231,7 +22165,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.badge.exclamationmark
-    /// - Alias: person.crop.circle.badge.exclam
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -22303,7 +22236,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.fill.badge.minus
-    /// - Alias: person.badge.minus.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -22315,7 +22247,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.fill.badge.plus
-    /// - Alias: person.badge.plus.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -22905,7 +22836,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: questionmark.video.ar
-    /// - Alias: questionmark.video.rtl
     /// - Category: communication
     ///
     /// Availabilities:
@@ -22916,7 +22846,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: questionmark.video.fill.ar
-    /// - Alias: questionmark.video.fill.rtl
     /// - Category: communication
     ///
     /// Availabilities:
@@ -23106,7 +23035,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.and.pencil.and.ellipsis
-    /// - Alias: pencil.and.ellipsis.rectangle
     /// - Category: editing, objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -23646,7 +23574,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.circle
-    /// - Alias: sheqelsign.circle
     /// - Category: commerce, indices
     ///
     /// Availabilities:
@@ -23657,7 +23584,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.circle.fill
-    /// - Alias: sheqelsign.circle.fill
     /// - Category: commerce, indices, multicolor
     ///
     /// Availabilities:
@@ -23669,7 +23595,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.square
-    /// - Alias: sheqelsign.square
     /// - Category: commerce, indices
     ///
     /// Availabilities:
@@ -23680,7 +23605,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shekelsign.square.fill
-    /// - Alias: sheqelsign.square.fill
     /// - Category: commerce, indices, multicolor
     ///
     /// Availabilities:
@@ -23699,7 +23623,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shippingbox
-    /// - Alias: cube.box
     /// - Category: objectsandtools
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case shippingbox = "shippingbox"
@@ -23707,7 +23630,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shippingbox.fill
-    /// - Alias: cube.box.fill
     /// - Category: objectsandtools
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case shippingboxFill = "shippingbox.fill"
@@ -23843,7 +23765,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sleep
-    /// - Alias: circle.bottomthird.split
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case sleep = "sleep"
 
@@ -23942,7 +23863,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.1
-    /// - Alias: volume.1
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -23954,7 +23874,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.1.fill
-    /// - Alias: volume.1.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -23966,7 +23885,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2
-    /// - Alias: volume.2
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -24000,7 +23918,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.fill
-    /// - Alias: volume.2.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -24012,7 +23929,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.3
-    /// - Alias: volume.3
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -24024,7 +23940,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.3.fill
-    /// - Alias: volume.3.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -24367,7 +24282,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.forward.dottedline
-    /// - Alias: square.stack.3d.down.dottedline
     /// - Category: variablecolor
     ///
     /// Availabilities:
@@ -24576,14 +24490,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tablecells
-    /// - Alias: table
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case tablecells = "tablecells"
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tablecells.badge.ellipsis
-    /// - Alias: table.badge.more
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -24602,7 +24514,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tablecells.fill
-    /// - Alias: table.fill
     @available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0, *)
     case tablecellsFill = "tablecells.fill"
 
@@ -25068,7 +24979,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.fill.badge.plus
-    /// - Alias: video.badge.plus.fill
     /// - Category: communication, multicolor
     ///
     /// Availabilities:
@@ -25165,7 +25075,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wave.3.left
-    /// - Alias: radiowaves.left
     /// - Category: connectivity, variablecolor
     ///
     /// Availabilities:
@@ -25199,7 +25108,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wave.3.right
-    /// - Alias: radiowaves.right
     /// - Category: connectivity, variablecolor
     ///
     /// Availabilities:
@@ -25273,7 +25181,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: xmark.bin
-    /// - Alias: bin.xmark
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -25305,7 +25212,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: xmark.bin.fill
-    /// - Alias: bin.xmark.fill
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -25492,7 +25398,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character
-    /// - Alias: a
     /// - Category: textformatting
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case character = "character"
@@ -25507,7 +25412,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed
-    /// - Alias: a.book.closed
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosed = "character.book.closed"
@@ -25515,7 +25419,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.ar
-    /// - Alias: a.book.closed.ar
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedAr = "character.book.closed.ar"
@@ -25523,7 +25426,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill
-    /// - Alias: a.book.closed.fill
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFill = "character.book.closed.fill"
@@ -25531,7 +25433,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ar
-    /// - Alias: a.book.closed.fill.ar
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFillAr = "character.book.closed.fill.ar"
@@ -25539,7 +25440,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.he
-    /// - Alias: a.book.closed.fill.he
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFillHe = "character.book.closed.fill.he"
@@ -25547,7 +25447,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.hi
-    /// - Alias: a.book.closed.fill.hi
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFillHi = "character.book.closed.fill.hi"
@@ -25555,7 +25454,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ja
-    /// - Alias: a.book.closed.fill.ja
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFillJa = "character.book.closed.fill.ja"
@@ -25563,7 +25461,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ko
-    /// - Alias: a.book.closed.fill.ko
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFillKo = "character.book.closed.fill.ko"
@@ -25571,7 +25468,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.th
-    /// - Alias: a.book.closed.fill.th
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFillTh = "character.book.closed.fill.th"
@@ -25579,7 +25475,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.zh
-    /// - Alias: a.book.closed.fill.zh
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedFillZh = "character.book.closed.fill.zh"
@@ -25587,7 +25482,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.he
-    /// - Alias: a.book.closed.he
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedHe = "character.book.closed.he"
@@ -25595,7 +25489,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.hi
-    /// - Alias: a.book.closed.hi
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedHi = "character.book.closed.hi"
@@ -25603,7 +25496,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.ja
-    /// - Alias: a.book.closed.ja
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedJa = "character.book.closed.ja"
@@ -25611,7 +25503,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.ko
-    /// - Alias: a.book.closed.ko
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedKo = "character.book.closed.ko"
@@ -25619,7 +25510,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.th
-    /// - Alias: a.book.closed.th
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedTh = "character.book.closed.th"
@@ -25627,7 +25517,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.zh
-    /// - Alias: a.book.closed.zh
     /// - Category: objectsandtools
     @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
     case characterBookClosedZh = "character.book.closed.zh"
@@ -26309,7 +26198,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble
-    /// - Alias: t.bubble
     /// - Category: communication
     ///
     /// Availabilities:
@@ -26320,7 +26208,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.ar
-    /// - Alias: t.bubble.ar
     /// - Category: communication
     ///
     /// Availabilities:
@@ -26331,7 +26218,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.fill
-    /// - Alias: t.bubble.fill
     /// - Category: communication
     ///
     /// Availabilities:
@@ -26343,7 +26229,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.ar
-    /// - Alias: t.bubble.fill.ar
     /// - Category: communication
     ///
     /// Availabilities:
@@ -26355,7 +26240,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.he
-    /// - Alias: t.bubble.fill.he
     /// - Category: communication
     ///
     /// Availabilities:
@@ -26367,7 +26251,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.bubble.he
-    /// - Alias: t.bubble.he
     /// - Category: communication
     ///
     /// Availabilities:
@@ -26378,7 +26261,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam
-    /// - Alias: text.cursor
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26389,7 +26271,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.ar
-    /// - Alias: text.cursor.ar
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26400,7 +26281,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.he
-    /// - Alias: text.cursor.he
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26411,7 +26291,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.hi
-    /// - Alias: text.cursor.hi
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26422,7 +26301,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.ja
-    /// - Alias: text.cursor.ja
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26433,7 +26311,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.ko
-    /// - Alias: text.cursor.ko
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26444,7 +26321,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.th
-    /// - Alias: text.cursor.th
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26455,7 +26331,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.cursor.ibeam.zh
-    /// - Alias: text.cursor.zh
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26466,7 +26341,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox
-    /// - Alias: textbox
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26477,7 +26351,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.ar
-    /// - Alias: textbox.ar
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26488,7 +26361,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.he
-    /// - Alias: textbox.he
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26499,7 +26371,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.hi
-    /// - Alias: textbox.hi
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26510,7 +26381,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.ja
-    /// - Alias: textbox.ja
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26521,7 +26391,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.ko
-    /// - Alias: textbox.ko
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26532,7 +26401,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.th
-    /// - Alias: textbox.th
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -26543,7 +26411,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.textbox.zh
-    /// - Alias: textbox.zh
     /// - Category: textformatting
     ///
     /// Availabilities:
@@ -27228,7 +27095,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.down.to.line.compact
-    /// - Alias: arrow.down.to.line.alt
     /// - Category: arrows, keyboard
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case arrowDownToLineCompact = "arrow.down.to.line.compact"
@@ -27285,7 +27151,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.left.to.line.compact
-    /// - Alias: arrow.left.to.line.alt
     /// - Category: arrows, keyboard
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case arrowLeftToLineCompact = "arrow.left.to.line.compact"
@@ -27314,7 +27179,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.right.to.line.compact
-    /// - Alias: arrow.right.to.line.alt
     /// - Category: arrows, keyboard
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case arrowRightToLineCompact = "arrow.right.to.line.compact"
@@ -27322,7 +27186,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.and.down.righttriangle.up.righttriangle.down.fill
-    /// - Alias: arrow.up.and.down.righttriangle.up.fill.righttriangle.down.fill
     /// - Category: cameraandphotos, editing
     ///
     /// Availabilities:
@@ -27354,7 +27217,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.to.line.compact
-    /// - Alias: arrow.up.to.line.alt
     /// - Category: arrows, keyboard
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case arrowUpToLineCompact = "arrow.up.to.line.compact"
@@ -27362,7 +27224,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrowtriangle.left.and.line.vertical.and.arrowtriangle.right.fill
-    /// - Alias: arrowtriangle.left.fill.and.line.vertical.and.arrowtriangle.right.fill
     /// - Category: arrows
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case arrowtriangleLeftAndLineVerticalAndArrowtriangleRightFill = "arrowtriangle.left.and.line.vertical.and.arrowtriangle.right.fill"
@@ -27370,7 +27231,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrowtriangle.right.and.line.vertical.and.arrowtriangle.left.fill
-    /// - Alias: arrowtriangle.right.fill.and.line.vertical.and.arrowtriangle.left.fill
     /// - Category: arrows
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case arrowtriangleRightAndLineVerticalAndArrowtriangleLeftFill = "arrowtriangle.right.and.line.vertical.and.arrowtriangle.left.fill"
@@ -27627,7 +27487,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bolt.batteryblock
-    /// - Alias: bolt.fill.batteryblock
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -27638,7 +27497,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bolt.batteryblock.fill
-    /// - Alias: bolt.fill.batteryblock.fill
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -28305,7 +28163,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: chevron.left.forwardslash.chevron.right
-    /// - Alias: chevron.left.slash.chevron.right
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case chevronLeftForwardslashChevronRight = "chevron.left.forwardslash.chevron.right"
 
@@ -28326,14 +28183,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.bottomhalf.filled
-    /// - Alias: circle.bottomhalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case circleBottomhalfFilled = "circle.bottomhalf.filled"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.dashed.inset.filled
-    /// - Alias: circle.dashed.inset.fill
     /// - Category: editing
     ///
     /// Availabilities:
@@ -28400,7 +28255,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.grid.cross.down.filled
-    /// - Alias: circle.grid.cross.down.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -28411,7 +28265,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.grid.cross.left.filled
-    /// - Alias: circle.grid.cross.left.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -28422,7 +28275,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.grid.cross.right.filled
-    /// - Alias: circle.grid.cross.right.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -28433,7 +28285,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.grid.cross.up.filled
-    /// - Alias: circle.grid.cross.up.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -28444,7 +28295,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.hexagongrid
-    /// - Alias: circles.hexagongrid
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case circleHexagongrid = "circle.hexagongrid"
 
@@ -28471,7 +28321,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.hexagongrid.fill
-    /// - Alias: circles.hexagongrid.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -28482,7 +28331,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.hexagonpath
-    /// - Alias: circles.hexagonpath
     /// - Category: accessibility
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case circleHexagonpath = "circle.hexagonpath"
@@ -28490,7 +28338,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.hexagonpath.fill
-    /// - Alias: circles.hexagonpath.fill
     /// - Category: accessibility
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case circleHexagonpathFill = "circle.hexagonpath.fill"
@@ -28498,7 +28345,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.inset.filled
-    /// - Alias: largecircle.fill.circle
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -28508,7 +28354,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.lefthalf.filled
-    /// - Alias: circle.lefthalf.fill
     /// - Category: editing
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case circleLefthalfFilled = "circle.lefthalf.filled"
@@ -28516,7 +28361,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.righthalf.filled
-    /// - Alias: circle.righthalf.fill
     /// - Category: editing
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case circleRighthalfFilled = "circle.righthalf.filled"
@@ -28542,7 +28386,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.square.fill
-    /// - Alias: circle.fill.square.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -28554,7 +28397,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: circle.tophalf.filled
-    /// - Alias: circle.tophalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case circleTophalfFilled = "circle.tophalf.filled"
 
@@ -29046,7 +28888,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.viewfinder
-    /// - Alias: doc.text.viewfinder
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -29057,7 +28898,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.viewfinder.fill
-    /// - Alias: doc.text.fill.viewfinder
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -29107,7 +28947,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dpad.down.filled
-    /// - Alias: dpad.down.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -29118,7 +28957,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dpad.left.filled
-    /// - Alias: dpad.left.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -29129,7 +28967,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dpad.right.filled
-    /// - Alias: dpad.right.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -29140,7 +28977,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dpad.up.filled
-    /// - Alias: dpad.up.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -29236,7 +29072,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: envelope.badge.shield.half.filled
-    /// - Alias: envelope.badge.shield.leadinghalf.fill
     /// - Category: privacyandsecurity
     ///
     /// Availabilities:
@@ -29247,7 +29082,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: envelope.badge.shield.half.filled.fill
-    /// - Alias: envelope.fill.badge.shield.trailinghalf.fill
     /// - Category: privacyandsecurity
     ///
     /// Availabilities:
@@ -29393,7 +29227,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fibrechannel
-    /// - Alias: fiberchannel
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case fibrechannel = "fibrechannel"
 
@@ -29511,7 +29344,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: folder.badge.gearshape
-    /// - Alias: folder.badge.gear
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -29522,7 +29354,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: folder.fill.badge.gearshape
-    /// - Alias: folder.fill.badge.gear
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -29830,7 +29661,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: h.square.on.square.fill
-    /// - Alias: h.square.fill.on.square.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -29970,7 +29800,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hearingdevice.ear
-    /// - Alias: hearingaid.ear
     /// - Category: accessibility, devices, human
     ///
     /// Availabilities:
@@ -30106,7 +29935,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hourglass.bottomhalf.filled
-    /// - Alias: hourglass.start
     /// - Category: multicolor, objectsandtools, time
     ///
     /// Availabilities:
@@ -30140,7 +29968,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hourglass.tophalf.filled
-    /// - Alias: hourglass.tophalf.fill
     /// - Category: multicolor, objectsandtools, time
     ///
     /// Availabilities:
@@ -30406,7 +30233,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: j.square.on.square.fill
-    /// - Alias: j.square.fill.on.square.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -30424,7 +30250,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.joystick.press.down
-    /// - Alias: l.joystick.down
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -30435,7 +30260,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.joystick.press.down.fill
-    /// - Alias: l.joystick.down.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -30610,7 +30434,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.2.horizontal.decrease.circle
-    /// - Alias: line.horizontal.2.decrease.circle
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -30620,7 +30443,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.2.horizontal.decrease.circle.fill
-    /// - Alias: line.horizontal.2.decrease.circle.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -30632,14 +30454,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.3.horizontal
-    /// - Alias: line.horizontal.3
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case line3Horizontal = "line.3.horizontal"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.3.horizontal.circle
-    /// - Alias: line.horizontal.3.circle
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -30650,7 +30470,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.3.horizontal.circle.fill
-    /// - Alias: line.horizontal.3.circle.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -30662,14 +30481,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.3.horizontal.decrease
-    /// - Alias: line.horizontal.3.decrease
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case line3HorizontalDecrease = "line.3.horizontal.decrease"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.3.horizontal.decrease.circle
-    /// - Alias: line.horizontal.3.decrease.circle
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -30679,7 +30496,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: line.3.horizontal.decrease.circle.fill
-    /// - Alias: line.horizontal.3.decrease.circle.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -31185,7 +31001,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: minus.forwardslash.plus
-    /// - Alias: minus.slash.plus
     /// - Category: math
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case minusForwardslashPlus = "minus.forwardslash.plus"
@@ -31214,7 +31029,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.note.tv
-    /// - Alias: tv.music.note
     /// - Category: devices
     ///
     /// Availabilities:
@@ -31225,7 +31039,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.note.tv.fill
-    /// - Alias: tv.music.note.fill
     /// - Category: devices
     ///
     /// Availabilities:
@@ -31471,7 +31284,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.2.crop.square.stack
-    /// - Alias: person.2.square.stack
     /// - Category: human
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case person2CropSquareStack = "person.2.crop.square.stack"
@@ -31479,7 +31291,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.2.crop.square.stack.fill
-    /// - Alias: person.2.square.stack.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -31599,7 +31410,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.badge.exclamationmark.fill
-    /// - Alias: person.crop.circle.fill.badge.exclamationmark
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -31643,7 +31453,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.badge.questionmark.fill
-    /// - Alias: person.crop.circle.fill.badge.questionmark
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -31655,7 +31464,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.circle.badge.questionmark.fill.ar
-    /// - Alias: person.crop.circle.fill.badge.questionmark.ar
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -31667,7 +31475,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.rectangle.stack
-    /// - Alias: rectangle.stack.person.crop
     /// - Category: human
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case personCropRectangleStack = "person.crop.rectangle.stack"
@@ -31675,7 +31482,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.rectangle.stack.fill
-    /// - Alias: rectangle.stack.person.crop.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -31687,7 +31493,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: person.crop.square.filled.and.at.rectangle
-    /// - Alias: person.crop.square.fill.and.at.rectangle
     /// - Category: human
     ///
     /// Availabilities:
@@ -32003,7 +31808,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: plus.forwardslash.minus
-    /// - Alias: plus.slash.minus
     /// - Category: math
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case plusForwardslashMinus = "plus.forwardslash.minus"
@@ -32011,7 +31815,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: plus.rectangle.on.folder.fill
-    /// - Alias: plus.rectangle.fill.on.folder.fill
     /// - Category: objectsandtools
     ///
     /// Availabilities:
@@ -32116,7 +31919,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: printer.dotmatrix.filled.and.paper
-    /// - Alias: printer.dotmatrix.fill.and.paper.fill
     /// - Category: devices, objectsandtools
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case printerDotmatrixFilledAndPaper = "printer.dotmatrix.filled.and.paper"
@@ -32124,7 +31926,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: printer.filled.and.paper
-    /// - Alias: printer.fill.and.paper.fill
     /// - Category: devices, objectsandtools
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case printerFilledAndPaper = "printer.filled.and.paper"
@@ -32218,7 +32019,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.joystick.press.down
-    /// - Alias: r.joystick.down
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -32229,7 +32029,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.joystick.press.down.fill
-    /// - Alias: r.joystick.down.fill
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -32321,7 +32120,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.square.on.square.fill
-    /// - Alias: r.square.fill.on.square.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32341,7 +32139,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group
-    /// - Alias: rectangle.3.offgrid
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case rectangle3Group = "rectangle.3.group"
 
@@ -32362,7 +32159,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.fill
-    /// - Alias: rectangle.3.offgrid.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case rectangle3GroupFill = "rectangle.3.group.fill"
 
@@ -32415,7 +32211,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.bottomthird.inset.filled
-    /// - Alias: rectangle.bottomthird.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32425,7 +32220,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.center.inset.filled
-    /// - Alias: rectangle.center.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32466,7 +32260,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.bottomleft.filled
-    /// - Alias: rectangle.inset.bottomleft.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32476,7 +32269,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.bottomright.filled
-    /// - Alias: rectangle.inset.bottomright.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32495,7 +32287,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.filled
-    /// - Alias: rectangle.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32533,7 +32324,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.topleft.filled
-    /// - Alias: rectangle.inset.topleft.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32543,7 +32333,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.inset.topright.filled
-    /// - Alias: rectangle.inset.topright.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32589,14 +32378,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.lefthalf.filled
-    /// - Alias: rectangle.lefthalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case rectangleLefthalfFilled = "rectangle.lefthalf.filled"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.lefthalf.inset.filled
-    /// - Alias: rectangle.lefthalf.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32606,7 +32393,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.lefthalf.inset.filled.arrow.left
-    /// - Alias: rectangle.lefthalf.inset.fill.arrow.left
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32616,7 +32402,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.leftthird.inset.filled
-    /// - Alias: rectangle.leftthird.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -32626,7 +32411,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.on.rectangle.circle
-    /// - Alias: rectangle.fill.on.rectangle.fill.circle
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -32637,7 +32421,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.on.rectangle.circle.fill
-    /// - Alias: rectangle.fill.on.rectangle.fill.circle.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -32669,7 +32452,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.on.rectangle.slash.fill
-    /// - Alias: rectangle.fill.on.rectangle.fill.slash.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33022,14 +32804,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.righthalf.filled
-    /// - Alias: rectangle.righthalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case rectangleRighthalfFilled = "rectangle.righthalf.filled"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.righthalf.inset.filled
-    /// - Alias: rectangle.righthalf.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33039,7 +32819,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.righthalf.inset.filled.arrow.right
-    /// - Alias: rectangle.righthalf.inset.fill.arrow.right
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33049,7 +32828,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.rightthird.inset.filled
-    /// - Alias: rectangle.rightthird.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33077,7 +32855,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.stack.badge.person.crop.fill
-    /// - Alias: rectangle.stack.fill.badge.person.crop
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -33126,7 +32903,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.topthird.inset.filled
-    /// - Alias: rectangle.topthird.inset.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33335,7 +33111,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shield.lefthalf.filled
-    /// - Alias: shield.lefthalf.fill
     /// - Category: objectsandtools, privacyandsecurity
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case shieldLefthalfFilled = "shield.lefthalf.filled"
@@ -33343,7 +33118,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shield.lefthalf.filled.slash
-    /// - Alias: shield.lefthalf.fill.slash
     /// - Category: objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
@@ -33444,7 +33218,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: slider.horizontal.below.square.filled.and.square
-    /// - Alias: slider.horizontal.below.square.fill.and.square
     /// - Category: editing
     ///
     /// Availabilities:
@@ -33455,7 +33228,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: smallcircle.filled.circle
-    /// - Alias: smallcircle.fill.circle
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33466,7 +33238,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: smallcircle.filled.circle.fill
-    /// - Alias: smallcircle.fill.circle.fill
     /// - Category: accessibility, multicolor
     ///
     /// Availabilities:
@@ -33478,7 +33249,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: snowflake
-    /// - Alias: snow
     /// - Category: automotive, multicolor, nature, weather
     ///
     /// Availabilities:
@@ -33517,7 +33287,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sparkles.square.filled.on.square
-    /// - Alias: sparkles.square.fill.on.square
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33668,7 +33437,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.and.line.vertical.and.square.filled
-    /// - Alias: square.and.line.vertical.and.square.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33678,14 +33446,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.bottomhalf.filled
-    /// - Alias: square.bottomhalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case squareBottomhalfFilled = "square.bottomhalf.filled"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.dashed.inset.filled
-    /// - Alias: square.dashed.inset.fill
     /// - Category: editing
     ///
     /// Availabilities:
@@ -33696,14 +33462,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.fill.and.line.vertical.and.square.fill
-    /// - Alias: square.fill.and.line.vertical.square.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case squareFillAndLineVerticalAndSquareFill = "square.fill.and.line.vertical.and.square.fill"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.filled.and.line.vertical.and.square
-    /// - Alias: square.line.vertical.square.fill.left
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33713,7 +33477,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.filled.on.square
-    /// - Alias: square.fill.on.square
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33724,14 +33487,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x1.below.line.grid.1x2.fill
-    /// - Alias: square.grid.3x1.fill.below.line.grid.1x2
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case squareGrid3X1BelowLineGrid1X2Fill = "square.grid.3x1.below.line.grid.1x2.fill"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.bottomleft.filled
-    /// - Alias: square.grid.3x3.bottomleft.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33742,7 +33503,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.bottommiddle.filled
-    /// - Alias: square.grid.3x3.bottommiddle.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33753,7 +33513,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.bottomright.filled
-    /// - Alias: square.grid.3x3.bottomright.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33764,7 +33523,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.middle.filled
-    /// - Alias: square.grid.3x3.middle.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33775,7 +33533,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.middleleft.filled
-    /// - Alias: square.grid.3x3.middleleft.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33786,7 +33543,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.middleright.filled
-    /// - Alias: square.grid.3x3.middleright.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33797,7 +33553,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.square
-    /// - Alias: square.grid.3x3.fill.square
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -33807,7 +33562,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.topleft.filled
-    /// - Alias: square.grid.3x3.topleft.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33818,7 +33572,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.topmiddle.filled
-    /// - Alias: square.grid.3x3.topmiddle.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33829,7 +33582,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.grid.3x3.topright.filled
-    /// - Alias: square.grid.3x3.topright.fill
     /// - Category: accessibility
     ///
     /// Availabilities:
@@ -33849,14 +33601,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.lefthalf.filled
-    /// - Alias: square.lefthalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case squareLefthalfFilled = "square.lefthalf.filled"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.righthalf.filled
-    /// - Alias: square.righthalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case squareRighthalfFilled = "square.righthalf.filled"
 
@@ -33883,7 +33633,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.tophalf.filled
-    /// - Alias: square.tophalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case squareTophalfFilled = "square.tophalf.filled"
 
@@ -33911,7 +33660,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: star.leadinghalf.filled
-    /// - Alias: star.lefthalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case starLeadinghalfFilled = "star.leadinghalf.filled"
 
@@ -34008,7 +33756,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tablecells.fill.badge.ellipsis
-    /// - Alias: tablecells.badge.ellipsis.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -34173,7 +33920,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: tram.fill.tunnel
-    /// - Alias: tram.tunnel.fill
     /// - Category: transportation
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case tramFillTunnel = "tram.fill.tunnel"
@@ -34290,14 +34036,12 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: triangle.lefthalf.filled
-    /// - Alias: triangle.lefthalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case triangleLefthalfFilled = "triangle.lefthalf.filled"
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: triangle.righthalf.filled
-    /// - Alias: triangle.righthalf.fill
     @available(iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0, *)
     case triangleRighthalfFilled = "triangle.righthalf.filled"
 
@@ -34633,7 +34377,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.justify.left
-    /// - Alias: text.justifyleft
     /// - Category: textformatting
     @available(iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0, *)
     case textJustifyLeft = "text.justify.left"
@@ -34641,7 +34384,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.justify.right
-    /// - Alias: text.justifyright
     /// - Category: textformatting
     @available(iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0, *)
     case textJustifyRight = "text.justify.right"
@@ -34939,7 +34681,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: apple.logo
-    /// - Alias: applelogo
     @available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
     case appleLogo = "apple.logo"
 
@@ -36741,7 +36482,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dial.high
-    /// - Alias: dial.max
     /// - Category: editing, objectsandtools
     ///
     /// Availabilities:
@@ -36752,7 +36492,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dial.high.fill
-    /// - Alias: dial.max.fill
     /// - Category: editing, objectsandtools
     ///
     /// Availabilities:
@@ -36763,7 +36502,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dial.low
-    /// - Alias: dial.min
     /// - Category: editing, objectsandtools
     ///
     /// Availabilities:
@@ -36774,7 +36512,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: dial.low.fill
-    /// - Alias: dial.min.fill
     /// - Category: editing, objectsandtools
     ///
     /// Availabilities:
@@ -37524,7 +37261,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: face.smiling.inverse
-    /// - Alias: smiley.fill
     /// - Category: human, multicolor
     ///
     /// Availabilities:
@@ -40362,7 +40098,7 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.arrow.down.left.fill
-    /// - Alias: phone.fill.arrow.down.left
+    /// - Legacy Name: phone.fill.arrow.down.left
     /// - Category: communication
     ///
     /// Availabilities:
@@ -40373,7 +40109,7 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.arrow.right.fill
-    /// - Alias: phone.fill.arrow.right
+    /// - Legacy Name: phone.fill.arrow.right
     /// - Category: communication
     ///
     /// Availabilities:
@@ -40405,7 +40141,7 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.arrow.up.right.fill
-    /// - Alias: phone.fill.arrow.up.right
+    /// - Legacy Name: phone.fill.arrow.up.right
     /// - Category: communication
     ///
     /// Availabilities:
@@ -40427,7 +40163,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.connection.fill
-    /// - Alias: phone.fill.connection
     /// - Category: communication
     ///
     /// Availabilities:
@@ -40587,7 +40322,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: playstation.logo
-    /// - Alias: logo.playstation
     /// - Category: gaming
     @available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
     case playstationLogo = "playstation.logo"
@@ -41968,7 +41702,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.2.layers.3d
-    /// - Alias: square.2.stack.3d
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -41980,7 +41713,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.2.layers.3d.bottom.filled
-    /// - Alias: square.2.stack.3d.bottom.filled
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -41992,7 +41724,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.2.layers.3d.top.filled
-    /// - Alias: square.2.stack.3d.top.filled
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -42004,7 +41735,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d
-    /// - Alias: square.3.stack.3d
     /// - Category: cameraandphotos, variablecolor
     ///
     /// Availabilities:
@@ -42016,7 +41746,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.bottom.filled
-    /// - Alias: square.3.stack.3d.bottom.filled
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -42048,7 +41777,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.middle.filled
-    /// - Alias: square.3.stack.3d.middle.filled
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -42060,7 +41788,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.slash
-    /// - Alias: square.3.stack.3d.slash
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -42071,7 +41798,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.top.filled
-    /// - Alias: square.3.stack.3d.top.filled
     /// - Category: cameraandphotos
     ///
     /// Availabilities:
@@ -42668,7 +42394,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: thermometer.medium
-    /// - Alias: thermometer
     /// - Category: multicolor, weather
     ///
     /// Availabilities:
@@ -43345,7 +43070,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wrench.adjustable
-    /// - Alias: wrench
     /// - Category: objectsandtools
     @available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
     case wrenchAdjustable = "wrench.adjustable"
@@ -43353,7 +43077,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wrench.adjustable.fill
-    /// - Alias: wrench.fill
     /// - Category: objectsandtools
     @available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
     case wrenchAdjustableFill = "wrench.adjustable.fill"
@@ -43361,7 +43084,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: xbox.logo
-    /// - Alias: logo.xbox
     /// - Category: gaming
     @available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *)
     case xboxLogo = "xbox.logo"
@@ -45182,7 +44904,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: hand.raised.app
-    /// - Alias: hand.app
     /// - Category: human, multicolor, privacyandsecurity
     ///
     /// Availabilities:
@@ -45194,7 +44915,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: hand.raised.app.fill
-    /// - Alias: hand.app.fill
     /// - Category: human, multicolor, privacyandsecurity
     ///
     /// Availabilities:
@@ -45405,7 +45125,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1
-    /// - Alias: ipad.homebutton
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45416,7 +45135,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1.badge.play
-    /// - Alias: ipad.homebutton.badge.play
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -45428,7 +45146,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1.landscape
-    /// - Alias: ipad.homebutton.landscape
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45439,7 +45156,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.gen1.landscape.badge.play
-    /// - Alias: ipad.homebutton.landscape.badge.play
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -45493,7 +45209,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1
-    /// - Alias: iphone.homebutton
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45504,7 +45219,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.badge.play
-    /// - Alias: iphone.homebutton.badge.play
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -45516,7 +45230,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.circle
-    /// - Alias: iphone.homebutton.circle
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45527,7 +45240,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.circle.fill
-    /// - Alias: iphone.homebutton.circle.fill
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -45539,7 +45251,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.landscape
-    /// - Alias: iphone.homebutton.landscape
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45550,7 +45261,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.radiowaves.left.and.right
-    /// - Alias: iphone.homebutton.radiowaves.left.and.right
     /// - Category: devices, variablecolor
     ///
     /// Availabilities:
@@ -45562,7 +45272,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.radiowaves.left.and.right.circle
-    /// - Alias: iphone.homebutton.radiowaves.left.and.right.circle
     /// - Category: devices, variablecolor
     ///
     /// Availabilities:
@@ -45574,7 +45283,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.radiowaves.left.and.right.circle.fill
-    /// - Alias: iphone.homebutton.radiowaves.left.and.right.circle.fill
     /// - Category: devices, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -45586,7 +45294,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.slash
-    /// - Alias: iphone.homebutton.slash
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45597,7 +45304,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.slash.circle
-    /// - Alias: iphone.homebutton.slash.circle
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45608,7 +45314,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.gen1.slash.circle.fill
-    /// - Alias: iphone.homebutton.slash.circle.fill
     /// - Category: devices, multicolor
     ///
     /// Availabilities:
@@ -45961,7 +45666,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: lock.open.rotation
-    /// - Alias: lock.rotation.open
     /// - Category: objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
@@ -45972,7 +45676,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: macbook.and.ipad
-    /// - Alias: laptopcomputer.and.ipad
     /// - Category: devices
     ///
     /// Availabilities:
@@ -45983,7 +45686,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: macbook.and.iphone
-    /// - Alias: laptopcomputer.and.iphone
     /// - Category: devices
     ///
     /// Availabilities:
@@ -46970,7 +46672,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: windshield.front.and.spray
-    /// - Alias: windshield.front.and.fluid
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -47036,7 +46737,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: windshield.rear.and.spray
-    /// - Alias: windshield.rear.and.fluid
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -47352,7 +47052,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2
-    /// - Alias: axel.2
     /// - Category: automotive
     @available(iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0, *)
     case axle2 = "axle.2"
@@ -47360,7 +47059,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2.front.and.rear.engaged
-    /// - Alias: axel.2.front.and.rear.engaged
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -47371,7 +47069,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2.front.engaged
-    /// - Alias: axel.2.front.engaged
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -47382,7 +47079,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2.rear.engaged
-    /// - Alias: axel.2.rear.engaged
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -47598,7 +47294,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: apple.terminal
-    /// - Alias: terminal
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -47609,7 +47304,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: apple.terminal.fill
-    /// - Alias: terminal.fill
     /// - Category: multicolor
     ///
     /// Availabilities:
@@ -48910,7 +48604,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.brakesignal
-    /// - Alias: auto.brakesignal
     /// - Category: automotive
     ///
     /// Availabilities:
@@ -48921,7 +48614,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.high.beam
-    /// - Alias: auto.headlight.high.beam
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -48933,7 +48625,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.high.beam.fill
-    /// - Alias: auto.headlight.high.beam.fill
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -48945,7 +48636,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.low.beam
-    /// - Alias: auto.headlight.low.beam
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -48957,7 +48647,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: automatic.headlight.low.beam.fill
-    /// - Alias: auto.headlight.low.beam.fill
     /// - Category: automotive, multicolor
     ///
     /// Availabilities:
@@ -49019,7 +48708,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.0percent
-    /// - Alias: battery.0
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49030,7 +48718,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent
-    /// - Alias: battery.100
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49042,7 +48729,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.bolt
-    /// - Alias: battery.100.bolt
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49054,7 +48740,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.bolt.rtl
-    /// - Alias: battery.100.bolt.rtl
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49066,7 +48751,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.circle
-    /// - Alias: battery.100.circle
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49078,7 +48762,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100percent.circle.fill
-    /// - Alias: battery.100.circle.fill
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49090,7 +48773,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.25percent
-    /// - Alias: battery.25
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49102,7 +48784,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.50percent
-    /// - Alias: battery.50
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49114,7 +48795,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.75percent
-    /// - Alias: battery.75
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -49126,7 +48806,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro
-    /// - Alias: beats.fit.pro
     /// - Category: devices
     ///
     /// Availabilities:
@@ -49137,7 +48816,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.chargingcase
-    /// - Alias: beats.fit.pro.chargingcase
     /// - Category: devices
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case beatsFitproChargingcase = "beats.fitpro.chargingcase"
@@ -49145,7 +48823,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.chargingcase.fill
-    /// - Alias: beats.fit.pro.chargingcase.fill
     /// - Category: devices
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case beatsFitproChargingcaseFill = "beats.fitpro.chargingcase.fill"
@@ -49153,7 +48830,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.left
-    /// - Alias: beats.fit.pro.left
     /// - Category: devices
     ///
     /// Availabilities:
@@ -49164,7 +48840,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fitpro.right
-    /// - Alias: beats.fit.pro.right
     /// - Category: devices
     ///
     /// Availabilities:
@@ -49259,7 +48934,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bell.badge.waveform
-    /// - Alias: bell.and.waveform
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -49271,7 +48945,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bell.badge.waveform.fill
-    /// - Alias: bell.and.waveform.fill
     /// - Category: objectsandtools, variablecolor
     ///
     /// Availabilities:
@@ -49335,7 +49008,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bolt.badge.automatic
-    /// - Alias: bolt.badge.a
     /// - Category: cameraandphotos, multicolor, nature
     ///
     /// Availabilities:
@@ -49347,7 +49019,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bolt.badge.automatic.fill
-    /// - Alias: bolt.badge.a.fill
     /// - Category: cameraandphotos, multicolor, nature
     ///
     /// Availabilities:
@@ -49645,7 +49316,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedbottom.horizontal
-    /// - Alias: rectangle.roundedbottom
     /// - Category: gaming, shapes
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case buttonRoundedbottomHorizontal = "button.roundedbottom.horizontal"
@@ -49653,7 +49323,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedbottom.horizontal.fill
-    /// - Alias: rectangle.roundedbottom.fill
     /// - Category: gaming, shapes
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case buttonRoundedbottomHorizontalFill = "button.roundedbottom.horizontal.fill"
@@ -49661,7 +49330,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedtop.horizontal
-    /// - Alias: rectangle.roundedtop
     /// - Category: gaming, shapes
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case buttonRoundedtopHorizontal = "button.roundedtop.horizontal"
@@ -49669,7 +49337,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: button.roundedtop.horizontal.fill
-    /// - Alias: rectangle.roundedtop.fill
     /// - Category: gaming, shapes
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case buttonRoundedtopHorizontalFill = "button.roundedtop.horizontal.fill"
@@ -49778,7 +49445,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: camera.badge.ellipsis.fill
-    /// - Alias: camera.fill.badge.ellipsis
     /// - Category: cameraandphotos, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -50657,7 +50323,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.magnify
-    /// - Alias: a.magnify
     /// - Category: accessibility, textformatting
     ///
     /// Availabilities:
@@ -51549,7 +51214,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ear.badge.waveform
-    /// - Alias: ear.and.waveform
     /// - Category: accessibility, health, human, variablecolor
     ///
     /// Availabilities:
@@ -51978,7 +51642,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan
-    /// - Alias: fanblades
     /// - Category: automotive, home, objectsandtools
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case fan = "fan"
@@ -52008,7 +51671,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan.fill
-    /// - Alias: fanblades.fill
     /// - Category: automotive, home, objectsandtools
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case fanFill = "fan.fill"
@@ -52016,7 +51678,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan.slash
-    /// - Alias: fanblades.slash
     /// - Category: automotive, home, objectsandtools
     ///
     /// Availabilities:
@@ -52027,7 +51688,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fan.slash.fill
-    /// - Alias: fanblades.slash.fill
     /// - Category: automotive, home, objectsandtools
     ///
     /// Availabilities:
@@ -52182,7 +51842,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.lower
-    /// - Alias: figure.seated.side.air.lower
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -52193,7 +51852,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.middle
-    /// - Alias: figure.seated.side.air.upper
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -52204,7 +51862,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.middle.and.lower
-    /// - Alias: figure.seated.side.air.upper.and.lower
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -52225,7 +51882,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.distribution.upper
-    /// - Alias: figure.seated.side.air.windshield
     /// - Category: automotive, human
     ///
     /// Availabilities:
@@ -52660,7 +52316,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.67percent
-    /// - Alias: speedometer
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -52671,7 +52326,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.0percent
-    /// - Alias: gauge.low
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -52682,7 +52336,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.100percent
-    /// - Alias: gauge.high
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -52693,7 +52346,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.50percent
-    /// - Alias: gauge.medium
     /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
@@ -52704,7 +52356,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.50percent.badge.minus
-    /// - Alias: gauge.medium.badge.minus
     /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -52716,7 +52367,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.with.dots.needle.bottom.50percent.badge.plus
-    /// - Alias: gauge.medium.badge.plus
     /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
@@ -52820,7 +52470,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hands.and.sparkles
-    /// - Alias: hands.sparkles
     /// - Category: human
     ///
     /// Availabilities:
@@ -52831,7 +52480,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hands.and.sparkles.fill
-    /// - Alias: hands.sparkles.fill
     /// - Category: human
     ///
     /// Availabilities:
@@ -53077,7 +52725,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.button.roundedbottom.horizontal
-    /// - Alias: l.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -53088,7 +52735,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l.button.roundedbottom.horizontal.fill
-    /// - Alias: l.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -53100,7 +52746,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l1.button.roundedbottom.horizontal
-    /// - Alias: l1.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -53111,7 +52756,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l1.button.roundedbottom.horizontal.fill
-    /// - Alias: l1.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -53165,7 +52809,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l2.button.roundedtop.horizontal
-    /// - Alias: l2.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -53176,7 +52819,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: l2.button.roundedtop.horizontal.fill
-    /// - Alias: l2.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -53289,7 +52931,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lasso.badge.sparkles
-    /// - Alias: lasso.sparkles
     /// - Category: editing, objectsandtools
     ///
     /// Availabilities:
@@ -53300,7 +52941,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lb.button.roundedbottom.horizontal
-    /// - Alias: lb.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -53311,7 +52951,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lb.button.roundedbottom.horizontal.fill
-    /// - Alias: lb.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -53517,7 +53156,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: livephoto.badge.automatic
-    /// - Alias: livephoto.badge.a
     /// - Category: cameraandphotos, multicolor
     ///
     /// Availabilities:
@@ -53634,7 +53272,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lt.button.roundedtop.horizontal
-    /// - Alias: lt.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -53645,7 +53282,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lt.button.roundedtop.horizontal.fill
-    /// - Alias: lt.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -53854,7 +53490,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: message.badge.waveform
-    /// - Alias: message.and.waveform
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -53866,7 +53501,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: message.badge.waveform.fill
-    /// - Alias: message.and.waveform.fill
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -54564,7 +54198,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.badge.waveform
-    /// - Alias: phone.and.waveform
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -54576,7 +54209,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.badge.waveform.fill
-    /// - Alias: phone.and.waveform.fill
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -54588,7 +54220,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.bubble
-    /// - Alias: phone.bubble.left
     /// - Category: communication
     ///
     /// Availabilities:
@@ -54599,7 +54230,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.bubble.fill
-    /// - Alias: phone.bubble.left.fill
     /// - Category: communication
     ///
     /// Availabilities:
@@ -54819,7 +54449,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.to.point.bottomright.curvepath
-    /// - Alias: point.topleft.down.curvedto.point.bottomright.up
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -54830,7 +54459,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.to.point.bottomright.curvepath.fill
-    /// - Alias: point.topleft.down.curvedto.point.bottomright.up.fill
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -54841,7 +54469,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.to.point.bottomright.filled.curvepath
-    /// - Alias: point.topleft.down.curvedto.point.filled.bottomright.up
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -54852,7 +54479,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.filled.down.to.point.bottomright.curvepath
-    /// - Alias: point.filled.topleft.down.curvedto.point.bottomright.up
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -54936,7 +54562,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.button.roundedbottom.horizontal
-    /// - Alias: r.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -54947,7 +54572,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r.button.roundedbottom.horizontal.fill
-    /// - Alias: r.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -54959,7 +54583,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r1.button.roundedbottom.horizontal
-    /// - Alias: r1.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -54970,7 +54593,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r1.button.roundedbottom.horizontal.fill
-    /// - Alias: r1.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -55024,7 +54646,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r2.button.roundedtop.horizontal
-    /// - Alias: r2.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -55035,7 +54656,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: r2.button.roundedtop.horizontal.fill
-    /// - Alias: r2.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -55120,7 +54740,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rb.button.roundedbottom.horizontal
-    /// - Alias: rb.rectangle.roundedbottom
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -55131,7 +54750,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rb.button.roundedbottom.horizontal.fill
-    /// - Alias: rb.rectangle.roundedbottom.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -55164,7 +54782,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.bubble
-    /// - Alias: rectangle.3.offgrid.bubble.left
     /// - Category: accessibility, communication
     ///
     /// Availabilities:
@@ -55175,7 +54792,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.bubble.fill
-    /// - Alias: rectangle.3.offgrid.bubble.left.fill
     /// - Category: accessibility, communication
     ///
     /// Availabilities:
@@ -55187,7 +54803,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.checkered
-    /// - Alias: checkerboard.rectangle
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case rectangleCheckered = "rectangle.checkered"
 
@@ -55489,7 +55104,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rt.button.roundedtop.horizontal
-    /// - Alias: rt.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -55500,7 +55114,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rt.button.roundedtop.horizontal.fill
-    /// - Alias: rt.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -55584,7 +55197,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shield.checkered
-    /// - Alias: shield.checkerboard
     /// - Category: objectsandtools
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case shieldCheckered = "shield.checkered"
@@ -55735,7 +55347,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble
-    /// - Alias: speaker.wave.2.bubble.left
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -55747,7 +55358,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.fill
-    /// - Alias: speaker.wave.2.bubble.left.fill
     /// - Category: communication, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -55759,7 +55369,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.fill.rtl
-    /// - Alias: speaker.wave.2.bubble.left.fill.rtl
     /// - Category: communication, multicolor, variablecolor
     ///
     /// Availabilities:
@@ -55771,7 +55380,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.rtl
-    /// - Alias: speaker.wave.2.bubble.left.rtl
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -55855,7 +55463,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.up.badge.automatic
-    /// - Alias: square.stack.3d.up.badge.a
     /// - Category: multicolor, variablecolor
     ///
     /// Availabilities:
@@ -55867,7 +55474,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.up.badge.automatic.fill
-    /// - Alias: square.stack.3d.up.badge.a.fill
     /// - Category: multicolor, variablecolor
     ///
     /// Availabilities:
@@ -55908,7 +55514,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: squareshape.dotted.squareshape
-    /// - Alias: squareshape.dashed.squareshape
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -55918,7 +55523,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: squareshape.squareshape.dotted
-    /// - Alias: squareshape.squareshape.dashed
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -56053,7 +55657,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon
-    /// - Alias: sun.and.horizon
     /// - Category: nature, weather
     ///
     /// Availabilities:
@@ -56065,7 +55668,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon.circle
-    /// - Alias: sun.and.horizon.circle
     /// - Category: nature, weather
     ///
     /// Availabilities:
@@ -56076,7 +55678,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon.circle.fill
-    /// - Alias: sun.and.horizon.circle.fill
     /// - Category: multicolor, nature, weather
     ///
     /// Availabilities:
@@ -56088,7 +55689,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.horizon.fill
-    /// - Alias: sun.and.horizon.fill
     /// - Category: multicolor, nature, weather
     ///
     /// Availabilities:
@@ -56504,7 +56104,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box
-    /// - Alias: box.truck
     /// - Category: transportation
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case truckBox = "truck.box"
@@ -56512,7 +56111,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock
-    /// - Alias: box.truck.badge.clock
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -56524,7 +56122,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock.fill
-    /// - Alias: box.truck.badge.clock.fill
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -56536,7 +56133,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock.fill.rtl
-    /// - Alias: box.truck.badge.clock.fill.rtl
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -56548,7 +56144,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.badge.clock.rtl
-    /// - Alias: box.truck.badge.clock.rtl
     /// - Category: multicolor, transportation
     ///
     /// Availabilities:
@@ -56560,7 +56155,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: truck.box.fill
-    /// - Alias: box.truck.fill
     /// - Category: transportation
     @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0, *)
     case truckBoxFill = "truck.box.fill"
@@ -56887,7 +56481,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.badge.waveform
-    /// - Alias: video.and.waveform
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -56899,7 +56492,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.badge.waveform.fill
-    /// - Alias: video.and.waveform.fill
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -56911,7 +56503,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.bubble
-    /// - Alias: video.bubble.left
     /// - Category: communication
     ///
     /// Availabilities:
@@ -56922,7 +56513,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.bubble.fill
-    /// - Alias: video.bubble.left.fill
     /// - Category: communication
     ///
     /// Availabilities:
@@ -57216,7 +56806,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.badge.magnifyingglass
-    /// - Alias: waveform.and.magnifyingglass
     /// - Category: accessibility, communication, variablecolor
     ///
     /// Availabilities:
@@ -57228,7 +56817,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.badge.mic
-    /// - Alias: waveform.and.mic
     /// - Category: communication, variablecolor
     ///
     /// Availabilities:
@@ -57310,7 +56898,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zl.button.roundedtop.horizontal
-    /// - Alias: zl.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -57321,7 +56908,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zl.button.roundedtop.horizontal.fill
-    /// - Alias: zl.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:
@@ -57333,7 +56919,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zr.button.roundedtop.horizontal
-    /// - Alias: zr.rectangle.roundedtop
     /// - Category: gaming
     ///
     /// Availabilities:
@@ -57344,7 +56929,6 @@ public enum SFName: String, Identifiable {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: zr.button.roundedtop.horizontal.fill
-    /// - Alias: zr.rectangle.roundedtop.fill
     /// - Category: gaming, multicolor
     ///
     /// Availabilities:

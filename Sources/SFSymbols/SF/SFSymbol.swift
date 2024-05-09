@@ -16,8 +16,14 @@ public struct SFSymbol {
     /// The original sf symbol name
     public let rawValue: String
     
+    /// The name before deprecated.
+    public let legacyRawValue: String?
+    
     /// The SF Symbol enum.
     public let name: SFName
+    
+    /// The recommended symbol to use if current symbol is deprecated.
+    public let recommendedRawValue: String?
     
     /// The categories of SF Symbol
     public let category: Set<Category>
@@ -30,7 +36,7 @@ public struct SFSymbol {
     
     /// 
     public let layerset: [Layerset: ReleaseYear]
-    
+        
 #if !os(macOS)
     private var variableValue: Double?
     
@@ -52,13 +58,15 @@ public struct SFSymbol {
     ///   - name: The name of SF Symbol
     ///   - availables: Supported system versions
     ///   - category: The categories of SF Symbol
-    internal init(_ name: SFName, releaseYear: ReleaseYear, category: Set<Category> = [], keywords: [String] = [], layerset: [Layerset: ReleaseYear] = [:]) {
+    internal init(_ name: SFName, releaseYear: ReleaseYear, recommendedRawValue: String? = nil, legacyRawValue: String? = nil, category: Set<Category> = [], keywords: [String] = [], layerset: [Layerset: ReleaseYear] = [:]) {
         self.rawValue = name.rawValue
         self.name = name
         self.category = category
         self.releaseYear = releaseYear
         self.keywords = keywords
         self.layerset = layerset
+        self.recommendedRawValue = recommendedRawValue
+        self.legacyRawValue = legacyRawValue
         self.searchedString = rawValue + "\n" + keywords.joined(separator: "\n")
     }
 }
