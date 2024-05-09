@@ -299,6 +299,6 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.topthird.inset.fill
-    /// - Alias: rectangle.topthird.inset.filled
+    /// - Recommended: rectangle.topthird.inset.filled
     static let rectangleTopthirdInsetFill = SFSymbol(.rectangleTopthirdInsetFill, releaseYear: ._2020_2, recommendedRawValue: "rectangle.topthird.inset.filled")
 }

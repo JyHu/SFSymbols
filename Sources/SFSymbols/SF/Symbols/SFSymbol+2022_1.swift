@@ -553,31 +553,31 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.brakesignal
-    /// - Alias: automatic.brakesignal
+    /// - Recommended: automatic.brakesignal
     static let autoBrakesignal = SFSymbol(.autoBrakesignal, releaseYear: ._2022_1, recommendedRawValue: "automatic.brakesignal")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.high.beam
-    /// - Alias: automatic.headlight.high.beam
+    /// - Recommended: automatic.headlight.high.beam
     static let autoHeadlightHighBeam = SFSymbol(.autoHeadlightHighBeam, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.high.beam")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.high.beam.fill
-    /// - Alias: automatic.headlight.high.beam.fill
+    /// - Recommended: automatic.headlight.high.beam.fill
     static let autoHeadlightHighBeamFill = SFSymbol(.autoHeadlightHighBeamFill, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.high.beam.fill")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.low.beam
-    /// - Alias: automatic.headlight.low.beam
+    /// - Recommended: automatic.headlight.low.beam
     static let autoHeadlightLowBeam = SFSymbol(.autoHeadlightLowBeam, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.low.beam")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: auto.headlight.low.beam.fill
-    /// - Alias: automatic.headlight.low.beam.fill
+    /// - Recommended: automatic.headlight.low.beam.fill
     static let autoHeadlightLowBeamFill = SFSymbol(.autoHeadlightLowBeamFill, releaseYear: ._2022_1, recommendedRawValue: "automatic.headlight.low.beam.fill")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
@@ -613,25 +613,25 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: axel.2
-    /// - Alias: axle.2
+    /// - Recommended: axle.2
     static let axel2 = SFSymbol(.axel2, releaseYear: ._2022_1, recommendedRawValue: "axle.2")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: axel.2.front.and.rear.engaged
-    /// - Alias: axle.2.front.and.rear.engaged
+    /// - Recommended: axle.2.front.and.rear.engaged
     static let axel2FrontAndRearEngaged = SFSymbol(.axel2FrontAndRearEngaged, releaseYear: ._2022_1, recommendedRawValue: "axle.2.front.and.rear.engaged")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: axel.2.front.engaged
-    /// - Alias: axle.2.front.engaged
+    /// - Recommended: axle.2.front.engaged
     static let axel2FrontEngaged = SFSymbol(.axel2FrontEngaged, releaseYear: ._2022_1, recommendedRawValue: "axle.2.front.engaged")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: axel.2.rear.engaged
-    /// - Alias: axle.2.rear.engaged
+    /// - Recommended: axle.2.rear.engaged
     static let axel2RearEngaged = SFSymbol(.axel2RearEngaged, releaseYear: ._2022_1, recommendedRawValue: "axle.2.rear.engaged")
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
@@ -1510,25 +1510,25 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.lower
-    /// - Alias: figure.seated.side.air.distribution.lower
+    /// - Recommended: figure.seated.side.air.distribution.lower
     static let figureSeatedSideAirLower = SFSymbol(.figureSeatedSideAirLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.lower", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.upper
-    /// - Alias: figure.seated.side.air.distribution.middle
+    /// - Recommended: figure.seated.side.air.distribution.middle
     static let figureSeatedSideAirUpper = SFSymbol(.figureSeatedSideAirUpper, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.middle", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.upper.and.lower
-    /// - Alias: figure.seated.side.air.distribution.middle.and.lower
+    /// - Recommended: figure.seated.side.air.distribution.middle.and.lower
     static let figureSeatedSideAirUpperAndLower = SFSymbol(.figureSeatedSideAirUpperAndLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.middle.and.lower", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.windshield
-    /// - Alias: figure.seated.side.air.distribution.upper
+    /// - Recommended: figure.seated.side.air.distribution.upper
     static let figureSeatedSideAirWindshield = SFSymbol(.figureSeatedSideAirWindshield, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.upper", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later

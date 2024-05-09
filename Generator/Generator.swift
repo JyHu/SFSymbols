@@ -168,7 +168,7 @@ struct SFSymbol {
         }
         
         if let alias = alias {
-            stringValues.append(prefix + "/// - Alias: \(alias)")
+            stringValues.append(prefix + "/// - Recommended: \(alias)")
         }
         
         if category.count > 0 {
@@ -216,7 +216,12 @@ private func loadLayersetAvailabilities(at folder: URL) throws -> [String: [Stri
 }
 
 private func loadLegacyAliasesStrings(at folder: URL) throws -> [String: String]? {
-    return try loadSymbolPairs(at: folder.appendingPathComponent("legacy_aliases.strings"))
+    let aliases = try loadSymbolPairs(at: folder.appendingPathComponent("legacy_aliases.strings")) ?? [:]
+    var reversed: [String: String] = [:]
+    for (key, value) in aliases {
+        reversed[value] = key
+    }
+    return reversed
 }
 
 private func loadNameAliasesStrings(at folder: URL) throws -> [String: String]? {

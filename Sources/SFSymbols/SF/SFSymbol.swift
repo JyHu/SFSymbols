@@ -228,7 +228,11 @@ private extension SFSymbol {
 
 public extension SFSymbol {
     func isMatch(_ keyword: String) -> Bool {
-        return searchedString.range(of: keyword, options: .caseInsensitive) != nil
+        if searchedString.range(of: keyword, options: .caseInsensitive) != nil {
+            return true
+        }
+        
+        return false
     }
 }
 

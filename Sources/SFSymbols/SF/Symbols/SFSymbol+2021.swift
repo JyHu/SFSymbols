@@ -682,13 +682,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.50
-    /// - Alias: battery.50percent
+    /// - Recommended: battery.50percent
     static let battery50 = SFSymbol(.battery50, releaseYear: ._2021, recommendedRawValue: "battery.50percent")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.75
-    /// - Alias: battery.75percent
+    /// - Recommended: battery.75percent
     static let battery75 = SFSymbol(.battery75, releaseYear: ._2021, recommendedRawValue: "battery.75percent")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -828,13 +828,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bell.and.waveform
-    /// - Alias: bell.badge.waveform
+    /// - Recommended: bell.badge.waveform
     static let bellAndWaveform = SFSymbol(.bellAndWaveform, releaseYear: ._2021, recommendedRawValue: "bell.badge.waveform")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bell.and.waveform.fill
-    /// - Alias: bell.badge.waveform.fill
+    /// - Recommended: bell.badge.waveform.fill
     static let bellAndWaveformFill = SFSymbol(.bellAndWaveformFill, releaseYear: ._2021, recommendedRawValue: "bell.badge.waveform.fill")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -1415,7 +1415,7 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: checkerboard.shield
-    /// - Alias: shield.checkered
+    /// - Recommended: shield.checkered
     static let checkerboardShield = SFSymbol(.checkerboardShield, releaseYear: ._2021, recommendedRawValue: "shield.checkered")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -2235,7 +2235,7 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: ear.and.waveform
-    /// - Alias: ear.badge.waveform
+    /// - Recommended: ear.badge.waveform
     static let earAndWaveform = SFSymbol(.earAndWaveform, releaseYear: ._2021, recommendedRawValue: "ear.badge.waveform")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -2407,13 +2407,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fanblades
-    /// - Alias: fan
+    /// - Recommended: fan
     static let fanblades = SFSymbol(.fanblades, releaseYear: ._2021, recommendedRawValue: "fan")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fanblades.fill
-    /// - Alias: fan.fill
+    /// - Recommended: fan.fill
     static let fanbladesFill = SFSymbol(.fanbladesFill, releaseYear: ._2021, recommendedRawValue: "fan.fill")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -3201,37 +3201,37 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.circle
-    /// - Alias: iphone.gen1.circle
+    /// - Recommended: iphone.gen1.circle
     static let iphoneHomebuttonCircle = SFSymbol(.iphoneHomebuttonCircle, releaseYear: ._2021, recommendedRawValue: "iphone.gen1.circle")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.circle.fill
-    /// - Alias: iphone.gen1.circle.fill
+    /// - Recommended: iphone.gen1.circle.fill
     static let iphoneHomebuttonCircleFill = SFSymbol(.iphoneHomebuttonCircleFill, releaseYear: ._2021, recommendedRawValue: "iphone.gen1.circle.fill")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.radiowaves.left.and.right.circle
-    /// - Alias: iphone.gen1.radiowaves.left.and.right.circle
+    /// - Recommended: iphone.gen1.radiowaves.left.and.right.circle
     static let iphoneHomebuttonRadiowavesLeftAndRightCircle = SFSymbol(.iphoneHomebuttonRadiowavesLeftAndRightCircle, releaseYear: ._2021, recommendedRawValue: "iphone.gen1.radiowaves.left.and.right.circle")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.radiowaves.left.and.right.circle.fill
-    /// - Alias: iphone.gen1.radiowaves.left.and.right.circle.fill
+    /// - Recommended: iphone.gen1.radiowaves.left.and.right.circle.fill
     static let iphoneHomebuttonRadiowavesLeftAndRightCircleFill = SFSymbol(.iphoneHomebuttonRadiowavesLeftAndRightCircleFill, releaseYear: ._2021, recommendedRawValue: "iphone.gen1.radiowaves.left.and.right.circle.fill")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.slash.circle
-    /// - Alias: iphone.gen1.slash.circle
+    /// - Recommended: iphone.gen1.slash.circle
     static let iphoneHomebuttonSlashCircle = SFSymbol(.iphoneHomebuttonSlashCircle, releaseYear: ._2021, recommendedRawValue: "iphone.gen1.slash.circle", keywords: ["remove"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.slash.circle.fill
-    /// - Alias: iphone.gen1.slash.circle.fill
+    /// - Recommended: iphone.gen1.slash.circle.fill
     static let iphoneHomebuttonSlashCircleFill = SFSymbol(.iphoneHomebuttonSlashCircleFill, releaseYear: ._2021, recommendedRawValue: "iphone.gen1.slash.circle.fill", keywords: ["remove"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -3469,7 +3469,7 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: lasso.and.sparkles
-    /// - Alias: lasso.badge.sparkles
+    /// - Recommended: lasso.badge.sparkles
     static let lassoAndSparkles = SFSymbol(.lassoAndSparkles, releaseYear: ._2021, recommendedRawValue: "lasso.badge.sparkles")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -3797,13 +3797,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: logo.playstation
-    /// - Alias: playstation.logo
+    /// - Recommended: playstation.logo
     static let logoPlaystation = SFSymbol(.logoPlaystation, releaseYear: ._2021, recommendedRawValue: "playstation.logo")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: logo.xbox
-    /// - Alias: xbox.logo
+    /// - Recommended: xbox.logo
     static let logoXbox = SFSymbol(.logoXbox, releaseYear: ._2021, recommendedRawValue: "xbox.logo")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -3949,13 +3949,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: message.and.waveform
-    /// - Alias: message.badge.waveform
+    /// - Recommended: message.badge.waveform
     static let messageAndWaveform = SFSymbol(.messageAndWaveform, releaseYear: ._2021, recommendedRawValue: "message.badge.waveform")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: message.and.waveform.fill
-    /// - Alias: message.badge.waveform.fill
+    /// - Recommended: message.badge.waveform.fill
     static let messageAndWaveformFill = SFSymbol(.messageAndWaveformFill, releaseYear: ._2021, recommendedRawValue: "message.badge.waveform.fill")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -4533,13 +4533,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.and.waveform
-    /// - Alias: phone.badge.waveform
+    /// - Recommended: phone.badge.waveform
     static let phoneAndWaveform = SFSymbol(.phoneAndWaveform, releaseYear: ._2021, recommendedRawValue: "phone.badge.waveform")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.and.waveform.fill
-    /// - Alias: phone.badge.waveform.fill
+    /// - Recommended: phone.badge.waveform.fill
     static let phoneAndWaveformFill = SFSymbol(.phoneAndWaveformFill, releaseYear: ._2021, recommendedRawValue: "phone.badge.waveform.fill")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -4783,19 +4783,19 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.filled.topleft.down.curvedto.point.bottomright.up
-    /// - Alias: point.topleft.filled.down.to.point.bottomright.curvepath
+    /// - Recommended: point.topleft.filled.down.to.point.bottomright.curvepath
     static let pointFilledTopleftDownCurvedtoPointBottomrightUp = SFSymbol(.pointFilledTopleftDownCurvedtoPointBottomrightUp, releaseYear: ._2021, recommendedRawValue: "point.topleft.filled.down.to.point.bottomright.curvepath", keywords: ["activities", "path", "trail"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.curvedto.point.bottomright.up.fill
-    /// - Alias: point.topleft.down.to.point.bottomright.curvepath.fill
+    /// - Recommended: point.topleft.down.to.point.bottomright.curvepath.fill
     static let pointTopleftDownCurvedtoPointBottomrightUpFill = SFSymbol(.pointTopleftDownCurvedtoPointBottomrightUpFill, releaseYear: ._2021, recommendedRawValue: "point.topleft.down.to.point.bottomright.curvepath.fill", keywords: ["activities", "path", "trail"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: point.topleft.down.curvedto.point.filled.bottomright.up
-    /// - Alias: point.topleft.down.to.point.bottomright.filled.curvepath
+    /// - Recommended: point.topleft.down.to.point.bottomright.filled.curvepath
     static let pointTopleftDownCurvedtoPointFilledBottomrightUp = SFSymbol(.pointTopleftDownCurvedtoPointFilledBottomrightUp, releaseYear: ._2021, recommendedRawValue: "point.topleft.down.to.point.bottomright.filled.curvepath", keywords: ["activities", "path", "trail"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -5039,13 +5039,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.bubble.left
-    /// - Alias: rectangle.3.group.bubble
+    /// - Recommended: rectangle.3.group.bubble
     static let rectangle3GroupBubbleLeft = SFSymbol(.rectangle3GroupBubbleLeft, releaseYear: ._2021, recommendedRawValue: "rectangle.3.group.bubble", keywords: ["speech"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.bubble.left.fill
-    /// - Alias: rectangle.3.group.bubble.fill
+    /// - Recommended: rectangle.3.group.bubble.fill
     static let rectangle3GroupBubbleLeftFill = SFSymbol(.rectangle3GroupBubbleLeftFill, releaseYear: ._2021, recommendedRawValue: "rectangle.3.group.bubble.fill", keywords: ["speech"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -6122,31 +6122,31 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.2.stack.3d.bottom.filled
-    /// - Alias: square.2.layers.3d.bottom.filled
+    /// - Recommended: square.2.layers.3d.bottom.filled
     static let square2Stack3DBottomFilled = SFSymbol(.square2Stack3DBottomFilled, releaseYear: ._2021, recommendedRawValue: "square.2.layers.3d.bottom.filled")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.2.stack.3d.top.filled
-    /// - Alias: square.2.layers.3d.top.filled
+    /// - Recommended: square.2.layers.3d.top.filled
     static let square2Stack3DTopFilled = SFSymbol(.square2Stack3DTopFilled, releaseYear: ._2021, recommendedRawValue: "square.2.layers.3d.top.filled")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d.bottom.filled
-    /// - Alias: square.3.layers.3d.bottom.filled
+    /// - Recommended: square.3.layers.3d.bottom.filled
     static let square3Stack3DBottomFilled = SFSymbol(.square3Stack3DBottomFilled, releaseYear: ._2021, recommendedRawValue: "square.3.layers.3d.bottom.filled")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d.middle.filled
-    /// - Alias: square.3.layers.3d.middle.filled
+    /// - Recommended: square.3.layers.3d.middle.filled
     static let square3Stack3DMiddleFilled = SFSymbol(.square3Stack3DMiddleFilled, releaseYear: ._2021, recommendedRawValue: "square.3.layers.3d.middle.filled")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d.top.filled
-    /// - Alias: square.3.layers.3d.top.filled
+    /// - Recommended: square.3.layers.3d.top.filled
     static let square3Stack3DTopFilled = SFSymbol(.square3Stack3DTopFilled, releaseYear: ._2021, recommendedRawValue: "square.3.layers.3d.top.filled")
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -6441,13 +6441,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.and.horizon
-    /// - Alias: sun.horizon
+    /// - Recommended: sun.horizon
     static let sunAndHorizon = SFSymbol(.sunAndHorizon, releaseYear: ._2021, recommendedRawValue: "sun.horizon", keywords: ["weather"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.and.horizon.fill
-    /// - Alias: sun.horizon.fill
+    /// - Recommended: sun.horizon.fill
     static let sunAndHorizonFill = SFSymbol(.sunAndHorizonFill, releaseYear: ._2021, recommendedRawValue: "sun.horizon.fill", keywords: ["weather"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -6758,13 +6758,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.and.waveform
-    /// - Alias: video.badge.waveform
+    /// - Recommended: video.badge.waveform
     static let videoAndWaveform = SFSymbol(.videoAndWaveform, releaseYear: ._2021, recommendedRawValue: "video.badge.waveform", keywords: ["facetime"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: video.and.waveform.fill
-    /// - Alias: video.badge.waveform.fill
+    /// - Recommended: video.badge.waveform.fill
     static let videoAndWaveformFill = SFSymbol(.videoAndWaveformFill, releaseYear: ._2021, recommendedRawValue: "video.badge.waveform.fill", keywords: ["facetime"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
@@ -6837,13 +6837,13 @@ public extension SFSymbol {
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.and.magnifyingglass
-    /// - Alias: waveform.badge.magnifyingglass
+    /// - Recommended: waveform.badge.magnifyingglass
     static let waveformAndMagnifyingglass = SFSymbol(.waveformAndMagnifyingglass, releaseYear: ._2021, recommendedRawValue: "waveform.badge.magnifyingglass", keywords: ["search"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.and.mic
-    /// - Alias: waveform.badge.mic
+    /// - Recommended: waveform.badge.mic
     static let waveformAndMic = SFSymbol(.waveformAndMic, releaseYear: ._2021, recommendedRawValue: "waveform.badge.mic", keywords: ["microphone"])
 
     /// Support only iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0 and later

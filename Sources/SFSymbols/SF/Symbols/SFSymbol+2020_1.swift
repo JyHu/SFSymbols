@@ -305,13 +305,13 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.homebutton.badge.play
-    /// - Alias: ipad.gen1.badge.play
+    /// - Recommended: ipad.gen1.badge.play
     static let ipadHomebuttonBadgePlay = SFSymbol(.ipadHomebuttonBadgePlay, releaseYear: ._2020_1, recommendedRawValue: "ipad.gen1.badge.play")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.homebutton.landscape.badge.play
-    /// - Alias: ipad.gen1.landscape.badge.play
+    /// - Recommended: ipad.gen1.landscape.badge.play
     static let ipadHomebuttonLandscapeBadgePlay = SFSymbol(.ipadHomebuttonLandscapeBadgePlay, releaseYear: ._2020_1, recommendedRawValue: "ipad.gen1.landscape.badge.play")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
@@ -337,13 +337,13 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.badge.play
-    /// - Alias: iphone.gen1.badge.play
+    /// - Recommended: iphone.gen1.badge.play
     static let iphoneHomebuttonBadgePlay = SFSymbol(.iphoneHomebuttonBadgePlay, releaseYear: ._2020_1, recommendedRawValue: "iphone.gen1.badge.play")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.landscape
-    /// - Alias: iphone.gen1.landscape
+    /// - Recommended: iphone.gen1.landscape
     static let iphoneHomebuttonLandscape = SFSymbol(.iphoneHomebuttonLandscape, releaseYear: ._2020_1, recommendedRawValue: "iphone.gen1.landscape")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
@@ -421,7 +421,7 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.topthird.inset
-    /// - Alias: rectangle.topthird.inset.filled
+    /// - Recommended: rectangle.topthird.inset.filled
     static let rectangleTopthirdInset = SFSymbol(.rectangleTopthirdInset, releaseYear: ._2020_1, recommendedRawValue: "rectangle.topthird.inset.filled")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
@@ -465,7 +465,7 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: shield.checkerboard
-    /// - Alias: shield.checkered
+    /// - Recommended: shield.checkered
     static let shieldCheckerboard = SFSymbol(.shieldCheckerboard, releaseYear: ._2020_1, recommendedRawValue: "shield.checkered")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later

@@ -504,13 +504,13 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100.circle
-    /// - Alias: battery.100percent.circle
+    /// - Recommended: battery.100percent.circle
     static let battery100Circle = SFSymbol(.battery100Circle, releaseYear: ._2022, recommendedRawValue: "battery.100percent.circle")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: battery.100.circle.fill
-    /// - Alias: battery.100percent.circle.fill
+    /// - Recommended: battery.100percent.circle.fill
     static let battery100CircleFill = SFSymbol(.battery100CircleFill, releaseYear: ._2022, recommendedRawValue: "battery.100percent.circle.fill")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -644,37 +644,37 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: box.truck
-    /// - Alias: truck.box
+    /// - Recommended: truck.box
     static let boxTruck = SFSymbol(.boxTruck, releaseYear: ._2022, recommendedRawValue: "truck.box")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: box.truck.badge.clock
-    /// - Alias: truck.box.badge.clock
+    /// - Recommended: truck.box.badge.clock
     static let boxTruckBadgeClock = SFSymbol(.boxTruckBadgeClock, releaseYear: ._2022, recommendedRawValue: "truck.box.badge.clock", keywords: ["time"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: box.truck.badge.clock.fill
-    /// - Alias: truck.box.badge.clock.fill
+    /// - Recommended: truck.box.badge.clock.fill
     static let boxTruckBadgeClockFill = SFSymbol(.boxTruckBadgeClockFill, releaseYear: ._2022, recommendedRawValue: "truck.box.badge.clock.fill", keywords: ["time"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: box.truck.badge.clock.fill.rtl
-    /// - Alias: truck.box.badge.clock.fill.rtl
+    /// - Recommended: truck.box.badge.clock.fill.rtl
     static let boxTruckBadgeClockFillRtl = SFSymbol(.boxTruckBadgeClockFillRtl, releaseYear: ._2022, recommendedRawValue: "truck.box.badge.clock.fill.rtl", keywords: ["time"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: box.truck.badge.clock.rtl
-    /// - Alias: truck.box.badge.clock.rtl
+    /// - Recommended: truck.box.badge.clock.rtl
     static let boxTruckBadgeClockRtl = SFSymbol(.boxTruckBadgeClockRtl, releaseYear: ._2022, recommendedRawValue: "truck.box.badge.clock.rtl", keywords: ["time"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: box.truck.fill
-    /// - Alias: truck.box.fill
+    /// - Recommended: truck.box.fill
     static let boxTruckFill = SFSymbol(.boxTruckFill, releaseYear: ._2022, recommendedRawValue: "truck.box.fill")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -2498,13 +2498,13 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fanblades.slash
-    /// - Alias: fan.slash
+    /// - Recommended: fan.slash
     static let fanbladesSlash = SFSymbol(.fanbladesSlash, releaseYear: ._2022, recommendedRawValue: "fan.slash")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: fanblades.slash.fill
-    /// - Alias: fan.slash.fill
+    /// - Recommended: fan.slash.fill
     static let fanbladesSlashFill = SFSymbol(.fanbladesSlashFill, releaseYear: ._2022, recommendedRawValue: "fan.slash.fill")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3254,31 +3254,31 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.high
-    /// - Alias: gauge.with.dots.needle.bottom.100percent
+    /// - Recommended: gauge.with.dots.needle.bottom.100percent
     static let gaugeHigh = SFSymbol(.gaugeHigh, releaseYear: ._2022, recommendedRawValue: "gauge.with.dots.needle.bottom.100percent", keywords: ["high"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.low
-    /// - Alias: gauge.with.dots.needle.bottom.0percent
+    /// - Recommended: gauge.with.dots.needle.bottom.0percent
     static let gaugeLow = SFSymbol(.gaugeLow, releaseYear: ._2022, recommendedRawValue: "gauge.with.dots.needle.bottom.0percent", keywords: ["low"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.medium
-    /// - Alias: gauge.with.dots.needle.bottom.50percent
+    /// - Recommended: gauge.with.dots.needle.bottom.50percent
     static let gaugeMedium = SFSymbol(.gaugeMedium, releaseYear: ._2022, recommendedRawValue: "gauge.with.dots.needle.bottom.50percent", keywords: ["medium"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.medium.badge.minus
-    /// - Alias: gauge.with.dots.needle.bottom.50percent.badge.minus
+    /// - Recommended: gauge.with.dots.needle.bottom.50percent.badge.minus
     static let gaugeMediumBadgeMinus = SFSymbol(.gaugeMediumBadgeMinus, releaseYear: ._2022, recommendedRawValue: "gauge.with.dots.needle.bottom.50percent.badge.minus", keywords: ["medium", "remove"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gauge.medium.badge.plus
-    /// - Alias: gauge.with.dots.needle.bottom.50percent.badge.plus
+    /// - Recommended: gauge.with.dots.needle.bottom.50percent.badge.plus
     static let gaugeMediumBadgePlus = SFSymbol(.gaugeMediumBadgePlus, releaseYear: ._2022, recommendedRawValue: "gauge.with.dots.needle.bottom.50percent.badge.plus", keywords: ["add", "medium"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3343,13 +3343,13 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hand.app
-    /// - Alias: hand.raised.app
+    /// - Recommended: hand.raised.app
     static let handApp = SFSymbol(.handApp, releaseYear: ._2022, recommendedRawValue: "hand.raised.app", keywords: ["privacy"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hand.app.fill
-    /// - Alias: hand.raised.app.fill
+    /// - Recommended: hand.raised.app.fill
     static let handAppFill = SFSymbol(.handAppFill, releaseYear: ._2022, recommendedRawValue: "hand.raised.app.fill", keywords: ["privacy"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3778,7 +3778,7 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: laptopcomputer.and.ipad
-    /// - Alias: macbook.and.ipad
+    /// - Recommended: macbook.and.ipad
     static let laptopcomputerAndIpad = SFSymbol(.laptopcomputerAndIpad, releaseYear: ._2022, recommendedRawValue: "macbook.and.ipad")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4913,22 +4913,20 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.arrow.down.left.fill
-    /// - Legacy Name: phone.fill.arrow.down.left
     /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let phoneArrowDownLeftFill = SFSymbol(.phoneArrowDownLeftFill, releaseYear: ._2022, legacyRawValue: "phone.fill.arrow.down.left", category: [ .communication ], layerset: [.hierarchical: ._2021])
+    static let phoneArrowDownLeftFill = SFSymbol(.phoneArrowDownLeftFill, releaseYear: ._2022, category: [ .communication ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.arrow.right.fill
-    /// - Legacy Name: phone.fill.arrow.right
     /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let phoneArrowRightFill = SFSymbol(.phoneArrowRightFill, releaseYear: ._2022, legacyRawValue: "phone.fill.arrow.right", category: [ .communication ], layerset: [.hierarchical: ._2021])
+    static let phoneArrowRightFill = SFSymbol(.phoneArrowRightFill, releaseYear: ._2022, category: [ .communication ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
@@ -4952,12 +4950,11 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: phone.arrow.up.right.fill
-    /// - Legacy Name: phone.fill.arrow.up.right
     /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let phoneArrowUpRightFill = SFSymbol(.phoneArrowUpRightFill, releaseYear: ._2022, legacyRawValue: "phone.fill.arrow.up.right", category: [ .communication ], layerset: [.hierarchical: ._2021])
+    static let phoneArrowUpRightFill = SFSymbol(.phoneArrowUpRightFill, releaseYear: ._2022, category: [ .communication ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
@@ -6266,25 +6263,25 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.left
-    /// - Alias: speaker.wave.2.bubble
+    /// - Recommended: speaker.wave.2.bubble
     static let speakerWave2BubbleLeft = SFSymbol(.speakerWave2BubbleLeft, releaseYear: ._2022, recommendedRawValue: "speaker.wave.2.bubble")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.left.fill
-    /// - Alias: speaker.wave.2.bubble.fill
+    /// - Recommended: speaker.wave.2.bubble.fill
     static let speakerWave2BubbleLeftFill = SFSymbol(.speakerWave2BubbleLeftFill, releaseYear: ._2022, recommendedRawValue: "speaker.wave.2.bubble.fill")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.left.fill.rtl
-    /// - Alias: speaker.wave.2.bubble.fill.rtl
+    /// - Recommended: speaker.wave.2.bubble.fill.rtl
     static let speakerWave2BubbleLeftFillRtl = SFSymbol(.speakerWave2BubbleLeftFillRtl, releaseYear: ._2022, recommendedRawValue: "speaker.wave.2.bubble.fill.rtl")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: speaker.wave.2.bubble.left.rtl
-    /// - Alias: speaker.wave.2.bubble.rtl
+    /// - Recommended: speaker.wave.2.bubble.rtl
     static let speakerWave2BubbleLeftRtl = SFSymbol(.speakerWave2BubbleLeftRtl, releaseYear: ._2022, recommendedRawValue: "speaker.wave.2.bubble.rtl")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6606,13 +6603,13 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.and.horizon.circle
-    /// - Alias: sun.horizon.circle
+    /// - Recommended: sun.horizon.circle
     static let sunAndHorizonCircle = SFSymbol(.sunAndHorizonCircle, releaseYear: ._2022, recommendedRawValue: "sun.horizon.circle", keywords: ["weather"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: sun.and.horizon.circle.fill
-    /// - Alias: sun.horizon.circle.fill
+    /// - Recommended: sun.horizon.circle.fill
     static let sunAndHorizonCircleFill = SFSymbol(.sunAndHorizonCircleFill, releaseYear: ._2022, recommendedRawValue: "sun.horizon.circle.fill", keywords: ["weather"])
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7516,7 +7513,7 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: windshield.front.and.fluid
-    /// - Alias: windshield.front.and.spray
+    /// - Recommended: windshield.front.and.spray
     static let windshieldFrontAndFluid = SFSymbol(.windshieldFrontAndFluid, releaseYear: ._2022, recommendedRawValue: "windshield.front.and.spray")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7542,7 +7539,7 @@ public extension SFSymbol {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: windshield.rear.and.fluid
-    /// - Alias: windshield.rear.and.spray
+    /// - Recommended: windshield.rear.and.spray
     static let windshieldRearAndFluid = SFSymbol(.windshieldRearAndFluid, releaseYear: ._2022, recommendedRawValue: "windshield.rear.and.spray")
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
