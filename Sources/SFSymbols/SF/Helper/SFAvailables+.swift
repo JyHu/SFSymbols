@@ -30,3 +30,9 @@ public extension SFSymbol.Availables {
         }
     }
 }
+
+extension SFSymbol.Layerset: Identifiable {
+    public var id: String {
+        rawValue
+    }
+}
