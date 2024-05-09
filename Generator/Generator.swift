@@ -441,6 +441,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             \(sfnames)
             
             }
+            
             """
         
         write(text: nameCodes, to: spmSourceFolder.appendingPathComponent("SFNames.swift"))
@@ -532,6 +533,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             \(groupedString)
             
             #endif
+            
             """
         
         write(text: codes, to: spmSourceFolder.appendingPathComponent("SFImages+SwiftUI.swift"))
@@ -606,6 +608,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 
                 \(symbolStrings)
                 }
+                
                 """
             
             let fileName = monoYear.replacingOccurrences(of: ".", with: "_")
@@ -649,6 +652,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                     return symbols
                 }
             }
+            
             """
         
         write(text: code, to: spmSourceFolder.appendingPathComponent("Symbols/SFSymbols+.swift"))
