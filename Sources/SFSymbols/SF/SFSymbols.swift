@@ -51,7 +51,7 @@ public extension SFSymbols {
         return symbolsMap[name]
     }
     
-    func search(_ keyword: String, category: SFSymbol.Category? = nil, filter: ((SFSymbol) -> Bool)? = nil) -> [SFSymbol] {
+    func search(_ keyword: String, options: String.CompareOptions = .caseInsensitive,  category: SFSymbol.Category? = nil, filter: ((SFSymbol) -> Bool)? = nil) -> [SFSymbol] {
         let trimmedKeyWord = keyword.trimmingCharacters(in: .whitespacesAndNewlines)
         
         return symbols(of: category ?? .all).filter {
