@@ -18,7 +18,7 @@ let numberFormatter: NumberFormatter = {
 
 struct DetailInfoView: View {
     @EnvironmentObject private var viewModel: SFViewModel
-
+    
     @State private var noteExpanded: Bool = true
     
     var body: some View {
@@ -83,7 +83,7 @@ private struct SymbolGroup: View {
 private struct AvailablesGroup: View {
     @EnvironmentObject private var viewModel: SFViewModel
     @State private var availablesExpanded: Bool = true
-
+    
     var body: some View {
         DisclosureGroup("Available", isExpanded: $availablesExpanded) {
             if let symbol = viewModel.selectedSymbol {

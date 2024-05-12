@@ -68,10 +68,10 @@ struct PhoneMainView: View {
                     .toolbar {
                         makeToolbarContent()
                     }
-                .popover(item: $viewModel.selectedSymbol) { _ in
-                    DetailView(needTab: Platform.current == .iphone)
-                        .presentationDetents([.medium, .large])
-                }
+                    .popover(item: $viewModel.selectedSymbol) { _ in
+                        DetailView(needTab: Platform.current == .iphone)
+                            .presentationDetents([.medium, .large])
+                    }
             }
             .searchable(text: $viewModel.keyword, prompt: Text("Search"))
         } else {

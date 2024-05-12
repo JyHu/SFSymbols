@@ -47,8 +47,8 @@ class KeyWords: ObservableObject {
                 .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
                 .filter { $0.count > 0 }
                 .filter { !combinedContent.contains($0) })
-                .map { Keyword(keyword: $0, isDefault: false) }
-                .sorted { $0.keyword < $1.keyword }
+            .map { Keyword(keyword: $0, isDefault: false) }
+            .sorted { $0.keyword < $1.keyword }
             return keywords
         }
     }

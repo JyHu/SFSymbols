@@ -27,9 +27,9 @@ enum Tab: String, Identifiable, CaseIterable {
 enum ListMode: String, CaseIterable, Identifiable {
     case grid
     case list
-    #if os(macOS)
+#if os(macOS)
     case gallery
-    #endif
+#endif
     
     var id: String { rawValue }
     

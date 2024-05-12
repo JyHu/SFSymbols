@@ -16,11 +16,11 @@ class SFViewModel: ObservableObject {
     @Published var releaseYear: SFSymbol.ReleaseYear? = ._2019
     @Published var filterStrategy: FilterStrategy = .selectedAndLater
     
-    #if os(macOS)
+#if os(macOS)
     @Published var tab: Tab = .info
-    #else
+#else
     @Published var tab: Tab = .palette
-    #endif
+#endif
     
     @Published var symbols: [SFSymbol] = SFSymbols.shared.symbols
     @Published var listMode: ListMode = .grid

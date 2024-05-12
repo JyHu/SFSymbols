@@ -102,10 +102,10 @@ class ColorItem: ObservableObject {
 #if os(macOS)
         self.systemColor = color
         self.isEnable = isEnable
-        #else
+#else
         self.color = color.color
         self.isEnable = isEnable
-        #endif
+#endif
     }
     
 #if os(macOS)

@@ -13,7 +13,7 @@ struct DetailView: View {
     @EnvironmentObject private var viewModel: SFViewModel
     
     let needTab: Bool
-
+    
     var body: some View {
         VStack {
             if needTab {            

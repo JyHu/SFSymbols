@@ -43,10 +43,10 @@ private extension ImageStackView {
         .padding(.all, 10)
         .fontWeight(viewModel.weight)
         .frame(maxWidth: .infinity)
-        #if os(macOS)
+#if os(macOS)
         .background(.background)
         .background(in: RoundedRectangle(cornerRadius: 5))
-        #endif
+#endif
     }
     
     @ViewBuilder

@@ -33,7 +33,7 @@ struct SymbolsView: View {
             }
             .background(.background)
         } else if viewModel.listMode == .list {
-            #if os(macOS)
+#if os(macOS)
             Table(viewModel.symbols, selection: $selectedSymbolID) {
                 TableColumn(" ") { symbol in
                     HStack(alignment: .center) {
@@ -57,7 +57,7 @@ struct SymbolsView: View {
             .adp_onChange(of: selectedSymbolID) {
                 viewModel.selectedSymbol = viewModel.symbols.first(where: { $0.id == selectedSymbolID })
             }
-            #else
+#else
             List {
                 Section {
                     ForEach(viewModel.symbols) { symbol in
@@ -88,7 +88,7 @@ struct SymbolsView: View {
                     }
                 }
             }
-            #endif
+#endif
         } else {
 #if os(macOS)
             if viewModel.listMode == .gallery {

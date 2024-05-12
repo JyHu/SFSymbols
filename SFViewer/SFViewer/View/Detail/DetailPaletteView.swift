@@ -11,7 +11,7 @@ import SFSymbols
 #if os(macOS)
 struct DetailPaletteView: View {
     @EnvironmentObject private var viewModel: SFViewModel
-
+    
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 20) {
@@ -61,7 +61,7 @@ struct DetailPaletteView: View {
                             Image(sfname: .sliderHorizontalBelowSquareFilledAndSquare)
                                 .foregroundStyle(viewModel.availableVariable ? .blue : .gray)
                         }
-
+                        
                         Slider(value: $viewModel.variableValue, in: 0...1)
                         
                         Text(String(format: "%.2f%%", viewModel.variableValue * 100))
@@ -158,7 +158,7 @@ struct OpacityField: View {
                     .replacingOccurrences(of: "%", with: "")
                 
                 if trimmedValue.range(of: "^\\d+(\\.\\d*)?$", options: .regularExpression) != nil,
-                    let val = Double(trimmedValue), !val.isNaN, !val.isInfinite {
+                   let val = Double(trimmedValue), !val.isNaN, !val.isInfinite {
                     opacity = max(min(1, val / 100), 0)
                 }
             }

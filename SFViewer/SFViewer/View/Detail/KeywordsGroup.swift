@@ -54,13 +54,13 @@ struct KeyWordsGroup: View {
         let header = Group {
             if keywordssExpanded {
                 HStack {
-                    #if os(macOS)
+#if os(macOS)
                     Text("Keywords")
-                    #else
+#else
                     Text("Keywords")
                         .font(.system(size: 12))
                         .foregroundStyle(.secondary)
-                    #endif
+#endif
                     
                     Spacer()
                     
@@ -109,7 +109,7 @@ struct KeyWordsGroup: View {
         } header: {
             header
         }
-
+        
 #endif
     }
 }

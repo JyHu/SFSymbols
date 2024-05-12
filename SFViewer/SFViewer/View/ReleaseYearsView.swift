@@ -32,7 +32,7 @@ struct ReleaseYearMenu: View {
                             } label: {
                                 Image(sfname: .chevronDown)
                             }
-
+                            
                         }
                     }
             }
@@ -46,7 +46,7 @@ struct ReleaseYearMenu: View {
 
 struct ReleaseYearsView: View {
     @EnvironmentObject private var viewModel: SFViewModel
-
+    
     var body: some View {
         List {
             Section {

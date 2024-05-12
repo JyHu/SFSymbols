@@ -10,7 +10,7 @@ import SwiftUI
 struct PaletteView2: View {
     @EnvironmentObject private var viewModel: SFViewModel
     @State var color: Color = .red
-
+    
     var body: some View {
         List {
             Section(viewModel.renderingMode.name) {
@@ -48,7 +48,7 @@ struct PaletteView2: View {
                         Image(sfname: .sliderHorizontalBelowSquareFilledAndSquare)
                             .foregroundStyle(viewModel.availableVariable ? .blue : .gray)
                     }
-
+                    
                     Slider(value: $viewModel.variableValue, in: 0...1)
                     
                     Text(String(format: "%.2f%%", viewModel.variableValue))

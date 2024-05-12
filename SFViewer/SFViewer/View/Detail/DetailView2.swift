@@ -10,7 +10,7 @@ import SFSymbols
 
 struct DetailView2: View {
     @EnvironmentObject private var viewModel: SFViewModel
-
+    
     var body: some View {
         List {
             if let symbol = viewModel.selectedSymbol {
