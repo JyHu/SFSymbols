@@ -16,6 +16,8 @@ class SFViewModel: ObservableObject {
     @Published var releaseYear: SFSymbol.ReleaseYear? = ._2019
     @Published var filterStrategy: FilterStrategy = .selectedAndLater
     
+    @Published var tab: Tab = .info
+    
     @Published var symbols: [SFSymbol] = SFSymbols.shared.symbols
     @Published var listMode: ListMode = .grid
     @Published var selectedSymbolKeywords: [KeyWords.Keyword] = []

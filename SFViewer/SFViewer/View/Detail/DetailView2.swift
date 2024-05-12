@@ -64,25 +64,21 @@ struct DetailView2: View {
                         
                         HStack(alignment: .center) {
                             Text("Platforms")
-                                .font(.system(size: 10))
-                                .foregroundStyle(.secondary)
                             Spacer()
                             Text("Ava")
                                 .frame(width: columnWidth)
                                 .multilineTextAlignment(.trailing)
-                                .font(.system(size: 10))
-                                .foregroundStyle(.secondary)
                             
                             ForEach(SFSymbol.Layerset.allCases) { layer in
-                                if let availables = symbol.layerset[layer]?.availables {
+                                if let _ = symbol.layerset[layer] {
                                     Text(layer.rawValue)
                                         .frame(width: columnWidth)
                                         .multilineTextAlignment(.trailing)
-                                        .font(.system(size: 10))
-                                        .foregroundStyle(.secondary)
                                 }
                             }
                         }
+                        .font(.system(size: 10))
+                        .foregroundStyle(.secondary)
                     }
                 }
                 

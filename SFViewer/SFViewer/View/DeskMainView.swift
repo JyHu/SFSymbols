@@ -19,7 +19,7 @@ struct DeskMainView: View {
         } content: {
             SymbolsView()
         } detail: {
-            DetailView()
+            DetailView(needTab: true)
         }
         .searchable(text: $viewModel.keyword, prompt: Text("Search"))
         .toolbar {

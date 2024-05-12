@@ -15,60 +15,100 @@ struct PhoneMainView: View {
     
     var body: some View {
 #if !os(macOS)
-        if deviceOrientation == .landscape {
+        if deviceOrientation == .landscape && Platform.current == .iphone {
             NavigationStack {
-                VStack {
-                    SymbolsView()
-                        .navigationBarTitleDisplayMode(.inline)
-                        .toolbar {
-                            ToolbarItem(placement: .topBarLeading) {
-                                Menu {
-                                    Picker(selection: $viewModel.category) {
-                                        ForEach(SFSymbol.Category.allCases) {
-                                            Label($0.name, systemImage: $0.symbol.rawValue)
-                                                .tag($0)
-                                        }
-                                    } label: { }
-                                        .labelsHidden()
-                                    
-                                } label: {
-                                    VStack(alignment: .leading) {
-                                        Text(viewModel.category.name)
-                                            .fontWeight(.bold)
-                                        Text("\(viewModel.symbols.count)个")
-                                            .font(.system(size: 12))
-                                            .foregroundStyle(.secondary)
-                                    }
-                                }
-                            }
-                            
-                            ToolbarItem(placement: .topBarTrailing) {
-                                ReleaseYearMenu()
-                            }
-                            
-                            ToolbarItem(placement: .topBarTrailing) {
-                                Picker(selection: $viewModel.listMode) {
-                                    ForEach(ListMode.allCases) {
-                                        Image(sfname: $0.name).tag($0)
-                                    }
-                                } label: { }
-                                    .labelsHidden()
-                                    .pickerStyle(.segmented)
-                            }
-                        }
-                }
+                SymbolsView()
+                    .navigationBarTitleDisplayMode(.inline)
+                    .toolbar {
+                        makeToolbarContent()
+                    }
                 .popover(item: $viewModel.selectedSymbol) { _ in
-                    DetailView()
+                    DetailView(needTab: true)
                         .presentationDetents([.medium, .large])
                 }
             }
             .searchable(text: $viewModel.keyword, prompt: Text("Search"))
         } else {
-            Text("hello")
+            NavigationStack {
+                GeometryReader { proxy in
+                    let pwidth = proxy.size.width / 2
+                    HStack {
+                        SymbolsView()
+                            .frame(width: pwidth)
+                        
+                        DetailView(needTab: false)
+                            .frame(width: pwidth)
+                    }
+                }
+                .searchable(text: $viewModel.keyword)
+                .toolbar {
+                    makeToolbarContent()
+                }
+            }
         }
 #endif
     }
 }
+
+#if !os(macOS)
+
+extension PhoneMainView {
+    @ToolbarContentBuilder
+    func makeToolbarContent() -> some ToolbarContent {
+        ToolbarItem(placement: .topBarLeading) {
+            Menu {
+                Picker(selection: $viewModel.category) {
+                    ForEach(SFSymbol.Category.allCases) {
+                        Label($0.name, systemImage: $0.symbol.rawValue)
+                            .tag($0)
+                    }
+                } label: { }
+                    .labelsHidden()
+                
+            } label: {
+                VStack(alignment: .leading) {
+                    Text(viewModel.category.name)
+                        .fontWeight(.bold)
+                    Text("\(viewModel.symbols.count)个")
+                        .font(.system(size: 12))
+                        .foregroundStyle(.secondary)
+                }
+            }
+        }
+        
+        ToolbarItem(placement: .topBarTrailing) {
+            ReleaseYearMenu()
+        }
+        
+        ToolbarItem(placement: .topBarTrailing) {
+            Picker(selection: $viewModel.listMode) {
+                ForEach(ListMode.allCases) {
+                    Image(sfname: $0.name).tag($0)
+                }
+            } label: { }
+                .labelsHidden()
+                .pickerStyle(.segmented)
+        }
+        
+        if deviceOrientation != .landscape {
+            ToolbarItem(placement: .topBarTrailing) {
+                Spacer()
+                    .frame(width: 30)
+            }
+            
+            ToolbarItem(placement: .topBarTrailing) {
+                Picker(selection: $viewModel.tab) {
+                    ForEach(Tab.allCases) {
+                        Image(sfname: $0.sfname).tag($0)
+                    }
+                } label: { }
+                    .labelsHidden()
+                    .pickerStyle(.segmented)
+            }
+        }
+    }
+}
+#endif
 
 #Preview {
     PhoneMainView()

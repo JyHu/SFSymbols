@@ -10,6 +10,20 @@ import SFSymbols
 import Combine
 import SwiftUI
 
+enum Tab: String, Identifiable, CaseIterable {
+    case info
+    case palette
+    
+    var id: String { rawValue }
+    
+    var sfname: SFName {
+        switch self {
+        case .info: .exclamationmarkCircle
+        case .palette: .paintbrush
+        }
+    }
+}
+
 enum ListMode: String, CaseIterable, Identifiable {
     case grid
     case list

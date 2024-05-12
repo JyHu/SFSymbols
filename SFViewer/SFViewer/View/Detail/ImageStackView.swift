@@ -13,17 +13,7 @@ struct ImageStackView: View {
     
     var body: some View {
         if let symbol = viewModel.selectedSymbol {
-//            #if os(macOS)
             makeImagesStack(with: symbol)
-//            #else
-//            VStack(spacing: 0) {
-//                makeImagesStack(with: symbol)
-//                
-//                Text(viewModel.renderingMode.name)
-//                    .font(.system(size: 15))
-//                    .foregroundStyle(.secondary)
-//            }
-//            #endif
         }
     }
 }
