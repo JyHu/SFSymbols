@@ -37,7 +37,8 @@ struct SymbolsView: View {
             Table(viewModel.symbols, selection: $selectedSymbolID) {
                 TableColumn(" ") { symbol in
                     HStack(alignment: .center) {
-                        Image(sfsymbol: symbol)
+                        Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
+                            .renderingImage(with: viewModel)
                             .font(.system(size: 24))
                             .fontWeight(viewModel.weight)
                             .frame(height: 36)
@@ -61,10 +62,10 @@ struct SymbolsView: View {
                 Section {
                     ForEach(viewModel.symbols) { symbol in
                         HStack(alignment: .center) {
-                            Image(sfsymbol: symbol)
+                            Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
                                 .resizable()
                                 .aspectRatio(contentMode: .fit)
-                                .fontWeight(viewModel.weight)
+                                .renderingImage(with: viewModel)
                                 .frame(width: 48, height: 48)
                             
                             VStack(alignment: .leading, spacing: 5) {

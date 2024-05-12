@@ -7,6 +7,7 @@
 
 import SwiftUI
 import SFSymbols
+import SwiftUIExtension
 
 #if !os(macOS)
 
@@ -24,7 +25,7 @@ struct ReleaseYearMenu: View {
                 ReleaseYearsView()
                     .navigationTitle("Release Years")
                     .navigationBarTitleDisplayMode(.inline)
-                    .toolbar {
+                    .toolbar(if: Platform.current != .ipad) {
                         ToolbarItem(placement: .topBarLeading) {
                             Button {
                                 isPresented = false
@@ -36,6 +37,9 @@ struct ReleaseYearMenu: View {
                     }
             }
             .presentationDetents([.medium])
+            .if(Platform.current == .ipad) {
+                $0.frame(width: 480, height: 640)
+            }
         }
     }
 }
@@ -80,7 +84,6 @@ struct ReleaseYearsView: View {
                             .foregroundStyle(.secondary)
                     }
                     .padding([.top, .bottom], 5)
-//                    .frame(height: 48)
                     .overlay {
                         Button(" ") {
                             viewModel.releaseYear = year

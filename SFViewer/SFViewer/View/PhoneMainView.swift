@@ -15,7 +15,53 @@ struct PhoneMainView: View {
     
     var body: some View {
 #if !os(macOS)
-        if deviceOrientation == .landscape && Platform.current == .iphone {
+        if Platform.current == .ipad {
+            NavigationSplitView {
+                CategoriesView()
+                    .toolbar {
+                        ToolbarItem(placement: .topBarLeading) {
+                            VStack(alignment: .leading) {
+                                Text(viewModel.category.name)
+                                    .fontWeight(.bold)
+                                Text("\(viewModel.symbols.count)个")
+                                    .font(.system(size: 12))
+                                    .foregroundStyle(.secondary)
+                            }
+                        }
+                        
+                        ToolbarItem(placement: .automatic) {
+                            ReleaseYearMenu()
+                        }
+                    }
+            } content: {
+                SymbolsView()
+                    .searchable(text: $viewModel.keyword)
+                    .toolbar {
+                        ToolbarItem(placement: .automatic) {
+                            Picker(selection: $viewModel.listMode) {
+                                ForEach(ListMode.allCases) {
+                                    Image(sfname: $0.name).tag($0)
+                                }
+                            } label: { }
+                                .labelsHidden()
+                                .pickerStyle(.segmented)
+                        }
+                    }
+            } detail: {
+                DetailView(needTab: false)
+                    .toolbar {
+                        ToolbarItem(placement: .topBarTrailing) {
+                            Picker(selection: $viewModel.tab) {
+                                ForEach(Tab.allCases) {
+                                    Image(sfname: $0.sfname).tag($0)
+                                }
+                            } label: { }
+                                .labelsHidden()
+                                .pickerStyle(.segmented)
+                        }
+                    }
+            }
+        } else if deviceOrientation == .landscape {
             NavigationStack {
                 SymbolsView()
                     .navigationBarTitleDisplayMode(.inline)
@@ -23,7 +69,7 @@ struct PhoneMainView: View {
                         makeToolbarContent()
                     }
                 .popover(item: $viewModel.selectedSymbol) { _ in
-                    DetailView(needTab: true)
+                    DetailView(needTab: Platform.current == .iphone)
                         .presentationDetents([.medium, .large])
                 }
             }
@@ -90,10 +136,10 @@ extension PhoneMainView {
                 .pickerStyle(.segmented)
         }
         
-        if deviceOrientation != .landscape {
+        if deviceOrientation != .landscape || Platform.current == .ipad {
             ToolbarItem(placement: .topBarTrailing) {
                 Spacer()
-                    .frame(width: 30)
+                    .frame(width: 60)
             }
             
             ToolbarItem(placement: .topBarTrailing) {

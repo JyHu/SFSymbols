@@ -10,10 +10,10 @@ import SwiftUIExtension
 
 struct MainView: View {
     var body: some View {
-        if Platform.current == .iphone {
-            PhoneMainView()
-        } else {
-            DeskMainView()
-        }
+        #if os(macOS)
+        DeskMainView()
+        #else
+        PhoneMainView()
+        #endif
     }
 }
