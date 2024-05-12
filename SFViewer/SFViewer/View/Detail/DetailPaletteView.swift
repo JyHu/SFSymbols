@@ -7,17 +7,15 @@
 
 import SwiftUI
 import SFSymbols
-import Cocoa
 
+#if os(macOS)
 struct DetailPaletteView: View {
     @EnvironmentObject private var viewModel: SFViewModel
 
     var body: some View {
         ScrollView {
-            VStack(spacing: 20) {
-                if let symbol = viewModel.selectedSymbol {
-                    makeImagesStack(with: symbol)
-                }
+            VStack(alignment: .leading, spacing: 20) {
+                ImageStackView()
                 
                 makeInfoGroup(title: "渲染") {
                     Picker("", selection: $viewModel.renderingMode) {
@@ -66,7 +64,9 @@ struct DetailPaletteView: View {
 
                         Slider(value: $viewModel.variableValue, in: 0...1)
                         
-                        OpacityField(opacity: $viewModel.variableValue)
+                        Text(String(format: "%.2f%%", viewModel.variableValue * 100))
+                            .font(.system(size: 12, design: .monospaced))
+                            .frame(width: 64)
                     }
                 }
             }
@@ -84,34 +84,6 @@ private extension DetailPaletteView {
             
             content()
         }
-    }
-    
-    @ViewBuilder
-    func makeImagesStack(with symbol: SFSymbol) -> some View {
-        HStack {
-            Spacer()
-            
-            makeChooiceButton(.monochrome, symbol: symbol)
-            
-            Spacer()
-            
-            makeChooiceButton(.hierarchical, symbol: symbol)
-            
-            Spacer()
-            
-            makeChooiceButton(.palette, symbol: symbol)
-            
-            Spacer()
-            
-            makeChooiceButton(.multicolor, symbol: symbol)
-            
-            Spacer()
-        }
-        .padding(.all, 10)
-        .fontWeight(viewModel.weight)
-        .frame(maxWidth: .infinity)
-        .background(.background)
-        .background(in: RoundedRectangle(cornerRadius: 5))
     }
     
     @ViewBuilder
@@ -143,6 +115,7 @@ private extension DetailPaletteView {
                             .tag(systemColor)
                     }
                 }
+                .pickerStyle(.menu)
                 
                 OpacityField(opacity: opacity)
                     .if(allowDisable) {
@@ -155,86 +128,6 @@ private extension DetailPaletteView {
                 ColorWellRepresentable(color: customizedColor)
                     .disabled(!colorItem.isEnable)
             }
-        }
-    }
-    
-    @ViewBuilder
-    func makeChooiceButton(_ mode: RenderingMode, symbol: SFSymbol) -> some View {
-        Button {
-            viewModel.renderingMode = mode
-        } label: {
-            VStack(spacing: 0) {
-                Group {
-                    if mode == .palette {
-                        Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                            .resizable()
-                            .aspectRatio(contentMode: .fit)
-                            .symbolRenderingMode(mode.mode)
-                            .if(viewModel.color3.isEnable) {
-                                $0.foregroundStyle(viewModel.color1.usefulColor, viewModel.color2.usefulColor, viewModel.color3.usefulColor)
-                            } else: {
-                                $0.foregroundStyle(viewModel.color1.usefulColor, viewModel.color2.usefulColor)
-                            }
-                    } else {
-                        Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                            .resizable()
-                            .aspectRatio(contentMode: .fit)
-                            .symbolRenderingMode(mode.mode)
-                            .foregroundStyle(viewModel.color1.usefulColor)
-                    }
-                }
-                .frame(height: 80)
-                
-                Group {
-                    if mode == viewModel.renderingMode {
-                        Image(sfname: .checkmark)
-                            .fontWeight(.bold)
-                            .foregroundStyle(.green)
-                    } else {
-                        Text(" ")
-                    }
-                }
-                .frame(height: 15)
-            }
-        }
-        .buttonStyle(.borderless)
-    }
-}
-
-// 封装ColorWell的NSViewRepresentable
-struct ColorWellRepresentable: NSViewRepresentable {
-    // 创建一个绑定的颜色属性，以便在SwiftUI中跟踪颜色
-    @Binding var color: Color
-
-    // 创建一个NSColorWell实例
-    func makeNSView(context: Context) -> NSColorWell {
-        let colorWell = NSColorWell()
-        colorWell.color = NSColor(color)
-        colorWell.target = context.coordinator
-        colorWell.action = #selector(Coordinator.colorChanged(_:))
-        return colorWell
-    }
-
-    // 更新NSColorWell的颜色
-    func updateNSView(_ nsView: NSColorWell, context: Context) {
-        nsView.color = NSColor(color)
-    }
-
-    // 协调器用于处理颜色更改
-    func makeCoordinator() -> Coordinator {
-        return Coordinator(color: $color)
-    }
-
-    // Coordinator类用于处理颜色更改
-    class Coordinator: NSObject {
-        var color: Binding<Color>
-
-        init(color: Binding<Color>) {
-            self.color = color
-        }
-
-        @objc func colorChanged(_ sender: NSColorWell) {
-            color.wrappedValue = Color(nsColor: sender.color)
         }
     }
 }
@@ -276,3 +169,4 @@ struct OpacityField: View {
             }
     }
 }
+#endif

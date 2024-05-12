@@ -7,9 +7,17 @@
 
 import SwiftUI
 
+#if os(macOS)
+typealias ADP_ApplicationDelegateAdaptor = NSApplicationDelegateAdaptor
+typealias ADP_ApplicationDelegate = NSApplicationDelegate
+#else
+typealias ADP_ApplicationDelegateAdaptor = UIApplicationDelegateAdaptor
+typealias ADP_ApplicationDelegate = UIApplicationDelegate
+#endif
+
 @main
 struct SFViewerApp: App {
-    @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+    @ADP_ApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     let viewModel = SFViewModel()
     
     var body: some Scene {
@@ -20,9 +28,17 @@ struct SFViewerApp: App {
     }
 }
 
-class AppDelegate: NSObject, NSApplicationDelegate {
+class AppDelegate: NSObject, ADP_ApplicationDelegate {
+#if os(macOS)
     func applicationDidFinishLaunching(_ notification: Notification) {
         KeyWords.shared.load()
     }
+
+#else
+
+    func applicationDidFinishLaunching(_ application: UIApplication) {
+        KeyWords.shared.load()
+    }
+#endif
 }
 

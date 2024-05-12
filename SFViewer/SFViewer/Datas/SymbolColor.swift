@@ -48,6 +48,7 @@ let systemColors = [
 ]
 
 class ColorItem: ObservableObject {
+#if os(macOS)
     @Published var systemColor: SystemColor = systemColors[0] {
         didSet {
             if systemColor.isCustomized {
@@ -70,29 +71,44 @@ class ColorItem: ObservableObject {
         }
     }
     
-    @Published var isEnable: Bool = true {
-        didSet {
-            updateUsefulColor()
-        }
-    }
-    
     @Published var isCustomized: Bool = false
-    
-    @Published var color: Color = .black {
-        didSet {
-            updateUsefulColor()
-        }
-    }
-    
-    
-    @Published var usefulColor: Color = .black
     
     private var cancelable: AnyCancellable?
     
+#endif
+    
+    @Published var isEnable: Bool = true {
+        didSet {
+#if os(macOS)
+            updateUsefulColor()
+#endif
+        }
+    }
+    
+    @Published var color: Color = .black {
+        didSet {
+#if os(macOS)
+            updateUsefulColor()
+#else
+            usefulColor = color
+#endif
+        }
+    }
+    
+    
+    @Published private(set) var usefulColor: Color = .black
+    
     init(color: SystemColor, isEnable: Bool = true) {
+#if os(macOS)
         self.systemColor = color
         self.isEnable = isEnable
+        #else
+        self.color = color.color
+        self.isEnable = isEnable
+        #endif
     }
+    
+#if os(macOS)
     
     func updateUsefulColor() {
         func t() -> Color {
@@ -113,4 +129,5 @@ class ColorItem: ObservableObject {
         
         self.usefulColor = t()
     }
+#endif
 }

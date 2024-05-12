@@ -15,15 +15,25 @@ struct SymbolsView: View {
     var body: some View {
         if viewModel.listMode == .grid {
             ScrollView {
+#if os(macOS)
                 LazyVGrid(columns: [GridItem(.adaptive(minimum: 100, maximum: 110), spacing: 10, alignment: .center)], alignment: .center, spacing: 10) {
                     ForEach(viewModel.symbols) { symbol in
                         makeBlock(of: symbol)
                     }
                 }
                 .padding()
+#else
+                LazyVGrid(columns: Array(repeating: GridItem(.flexible(minimum: 10, maximum: 70), spacing: 8, alignment: .center), count: 6), alignment: .center, spacing: 8) {
+                    ForEach(viewModel.symbols) { symbol in
+                        makeBlock(of: symbol)
+                    }
+                }
+                .padding()
+#endif
             }
             .background(.background)
         } else if viewModel.listMode == .list {
+            #if os(macOS)
             Table(viewModel.symbols, selection: $selectedSymbolID) {
                 TableColumn(" ") { symbol in
                     HStack(alignment: .center) {
@@ -46,31 +56,67 @@ struct SymbolsView: View {
             .adp_onChange(of: selectedSymbolID) {
                 viewModel.selectedSymbol = viewModel.symbols.first(where: { $0.id == selectedSymbolID })
             }
-        } else if viewModel.listMode == .gallery {
-            VStack {
-                VStack {
-                    if let symbol = viewModel.selectedSymbol {
-                        Image(sfsymbol: symbol)
-                            .resizable()
-                            .aspectRatio(contentMode: .fit)
-                            .fontWeight(viewModel.weight)
-                            .padding(.all, 50)
-                    }
-                    
-                }
-                .frame(maxHeight: .infinity)
-                
-                Divider()
-                
-                ScrollView(.horizontal) {
-                    LazyHStack(alignment: .center, spacing: 10) {
-                        ForEach(viewModel.symbols) { symbol in
-                            makeBlock(of: symbol)
+            #else
+            List {
+                Section {
+                    ForEach(viewModel.symbols) { symbol in
+                        HStack(alignment: .center) {
+                            Image(sfsymbol: symbol)
+                                .resizable()
+                                .aspectRatio(contentMode: .fit)
+                                .fontWeight(viewModel.weight)
+                                .frame(width: 48, height: 48)
+                            
+                            VStack(alignment: .leading, spacing: 5) {
+                                Text(symbol.rawValue)
+                                    .font(.system(size: 18))
+                                Text(symbol.releaseYear.description)
+                                    .font(.system(size: 12))
+                                    .foregroundStyle(.secondary)
+                            }
+                            
+                            if viewModel.selectedSymbol == symbol {
+                                Image(sfname: .checkmark)
+                            }
+                        }
+                        .overlay {
+                            Button("") {
+                                viewModel.selectedSymbol = symbol
+                            }
                         }
                     }
                 }
-                .frame(height: 100)
             }
+            #endif
+        } else {
+#if os(macOS)
+            if viewModel.listMode == .gallery {
+                VStack {
+                    VStack {
+                        if let symbol = viewModel.selectedSymbol {
+                            Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
+                                .resizable()
+                                .aspectRatio(contentMode: .fit)
+                                .renderingImage(with: viewModel)
+                                .padding(.all, 50)
+                        }
+                        
+                    }
+                    .frame(maxHeight: .infinity)
+                    
+                    Divider()
+                    
+                    ScrollView(.horizontal) {
+                        LazyHStack(alignment: .center, spacing: 10) {
+                            ForEach(viewModel.symbols) { symbol in
+                                makeBlock(of: symbol)
+                            }
+                        }
+                    }
+                    .frame(height: 100)
+                }
+            }
+#endif
         }
     }
 }
@@ -81,6 +127,7 @@ extension SymbolsView {
         Button {
             viewModel.selectedSymbol = symbol
         } label: {
+#if os(macOS)
             VStack {
                 Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
                     .renderingImage(with: viewModel)
@@ -99,6 +146,20 @@ extension SymbolsView {
             .if(symbol == viewModel.selectedSymbol) {
                 $0.addBorder(.blue, width: 2, cornerRadius: 5)
             }
+#else
+            Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+                .renderingImage(with: viewModel)
+                .padding(.all, 8)
+                .frame(maxWidth: .infinity)
+                .frame(height: 54)
+                .foregroundStyle(Color.label)
+                .addBorder(Color(.lightGray).opacity(0.5), width: 1, cornerRadius: 5)
+                .if(symbol == viewModel.selectedSymbol) {
+                    $0.addBorder(.blue, width: 2, cornerRadius: 5)
+                }
+#endif
         }
         .buttonStyle(.borderless)
     }

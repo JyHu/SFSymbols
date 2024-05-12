@@ -13,7 +13,9 @@ import SwiftUI
 enum ListMode: String, CaseIterable, Identifiable {
     case grid
     case list
+    #if os(macOS)
     case gallery
+    #endif
     
     var id: String { rawValue }
     
@@ -21,7 +23,9 @@ enum ListMode: String, CaseIterable, Identifiable {
         switch self {
         case .grid: return .squareGrid2X2
         case .list: return .listBullet
+#if os(macOS)
         case .gallery: return .squaresBelowRectangle
+#endif
         }
     }
 }

@@ -23,6 +23,7 @@ class SFViewModel: ObservableObject {
     @Published var weight: Font.Weight = .regular
     
     @Published var renderingMode: RenderingMode = .monochrome
+    
     @Published var color1 = ColorItem(color: systemColors[14], isEnable: true)
     @Published var color2 = ColorItem(color: systemColors[7], isEnable: true)
     @Published var color3 = ColorItem(color: .none, isEnable: false)
