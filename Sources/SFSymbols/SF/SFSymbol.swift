@@ -48,7 +48,7 @@ public struct SFSymbol {
 #endif
 #else
     /// The configuration details for a symbol image.
-    public private(set) var configuration: NSImage.SymbolConfiguration?
+    public internal(set) var configuration: NSImage.SymbolConfiguration?
 #endif
     
     private let searchedString: String

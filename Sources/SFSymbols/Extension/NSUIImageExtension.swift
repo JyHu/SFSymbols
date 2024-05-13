@@ -14,6 +14,10 @@ public extension NSImage {
         self.init(systemSymbolName: sfname.rawValue)
     }
     
+    convenience init?(sfsymbol: SFSymbol) {
+        self.init(systemSymbolName: sfsymbol.rawValue)
+    }
+    
     convenience init?(systemSymbolName: String) {
         self.init(systemSymbolName: systemSymbolName, accessibilityDescription: nil)
     }
@@ -32,6 +36,10 @@ import UIKit
 public extension UIImage {    
     convenience init?(sfname: SFName) {
         self.init(systemSymbolName: sfname.rawValue)
+    }
+    
+    convenience init?(sfsymbol: SFSymbol) {
+        self.init(systemSymbolName: sfsymbol.rawValue)
     }
     
     convenience init?(systemSymbolName: String) {

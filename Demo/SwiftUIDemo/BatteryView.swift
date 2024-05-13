@@ -11,10 +11,10 @@ import SFSymbols
 struct BatteryView: View {
     var body: some View {
         VStack(spacing: 20) {
-            Image.SF.battery100Bolt
+            Image(sfname: .battery100Bolt)
                 .font(.system(size: 36))
             
-            Image.SF.battery100Bolt
+            Image(sfname: .battery100Bolt)
                 .symbolRenderingMode(.palette)
                 .foregroundStyle(.red, .green, .cyan)
 //                .fontWeight(.thin)
@@ -25,12 +25,12 @@ struct BatteryView: View {
                 .foregroundStyle(.red)
                 .font(.system(size: 36))
             
-            Image.SF.battery100Bolt
+            Image(sfname: .battery100Bolt)
                 .symbolRenderingMode(.monochrome)
                 .font(.system(size: 36))
                 .foregroundStyle(.red)
 
-            Image.SF.battery100Bolt
+            Image(sfname: .battery100Bolt)
                 .symbolRenderingMode(.multicolor)
 //                .foregroundStyle(.red, .green, .cyan)
 //                .foregroundStyle(.red)

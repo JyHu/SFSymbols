@@ -38,10 +38,6 @@
 		C8C9EE742918E9DE00707201 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8C9EE732918E9DE00707201 /* Assets.xcassets */; };
 		C8C9EE782918E9DE00707201 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8C9EE772918E9DE00707201 /* Preview Assets.xcassets */; };
 		C8C9EE802918ECF000707201 /* SFSymbols in Frameworks */ = {isa = PBXBuildFile; productRef = C8C9EE7F2918ECF000707201 /* SFSymbols */; };
-		C8F5026B2BC3F5630055FAC9 /* SymbolPickerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8F5026A2BC3F5630055FAC9 /* SymbolPickerApp.swift */; };
-		C8F5026D2BC3F5630055FAC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8F5026C2BC3F5630055FAC9 /* ContentView.swift */; };
-		C8F5026F2BC3F5640055FAC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8F5026E2BC3F5640055FAC9 /* Assets.xcassets */; };
-		C8F502732BC3F5640055FAC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8F502722BC3F5640055FAC9 /* Preview Assets.xcassets */; };
 		C8F502782BC3F5790055FAC9 /* SFSymbols in Frameworks */ = {isa = PBXBuildFile; productRef = C8F502772BC3F5790055FAC9 /* SFSymbols */; };
 /* End PBXBuildFile section */
 
@@ -80,11 +76,6 @@
 		C8C9EE772918E9DE00707201 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C8C9EE7E2918ECEB00707201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		C8F502682BC3F5630055FAC9 /* SymbolPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SymbolPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C8F5026A2BC3F5630055FAC9 /* SymbolPickerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolPickerApp.swift; sourceTree = "<group>"; };
-		C8F5026C2BC3F5630055FAC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		C8F5026E2BC3F5640055FAC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C8F502702BC3F5640055FAC9 /* SymbolPicker.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SymbolPicker.entitlements; sourceTree = "<group>"; };
-		C8F502722BC3F5640055FAC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,7 +132,6 @@
 				C875C6772918B949002A0FDB /* iOSSF */,
 				C8C9EE562918E6E500707201 /* tvOSSF */,
 				C8C9EE6E2918E9DD00707201 /* SwiftUIDemo */,
-				C8F502692BC3F5630055FAC9 /* SymbolPicker */,
 				C875C6632918B939002A0FDB /* Products */,
 				C875C68C2918B99B002A0FDB /* Frameworks */,
 			);
@@ -232,26 +222,6 @@
 			isa = PBXGroup;
 			children = (
 				C8C9EE772918E9DE00707201 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		C8F502692BC3F5630055FAC9 /* SymbolPicker */ = {
-			isa = PBXGroup;
-			children = (
-				C8F5026A2BC3F5630055FAC9 /* SymbolPickerApp.swift */,
-				C8F5026C2BC3F5630055FAC9 /* ContentView.swift */,
-				C8F5026E2BC3F5640055FAC9 /* Assets.xcassets */,
-				C8F502702BC3F5640055FAC9 /* SymbolPicker.entitlements */,
-				C8F502712BC3F5640055FAC9 /* Preview Content */,
-			);
-			path = SymbolPicker;
-			sourceTree = "<group>";
-		};
-		C8F502712BC3F5640055FAC9 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				C8F502722BC3F5640055FAC9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -453,8 +423,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C8F502732BC3F5640055FAC9 /* Preview Assets.xcassets in Resources */,
-				C8F5026F2BC3F5640055FAC9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -508,8 +476,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C8F5026D2BC3F5630055FAC9 /* ContentView.swift in Sources */,
-				C8F5026B2BC3F5630055FAC9 /* SymbolPickerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

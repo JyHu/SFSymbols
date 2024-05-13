@@ -27,9 +27,9 @@ struct ComparedImage {
         self.tips = tips
         
         if let systemConfiguration = systemConfiguration {
-            self.system = _SFSymbolImage(systemSymbolName: demoSymbol.name)?.withSymbolConfiguration(systemConfiguration)
+            self.system = _SFSymbolImage(systemSymbolName: demoSymbol.name.rawValue)?.withSymbolConfiguration(systemConfiguration)
         } else {
-            self.system = _SFSymbolImage(systemSymbolName: demoSymbol.name)
+            self.system = _SFSymbolImage(systemSymbolName: demoSymbol.name.rawValue)
         }
     }
     
@@ -191,7 +191,7 @@ private extension ComparedImage {
     static func images14() -> ComparedImage {
         return ComparedImage(
             configured: demoSymbol.initial(traitCollection: .current),
-            system: _SFSymbolImage(systemName: demoSymbol.name, compatibleWith: .current),
+            system: _SFSymbolImage(systemName: demoSymbol.name.rawValue, compatibleWith: .current),
             tips: "With traitCollection: .current"
         )
     }
@@ -200,7 +200,7 @@ private extension ComparedImage {
     static func images15() -> ComparedImage {
         return ComparedImage(
             configured: demoSymbol.initial(variableValue: 36),
-            system: _SFSymbolImage(systemName: demoSymbol.name, variableValue: 36),
+            system: _SFSymbolImage(systemName: demoSymbol.name.rawValue, variableValue: 36),
             tips: "With variableValue: 36"
         )
     }

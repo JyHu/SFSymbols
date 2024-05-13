@@ -18,7 +18,7 @@ enum DisplayType: String {
 struct AllSymbolsView: View {
     @State var displayType: DisplayType = .normal
     @State var keyword: String = ""
-    @State var selectedSymbol: SFName?
+    @State var selectedSymbol: SFSymbol?
     
     var body: some View {
         VStack {
@@ -61,14 +61,13 @@ struct AllSymbolsView: View {
         }
     }
     
-    func filter(_ keyword: String) -> [SFName] {
-        let res = SFName.allCases.filter({ $0.rawValue.contains(keyword) })
-        return res.isEmpty ? SFName.allCases : res
+    func filter(_ keyword: String) -> [SFSymbol] {
+        SFSymbols.shared.search(keyword)
     }
     
-    @ViewBuilder func applying<T>(_ name: SFName, block: (Image) -> T) -> some View where T: View {
+    @ViewBuilder func applying<T>(_ name: SFSymbol, block: (Image) -> T) -> some View where T: View {
         let bg: Color = name == selectedSymbol ? .blue.opacity(0.2) : .yellow.opacity(0.2)
-        block(Image(sfname: name))
+        block(Image(sfsymbol: name))
             .font(.system(size: 36))
             .padding(5)
             .frame(width: 72, height: 72)
