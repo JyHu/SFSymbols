@@ -24,20 +24,23 @@ struct DetailView: View {
             .pickerStyle(.segmented)
             .labelsHidden()
         
-        let content = Group {
-            switch viewModel.tab {
-            case .info: DetailInfoView()
-            case .palette: DetailPaletteView()
-            }
-        }
-        
 #if os(macOS)
         VStack {
             picker.padding()
-            content
+            Group {
+                switch viewModel.tab {
+                case .info: DetailInfoView()
+                case .palette: DetailPaletteView()
+                }
+            }
         }
 #else
-        content
+        Group {
+            switch viewModel.tab {
+            case .info: DetailView2()
+            case .palette: PaletteView2()
+            }
+        }
         .toolbar(if: needTab) {
             ToolbarItem(placement: .automatic) {
                 picker

@@ -59,10 +59,11 @@ struct PhoneMainView: View {
                         .toolbar {
                             makeToolbarContent()
                         }
-                        .decorate {
+                        .inlineModifier {
                             if #available(iOS 17.0, *) {
                                 $0.navigationDestination(item: $viewModel.selectedSymbol) { _ in
                                     DetailView(needTab: Platform.current == .iphone)
+                                        .navigationTitle("Palette")
                                 }
                             } else {
                                 $0.adp_onChange(of: viewModel.selectedSymbol) {
@@ -70,6 +71,7 @@ struct PhoneMainView: View {
                                 }
                                 .navigationDestination(isPresented: $showDetail) {
                                     DetailView(needTab: true)
+                                        .navigationTitle("Palette")
                                 }
                             }
                         }
