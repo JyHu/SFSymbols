@@ -16,6 +16,7 @@ let numberFormatter: NumberFormatter = {
     return formatter
 }()
 
+#if os(macOS)
 struct DetailInfoView: View {
     @EnvironmentObject private var viewModel: SFViewModel
     
@@ -25,10 +26,7 @@ struct DetailInfoView: View {
         ScrollView {
             Group {
                 if let symbol = viewModel.selectedSymbol {
-                    Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                        .renderingImage(with: viewModel)
-                        .font(.system(size: 96))
-                        .frame(maxWidth: .infinity)
+                    makeImageView(symbol, viewModel: viewModel, padding: 5)
                         .frame(height: 150)
                         .background(in: RoundedRectangle(cornerRadius: 5))
                     
@@ -123,3 +121,4 @@ private struct AvailablesGroup: View {
         }
     }
 }
+#endif

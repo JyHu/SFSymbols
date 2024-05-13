@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 60;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -28,6 +28,7 @@
 		6657C2262BEE8768002177D3 /* PhoneMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6657C2252BEE8768002177D3 /* PhoneMainView.swift */; };
 		6657C2382BF0E64A002177D3 /* DetailView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6657C2372BF0E64A002177D3 /* DetailView2.swift */; };
 		6657C23A2BF0F4ED002177D3 /* KeywordsGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6657C2392BF0F4ED002177D3 /* KeywordsGroup.swift */; };
+		6657C23D2BF1BE8E002177D3 /* SwiftUIExtension in Frameworks */ = {isa = PBXBuildFile; productRef = 6657C23C2BF1BE8E002177D3 /* SwiftUIExtension */; };
 		66B5B5532BECB3EF00EBAE88 /* PopupButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B5B5522BECB3EF00EBAE88 /* PopupButton.swift */; };
 		66B5B5562BECD58800EBAE88 /* DetailInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B5B5552BECD58800EBAE88 /* DetailInfoView.swift */; };
 		66B5B5582BECD5C600EBAE88 /* DetailPaletteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B5B5572BECD5C600EBAE88 /* DetailPaletteView.swift */; };
@@ -74,6 +75,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				66551D282BEA207900CD8FB1 /* SwiftUIExtension in Frameworks */,
+				6657C23D2BF1BE8E002177D3 /* SwiftUIExtension in Frameworks */,
 				66551D1A2BEA1B7600CD8FB1 /* SFSymbols in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -190,6 +192,7 @@
 			packageProductDependencies = (
 				66551D192BEA1B7600CD8FB1 /* SFSymbols */,
 				66551D272BEA207900CD8FB1 /* SwiftUIExtension */,
+				6657C23C2BF1BE8E002177D3 /* SwiftUIExtension */,
 			);
 			productName = SFViewer;
 			productReference = 66551D022BE8F0C900CD8FB1 /* SFViewer.app */;
@@ -221,7 +224,7 @@
 			mainGroup = 66551CF92BE8F0C900CD8FB1;
 			packageReferences = (
 				66551D182BEA1B7600CD8FB1 /* XCRemoteSwiftPackageReference "SFSymbols" */,
-				66551D262BEA207900CD8FB1 /* XCLocalSwiftPackageReference "../../SwiftUIExtension" */,
+				6657C23B2BF1BE8E002177D3 /* XCRemoteSwiftPackageReference "SwiftUIExtension" */,
 			);
 			productRefGroup = 66551D032BE8F0C900CD8FB1 /* Products */;
 			projectDirPath = "";
@@ -492,17 +495,18 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin XCLocalSwiftPackageReference section */
-		66551D262BEA207900CD8FB1 /* XCLocalSwiftPackageReference "../../SwiftUIExtension" */ = {
-			isa = XCLocalSwiftPackageReference;
-			relativePath = ../../SwiftUIExtension;
-		};
-/* End XCLocalSwiftPackageReference section */
-
 /* Begin XCRemoteSwiftPackageReference section */
 		66551D182BEA1B7600CD8FB1 /* XCRemoteSwiftPackageReference "SFSymbols" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/JyHu/SFSymbols";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		6657C23B2BF1BE8E002177D3 /* XCRemoteSwiftPackageReference "SwiftUIExtension" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/JyHu/SwiftUIExtension";
 			requirement = {
 				branch = main;
 				kind = branch;
@@ -518,6 +522,11 @@
 		};
 		66551D272BEA207900CD8FB1 /* SwiftUIExtension */ = {
 			isa = XCSwiftPackageProductDependency;
+			productName = SwiftUIExtension;
+		};
+		6657C23C2BF1BE8E002177D3 /* SwiftUIExtension */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6657C23B2BF1BE8E002177D3 /* XCRemoteSwiftPackageReference "SwiftUIExtension" */;
 			productName = SwiftUIExtension;
 		};
 /* End XCSwiftPackageProductDependency section */

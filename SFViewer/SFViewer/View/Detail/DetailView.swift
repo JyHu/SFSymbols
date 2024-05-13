@@ -15,33 +15,34 @@ struct DetailView: View {
     let needTab: Bool
     
     var body: some View {
-        VStack {
-            if needTab {            
-                Picker("", selection: $viewModel.tab) {
-                    ForEach(Tab.allCases) {
-                        Text($0.rawValue).tag($0)
-                    }
-                }
-                .pickerStyle(.segmented)
-                .labelsHidden()
-#if os(macOS)
-                .padding()
-#else
-                .padding(EdgeInsets(top: 15, leading: 18, bottom: 0, trailing: 18))
-#endif
+        let picker = Picker(selection: $viewModel.tab) {
+            ForEach(Tab.allCases) {
+                Image(sfname: $0.sfname)
+                    .tag($0)
             }
-            
-#if os(macOS)
+        } label: { }
+            .pickerStyle(.segmented)
+            .labelsHidden()
+        
+        let content = Group {
             switch viewModel.tab {
             case .info: DetailInfoView()
             case .palette: DetailPaletteView()
             }
-#else
-            switch viewModel.tab {
-            case .info: DetailView2()
-            case .palette: PaletteView2()
-            }
-#endif
         }
+        
+#if os(macOS)
+        VStack {
+            picker.padding()
+            content
+        }
+#else
+        content
+        .toolbar(if: needTab) {
+            ToolbarItem(placement: .automatic) {
+                picker
+            }
+        }
+#endif
     }
 }

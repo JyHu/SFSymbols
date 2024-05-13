@@ -9,12 +9,13 @@ import SwiftUI
 import SFSymbols
 import SwiftUIExtension
 
+#if !os(macOS)
 struct PhoneMainView: View {
     @EnvironmentObject private var viewModel: SFViewModel
     @Environment(\.deviceOrientation) var deviceOrientation
+    @State private var showDetail: Bool = false
     
     var body: some View {
-#if !os(macOS)
         if Platform.current == .ipad {
             NavigationSplitView {
                 CategoriesView()
@@ -48,55 +49,53 @@ struct PhoneMainView: View {
                         }
                     }
             } detail: {
-                DetailView(needTab: false)
-                    .toolbar {
-                        ToolbarItem(placement: .topBarTrailing) {
-                            Picker(selection: $viewModel.tab) {
-                                ForEach(Tab.allCases) {
-                                    Image(sfname: $0.sfname).tag($0)
+                DetailView(needTab: true)
+            }
+        } else {
+            if deviceOrientation == .landscape {
+                NavigationStack {
+                    SymbolsView()
+                        .navigationBarTitleDisplayMode(.inline)
+                        .toolbar {
+                            makeToolbarContent()
+                        }
+                        .decorate {
+                            if #available(iOS 17.0, *) {
+                                $0.navigationDestination(item: $viewModel.selectedSymbol) { _ in
+                                    DetailView(needTab: Platform.current == .iphone)
                                 }
-                            } label: { }
-                                .labelsHidden()
-                                .pickerStyle(.segmented)
+                            } else {
+                                $0.adp_onChange(of: viewModel.selectedSymbol) {
+                                    showDetail = true
+                                }
+                                .navigationDestination(isPresented: $showDetail) {
+                                    DetailView(needTab: true)
+                                }
+                            }
+                        }
+                }
+                .searchable(text: $viewModel.keyword, prompt: Text("Search"))
+            } else {
+                NavigationStack {
+                    GeometryReader { proxy in
+                        let pwidth = proxy.size.width / 2
+                        HStack {
+                            SymbolsView()
+                                .frame(width: pwidth)
+                            
+                            DetailView(needTab: false)
+                                .frame(width: pwidth)
                         }
                     }
-            }
-        } else if deviceOrientation == .landscape {
-            NavigationStack {
-                SymbolsView()
-                    .navigationBarTitleDisplayMode(.inline)
+                    .searchable(text: $viewModel.keyword)
                     .toolbar {
                         makeToolbarContent()
                     }
-                    .popover(item: $viewModel.selectedSymbol) { _ in
-                        DetailView(needTab: Platform.current == .iphone)
-                            .presentationDetents([.medium, .large])
-                    }
-            }
-            .searchable(text: $viewModel.keyword, prompt: Text("Search"))
-        } else {
-            NavigationStack {
-                GeometryReader { proxy in
-                    let pwidth = proxy.size.width / 2
-                    HStack {
-                        SymbolsView()
-                            .frame(width: pwidth)
-                        
-                        DetailView(needTab: false)
-                            .frame(width: pwidth)
-                    }
-                }
-                .searchable(text: $viewModel.keyword)
-                .toolbar {
-                    makeToolbarContent()
                 }
             }
         }
-#endif
     }
 }
-
-#if !os(macOS)
 
 extension PhoneMainView {
     @ToolbarContentBuilder
@@ -154,8 +153,16 @@ extension PhoneMainView {
         }
     }
 }
-#endif
 
 #Preview {
     PhoneMainView()
+}
+
+#endif
+
+extension SFSymbol: Hashable {
+    public func hash(into hasher: inout Hasher) {
+        hasher.combine(rawValue)
+        hasher.combine(name)
+    }
 }

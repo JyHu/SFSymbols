@@ -37,10 +37,7 @@ struct SymbolsView: View {
             Table(viewModel.symbols, selection: $selectedSymbolID) {
                 TableColumn(" ") { symbol in
                     HStack(alignment: .center) {
-                        Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                            .renderingImage(with: viewModel)
-                            .font(.system(size: 24))
-                            .fontWeight(viewModel.weight)
+                        makeImageView(symbol, viewModel: viewModel, padding: 5)
                             .frame(height: 36)
                     }
                     .frame(maxWidth: .infinity)
@@ -62,10 +59,7 @@ struct SymbolsView: View {
                 Section {
                     ForEach(viewModel.symbols) { symbol in
                         HStack(alignment: .center) {
-                            Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                                .resizable()
-                                .aspectRatio(contentMode: .fit)
-                                .renderingImage(with: viewModel)
+                            makeImageView(symbol, viewModel: viewModel, padding: 5)
                                 .frame(width: 48, height: 48)
                             
                             VStack(alignment: .leading, spacing: 5) {
@@ -95,11 +89,7 @@ struct SymbolsView: View {
                 VStack {
                     VStack {
                         if let symbol = viewModel.selectedSymbol {
-                            Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                                .resizable()
-                                .aspectRatio(contentMode: .fit)
-                                .renderingImage(with: viewModel)
-                                .padding(.all, 50)
+                            makeImageView(symbol, viewModel: viewModel, padding: 50)
                         }
                         
                     }
@@ -130,9 +120,7 @@ extension SymbolsView {
         } label: {
 #if os(macOS)
             VStack {
-                Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                    .renderingImage(with: viewModel)
-                    .font(.system(size: 36))
+                makeImageView(symbol, viewModel: viewModel)
                     .frame(height: 54)
                 
                 Text(symbol.rawValue)
@@ -148,12 +136,7 @@ extension SymbolsView {
                 $0.addBorder(.blue, width: 2, cornerRadius: 5)
             }
 #else
-            Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                .resizable()
-                .aspectRatio(contentMode: .fit)
-                .renderingImage(with: viewModel)
-                .padding(.all, 8)
-                .frame(maxWidth: .infinity)
+            makeImageView(symbol, viewModel: viewModel)
                 .frame(height: 54)
                 .foregroundStyle(Color.label)
                 .addBorder(Color(.lightGray).opacity(0.5), width: 1, cornerRadius: 5)

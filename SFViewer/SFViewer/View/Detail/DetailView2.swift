@@ -8,6 +8,8 @@
 import SwiftUI
 import SFSymbols
 
+#if !os(macOS)
+
 struct DetailView2: View {
     @EnvironmentObject private var viewModel: SFViewModel
     
@@ -16,10 +18,7 @@ struct DetailView2: View {
             if let symbol = viewModel.selectedSymbol {
                 Section {
                     VStack(alignment: .center) {
-                        Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
-                            .resizable()
-                            .aspectRatio(contentMode: .fit)
-                            .renderingImage(with: viewModel)
+                        makeImageView(symbol, viewModel: viewModel, padding: 5)
                             .frame(height: 150)
                         
                         Text(symbol.rawValue)
@@ -91,3 +90,5 @@ struct DetailView2: View {
 #Preview {
     DetailView2()
 }
+
+#endif

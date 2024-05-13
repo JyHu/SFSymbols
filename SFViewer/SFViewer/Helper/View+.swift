@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import SFSymbols
 
 extension View {
     @ViewBuilder
@@ -21,7 +22,7 @@ extension View {
                 }
             } else: {
                 $0.foregroundStyle(viewModel.color1.usefulColor)
-                    .decorate {
+                    .inlineModifier {
                         if viewModel.renderingMode == .monochrome {
                             $0.symbolRenderingMode(.monochrome)
                         } else if viewModel.renderingMode == .hierarchical {
@@ -31,5 +32,14 @@ extension View {
                         }
                     }
             }
+    }
+    
+    func makeImageView(_ symbol: SFSymbol, viewModel: SFViewModel, padding: Double = 8) -> some View {
+        Image(sfsymbol: symbol, variableValue: viewModel.availableVariable ? viewModel.variableValue : 1)
+            .resizable()
+            .aspectRatio(contentMode: .fit)
+            .renderingImage(with: viewModel)
+            .frame(maxWidth: .infinity)
+            .padding(.all, padding)
     }
 }

@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+#if !os(macOS)
+
 struct PaletteView2: View {
     @EnvironmentObject private var viewModel: SFViewModel
     @State var color: Color = .red
@@ -97,3 +99,5 @@ private extension PaletteView2 {
         }
     }
 }
+
+#endif

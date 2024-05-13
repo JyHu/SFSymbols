@@ -14,6 +14,7 @@ struct DeskMainView: View {
     @Environment(\.deviceOrientation) var deviceOrientation
     
     var body: some View {
+        
         NavigationSplitView {
             CategoriesView()
         } content: {
@@ -23,21 +24,40 @@ struct DeskMainView: View {
         }
         .searchable(text: $viewModel.keyword, prompt: Text("Search"))
         .toolbar {
+            /// 字重
             ToolbarItem(placement: .automatic) {
                 Picker(selection: $viewModel.weight) {
-                    Text("ultraLight").tag(Font.Weight.ultraLight)
-                    Text("thin").tag(Font.Weight.thin)
-                    Text("light").tag(Font.Weight.light)
-                    Text("regular").tag(Font.Weight.regular)
-                    Text("medium").tag(Font.Weight.medium)
-                    Text("semibold").tag(Font.Weight.semibold)
-                    Text("bold").tag(Font.Weight.bold)
-                    Text("heavy").tag(Font.Weight.heavy)
-                    Text("black").tag(Font.Weight.black)
-                } label: { }
-                    .labelsHidden()
+                    Text("\(Image(sfname: .pencilAndOutline)) UltraLight")
+                        .fontWeight(.ultraLight)
+                        .tag(Font.Weight.ultraLight)
+                    Text("\(Image(sfname: .pencilAndOutline)) Thin")
+                        .fontWeight(.thin)
+                        .tag(Font.Weight.thin)
+                    Text("\(Image(sfname: .pencilAndOutline)) Light")
+                        .fontWeight(.light)
+                        .tag(Font.Weight.light)
+                    Text("\(Image(sfname: .pencilAndOutline)) Regular")
+                        .fontWeight(.regular)
+                        .tag(Font.Weight.regular)
+                    Text("\(Image(sfname: .pencilAndOutline)) Medium")
+                        .fontWeight(.medium)
+                        .tag(Font.Weight.medium)
+                    Text("\(Image(sfname: .pencilAndOutline)) Semibold")
+                        .fontWeight(.semibold)
+                        .tag(Font.Weight.semibold)
+                    Text("\(Image(sfname: .pencilAndOutline)) Bold")
+                        .fontWeight(.bold)
+                        .tag(Font.Weight.bold)
+                    Text("\(Image(sfname: .pencilAndOutline)) Heavy")
+                        .fontWeight(.heavy)
+                        .tag(Font.Weight.heavy)
+                    Text("\(Image(sfname: .pencilAndOutline)) Black")
+                        .fontWeight(.black)
+                        .tag(Font.Weight.black)
+                } label: { }.labelsHidden()
             }
             
+            /// 筛选策略
             ToolbarItem(placement: .automatic) {
                 Menu(displayFilterName()) {
                     if viewModel.releaseYear != nil {
@@ -62,6 +82,7 @@ struct DeskMainView: View {
                 }
             }
             
+            /// symbol展示样式
             ToolbarItem(placement: .automatic) {
                 Picker(selection: $viewModel.listMode) {
                     ForEach(ListMode.allCases) {
