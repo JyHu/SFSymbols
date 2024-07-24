@@ -81,6 +81,8 @@ struct DetailView2: View {
                     }
                 }
                 
+                TagsGroup()
+                
                 KeyWordsGroup()
             }
         }

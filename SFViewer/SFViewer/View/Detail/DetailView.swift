@@ -27,6 +27,7 @@ struct DetailView: View {
 #if os(macOS)
         VStack {
             picker.padding()
+            
             Group {
                 switch viewModel.tab {
                 case .info: DetailInfoView()
