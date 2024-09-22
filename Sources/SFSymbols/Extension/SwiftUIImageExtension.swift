@@ -28,21 +28,14 @@ public extension Image {
     }
 }
 
+@available(iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, *)
 public extension Label where Title == Text, Icon == Image {
-    init(_ title: String, sfname: SFName, variableValue: Double? = nil) {
-        if #available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, *) {
-            self.init(title, systemImage: sfname.rawValue)
-        } else {
-            self.init(title, systemImage: sfname.rawValue)
-        }
+    init(_ title: String, sfname: SFName) {
+        self.init(title, systemImage: sfname.rawValue)
     }
     
-    init(_ title: String, sfsymbol: SFSymbol, variableValue: Double? = nil) {
-        if #available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, *) {
-            self.init(title, systemImage: sfsymbol.rawValue)
-        } else {
-            self.init(title, systemImage: sfsymbol.rawValue)
-        }
+    init(_ title: String, sfsymbol: SFSymbol) {
+        self.init(title, systemImage: sfsymbol.rawValue)
     }
 }
 
