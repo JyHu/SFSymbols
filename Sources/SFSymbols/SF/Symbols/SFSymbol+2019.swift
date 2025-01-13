@@ -2499,20 +2499,14 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: airplayaudio
-    /// - Category: variablecolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let airplayaudio = SFSymbol(.airplayaudio, releaseYear: ._2019, category: [ .variablecolor ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    /// - Recommended: airplay.audio
+    static let airplayaudio = SFSymbol(.airplayaudio, releaseYear: ._2019, recommendedRawValue: "airplay.audio")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: airplayvideo
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let airplayvideo = SFSymbol(.airplayvideo, releaseYear: ._2019, layerset: [.hierarchical: ._2023])
+    /// - Recommended: airplay.video
+    static let airplayvideo = SFSymbol(.airplayvideo, releaseYear: ._2019, recommendedRawValue: "airplay.video")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -2639,20 +2633,20 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.2.circlepath
-    /// - Recommended: arrow.triangle.2.circlepath
-    static let arrow2Circlepath = SFSymbol(.arrow2Circlepath, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.2.circlepath", keywords: ["sync", "syncing"])
+    /// - Recommended: arrow.trianglehead.2.clockwise.rotate.90
+    static let arrow2Circlepath = SFSymbol(.arrow2Circlepath, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.2.clockwise.rotate.90", keywords: ["sync", "syncing"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.2.circlepath.circle
-    /// - Recommended: arrow.triangle.2.circlepath.circle
-    static let arrow2CirclepathCircle = SFSymbol(.arrow2CirclepathCircle, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.2.circlepath.circle", keywords: ["sync", "syncing"])
+    /// - Recommended: arrow.trianglehead.2.clockwise.rotate.90.circle
+    static let arrow2CirclepathCircle = SFSymbol(.arrow2CirclepathCircle, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.2.clockwise.rotate.90.circle", keywords: ["sync", "syncing"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.2.circlepath.circle.fill
-    /// - Recommended: arrow.triangle.2.circlepath.circle.fill
-    static let arrow2CirclepathCircleFill = SFSymbol(.arrow2CirclepathCircleFill, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.2.circlepath.circle.fill", keywords: ["sync", "syncing"])
+    /// - Recommended: arrow.trianglehead.2.clockwise.rotate.90.circle.fill
+    static let arrow2CirclepathCircleFill = SFSymbol(.arrow2CirclepathCircleFill, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.2.clockwise.rotate.90.circle.fill", keywords: ["sync", "syncing"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -2669,8 +2663,8 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.branch
-    /// - Recommended: arrow.triangle.branch
-    static let arrowBranch = SFSymbol(.arrowBranch, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.branch")
+    /// - Recommended: arrow.trianglehead.branch
+    static let arrowBranch = SFSymbol(.arrowBranch, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.branch")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -2700,27 +2694,20 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.clockwise.icloud
-    /// - Category: connectivity
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowClockwiseIcloud = SFSymbol(.arrowClockwiseIcloud, releaseYear: ._2019, category: [ .connectivity ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: arrow.trianglehead.clockwise.icloud
+    static let arrowClockwiseIcloud = SFSymbol(.arrowClockwiseIcloud, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.clockwise.icloud")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.clockwise.icloud.fill
-    /// - Category: connectivity
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowClockwiseIcloudFill = SFSymbol(.arrowClockwiseIcloudFill, releaseYear: ._2019, category: [ .connectivity ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: arrow.trianglehead.clockwise.icloud.fill
+    static let arrowClockwiseIcloudFill = SFSymbol(.arrowClockwiseIcloudFill, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.clockwise.icloud.fill")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.counterclockwise
     /// - Category: arrows
-    static let arrowCounterclockwise = SFSymbol(.arrowCounterclockwise, releaseYear: ._2019, category: [ .arrows ])
+    static let arrowCounterclockwise = SFSymbol(.arrowCounterclockwise, releaseYear: ._2019, category: [ .arrows ], keywords: ["revert"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -2729,7 +2716,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowCounterclockwiseCircle = SFSymbol(.arrowCounterclockwiseCircle, releaseYear: ._2019, category: [ .arrows ], layerset: [.hierarchical: ._2021])
+    static let arrowCounterclockwiseCircle = SFSymbol(.arrowCounterclockwiseCircle, releaseYear: ._2019, category: [ .arrows ], keywords: ["revert"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -2739,26 +2726,19 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowCounterclockwiseCircleFill = SFSymbol(.arrowCounterclockwiseCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let arrowCounterclockwiseCircleFill = SFSymbol(.arrowCounterclockwiseCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], keywords: ["revert"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.counterclockwise.icloud
-    /// - Category: connectivity
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowCounterclockwiseIcloud = SFSymbol(.arrowCounterclockwiseIcloud, releaseYear: ._2019, category: [ .connectivity ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: arrow.trianglehead.counterclockwise.icloud
+    static let arrowCounterclockwiseIcloud = SFSymbol(.arrowCounterclockwiseIcloud, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.counterclockwise.icloud")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.counterclockwise.icloud.fill
-    /// - Category: connectivity
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowCounterclockwiseIcloudFill = SFSymbol(.arrowCounterclockwiseIcloudFill, releaseYear: ._2019, category: [ .connectivity ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: arrow.trianglehead.counterclockwise.icloud.fill
+    static let arrowCounterclockwiseIcloudFill = SFSymbol(.arrowCounterclockwiseIcloudFill, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.counterclockwise.icloud.fill")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -2788,21 +2768,14 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.down.doc
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowDownDoc = SFSymbol(.arrowDownDoc, releaseYear: ._2019, category: [ .objectsandtools ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: arrow.down.document
+    static let arrowDownDoc = SFSymbol(.arrowDownDoc, releaseYear: ._2019, recommendedRawValue: "arrow.down.document")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.down.doc.fill
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowDownDocFill = SFSymbol(.arrowDownDocFill, releaseYear: ._2019, category: [ .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: arrow.down.document.fill
+    static let arrowDownDocFill = SFSymbol(.arrowDownDocFill, releaseYear: ._2019, recommendedRawValue: "arrow.down.document.fill")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3051,8 +3024,8 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.merge
-    /// - Recommended: arrow.triangle.merge
-    static let arrowMerge = SFSymbol(.arrowMerge, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.merge")
+    /// - Recommended: arrow.trianglehead.merge
+    static let arrowMerge = SFSymbol(.arrowMerge, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.merge")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3143,8 +3116,8 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.swap
-    /// - Recommended: arrow.triangle.swap
-    static let arrowSwap = SFSymbol(.arrowSwap, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.swap")
+    /// - Recommended: arrow.trianglehead.swap
+    static let arrowSwap = SFSymbol(.arrowSwap, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.swap")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3198,7 +3171,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: arrow.up
     /// - Category: arrows
-    static let arrowUp = SFSymbol(.arrowUp, releaseYear: ._2019, category: [ .arrows ], keywords: ["send"])
+    static let arrowUp = SFSymbol(.arrowUp, releaseYear: ._2019, category: [ .arrows ])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3317,7 +3290,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowUpCircle = SFSymbol(.arrowUpCircle, releaseYear: ._2019, category: [ .arrows ], keywords: ["send"], layerset: [.hierarchical: ._2021])
+    static let arrowUpCircle = SFSymbol(.arrowUpCircle, releaseYear: ._2019, category: [ .arrows ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3327,26 +3300,19 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowUpCircleFill = SFSymbol(.arrowUpCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], keywords: ["send"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let arrowUpCircleFill = SFSymbol(.arrowUpCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.doc
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowUpDoc = SFSymbol(.arrowUpDoc, releaseYear: ._2019, category: [ .objectsandtools ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: arrow.up.document
+    static let arrowUpDoc = SFSymbol(.arrowUpDoc, releaseYear: ._2019, recommendedRawValue: "arrow.up.document")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.doc.fill
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowUpDocFill = SFSymbol(.arrowUpDocFill, releaseYear: ._2019, category: [ .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: arrow.up.document.fill
+    static let arrowUpDocFill = SFSymbol(.arrowUpDocFill, releaseYear: ._2019, recommendedRawValue: "arrow.up.document.fill")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3427,14 +3393,14 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.right.diamond
-    /// - Recommended: arrow.triangle.turn.up.right.diamond
-    static let arrowUpRightDiamond = SFSymbol(.arrowUpRightDiamond, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.turn.up.right.diamond", keywords: ["directions"])
+    /// - Recommended: arrow.trianglehead.turn.up.right.diamond
+    static let arrowUpRightDiamond = SFSymbol(.arrowUpRightDiamond, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.turn.up.right.diamond", keywords: ["directions"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.right.diamond.fill
-    /// - Recommended: arrow.triangle.turn.up.right.diamond.fill
-    static let arrowUpRightDiamondFill = SFSymbol(.arrowUpRightDiamondFill, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.turn.up.right.diamond.fill", keywords: ["directions"])
+    /// - Recommended: arrow.trianglehead.turn.up.right.diamond.fill
+    static let arrowUpRightDiamondFill = SFSymbol(.arrowUpRightDiamondFill, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.turn.up.right.diamond.fill", keywords: ["directions"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3481,7 +3447,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowUpSquare = SFSymbol(.arrowUpSquare, releaseYear: ._2019, category: [ .arrows ], keywords: ["send"], layerset: [.hierarchical: ._2021])
+    static let arrowUpSquare = SFSymbol(.arrowUpSquare, releaseYear: ._2019, category: [ .arrows ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3491,7 +3457,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowUpSquareFill = SFSymbol(.arrowUpSquareFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], keywords: ["send"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let arrowUpSquareFill = SFSymbol(.arrowUpSquareFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -4690,21 +4656,21 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: c.circle
-    /// - Category: indices
+    /// - Category: gaming, indices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let cCircle = SFSymbol(.cCircle, releaseYear: ._2019, category: [ .indices ], layerset: [.hierarchical: ._2021])
+    static let cCircle = SFSymbol(.cCircle, releaseYear: ._2019, category: [ .gaming, .indices ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: c.circle.fill
-    /// - Category: indices, multicolor
+    /// - Category: gaming, indices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let cCircleFill = SFSymbol(.cCircleFill, releaseYear: ._2019, category: [ .indices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let cCircleFill = SFSymbol(.cCircleFill, releaseYear: ._2019, category: [ .gaming, .indices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -4827,14 +4793,14 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: camera.rotate
-    /// - Recommended: arrow.triangle.2.circlepath.camera
-    static let cameraRotate = SFSymbol(.cameraRotate, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.2.circlepath.camera")
+    /// - Recommended: arrow.trianglehead.2.clockwise.rotate.90.camera
+    static let cameraRotate = SFSymbol(.cameraRotate, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.2.clockwise.rotate.90.camera")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: camera.rotate.fill
-    /// - Recommended: arrow.triangle.2.circlepath.camera.fill
-    static let cameraRotateFill = SFSymbol(.cameraRotateFill, releaseYear: ._2019, recommendedRawValue: "arrow.triangle.2.circlepath.camera.fill")
+    /// - Recommended: arrow.trianglehead.2.clockwise.rotate.90.camera.fill
+    static let cameraRotateFill = SFSymbol(.cameraRotateFill, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.2.clockwise.rotate.90.camera.fill")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6094,116 +6060,92 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc
-    /// - Category: objectsandtools
-    static let doc = SFSymbol(.doc, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["document"])
+    /// - Recommended: document
+    static let doc = SFSymbol(.doc, releaseYear: ._2019, recommendedRawValue: "document", keywords: ["document"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.append
-    static let docAppend = SFSymbol(.docAppend, releaseYear: ._2019)
+    /// - Recommended: append.page
+    static let docAppend = SFSymbol(.docAppend, releaseYear: ._2019, recommendedRawValue: "append.page")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.circle
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let docCircle = SFSymbol(.docCircle, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["document"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: document.circle
+    static let docCircle = SFSymbol(.docCircle, releaseYear: ._2019, recommendedRawValue: "document.circle", keywords: ["document"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.circle.fill
-    /// - Category: multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let docCircleFill = SFSymbol(.docCircleFill, releaseYear: ._2019, category: [ .multicolor, .objectsandtools ], keywords: ["document"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    /// - Recommended: document.circle.fill
+    static let docCircleFill = SFSymbol(.docCircleFill, releaseYear: ._2019, recommendedRawValue: "document.circle.fill", keywords: ["document"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.fill
-    /// - Category: objectsandtools
-    static let docFill = SFSymbol(.docFill, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["document"])
+    /// - Recommended: document.fill
+    static let docFill = SFSymbol(.docFill, releaseYear: ._2019, recommendedRawValue: "document.fill", keywords: ["document"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.on.clipboard
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let docOnClipboard = SFSymbol(.docOnClipboard, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["clipboard", "paste", "pasteboard"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: document.on.clipboard
+    static let docOnClipboard = SFSymbol(.docOnClipboard, releaseYear: ._2019, recommendedRawValue: "document.on.clipboard", keywords: ["clipboard", "paste", "pasteboard"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.on.clipboard.fill
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let docOnClipboardFill = SFSymbol(.docOnClipboardFill, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["paste"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: document.on.clipboard.fill
+    static let docOnClipboardFill = SFSymbol(.docOnClipboardFill, releaseYear: ._2019, recommendedRawValue: "document.on.clipboard.fill", keywords: ["paste"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.on.doc
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let docOnDoc = SFSymbol(.docOnDoc, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["copy"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: document.on.document
+    static let docOnDoc = SFSymbol(.docOnDoc, releaseYear: ._2019, recommendedRawValue: "document.on.document", keywords: ["copy"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.on.doc.fill
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let docOnDocFill = SFSymbol(.docOnDocFill, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["copy"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: document.on.document.fill
+    static let docOnDocFill = SFSymbol(.docOnDocFill, releaseYear: ._2019, recommendedRawValue: "document.on.document.fill", keywords: ["copy"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.plaintext
-    static let docPlaintext = SFSymbol(.docPlaintext, releaseYear: ._2019)
+    /// - Recommended: text.page
+    static let docPlaintext = SFSymbol(.docPlaintext, releaseYear: ._2019, recommendedRawValue: "text.page")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.richtext
-    static let docRichtext = SFSymbol(.docRichtext, releaseYear: ._2019)
+    /// - Recommended: richtext.page
+    static let docRichtext = SFSymbol(.docRichtext, releaseYear: ._2019, recommendedRawValue: "richtext.page")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text
-    /// - Category: multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let docText = SFSymbol(.docText, releaseYear: ._2019, category: [ .multicolor, .objectsandtools ], layerset: [.multicolor: ._2023])
+    /// - Recommended: text.document
+    static let docText = SFSymbol(.docText, releaseYear: ._2019, recommendedRawValue: "text.document")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text.fill
-    /// - Category: objectsandtools
-    static let docTextFill = SFSymbol(.docTextFill, releaseYear: ._2019, category: [ .objectsandtools ])
+    /// - Recommended: text.document.fill
+    static let docTextFill = SFSymbol(.docTextFill, releaseYear: ._2019, recommendedRawValue: "text.document.fill")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text.magnifyingglass
-    /// - Category: objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let docTextMagnifyingglass = SFSymbol(.docTextMagnifyingglass, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["search"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: text.page.badge.magnifyingglass
+    static let docTextMagnifyingglass = SFSymbol(.docTextMagnifyingglass, releaseYear: ._2019, recommendedRawValue: "text.page.badge.magnifyingglass", keywords: ["search"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text.viewfinder
-    /// - Recommended: doc.viewfinder
-    static let docTextViewfinder = SFSymbol(.docTextViewfinder, releaseYear: ._2019, recommendedRawValue: "doc.viewfinder", keywords: ["scan document"])
+    /// - Recommended: document.viewfinder
+    static let docTextViewfinder = SFSymbol(.docTextViewfinder, releaseYear: ._2019, recommendedRawValue: "document.viewfinder", keywords: ["scan document"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6443,7 +6385,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: envelope
     /// - Category: communication
-    static let envelope = SFSymbol(.envelope, releaseYear: ._2019, category: [ .communication ], keywords: ["mail"])
+    static let envelope = SFSymbol(.envelope, releaseYear: ._2019, category: [ .communication ], keywords: ["address", "letter", "mail"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6453,7 +6395,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let envelopeBadge = SFSymbol(.envelopeBadge, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["mail"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let envelopeBadge = SFSymbol(.envelopeBadge, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["address", "letter", "mail"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6462,7 +6404,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let envelopeBadgeFill = SFSymbol(.envelopeBadgeFill, releaseYear: ._2019, category: [ .communication ], keywords: ["mail"], layerset: [.hierarchical: ._2021])
+    static let envelopeBadgeFill = SFSymbol(.envelopeBadgeFill, releaseYear: ._2019, category: [ .communication ], keywords: ["address", "letter", "mail"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6471,7 +6413,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let envelopeCircle = SFSymbol(.envelopeCircle, releaseYear: ._2019, category: [ .communication ], keywords: ["mail"], layerset: [.hierarchical: ._2021])
+    static let envelopeCircle = SFSymbol(.envelopeCircle, releaseYear: ._2019, category: [ .communication ], keywords: ["address", "letter", "mail"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6481,25 +6423,25 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0
-    static let envelopeCircleFill = SFSymbol(.envelopeCircleFill, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["mail"], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
+    static let envelopeCircleFill = SFSymbol(.envelopeCircleFill, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["address", "letter", "mail"], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: envelope.fill
     /// - Category: communication
-    static let envelopeFill = SFSymbol(.envelopeFill, releaseYear: ._2019, category: [ .communication ], keywords: ["mail"])
+    static let envelopeFill = SFSymbol(.envelopeFill, releaseYear: ._2019, category: [ .communication ], keywords: ["address", "letter", "mail"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: envelope.open
     /// - Category: communication
-    static let envelopeOpen = SFSymbol(.envelopeOpen, releaseYear: ._2019, category: [ .communication ], keywords: ["mail"])
+    static let envelopeOpen = SFSymbol(.envelopeOpen, releaseYear: ._2019, category: [ .communication ], keywords: ["address", "letter", "mail"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: envelope.open.fill
     /// - Category: communication
-    static let envelopeOpenFill = SFSymbol(.envelopeOpenFill, releaseYear: ._2019, category: [ .communication ], keywords: ["mail"])
+    static let envelopeOpenFill = SFSymbol(.envelopeOpenFill, releaseYear: ._2019, category: [ .communication ], keywords: ["address", "letter", "mail"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -7283,415 +7225,283 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: globe
     /// - Category: keyboard
-    static let globe = SFSymbol(.globe, releaseYear: ._2019, category: [ .keyboard ], keywords: ["earth"])
+    static let globe = SFSymbol(.globe, releaseYear: ._2019, category: [ .keyboard ], keywords: ["earth", "language"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward
-    /// - Category: media
-    static let gobackward = SFSymbol(.gobackward, releaseYear: ._2019, category: [ .media ])
+    /// - Recommended: arrow.trianglehead.counterclockwise
+    static let gobackward = SFSymbol(.gobackward, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.10
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward10 = SFSymbol(.gobackward10, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 10.arrow.trianglehead.counterclockwise
+    static let gobackward10 = SFSymbol(.gobackward10, releaseYear: ._2019, recommendedRawValue: "10.arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.10.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward10Ar = SFSymbol(.gobackward10Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 10.arrow.trianglehead.counterclockwise.ar
+    static let gobackward10Ar = SFSymbol(.gobackward10Ar, releaseYear: ._2019, recommendedRawValue: "10.arrow.trianglehead.counterclockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.10.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward10Hi = SFSymbol(.gobackward10Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 10.arrow.trianglehead.counterclockwise.hi
+    static let gobackward10Hi = SFSymbol(.gobackward10Hi, releaseYear: ._2019, recommendedRawValue: "10.arrow.trianglehead.counterclockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.15
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward15 = SFSymbol(.gobackward15, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 15.arrow.trianglehead.counterclockwise
+    static let gobackward15 = SFSymbol(.gobackward15, releaseYear: ._2019, recommendedRawValue: "15.arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.15.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward15Ar = SFSymbol(.gobackward15Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 15.arrow.trianglehead.counterclockwise.ar
+    static let gobackward15Ar = SFSymbol(.gobackward15Ar, releaseYear: ._2019, recommendedRawValue: "15.arrow.trianglehead.counterclockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.15.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward15Hi = SFSymbol(.gobackward15Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 15.arrow.trianglehead.counterclockwise.hi
+    static let gobackward15Hi = SFSymbol(.gobackward15Hi, releaseYear: ._2019, recommendedRawValue: "15.arrow.trianglehead.counterclockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.30
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward30 = SFSymbol(.gobackward30, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 30.arrow.trianglehead.counterclockwise
+    static let gobackward30 = SFSymbol(.gobackward30, releaseYear: ._2019, recommendedRawValue: "30.arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.30.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward30Ar = SFSymbol(.gobackward30Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 30.arrow.trianglehead.counterclockwise.ar
+    static let gobackward30Ar = SFSymbol(.gobackward30Ar, releaseYear: ._2019, recommendedRawValue: "30.arrow.trianglehead.counterclockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.30.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward30Hi = SFSymbol(.gobackward30Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 30.arrow.trianglehead.counterclockwise.hi
+    static let gobackward30Hi = SFSymbol(.gobackward30Hi, releaseYear: ._2019, recommendedRawValue: "30.arrow.trianglehead.counterclockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.45
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward45 = SFSymbol(.gobackward45, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 45.arrow.trianglehead.counterclockwise
+    static let gobackward45 = SFSymbol(.gobackward45, releaseYear: ._2019, recommendedRawValue: "45.arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.45.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward45Ar = SFSymbol(.gobackward45Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 45.arrow.trianglehead.counterclockwise.ar
+    static let gobackward45Ar = SFSymbol(.gobackward45Ar, releaseYear: ._2019, recommendedRawValue: "45.arrow.trianglehead.counterclockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.45.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward45Hi = SFSymbol(.gobackward45Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 45.arrow.trianglehead.counterclockwise.hi
+    static let gobackward45Hi = SFSymbol(.gobackward45Hi, releaseYear: ._2019, recommendedRawValue: "45.arrow.trianglehead.counterclockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.60
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward60 = SFSymbol(.gobackward60, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 60.arrow.trianglehead.counterclockwise
+    static let gobackward60 = SFSymbol(.gobackward60, releaseYear: ._2019, recommendedRawValue: "60.arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.60.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward60Ar = SFSymbol(.gobackward60Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 60.arrow.trianglehead.counterclockwise.ar
+    static let gobackward60Ar = SFSymbol(.gobackward60Ar, releaseYear: ._2019, recommendedRawValue: "60.arrow.trianglehead.counterclockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.60.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward60Hi = SFSymbol(.gobackward60Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 60.arrow.trianglehead.counterclockwise.hi
+    static let gobackward60Hi = SFSymbol(.gobackward60Hi, releaseYear: ._2019, recommendedRawValue: "60.arrow.trianglehead.counterclockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.75
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward75 = SFSymbol(.gobackward75, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 75.arrow.trianglehead.counterclockwise
+    static let gobackward75 = SFSymbol(.gobackward75, releaseYear: ._2019, recommendedRawValue: "75.arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.75.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward75Ar = SFSymbol(.gobackward75Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 75.arrow.trianglehead.counterclockwise.ar
+    static let gobackward75Ar = SFSymbol(.gobackward75Ar, releaseYear: ._2019, recommendedRawValue: "75.arrow.trianglehead.counterclockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.75.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward75Hi = SFSymbol(.gobackward75Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 75.arrow.trianglehead.counterclockwise.hi
+    static let gobackward75Hi = SFSymbol(.gobackward75Hi, releaseYear: ._2019, recommendedRawValue: "75.arrow.trianglehead.counterclockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.90
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward90 = SFSymbol(.gobackward90, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 90.arrow.trianglehead.counterclockwise
+    static let gobackward90 = SFSymbol(.gobackward90, releaseYear: ._2019, recommendedRawValue: "90.arrow.trianglehead.counterclockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.90.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward90Ar = SFSymbol(.gobackward90Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 90.arrow.trianglehead.counterclockwise.ar
+    static let gobackward90Ar = SFSymbol(.gobackward90Ar, releaseYear: ._2019, recommendedRawValue: "90.arrow.trianglehead.counterclockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.90.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackward90Hi = SFSymbol(.gobackward90Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 90.arrow.trianglehead.counterclockwise.hi
+    static let gobackward90Hi = SFSymbol(.gobackward90Hi, releaseYear: ._2019, recommendedRawValue: "90.arrow.trianglehead.counterclockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: gobackward.minus
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let gobackwardMinus = SFSymbol(.gobackwardMinus, releaseYear: ._2019, category: [ .media ], keywords: ["-"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: minus.arrow.trianglehead.counterclockwise
+    static let gobackwardMinus = SFSymbol(.gobackwardMinus, releaseYear: ._2019, recommendedRawValue: "minus.arrow.trianglehead.counterclockwise", keywords: ["-"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward
-    /// - Category: media
-    static let goforward = SFSymbol(.goforward, releaseYear: ._2019, category: [ .media ])
+    /// - Recommended: arrow.trianglehead.clockwise
+    static let goforward = SFSymbol(.goforward, releaseYear: ._2019, recommendedRawValue: "arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.10
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward10 = SFSymbol(.goforward10, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 10.arrow.trianglehead.clockwise
+    static let goforward10 = SFSymbol(.goforward10, releaseYear: ._2019, recommendedRawValue: "10.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.10.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward10Ar = SFSymbol(.goforward10Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 10.arrow.trianglehead.clockwise.ar
+    static let goforward10Ar = SFSymbol(.goforward10Ar, releaseYear: ._2019, recommendedRawValue: "10.arrow.trianglehead.clockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.10.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward10Hi = SFSymbol(.goforward10Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 10.arrow.trianglehead.clockwise.hi
+    static let goforward10Hi = SFSymbol(.goforward10Hi, releaseYear: ._2019, recommendedRawValue: "10.arrow.trianglehead.clockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.15
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward15 = SFSymbol(.goforward15, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 15.arrow.trianglehead.clockwise
+    static let goforward15 = SFSymbol(.goforward15, releaseYear: ._2019, recommendedRawValue: "15.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.15.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward15Ar = SFSymbol(.goforward15Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 15.arrow.trianglehead.clockwise.ar
+    static let goforward15Ar = SFSymbol(.goforward15Ar, releaseYear: ._2019, recommendedRawValue: "15.arrow.trianglehead.clockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.15.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward15Hi = SFSymbol(.goforward15Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 15.arrow.trianglehead.clockwise.hi
+    static let goforward15Hi = SFSymbol(.goforward15Hi, releaseYear: ._2019, recommendedRawValue: "15.arrow.trianglehead.clockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.30
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward30 = SFSymbol(.goforward30, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 30.arrow.trianglehead.clockwise
+    static let goforward30 = SFSymbol(.goforward30, releaseYear: ._2019, recommendedRawValue: "30.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.30.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward30Ar = SFSymbol(.goforward30Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 30.arrow.trianglehead.clockwise.ar
+    static let goforward30Ar = SFSymbol(.goforward30Ar, releaseYear: ._2019, recommendedRawValue: "30.arrow.trianglehead.clockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.30.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward30Hi = SFSymbol(.goforward30Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 30.arrow.trianglehead.clockwise.hi
+    static let goforward30Hi = SFSymbol(.goforward30Hi, releaseYear: ._2019, recommendedRawValue: "30.arrow.trianglehead.clockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.45
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward45 = SFSymbol(.goforward45, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 45.arrow.trianglehead.clockwise
+    static let goforward45 = SFSymbol(.goforward45, releaseYear: ._2019, recommendedRawValue: "45.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.45.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward45Ar = SFSymbol(.goforward45Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 45.arrow.trianglehead.clockwise.ar
+    static let goforward45Ar = SFSymbol(.goforward45Ar, releaseYear: ._2019, recommendedRawValue: "45.arrow.trianglehead.clockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.45.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward45Hi = SFSymbol(.goforward45Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 45.arrow.trianglehead.clockwise.hi
+    static let goforward45Hi = SFSymbol(.goforward45Hi, releaseYear: ._2019, recommendedRawValue: "45.arrow.trianglehead.clockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.60
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward60 = SFSymbol(.goforward60, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 60.arrow.trianglehead.clockwise
+    static let goforward60 = SFSymbol(.goforward60, releaseYear: ._2019, recommendedRawValue: "60.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.60.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward60Ar = SFSymbol(.goforward60Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 60.arrow.trianglehead.clockwise.ar
+    static let goforward60Ar = SFSymbol(.goforward60Ar, releaseYear: ._2019, recommendedRawValue: "60.arrow.trianglehead.clockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.60.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward60Hi = SFSymbol(.goforward60Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 60.arrow.trianglehead.clockwise.hi
+    static let goforward60Hi = SFSymbol(.goforward60Hi, releaseYear: ._2019, recommendedRawValue: "60.arrow.trianglehead.clockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.75
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward75 = SFSymbol(.goforward75, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 75.arrow.trianglehead.clockwise
+    static let goforward75 = SFSymbol(.goforward75, releaseYear: ._2019, recommendedRawValue: "75.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.75.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward75Ar = SFSymbol(.goforward75Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 75.arrow.trianglehead.clockwise.ar
+    static let goforward75Ar = SFSymbol(.goforward75Ar, releaseYear: ._2019, recommendedRawValue: "75.arrow.trianglehead.clockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.75.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward75Hi = SFSymbol(.goforward75Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 75.arrow.trianglehead.clockwise.hi
+    static let goforward75Hi = SFSymbol(.goforward75Hi, releaseYear: ._2019, recommendedRawValue: "75.arrow.trianglehead.clockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.90
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward90 = SFSymbol(.goforward90, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 90.arrow.trianglehead.clockwise
+    static let goforward90 = SFSymbol(.goforward90, releaseYear: ._2019, recommendedRawValue: "90.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.90.ar
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward90Ar = SFSymbol(.goforward90Ar, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 90.arrow.trianglehead.clockwise.ar
+    static let goforward90Ar = SFSymbol(.goforward90Ar, releaseYear: ._2019, recommendedRawValue: "90.arrow.trianglehead.clockwise.ar")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.90.hi
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforward90Hi = SFSymbol(.goforward90Hi, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: 90.arrow.trianglehead.clockwise.hi
+    static let goforward90Hi = SFSymbol(.goforward90Hi, releaseYear: ._2019, recommendedRawValue: "90.arrow.trianglehead.clockwise.hi")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: goforward.plus
-    /// - Category: media
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let goforwardPlus = SFSymbol(.goforwardPlus, releaseYear: ._2019, category: [ .media ], keywords: ["+", "add"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: plus.arrow.trianglehead.clockwise
+    static let goforwardPlus = SFSymbol(.goforwardPlus, releaseYear: ._2019, recommendedRawValue: "plus.arrow.trianglehead.clockwise", keywords: ["+", "add"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -7920,11 +7730,12 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: hand.raised.slash
-    /// - Category: human, privacyandsecurity
+    /// - Category: human, multicolor, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let handRaisedSlash = SFSymbol(.handRaisedSlash, releaseYear: ._2019, category: [ .human, .privacyandsecurity ], keywords: ["privacy", "remove", "unblock"], layerset: [.hierarchical: ._2021])
+    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let handRaisedSlash = SFSymbol(.handRaisedSlash, releaseYear: ._2019, category: [ .human, .multicolor, .privacyandsecurity ], keywords: ["privacy", "remove", "unblock"], layerset: [.hierarchical: ._2021, .multicolor: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8236,7 +8047,10 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: icloud.and.arrow.down.fill
     /// - Category: connectivity
-    static let icloudAndArrowDownFill = SFSymbol(.icloudAndArrowDownFill, releaseYear: ._2019, category: [ .connectivity ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let icloudAndArrowDownFill = SFSymbol(.icloudAndArrowDownFill, releaseYear: ._2019, category: [ .connectivity ], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8251,7 +8065,10 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: icloud.and.arrow.up.fill
     /// - Category: connectivity
-    static let icloudAndArrowUpFill = SFSymbol(.icloudAndArrowUpFill, releaseYear: ._2019, category: [ .connectivity ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let icloudAndArrowUpFill = SFSymbol(.icloudAndArrowUpFill, releaseYear: ._2019, category: [ .connectivity ], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8566,8 +8383,8 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: largecircle.fill.circle
-    /// - Recommended: circle.inset.filled
-    static let largecircleFillCircle = SFSymbol(.largecircleFillCircle, releaseYear: ._2019, recommendedRawValue: "circle.inset.filled", keywords: ["completed", "task"])
+    /// - Recommended: inset.filled.circle
+    static let largecircleFillCircle = SFSymbol(.largecircleFillCircle, releaseYear: ._2019, recommendedRawValue: "inset.filled.circle", keywords: ["completed", "task"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8616,8 +8433,8 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: leaf.arrow.circlepath
-    /// - Recommended: leaf.arrow.triangle.circlepath
-    static let leafArrowCirclepath = SFSymbol(.leafArrowCirclepath, releaseYear: ._2019, recommendedRawValue: "leaf.arrow.triangle.circlepath")
+    /// - Recommended: leaf.arrow.trianglehead.clockwise
+    static let leafArrowCirclepath = SFSymbol(.leafArrowCirclepath, releaseYear: ._2019, recommendedRawValue: "leaf.arrow.trianglehead.clockwise")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8725,7 +8542,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: line.horizontal.3.decrease
     /// - Recommended: line.3.horizontal.decrease
-    static let lineHorizontal3Decrease = SFSymbol(.lineHorizontal3Decrease, releaseYear: ._2019, recommendedRawValue: "line.3.horizontal.decrease")
+    static let lineHorizontal3Decrease = SFSymbol(.lineHorizontal3Decrease, releaseYear: ._2019, recommendedRawValue: "line.3.horizontal.decrease", keywords: ["filter"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -9347,60 +9164,38 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: mic
-    /// - Category: communication, multicolor
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let mic = SFSymbol(.mic, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["dictate", "dictation", "microphone"], layerset: [.multicolor: ._2021])
+    /// - Recommended: microphone
+    static let mic = SFSymbol(.mic, releaseYear: ._2019, recommendedRawValue: "microphone", keywords: ["dictate", "dictation"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: mic.circle
-    /// - Category: communication, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let micCircle = SFSymbol(.micCircle, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["dictate", "dictation", "microphone"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    /// - Recommended: microphone.circle
+    static let micCircle = SFSymbol(.micCircle, releaseYear: ._2019, recommendedRawValue: "microphone.circle", keywords: ["dictate", "dictation"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: mic.circle.fill
-    /// - Category: communication, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let micCircleFill = SFSymbol(.micCircleFill, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["dictate", "dictation", "microphone"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    /// - Recommended: microphone.circle.fill
+    static let micCircleFill = SFSymbol(.micCircleFill, releaseYear: ._2019, recommendedRawValue: "microphone.circle.fill", keywords: ["dictate", "dictation"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: mic.fill
-    /// - Category: communication, multicolor
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let micFill = SFSymbol(.micFill, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["dictate", "dictation", "microphone"], layerset: [.multicolor: ._2021])
+    /// - Recommended: microphone.fill
+    static let micFill = SFSymbol(.micFill, releaseYear: ._2019, recommendedRawValue: "microphone.fill", keywords: ["dictate", "dictation"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: mic.slash
-    /// - Category: communication, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let micSlash = SFSymbol(.micSlash, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["microphone", "remove"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: microphone.slash
+    static let micSlash = SFSymbol(.micSlash, releaseYear: ._2019, recommendedRawValue: "microphone.slash", keywords: ["remove"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: mic.slash.fill
-    /// - Category: communication, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let micSlashFill = SFSymbol(.micSlashFill, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["microphone", "remove"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: microphone.slash.fill
+    static let micSlashFill = SFSymbol(.micSlashFill, releaseYear: ._2019, recommendedRawValue: "microphone.slash.fill", keywords: ["remove"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -9651,8 +9446,8 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.mic
-    /// - Category: objectsandtools
-    static let musicMic = SFSymbol(.musicMic, releaseYear: ._2019, category: [ .objectsandtools ], keywords: ["microphone"])
+    /// - Recommended: music.microphone
+    static let musicMic = SFSymbol(.musicMic, releaseYear: ._2019, recommendedRawValue: "music.microphone", keywords: ["microphone"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11455,7 +11250,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: repeat
     /// - Category: media
-    static let `repeat` = SFSymbol(.repeat, releaseYear: ._2019, category: [ .media ])
+    static let `repeat` = SFSymbol(.repeat, releaseYear: ._2019, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11464,7 +11259,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeat1 = SFSymbol(.repeat1, releaseYear: ._2019, category: [ .media ], layerset: [.hierarchical: ._2021])
+    static let repeat1 = SFSymbol(.repeat1, releaseYear: ._2019, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11758,7 +11553,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: shuffle
     /// - Category: media
-    static let shuffle = SFSymbol(.shuffle, releaseYear: ._2019, category: [ .media ])
+    static let shuffle = SFSymbol(.shuffle, releaseYear: ._2019, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11867,13 +11662,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: smiley
     /// - Recommended: face.smiling
-    static let smiley = SFSymbol(.smiley, releaseYear: ._2019, recommendedRawValue: "face.smiling")
+    static let smiley = SFSymbol(.smiley, releaseYear: ._2019, recommendedRawValue: "face.smiling", keywords: ["smile"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: smiley.fill
     /// - Recommended: face.smiling.inverse
-    static let smileyFill = SFSymbol(.smileyFill, releaseYear: ._2019, recommendedRawValue: "face.smiling.inverse")
+    static let smileyFill = SFSymbol(.smileyFill, releaseYear: ._2019, recommendedRawValue: "face.smiling.inverse", keywords: ["smile"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12074,7 +11869,10 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.and.arrow.down.fill
-    static let squareAndArrowDownFill = SFSymbol(.squareAndArrowDownFill, releaseYear: ._2019, keywords: ["download", "import", "save"])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let squareAndArrowDownFill = SFSymbol(.squareAndArrowDownFill, releaseYear: ._2019, keywords: ["download", "import", "save"], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12087,7 +11885,10 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.and.arrow.down.on.square.fill
-    static let squareAndArrowDownOnSquareFill = SFSymbol(.squareAndArrowDownOnSquareFill, releaseYear: ._2019, keywords: ["download", "import", "save"])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let squareAndArrowDownOnSquareFill = SFSymbol(.squareAndArrowDownOnSquareFill, releaseYear: ._2019, keywords: ["download", "import", "save"], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12100,7 +11901,10 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.and.arrow.up.fill
-    static let squareAndArrowUpFill = SFSymbol(.squareAndArrowUpFill, releaseYear: ._2019, keywords: ["export", "share", "sharrow", "upload"])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let squareAndArrowUpFill = SFSymbol(.squareAndArrowUpFill, releaseYear: ._2019, keywords: ["export", "share", "sharrow", "upload"], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12113,7 +11917,10 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.and.arrow.up.on.square.fill
-    static let squareAndArrowUpOnSquareFill = SFSymbol(.squareAndArrowUpOnSquareFill, releaseYear: ._2019, keywords: ["export", "sharrow", "upload"])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let squareAndArrowUpOnSquareFill = SFSymbol(.squareAndArrowUpOnSquareFill, releaseYear: ._2019, keywords: ["export", "sharrow", "upload"], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12496,8 +12303,12 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: stopwatch.fill
-    /// - Category: objectsandtools, time
-    static let stopwatchFill = SFSymbol(.stopwatchFill, releaseYear: ._2019, category: [ .objectsandtools, .time ])
+    /// - Category: multicolor, objectsandtools, time
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let stopwatchFill = SFSymbol(.stopwatchFill, releaseYear: ._2019, category: [ .multicolor, .objectsandtools, .time ], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13008,24 +12819,20 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.123
-    /// - Category: textformatting
-    static let textformat123 = SFSymbol(.textformat123, releaseYear: ._2019, category: [ .textformatting ])
+    /// - Recommended: numbers
+    static let textformat123 = SFSymbol(.textformat123, releaseYear: ._2019, recommendedRawValue: "numbers")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.abc
-    /// - Category: textformatting
-    static let textformatAbc = SFSymbol(.textformatAbc, releaseYear: ._2019, category: [ .textformatting ])
+    /// - Recommended: textformat.characters
+    static let textformatAbc = SFSymbol(.textformatAbc, releaseYear: ._2019, recommendedRawValue: "textformat.characters")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.abc.dottedunderline
-    /// - Category: multicolor, textformatting
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatAbcDottedunderline = SFSymbol(.textformatAbcDottedunderline, releaseYear: ._2019, category: [ .multicolor, .textformatting ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    /// - Recommended: textformat.characters.dottedunderline
+    static let textformatAbcDottedunderline = SFSymbol(.textformatAbcDottedunderline, releaseYear: ._2019, recommendedRawValue: "textformat.characters.dottedunderline")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13697,20 +13504,14 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wand.and.stars
-    /// - Category: editing, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let wandAndStars = SFSymbol(.wandAndStars, releaseYear: ._2019, category: [ .editing, .objectsandtools ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: wand.and.sparkles
+    static let wandAndStars = SFSymbol(.wandAndStars, releaseYear: ._2019, recommendedRawValue: "wand.and.sparkles")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: wand.and.stars.inverse
-    /// - Category: editing, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let wandAndStarsInverse = SFSymbol(.wandAndStarsInverse, releaseYear: ._2019, category: [ .editing, .objectsandtools ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: wand.and.sparkles.inverse
+    static let wandAndStarsInverse = SFSymbol(.wandAndStarsInverse, releaseYear: ._2019, recommendedRawValue: "wand.and.sparkles.inverse")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -14143,21 +13944,21 @@ public extension SFSymbol {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: z.circle
-    /// - Category: indices
+    /// - Category: gaming, indices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let zCircle = SFSymbol(.zCircle, releaseYear: ._2019, category: [ .indices ], layerset: [.hierarchical: ._2021])
+    static let zCircle = SFSymbol(.zCircle, releaseYear: ._2019, category: [ .gaming, .indices ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: z.circle.fill
-    /// - Category: indices, multicolor
+    /// - Category: gaming, indices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let zCircleFill = SFSymbol(.zCircleFill, releaseYear: ._2019, category: [ .indices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let zCircleFill = SFSymbol(.zCircleFill, releaseYear: ._2019, category: [ .gaming, .indices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///

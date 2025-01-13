@@ -30,7 +30,10 @@ public extension SFSymbol.ReleaseYear {
         case ._2022_2:  return ._2023
         case ._2023:    return ._2023_1
         case ._2023_1:  return ._2023_2
-        case ._2023_2:  return nil
+        case ._2023_2:  return ._2023_3
+        case ._2023_3:  return ._2023_4
+        case ._2023_4:  return ._2024
+        case ._2024:    return nil
         }
     }
 }

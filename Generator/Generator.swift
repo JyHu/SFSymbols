@@ -299,9 +299,9 @@ func exportCategoryies(at folder: URL, spmSourceFolder: URL, layersets: Set<Stri
         SP(2) + "case \($0["key"]!) /// .\($0["icon"]!.codeName(escaped: false))"
     }.joined(separator: "\n")
     
-    let icons = categories.map {
-        SP(2) + "case .\($0["key"]!): return .\($0["icon"]!.codeName(escaped: false))"
-    }.joined(separator: "\n")
+//    let icons = categories.map {
+//        SP(2) + "case .\($0["key"]!): return .\($0["icon"]!.codeName(escaped: false))"
+//    }.joined(separator: "\n")
     
     let names = categories.map {
         SP(2) + "case .\($0["key"]!): return \"\($0["label"]!)\""

@@ -58,7 +58,7 @@ struct TagsGroup: View {
         }
         
 #if os(macOS)
-        return DisclosureGroup(isExpanded: $keywordssExpanded) {
+        return DisclosureGroup {
             content
         } label: {
             header

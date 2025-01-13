@@ -1466,7 +1466,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let figureRunSquareStack = SFSymbol(.figureRunSquareStack, releaseYear: ._2022_1, category: [ .fitness, .human ], keywords: ["human", "indoor run", "outdoor run", "person", "running", "sports"], layerset: [.hierarchical: ._2022_1])
+    static let figureRunSquareStack = SFSymbol(.figureRunSquareStack, releaseYear: ._2022_1, category: [ .fitness, .human ], keywords: ["human", "outdoor run", "person", "running", "sports"], layerset: [.hierarchical: ._2022_1])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -1476,7 +1476,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
     /// - multicolor: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let figureRunSquareStackFill = SFSymbol(.figureRunSquareStackFill, releaseYear: ._2022_1, category: [ .fitness, .human ], keywords: ["human", "indoor run", "outdoor run", "person", "running", "sports"], layerset: [.hierarchical: ._2022_1, .multicolor: ._2022_1])
+    static let figureRunSquareStackFill = SFSymbol(.figureRunSquareStackFill, releaseYear: ._2022_1, category: [ .fitness, .human ], keywords: ["human", "outdoor run", "person", "running", "sports"], layerset: [.hierarchical: ._2022_1, .multicolor: ._2022_1])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -1510,75 +1510,56 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.lower
-    /// - Recommended: figure.seated.side.air.distribution.lower
-    static let figureSeatedSideAirLower = SFSymbol(.figureSeatedSideAirLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.lower", keywords: ["human", "person"])
+    /// - Recommended: figure.seated.side.left.air.distribution.lower
+    static let figureSeatedSideAirLower = SFSymbol(.figureSeatedSideAirLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.air.distribution.lower", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.upper
-    /// - Recommended: figure.seated.side.air.distribution.middle
-    static let figureSeatedSideAirUpper = SFSymbol(.figureSeatedSideAirUpper, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.middle", keywords: ["human", "person"])
+    /// - Recommended: figure.seated.side.left.air.distribution.middle
+    static let figureSeatedSideAirUpper = SFSymbol(.figureSeatedSideAirUpper, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.air.distribution.middle", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.upper.and.lower
-    /// - Recommended: figure.seated.side.air.distribution.middle.and.lower
-    static let figureSeatedSideAirUpperAndLower = SFSymbol(.figureSeatedSideAirUpperAndLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.middle.and.lower", keywords: ["human", "person"])
+    /// - Recommended: figure.seated.side.left.air.distribution.middle.and.lower
+    static let figureSeatedSideAirUpperAndLower = SFSymbol(.figureSeatedSideAirUpperAndLower, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.air.distribution.middle.and.lower", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.air.windshield
-    /// - Recommended: figure.seated.side.air.distribution.upper
-    static let figureSeatedSideAirWindshield = SFSymbol(.figureSeatedSideAirWindshield, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.air.distribution.upper", keywords: ["human", "person"])
+    /// - Recommended: figure.seated.side.left.air.distribution.upper
+    static let figureSeatedSideAirWindshield = SFSymbol(.figureSeatedSideAirWindshield, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.air.distribution.upper", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.airbag.off
-    /// - Category: automotive, human, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let figureSeatedSideAirbagOff = SFSymbol(.figureSeatedSideAirbagOff, releaseYear: ._2022_1, category: [ .automotive, .human, .multicolor ], keywords: ["human", "person"], layerset: [.hierarchical: ._2022_1, .multicolor: ._2023])
+    /// - Recommended: figure.seated.side.left.airbag.off
+    static let figureSeatedSideAirbagOff = SFSymbol(.figureSeatedSideAirbagOff, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.airbag.off", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.airbag.off.2
-    /// - Category: automotive, human, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let figureSeatedSideAirbagOff2 = SFSymbol(.figureSeatedSideAirbagOff2, releaseYear: ._2022_1, category: [ .automotive, .human, .multicolor ], keywords: ["human", "person"], layerset: [.hierarchical: ._2022_1, .multicolor: ._2023])
+    /// - Recommended: figure.seated.side.left.airbag.off.2
+    static let figureSeatedSideAirbagOff2 = SFSymbol(.figureSeatedSideAirbagOff2, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.airbag.off.2", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.airbag.on
-    /// - Category: automotive, human, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let figureSeatedSideAirbagOn = SFSymbol(.figureSeatedSideAirbagOn, releaseYear: ._2022_1, category: [ .automotive, .human, .multicolor ], keywords: ["human", "person"], layerset: [.hierarchical: ._2022_1, .multicolor: ._2023])
+    /// - Recommended: figure.seated.side.left.airbag.on
+    static let figureSeatedSideAirbagOn = SFSymbol(.figureSeatedSideAirbagOn, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.airbag.on", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.airbag.on.2
-    /// - Category: automotive, human, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let figureSeatedSideAirbagOn2 = SFSymbol(.figureSeatedSideAirbagOn2, releaseYear: ._2022_1, category: [ .automotive, .human, .multicolor ], keywords: ["human", "person"], layerset: [.hierarchical: ._2022_1, .multicolor: ._2023])
+    /// - Recommended: figure.seated.side.left.airbag.on.2
+    static let figureSeatedSideAirbagOn2 = SFSymbol(.figureSeatedSideAirbagOn2, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.airbag.on.2", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: figure.seated.side.windshield.front.and.heat.waves
-    /// - Category: automotive, human
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let figureSeatedSideWindshieldFrontAndHeatWaves = SFSymbol(.figureSeatedSideWindshieldFrontAndHeatWaves, releaseYear: ._2022_1, category: [ .automotive, .human ], keywords: ["human", "person"], layerset: [.hierarchical: ._2022_1])
+    /// - Recommended: figure.seated.side.left.windshield.front.and.heat.waves
+    static let figureSeatedSideWindshieldFrontAndHeatWaves = SFSymbol(.figureSeatedSideWindshieldFrontAndHeatWaves, releaseYear: ._2022_1, recommendedRawValue: "figure.seated.side.left.windshield.front.and.heat.waves", keywords: ["human", "person"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -1602,21 +1583,14 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: flag.checkered.circle
-    /// - Category: fitness, gaming, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let flagCheckeredCircle = SFSymbol(.flagCheckeredCircle, releaseYear: ._2022_1, category: [ .fitness, .gaming, .objectsandtools ], keywords: ["campground", "camping"], layerset: [.hierarchical: ._2022_1])
+    /// - Recommended: flag.pattern.checkered.circle
+    static let flagCheckeredCircle = SFSymbol(.flagCheckeredCircle, releaseYear: ._2022_1, recommendedRawValue: "flag.pattern.checkered.circle", keywords: ["campground", "camping"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: flag.checkered.circle.fill
-    /// - Category: fitness, gaming, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    /// - multicolor: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let flagCheckeredCircleFill = SFSymbol(.flagCheckeredCircleFill, releaseYear: ._2022_1, category: [ .fitness, .gaming, .multicolor, .objectsandtools ], keywords: ["campground", "camping"], layerset: [.hierarchical: ._2022_1, .multicolor: ._2022_1])
+    /// - Recommended: flag.pattern.checkered.circle.fill
+    static let flagCheckeredCircleFill = SFSymbol(.flagCheckeredCircleFill, releaseYear: ._2022_1, recommendedRawValue: "flag.pattern.checkered.circle.fill", keywords: ["campground", "camping"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -1822,11 +1796,8 @@ public extension SFSymbol {
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.and.iphone.slash
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let ipadAndIphoneSlash = SFSymbol(.ipadAndIphoneSlash, releaseYear: ._2022_1, category: [ .devices ], keywords: ["ipad", "iphone"], layerset: [.hierarchical: ._2022_1])
+    /// - Recommended: ipad.landscape.and.iphone.slash
+    static let ipadAndIphoneSlash = SFSymbol(.ipadAndIphoneSlash, releaseYear: ._2022_1, recommendedRawValue: "ipad.landscape.and.iphone.slash", keywords: ["ipad", "iphone"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -2295,25 +2266,37 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: light.overhead.left
     /// - Category: automotive
-    static let lightOverheadLeft = SFSymbol(.lightOverheadLeft, releaseYear: ._2022_1, category: [ .automotive ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let lightOverheadLeft = SFSymbol(.lightOverheadLeft, releaseYear: ._2022_1, category: [ .automotive ], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: light.overhead.left.fill
     /// - Category: automotive
-    static let lightOverheadLeftFill = SFSymbol(.lightOverheadLeftFill, releaseYear: ._2022_1, category: [ .automotive ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let lightOverheadLeftFill = SFSymbol(.lightOverheadLeftFill, releaseYear: ._2022_1, category: [ .automotive ], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: light.overhead.right
     /// - Category: automotive
-    static let lightOverheadRight = SFSymbol(.lightOverheadRight, releaseYear: ._2022_1, category: [ .automotive ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let lightOverheadRight = SFSymbol(.lightOverheadRight, releaseYear: ._2022_1, category: [ .automotive ], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: light.overhead.right.fill
     /// - Category: automotive
-    static let lightOverheadRightFill = SFSymbol(.lightOverheadRightFill, releaseYear: ._2022_1, category: [ .automotive ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    static let lightOverheadRightFill = SFSymbol(.lightOverheadRightFill, releaseYear: ._2022_1, category: [ .automotive ], layerset: [.hierarchical: ._2024])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -2349,8 +2332,9 @@ public extension SFSymbol {
     /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let minusPlusAndFluidBatteryblock = SFSymbol(.minusPlusAndFluidBatteryblock, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.multicolor: ._2023])
+    static let minusPlusAndFluidBatteryblock = SFSymbol(.minusPlusAndFluidBatteryblock, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2024, .multicolor: ._2023])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -2398,8 +2382,9 @@ public extension SFSymbol {
     /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let minusPlusBatteryblockStack = SFSymbol(.minusPlusBatteryblockStack, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.multicolor: ._2023])
+    static let minusPlusBatteryblockStack = SFSymbol(.minusPlusBatteryblockStack, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2024, .multicolor: ._2023])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -2427,8 +2412,9 @@ public extension SFSymbol {
     /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
+    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let minusPlusBatteryblockStackFill = SFSymbol(.minusPlusBatteryblockStackFill, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.multicolor: ._2023])
+    static let minusPlusBatteryblockStackFill = SFSymbol(.minusPlusBatteryblockStackFill, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2024, .multicolor: ._2023])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -2535,31 +2521,31 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: mug
     /// - Category: objectsandtools
-    static let mug = SFSymbol(.mug, releaseYear: ._2022_1, category: [ .objectsandtools ], keywords: ["coffee", "drink", "food", "tea"])
+    static let mug = SFSymbol(.mug, releaseYear: ._2022_1, category: [ .objectsandtools ], keywords: ["coffee", "drink", "tea"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: mug.fill
     /// - Category: objectsandtools
-    static let mugFill = SFSymbol(.mugFill, releaseYear: ._2022_1, category: [ .objectsandtools ], keywords: ["coffee", "drink", "food", "tea"])
+    static let mugFill = SFSymbol(.mugFill, releaseYear: ._2022_1, category: [ .objectsandtools ], keywords: ["coffee", "drink", "tea"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: oilcan
-    /// - Category: automotive, multicolor
+    /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let oilcan = SFSymbol(.oilcan, releaseYear: ._2022_1, category: [ .automotive, .multicolor ], layerset: [.multicolor: ._2023])
+    static let oilcan = SFSymbol(.oilcan, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.multicolor: ._2023])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: oilcan.fill
-    /// - Category: automotive, multicolor
+    /// - Category: automotive, multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let oilcanFill = SFSymbol(.oilcanFill, releaseYear: ._2022_1, category: [ .automotive, .multicolor ], layerset: [.multicolor: ._2023])
+    static let oilcanFill = SFSymbol(.oilcanFill, releaseYear: ._2022_1, category: [ .automotive, .multicolor, .objectsandtools ], layerset: [.multicolor: ._2023])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
@@ -2873,13 +2859,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: suitcase.rolling
     /// - Category: objectsandtools
-    static let suitcaseRolling = SFSymbol(.suitcaseRolling, releaseYear: ._2022_1, category: [ .objectsandtools ])
+    static let suitcaseRolling = SFSymbol(.suitcaseRolling, releaseYear: ._2022_1, category: [ .objectsandtools ], keywords: ["luggage"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.fill
     /// - Category: objectsandtools
-    static let suitcaseRollingFill = SFSymbol(.suitcaseRollingFill, releaseYear: ._2022_1, category: [ .objectsandtools ])
+    static let suitcaseRollingFill = SFSymbol(.suitcaseRollingFill, releaseYear: ._2022_1, category: [ .objectsandtools ], keywords: ["luggage"])
 
     /// Support only iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0 and later
     ///

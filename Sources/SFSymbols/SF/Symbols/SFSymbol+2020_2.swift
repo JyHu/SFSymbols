@@ -8,11 +8,8 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: airpodsmax
-    /// - Category: devices, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let airpodsmax = SFSymbol(.airpodsmax, releaseYear: ._2020_2, category: [ .devices, .objectsandtools ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: airpods.max
+    static let airpodsmax = SFSymbol(.airpodsmax, releaseYear: ._2020_2, recommendedRawValue: "airpods.max", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -227,78 +224,54 @@ public extension SFSymbol {
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: hifispeaker.and.homepodmini
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let hifispeakerAndHomepodmini = SFSymbol(.hifispeakerAndHomepodmini, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: hifispeaker.and.homepod.mini
+    static let hifispeakerAndHomepodmini = SFSymbol(.hifispeakerAndHomepodmini, releaseYear: ._2020_2, recommendedRawValue: "hifispeaker.and.homepod.mini", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: hifispeaker.and.homepodmini.fill
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let hifispeakerAndHomepodminiFill = SFSymbol(.hifispeakerAndHomepodminiFill, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: hifispeaker.and.homepod.mini.fill
+    static let hifispeakerAndHomepodminiFill = SFSymbol(.hifispeakerAndHomepodminiFill, releaseYear: ._2020_2, recommendedRawValue: "hifispeaker.and.homepod.mini.fill", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepod.and.homepodmini
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let homepodAndHomepodmini = SFSymbol(.homepodAndHomepodmini, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: homepod.and.homepod.mini
+    static let homepodAndHomepodmini = SFSymbol(.homepodAndHomepodmini, releaseYear: ._2020_2, recommendedRawValue: "homepod.and.homepod.mini", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepod.and.homepodmini.fill
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let homepodAndHomepodminiFill = SFSymbol(.homepodAndHomepodminiFill, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: homepod.and.homepod.mini.fill
+    static let homepodAndHomepodminiFill = SFSymbol(.homepodAndHomepodminiFill, releaseYear: ._2020_2, recommendedRawValue: "homepod.and.homepod.mini.fill", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let homepodmini = SFSymbol(.homepodmini, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: homepod.mini
+    static let homepodmini = SFSymbol(.homepodmini, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini.2
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let homepodmini2 = SFSymbol(.homepodmini2, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: homepod.mini.2
+    static let homepodmini2 = SFSymbol(.homepodmini2, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini.2", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini.2.fill
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let homepodmini2Fill = SFSymbol(.homepodmini2Fill, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: homepod.mini.2.fill
+    static let homepodmini2Fill = SFSymbol(.homepodmini2Fill, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini.2.fill", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini.fill
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let homepodminiFill = SFSymbol(.homepodminiFill, releaseYear: ._2020_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: homepod.mini.fill
+    static let homepodminiFill = SFSymbol(.homepodminiFill, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini.fill", keywords: ["audio", "sound", "speaker"])
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.topthird.inset.fill
-    /// - Recommended: rectangle.topthird.inset.filled
-    static let rectangleTopthirdInsetFill = SFSymbol(.rectangleTopthirdInsetFill, releaseYear: ._2020_2, recommendedRawValue: "rectangle.topthird.inset.filled")
+    /// - Recommended: inset.filled.topthird.rectangle
+    static let rectangleTopthirdInsetFill = SFSymbol(.rectangleTopthirdInsetFill, releaseYear: ._2020_2, recommendedRawValue: "inset.filled.topthird.rectangle")
 }

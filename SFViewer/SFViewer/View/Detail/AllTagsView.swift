@@ -24,7 +24,9 @@ struct AllTagsView: View {
                 }
             }
             .navigationTitle("All Tags")
+            #if os(iOS)
             .navigationBarTitleDisplayMode(.inline)
+            #endif
             .toolbar {
 //                ToolbarItem(placement: .automatic) {
 //                    Button {
