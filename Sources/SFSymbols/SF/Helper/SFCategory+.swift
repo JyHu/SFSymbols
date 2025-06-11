@@ -20,11 +20,6 @@ public extension SFSymbol.Category {
                 return .paintpalette
             }
             return .a
-        case .variablecolor:
-            if #available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *) {
-                return .sliderHorizontalBelowSquareAndSquareFilled
-            }
-            return .a
         case .communication:
             return .message
         case .weather:
@@ -94,6 +89,13 @@ public extension SFSymbol.Category {
             return .aCircle
         case .math:
             return .xSquareroot
+        case .draw:
+            return .pencil
+        case .variable:
+            if #available(iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0, *) {
+                return .scribbleVariable
+            }
+            return .a
         }
     }
 }

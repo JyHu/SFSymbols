@@ -31,6 +31,12 @@ public extension SFSymbol.Availables {
     }
 }
 
+extension SFSymbol.Availables: CustomStringConvertible {
+    public var description: String {
+        return SFSymbol.Platform.allCases.map { "\($0.rawValue) \(version(of: $0))" }.joined(separator: ", ")
+    }
+}
+
 extension SFSymbol.Layerset: Identifiable {
     public var id: String {
         rawValue

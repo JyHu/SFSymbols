@@ -35,8 +35,4 @@ extension SFSymbol.ReleaseYear {
         
         return self == releaseYear
     }
-    
-    var description: String {
-        return SFSymbol.Platform.allCases.map { "\($0.rawValue) \(availables.version(of: $0))" }.joined(separator: ", ")
-    }
 }

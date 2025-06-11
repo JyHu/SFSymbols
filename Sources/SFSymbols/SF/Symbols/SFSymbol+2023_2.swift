@@ -18,11 +18,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 0.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _0CircleHi = SFSymbol(._0CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _0CircleHi = SFSymbol(._0CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -46,11 +46,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 00.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _00CircleAr = SFSymbol(._00CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _00CircleAr = SFSymbol(._00CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -75,11 +75,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 00.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _00CircleHi = SFSymbol(._00CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _00CircleHi = SFSymbol(._00CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -122,11 +122,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 01.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _01CircleAr = SFSymbol(._01CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _01CircleAr = SFSymbol(._01CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -151,11 +151,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 01.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _01CircleHi = SFSymbol(._01CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _01CircleHi = SFSymbol(._01CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -198,11 +198,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 02.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _02CircleAr = SFSymbol(._02CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _02CircleAr = SFSymbol(._02CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -227,11 +227,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 02.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _02CircleHi = SFSymbol(._02CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _02CircleHi = SFSymbol(._02CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -274,11 +274,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 03.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _03CircleAr = SFSymbol(._03CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _03CircleAr = SFSymbol(._03CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -303,11 +303,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 03.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _03CircleHi = SFSymbol(._03CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _03CircleHi = SFSymbol(._03CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -350,11 +350,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 04.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _04CircleAr = SFSymbol(._04CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _04CircleAr = SFSymbol(._04CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -379,11 +379,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 04.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _04CircleHi = SFSymbol(._04CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _04CircleHi = SFSymbol(._04CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -426,11 +426,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 05.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _05CircleAr = SFSymbol(._05CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _05CircleAr = SFSymbol(._05CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -455,11 +455,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 05.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _05CircleHi = SFSymbol(._05CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _05CircleHi = SFSymbol(._05CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -502,11 +502,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 06.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _06CircleAr = SFSymbol(._06CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _06CircleAr = SFSymbol(._06CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -531,11 +531,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 06.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _06CircleHi = SFSymbol(._06CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _06CircleHi = SFSymbol(._06CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -578,11 +578,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 07.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _07CircleAr = SFSymbol(._07CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _07CircleAr = SFSymbol(._07CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -607,11 +607,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 07.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _07CircleHi = SFSymbol(._07CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _07CircleHi = SFSymbol(._07CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -654,11 +654,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 08.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _08CircleAr = SFSymbol(._08CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _08CircleAr = SFSymbol(._08CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -683,11 +683,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 08.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _08CircleHi = SFSymbol(._08CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _08CircleHi = SFSymbol(._08CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -730,11 +730,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 09.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _09CircleAr = SFSymbol(._09CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _09CircleAr = SFSymbol(._09CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -759,11 +759,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 09.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _09CircleHi = SFSymbol(._09CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _09CircleHi = SFSymbol(._09CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -816,11 +816,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 1.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _1CircleHi = SFSymbol(._1CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _1CircleHi = SFSymbol(._1CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -844,11 +844,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 10.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _10CircleAr = SFSymbol(._10CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _10CircleAr = SFSymbol(._10CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -873,11 +873,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 10.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _10CircleHi = SFSymbol(._10CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _10CircleHi = SFSymbol(._10CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -920,11 +920,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 11.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _11CircleAr = SFSymbol(._11CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _11CircleAr = SFSymbol(._11CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -949,11 +949,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 11.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _11CircleHi = SFSymbol(._11CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _11CircleHi = SFSymbol(._11CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -996,11 +996,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 12.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _12CircleAr = SFSymbol(._12CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _12CircleAr = SFSymbol(._12CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1025,11 +1025,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 12.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _12CircleHi = SFSymbol(._12CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _12CircleHi = SFSymbol(._12CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1072,11 +1072,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 13.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _13CircleAr = SFSymbol(._13CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _13CircleAr = SFSymbol(._13CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1101,11 +1101,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 13.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _13CircleHi = SFSymbol(._13CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _13CircleHi = SFSymbol(._13CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1148,11 +1148,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 14.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _14CircleAr = SFSymbol(._14CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _14CircleAr = SFSymbol(._14CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1177,11 +1177,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 14.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _14CircleHi = SFSymbol(._14CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _14CircleHi = SFSymbol(._14CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1224,11 +1224,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 15.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _15CircleAr = SFSymbol(._15CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _15CircleAr = SFSymbol(._15CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1253,11 +1253,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 15.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _15CircleHi = SFSymbol(._15CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _15CircleHi = SFSymbol(._15CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1300,11 +1300,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 16.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _16CircleAr = SFSymbol(._16CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _16CircleAr = SFSymbol(._16CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1329,11 +1329,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 16.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _16CircleHi = SFSymbol(._16CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _16CircleHi = SFSymbol(._16CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1376,11 +1376,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 17.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _17CircleAr = SFSymbol(._17CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _17CircleAr = SFSymbol(._17CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1405,11 +1405,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 17.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _17CircleHi = SFSymbol(._17CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _17CircleHi = SFSymbol(._17CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1452,11 +1452,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 18.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _18CircleAr = SFSymbol(._18CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _18CircleAr = SFSymbol(._18CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1481,11 +1481,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 18.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _18CircleHi = SFSymbol(._18CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _18CircleHi = SFSymbol(._18CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1528,11 +1528,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 19.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _19CircleAr = SFSymbol(._19CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _19CircleAr = SFSymbol(._19CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1557,11 +1557,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 19.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _19CircleHi = SFSymbol(._19CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _19CircleHi = SFSymbol(._19CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1614,11 +1614,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 2.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _2CircleHi = SFSymbol(._2CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _2CircleHi = SFSymbol(._2CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1642,11 +1642,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 20.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _20CircleAr = SFSymbol(._20CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _20CircleAr = SFSymbol(._20CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1671,11 +1671,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 20.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _20CircleHi = SFSymbol(._20CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _20CircleHi = SFSymbol(._20CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1718,11 +1718,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 21.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _21CircleAr = SFSymbol(._21CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _21CircleAr = SFSymbol(._21CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1747,11 +1747,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 21.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _21CircleHi = SFSymbol(._21CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _21CircleHi = SFSymbol(._21CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1794,11 +1794,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 22.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _22CircleAr = SFSymbol(._22CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _22CircleAr = SFSymbol(._22CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1823,11 +1823,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 22.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _22CircleHi = SFSymbol(._22CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _22CircleHi = SFSymbol(._22CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1870,11 +1870,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 23.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _23CircleAr = SFSymbol(._23CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _23CircleAr = SFSymbol(._23CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1899,11 +1899,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 23.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _23CircleHi = SFSymbol(._23CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _23CircleHi = SFSymbol(._23CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1946,11 +1946,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 24.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _24CircleAr = SFSymbol(._24CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _24CircleAr = SFSymbol(._24CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -1975,11 +1975,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 24.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _24CircleHi = SFSymbol(._24CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _24CircleHi = SFSymbol(._24CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2022,11 +2022,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 25.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _25CircleAr = SFSymbol(._25CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _25CircleAr = SFSymbol(._25CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2051,11 +2051,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 25.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _25CircleHi = SFSymbol(._25CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _25CircleHi = SFSymbol(._25CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2098,11 +2098,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 26.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _26CircleAr = SFSymbol(._26CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _26CircleAr = SFSymbol(._26CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2127,11 +2127,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 26.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _26CircleHi = SFSymbol(._26CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _26CircleHi = SFSymbol(._26CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2174,11 +2174,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 27.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _27CircleAr = SFSymbol(._27CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _27CircleAr = SFSymbol(._27CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2203,11 +2203,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 27.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _27CircleHi = SFSymbol(._27CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _27CircleHi = SFSymbol(._27CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2250,11 +2250,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 28.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _28CircleAr = SFSymbol(._28CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _28CircleAr = SFSymbol(._28CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2279,11 +2279,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 28.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _28CircleHi = SFSymbol(._28CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _28CircleHi = SFSymbol(._28CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2326,11 +2326,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 29.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _29CircleAr = SFSymbol(._29CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _29CircleAr = SFSymbol(._29CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2355,11 +2355,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 29.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _29CircleHi = SFSymbol(._29CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _29CircleHi = SFSymbol(._29CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2412,11 +2412,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 3.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _3CircleHi = SFSymbol(._3CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _3CircleHi = SFSymbol(._3CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2440,11 +2440,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 30.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _30CircleAr = SFSymbol(._30CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _30CircleAr = SFSymbol(._30CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2469,11 +2469,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 30.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _30CircleHi = SFSymbol(._30CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _30CircleHi = SFSymbol(._30CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2516,11 +2516,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 31.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _31CircleAr = SFSymbol(._31CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _31CircleAr = SFSymbol(._31CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2545,11 +2545,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 31.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _31CircleHi = SFSymbol(._31CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _31CircleHi = SFSymbol(._31CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2592,11 +2592,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 32.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _32CircleAr = SFSymbol(._32CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _32CircleAr = SFSymbol(._32CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2621,11 +2621,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 32.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _32CircleHi = SFSymbol(._32CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _32CircleHi = SFSymbol(._32CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2668,11 +2668,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 33.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _33CircleAr = SFSymbol(._33CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _33CircleAr = SFSymbol(._33CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2697,11 +2697,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 33.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _33CircleHi = SFSymbol(._33CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _33CircleHi = SFSymbol(._33CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2744,11 +2744,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 34.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _34CircleAr = SFSymbol(._34CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _34CircleAr = SFSymbol(._34CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2773,11 +2773,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 34.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _34CircleHi = SFSymbol(._34CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _34CircleHi = SFSymbol(._34CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2820,11 +2820,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 35.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _35CircleAr = SFSymbol(._35CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _35CircleAr = SFSymbol(._35CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2849,11 +2849,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 35.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _35CircleHi = SFSymbol(._35CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _35CircleHi = SFSymbol(._35CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2896,11 +2896,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 36.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _36CircleAr = SFSymbol(._36CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _36CircleAr = SFSymbol(._36CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2925,11 +2925,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 36.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _36CircleHi = SFSymbol(._36CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _36CircleHi = SFSymbol(._36CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -2972,11 +2972,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 37.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _37CircleAr = SFSymbol(._37CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _37CircleAr = SFSymbol(._37CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3001,11 +3001,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 37.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _37CircleHi = SFSymbol(._37CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _37CircleHi = SFSymbol(._37CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3048,11 +3048,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 38.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _38CircleAr = SFSymbol(._38CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _38CircleAr = SFSymbol(._38CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3077,11 +3077,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 38.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _38CircleHi = SFSymbol(._38CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _38CircleHi = SFSymbol(._38CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3124,11 +3124,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 39.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _39CircleAr = SFSymbol(._39CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _39CircleAr = SFSymbol(._39CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3153,11 +3153,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 39.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _39CircleHi = SFSymbol(._39CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _39CircleHi = SFSymbol(._39CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3210,11 +3210,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 4.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _4CircleHi = SFSymbol(._4CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _4CircleHi = SFSymbol(._4CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3238,11 +3238,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 40.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _40CircleAr = SFSymbol(._40CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _40CircleAr = SFSymbol(._40CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3267,11 +3267,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 40.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _40CircleHi = SFSymbol(._40CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _40CircleHi = SFSymbol(._40CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3314,11 +3314,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 41.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _41CircleAr = SFSymbol(._41CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _41CircleAr = SFSymbol(._41CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3343,11 +3343,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 41.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _41CircleHi = SFSymbol(._41CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _41CircleHi = SFSymbol(._41CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3390,11 +3390,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 42.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _42CircleAr = SFSymbol(._42CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _42CircleAr = SFSymbol(._42CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3419,11 +3419,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 42.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _42CircleHi = SFSymbol(._42CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _42CircleHi = SFSymbol(._42CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3466,11 +3466,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 43.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _43CircleAr = SFSymbol(._43CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _43CircleAr = SFSymbol(._43CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3495,11 +3495,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 43.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _43CircleHi = SFSymbol(._43CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _43CircleHi = SFSymbol(._43CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3542,11 +3542,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 44.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _44CircleAr = SFSymbol(._44CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _44CircleAr = SFSymbol(._44CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3571,11 +3571,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 44.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _44CircleHi = SFSymbol(._44CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _44CircleHi = SFSymbol(._44CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3618,11 +3618,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 45.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _45CircleAr = SFSymbol(._45CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _45CircleAr = SFSymbol(._45CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3647,11 +3647,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 45.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _45CircleHi = SFSymbol(._45CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _45CircleHi = SFSymbol(._45CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3694,11 +3694,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 46.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _46CircleAr = SFSymbol(._46CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _46CircleAr = SFSymbol(._46CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3723,11 +3723,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 46.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _46CircleHi = SFSymbol(._46CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _46CircleHi = SFSymbol(._46CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3770,11 +3770,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 47.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _47CircleAr = SFSymbol(._47CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _47CircleAr = SFSymbol(._47CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3799,11 +3799,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 47.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _47CircleHi = SFSymbol(._47CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _47CircleHi = SFSymbol(._47CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3846,11 +3846,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 48.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _48CircleAr = SFSymbol(._48CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _48CircleAr = SFSymbol(._48CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3875,11 +3875,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 48.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _48CircleHi = SFSymbol(._48CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _48CircleHi = SFSymbol(._48CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3922,11 +3922,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 49.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _49CircleAr = SFSymbol(._49CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _49CircleAr = SFSymbol(._49CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -3951,11 +3951,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 49.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _49CircleHi = SFSymbol(._49CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _49CircleHi = SFSymbol(._49CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4008,11 +4008,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 5.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _5CircleHi = SFSymbol(._5CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _5CircleHi = SFSymbol(._5CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4036,11 +4036,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 50.circle.ar
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _50CircleAr = SFSymbol(._50CircleAr, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _50CircleAr = SFSymbol(._50CircleAr, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4065,11 +4065,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 50.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _50CircleHi = SFSymbol(._50CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _50CircleHi = SFSymbol(._50CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4122,11 +4122,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 6.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _6CircleHi = SFSymbol(._6CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _6CircleHi = SFSymbol(._6CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4160,11 +4160,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 7.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _7CircleHi = SFSymbol(._7CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _7CircleHi = SFSymbol(._7CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4198,11 +4198,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 8.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _8CircleHi = SFSymbol(._8CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _8CircleHi = SFSymbol(._8CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
@@ -4236,11 +4236,11 @@ public extension SFSymbol {
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///
     /// - Symbol Name: 9.circle.hi
-    /// - Category: indices
+    /// - Category: indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1
-    static let _9CircleHi = SFSymbol(._9CircleHi, releaseYear: ._2023_2, category: [ .indices ], layerset: [.hierarchical: ._2023_2])
+    static let _9CircleHi = SFSymbol(._9CircleHi, releaseYear: ._2023_2, category: [ .indices, .variable ], layerset: [.hierarchical: ._2023_2])
 
     /// Support only iOS 17.2, macOS 14.2, tvOS 17.2, watchOS 10.2, visionOS 1.1 and later
     ///

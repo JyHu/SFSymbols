@@ -22,6 +22,11 @@ public extension SFSymbol {
         case _2023_3 = 202303
         case _2023_4 = 202304
         case _2024   = 202400
+        case _2024_1 = 202401
+        case _2024_2 = 202402
+        case _2024_3 = 202403
+        case _2024_4 = 202404
+        case _2025   = 202500
 
         public var id: Int {
             rawValue
@@ -62,6 +67,11 @@ public extension SFSymbol {
         public static let _2023_3 = Availables(iOS: 17.4, tvOS: 17.4, macOS: 14.4, watchOS: 10.4, visionOS: 1.1)
         public static let _2023_4 = Availables(iOS: 17.6, tvOS: 17.6, macOS: 14.6, watchOS: 10.6, visionOS: 1.3)
         public static let _2024   = Availables(iOS: 18.0, tvOS: 18.0, macOS: 15.0, watchOS: 11.0, visionOS: 2.0)
+        public static let _2024_1 = Availables(iOS: 18.1, tvOS: 18.1, macOS: 15.1, watchOS: 11.1, visionOS: 2.1)
+        public static let _2024_2 = Availables(iOS: 18.2, tvOS: 18.2, macOS: 15.2, watchOS: 11.2, visionOS: 2.2)
+        public static let _2024_3 = Availables(iOS: 18.4, tvOS: 18.4, macOS: 15.4, watchOS: 11.4, visionOS: 2.4)
+        public static let _2024_4 = Availables(iOS: 18.5, tvOS: 18.5, macOS: 15.5, watchOS: 11.5, visionOS: 2.5)
+        public static let _2025   = Availables(iOS: 26.0, tvOS: 26.0, macOS: 26.0, watchOS: 26.0, visionOS: 26.0)
     }
 }
 
@@ -88,6 +98,11 @@ public extension SFSymbol.ReleaseYear {
             case ._2023_3: return ._2023_3
             case ._2023_4: return ._2023_4
             case ._2024  : return ._2024
+            case ._2024_1: return ._2024_1
+            case ._2024_2: return ._2024_2
+            case ._2024_3: return ._2024_3
+            case ._2024_4: return ._2024_4
+            case ._2025  : return ._2025
         }
     }
 }

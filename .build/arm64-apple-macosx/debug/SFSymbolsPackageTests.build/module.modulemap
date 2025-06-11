@@ -1,0 +1,4 @@
+module SFSymbolsPackageTests {
+    header "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbolsPackageTests.build/SFSymbolsPackageTests-Swift.h"
+    requires objc
+}

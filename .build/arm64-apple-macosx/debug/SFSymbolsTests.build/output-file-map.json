@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbolsTests.build/master.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Tests/SFSymbolsTests/SFSymbolsTests.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbolsTests.build/SFSymbolsTests.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbolsTests.build/SFSymbolsTests.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbolsTests.build/SFSymbolsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbolsTests.build/SFSymbolsTests.swiftdeps"
+  }
+}

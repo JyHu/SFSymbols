@@ -1,0 +1,233 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/master.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/Extension/NSUIImageExtension.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSUIImageExtension.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSUIImageExtension.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSUIImageExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSUIImageExtension.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/Extension/NSUIKits/NSKitsExtension.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSKitsExtension.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSKitsExtension.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSKitsExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSKitsExtension.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/Extension/NSUIKits/NSObjectAssociation.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSObjectAssociation.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSObjectAssociation.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSObjectAssociation~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/NSObjectAssociation.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/Extension/NSUIKits/UIKitsExtension.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/UIKitsExtension.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/UIKitsExtension.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/UIKitsExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/UIKitsExtension.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/Extension/SwiftUIImageExtension.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SwiftUIImageExtension.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SwiftUIImageExtension.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SwiftUIImageExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SwiftUIImageExtension.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Helper/SFAvailables+.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables+.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables+.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables+~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables+.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Helper/SFCategory+.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory+.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory+.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory+~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory+.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Helper/SFReleaseYear+.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFReleaseYear+.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFReleaseYear+.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFReleaseYear+~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFReleaseYear+.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Helper/SFSymbol+UIKitCocoa.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+UIKitCocoa.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+UIKitCocoa.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+UIKitCocoa~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+UIKitCocoa.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/SFAvailables.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFAvailables.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/SFCategory.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFCategory.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/SFNames.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFNames.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFNames.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFNames~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFNames.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/SFSymbol.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/SFSymbols.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2019.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2019_1.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019_1.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019_1.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019_1~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2019_1.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2020.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2020_1.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_1.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_1.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_1~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_1.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2020_2.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_2.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_2.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_2~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2020_2.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2021.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2021_1.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_1.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_1.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_1~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_1.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2021_2.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_2.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_2.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_2~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_2.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2021_3.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_3.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_3.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_3~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2021_3.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2022.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2022_1.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_1.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_1.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_1~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_1.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2022_2.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_2.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_2.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_2~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2022_2.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2023.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2023_1.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_1.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_1.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_1~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_1.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2023_2.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_2.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_2.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_2~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_2.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2023_3.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_3.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_3.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_3~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_3.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2023_4.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_4.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_4.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_4~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2023_4.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2024.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2024_1.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_1.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_1.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_1~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_1.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2024_2.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_2.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_2.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_2~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_2.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2024_3.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_3.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_3.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_3~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_3.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2024_4.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_4.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_4.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_4~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2024_4.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbol+2025.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2025.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2025.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2025~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbol+2025.swiftdeps"
+  },
+  "/Users/hujinyou/Documents/Project/Owner/SFSymbols/Sources/SFSymbols/SF/Symbols/SFSymbols+.swift": {
+    "dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols+.d",
+    "object": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols+.swift.o",
+    "swiftmodule": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols+~partial.swiftmodule",
+    "swift-dependencies": "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols+.swiftdeps"
+  }
+}

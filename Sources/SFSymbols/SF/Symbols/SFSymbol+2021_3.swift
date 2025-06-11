@@ -14,11 +14,11 @@ public extension SFSymbol {
     /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
     ///
     /// - Symbol Name: camera.macro.circle
-    /// - Category: cameraandphotos, nature
+    /// - Category: cameraandphotos, nature, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0
-    static let cameraMacroCircle = SFSymbol(.cameraMacroCircle, releaseYear: ._2021_3, category: [ .cameraandphotos, .nature ], keywords: ["macro"], layerset: [.hierarchical: ._2021_3])
+    static let cameraMacroCircle = SFSymbol(.cameraMacroCircle, releaseYear: ._2021_3, category: [ .cameraandphotos, .nature, .variable ], keywords: ["macro"], layerset: [.hierarchical: ._2021_3])
 
     /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
     ///
@@ -33,10 +33,8 @@ public extension SFSymbol {
     /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
     ///
     /// - Symbol Name: dots.and.line.vertical.and.cursorarrow.rectangle
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0
-    static let dotsAndLineVerticalAndCursorarrowRectangle = SFSymbol(.dotsAndLineVerticalAndCursorarrowRectangle, releaseYear: ._2021_3, layerset: [.hierarchical: ._2021_3])
+    /// - Recommended: dots.and.line.vertical.and.pointer.arrow.rectangle
+    static let dotsAndLineVerticalAndCursorarrowRectangle = SFSymbol(.dotsAndLineVerticalAndCursorarrowRectangle, releaseYear: ._2021_3, recommendedRawValue: "dots.and.line.vertical.and.pointer.arrow.rectangle", keywords: ["cursor"])
 
     /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
     ///

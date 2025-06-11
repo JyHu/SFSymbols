@@ -8,41 +8,41 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: aqi.high
-    /// - Category: multicolor, variablecolor, weather
+    /// - Category: multicolor, variable, weather
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let aqiHigh = SFSymbol(.aqiHigh, releaseYear: ._2020_1, category: [ .multicolor, .variablecolor, .weather ], keywords: ["!", "warning", "weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let aqiHigh = SFSymbol(.aqiHigh, releaseYear: ._2020_1, category: [ .multicolor, .variable, .weather ], keywords: ["!", "warning", "weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: aqi.low
-    /// - Category: variablecolor, weather
+    /// - Category: variable, weather
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let aqiLow = SFSymbol(.aqiLow, releaseYear: ._2020_1, category: [ .variablecolor, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let aqiLow = SFSymbol(.aqiLow, releaseYear: ._2020_1, category: [ .variable, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: aqi.medium
-    /// - Category: variablecolor, weather
+    /// - Category: variable, weather
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let aqiMedium = SFSymbol(.aqiMedium, releaseYear: ._2020_1, category: [ .variablecolor, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let aqiMedium = SFSymbol(.aqiMedium, releaseYear: ._2020_1, category: [ .variable, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: brazilianrealsign.circle
-    /// - Category: commerce, indices
+    /// - Category: commerce, indices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let brazilianrealsignCircle = SFSymbol(.brazilianrealsignCircle, releaseYear: ._2020_1, category: [ .commerce, .indices ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021])
+    static let brazilianrealsignCircle = SFSymbol(.brazilianrealsignCircle, releaseYear: ._2020_1, category: [ .commerce, .indices, .variable ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -76,11 +76,11 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: cart.circle
-    /// - Category: commerce, objectsandtools
+    /// - Category: commerce, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let cartCircle = SFSymbol(.cartCircle, releaseYear: ._2020_1, category: [ .commerce, .objectsandtools ], layerset: [.hierarchical: ._2021])
+    static let cartCircle = SFSymbol(.cartCircle, releaseYear: ._2020_1, category: [ .commerce, .objectsandtools, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -250,14 +250,14 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text.below.ecg.fill.rtl
-    /// - Recommended: ecg.text.page.fill.rtl
-    static let docTextBelowEcgFillRtl = SFSymbol(.docTextBelowEcgFillRtl, releaseYear: ._2020_1, recommendedRawValue: "ecg.text.page.fill.rtl")
+    /// - Recommended: waveform.path.ecg.text.page.fill.rtl
+    static let docTextBelowEcgFillRtl = SFSymbol(.docTextBelowEcgFillRtl, releaseYear: ._2020_1, recommendedRawValue: "waveform.path.ecg.text.page.fill.rtl")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text.below.ecg.rtl
-    /// - Recommended: ecg.text.page.rtl
-    static let docTextBelowEcgRtl = SFSymbol(.docTextBelowEcgRtl, releaseYear: ._2020_1, recommendedRawValue: "ecg.text.page.rtl")
+    /// - Recommended: waveform.path.ecg.text.page.rtl
+    static let docTextBelowEcgRtl = SFSymbol(.docTextBelowEcgRtl, releaseYear: ._2020_1, recommendedRawValue: "waveform.path.ecg.text.page.rtl")
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -271,11 +271,11 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: infinity.circle
-    /// - Category: media
+    /// - Category: media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let infinityCircle = SFSymbol(.infinityCircle, releaseYear: ._2020_1, category: [ .media ], layerset: [.hierarchical: ._2021])
+    static let infinityCircle = SFSymbol(.infinityCircle, releaseYear: ._2020_1, category: [ .media, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -419,11 +419,11 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat.1.circle
-    /// - Category: media
+    /// - Category: media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeat1Circle = SFSymbol(.repeat1Circle, releaseYear: ._2020_1, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
+    static let repeat1Circle = SFSymbol(.repeat1Circle, releaseYear: ._2020_1, category: [ .media, .variable ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -438,11 +438,11 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat.circle
-    /// - Category: media
+    /// - Category: media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeatCircle = SFSymbol(.repeatCircle, releaseYear: ._2020_1, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
+    static let repeatCircle = SFSymbol(.repeatCircle, releaseYear: ._2020_1, category: [ .media, .variable ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -463,11 +463,11 @@ public extension SFSymbol {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: shuffle.circle
-    /// - Category: media
+    /// - Category: media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let shuffleCircle = SFSymbol(.shuffleCircle, releaseYear: ._2020_1, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
+    static let shuffleCircle = SFSymbol(.shuffleCircle, releaseYear: ._2020_1, category: [ .media, .variable ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///

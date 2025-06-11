@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -11,7 +11,6 @@
 		66551D0A2BE8F0CA00CD8FB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66551D092BE8F0CA00CD8FB1 /* Assets.xcassets */; };
 		66551D0E2BE8F0CA00CD8FB1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66551D0D2BE8F0CA00CD8FB1 /* Preview Assets.xcassets */; };
 		66551D152BE8F1F300CD8FB1 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66551D142BE8F1F300CD8FB1 /* MainView.swift */; };
-		66551D1A2BEA1B7600CD8FB1 /* SFSymbols in Frameworks */ = {isa = PBXBuildFile; productRef = 66551D192BEA1B7600CD8FB1 /* SFSymbols */; };
 		66551D1C2BEA1BD100CD8FB1 /* CategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66551D1B2BEA1BD100CD8FB1 /* CategoriesView.swift */; };
 		66551D1E2BEA1BE200CD8FB1 /* SymbolsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66551D1D2BEA1BE200CD8FB1 /* SymbolsView.swift */; };
 		66551D202BEA1C0C00CD8FB1 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66551D1F2BEA1C0C00CD8FB1 /* DetailView.swift */; };
@@ -39,6 +38,7 @@
 		66B5B55C2BECF81300EBAE88 /* View+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B5B55B2BECF81300EBAE88 /* View+.swift */; };
 		66B5B5692BEE304900EBAE88 /* ColorPickerWell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B5B5682BEE304900EBAE88 /* ColorPickerWell.swift */; };
 		66B5B56B2BEE31BF00EBAE88 /* SelectableLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B5B56A2BEE31BF00EBAE88 /* SelectableLabel.swift */; };
+		66CFBCE82DF9553D00CC7DF9 /* SFSymbols in Frameworks */ = {isa = PBXBuildFile; productRef = 66CFBCE72DF9553D00CC7DF9 /* SFSymbols */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,9 +80,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66CFBCE82DF9553D00CC7DF9 /* SFSymbols in Frameworks */,
 				66551D282BEA207900CD8FB1 /* SwiftUIExtension in Frameworks */,
 				6657C23D2BF1BE8E002177D3 /* SwiftUIExtension in Frameworks */,
-				66551D1A2BEA1B7600CD8FB1 /* SFSymbols in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,9 +199,9 @@
 			);
 			name = SFViewer;
 			packageProductDependencies = (
-				66551D192BEA1B7600CD8FB1 /* SFSymbols */,
 				66551D272BEA207900CD8FB1 /* SwiftUIExtension */,
 				6657C23C2BF1BE8E002177D3 /* SwiftUIExtension */,
+				66CFBCE72DF9553D00CC7DF9 /* SFSymbols */,
 			);
 			productName = SFViewer;
 			productReference = 66551D022BE8F0C900CD8FB1 /* SFViewer.app */;
@@ -232,8 +232,8 @@
 			);
 			mainGroup = 66551CF92BE8F0C900CD8FB1;
 			packageReferences = (
-				66551D182BEA1B7600CD8FB1 /* XCRemoteSwiftPackageReference "SFSymbols" */,
 				6657C23B2BF1BE8E002177D3 /* XCRemoteSwiftPackageReference "SwiftUIExtension" */,
+				66CFBCE62DF9553D00CC7DF9 /* XCLocalSwiftPackageReference "../../SFSymbols" */,
 			);
 			productRefGroup = 66551D032BE8F0C900CD8FB1 /* Products */;
 			projectDirPath = "";
@@ -507,15 +507,14 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin XCRemoteSwiftPackageReference section */
-		66551D182BEA1B7600CD8FB1 /* XCRemoteSwiftPackageReference "SFSymbols" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/JyHu/SFSymbols";
-			requirement = {
-				branch = main;
-				kind = branch;
-			};
+/* Begin XCLocalSwiftPackageReference section */
+		66CFBCE62DF9553D00CC7DF9 /* XCLocalSwiftPackageReference "../../SFSymbols" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../../SFSymbols;
 		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCRemoteSwiftPackageReference section */
 		6657C23B2BF1BE8E002177D3 /* XCRemoteSwiftPackageReference "SwiftUIExtension" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/JyHu/SwiftUIExtension";
@@ -527,11 +526,6 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		66551D192BEA1B7600CD8FB1 /* SFSymbols */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 66551D182BEA1B7600CD8FB1 /* XCRemoteSwiftPackageReference "SFSymbols" */;
-			productName = SFSymbols;
-		};
 		66551D272BEA207900CD8FB1 /* SwiftUIExtension */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = SwiftUIExtension;
@@ -540,6 +534,10 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 6657C23B2BF1BE8E002177D3 /* XCRemoteSwiftPackageReference "SwiftUIExtension" */;
 			productName = SwiftUIExtension;
+		};
+		66CFBCE72DF9553D00CC7DF9 /* SFSymbols */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = SFSymbols;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

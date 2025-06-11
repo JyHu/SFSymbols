@@ -13,6 +13,34 @@ struct SymbolsView: View {
     @State private var selectedSymbolID: SFSymbol.ID?
     
     var body: some View {
+        if viewModel.symbols.isEmpty {
+            VStack(alignment: .leading, spacing: 12) {
+                Text("暂无结果")
+                Text("没有与筛选条件匹配的symbol或者你的系统版本较低")
+                
+                if let latestRelease = SFSymbol.ReleaseYear.allCases.last {
+                    VStack(alignment: .leading) {
+                        Text("当前symbols支持的最新版本：")
+                        
+                        ForEach(SFSymbol.Platform.allCases) { platform in
+                            let ver = latestRelease.availables.version(of: platform)
+                            
+                            Text("\(platform.rawValue): \(ver > 0 ? String(ver) : "N/A")")
+                        }
+                    }
+                }
+            }
+            .foregroundStyle(.secondary)
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+        } else {
+            makeContentView()
+        }
+    }
+}
+
+extension SymbolsView {
+    @ViewBuilder
+    func makeContentView() -> some View {
         if viewModel.listMode == .grid {
             ScrollView {
 #if os(macOS)
@@ -48,7 +76,7 @@ struct SymbolsView: View {
                     .width(min: 100, ideal: 120, max: 300)
                 
                 TableColumn("Available") { symbol in
-                    Text(symbol.releaseYear.description)
+                    Text(symbol.releaseYear.availables.description)
                 }
             }
             .adp_onChange(of: selectedSymbolID) {
@@ -65,7 +93,7 @@ struct SymbolsView: View {
                             VStack(alignment: .leading, spacing: 5) {
                                 Text(symbol.rawValue)
                                     .font(.system(size: 18))
-                                Text(symbol.releaseYear.description)
+                                Text(symbol.releaseYear.availables.description)
                                     .font(.system(size: 12))
                                     .foregroundStyle(.secondary)
                             }
@@ -110,9 +138,7 @@ struct SymbolsView: View {
 #endif
         }
     }
-}
-
-extension SymbolsView {
+    
     @ViewBuilder
     func makeBlock(of symbol: SFSymbol) -> some View {
         Button {

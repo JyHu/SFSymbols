@@ -25,6 +25,8 @@ struct CategoriesView: View {
                                 .frame(width: 20)
                                 .foregroundStyle(isSelected ? .white : .blue)
                             Text(category.name)
+                                .lineLimit(1)
+                                .truncationMode(.tail)
                             Spacer()
                             
                             if isSelected {

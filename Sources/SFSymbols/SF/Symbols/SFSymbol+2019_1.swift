@@ -8,12 +8,12 @@ public extension SFSymbol {
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.uturn.left.circle.badge.ellipsis
-    /// - Category: arrows, multicolor
+    /// - Category: arrows, multicolor, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowUturnLeftCircleBadgeEllipsis = SFSymbol(.arrowUturnLeftCircleBadgeEllipsis, releaseYear: ._2019_1, category: [ .arrows, .multicolor ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let arrowUturnLeftCircleBadgeEllipsis = SFSymbol(.arrowUturnLeftCircleBadgeEllipsis, releaseYear: ._2019_1, category: [ .arrows, .multicolor, .variable ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -73,12 +73,12 @@ public extension SFSymbol {
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: mappin.circle
-    /// - Category: maps, multicolor, objectsandtools
+    /// - Category: maps, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let mappinCircle = SFSymbol(.mappinCircle, releaseYear: ._2019_1, category: [ .maps, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let mappinCircle = SFSymbol(.mappinCircle, releaseYear: ._2019_1, category: [ .maps, .multicolor, .objectsandtools, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -93,12 +93,12 @@ public extension SFSymbol {
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: paperclip.circle
-    /// - Category: multicolor, objectsandtools
+    /// - Category: objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let paperclipCircle = SFSymbol(.paperclipCircle, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["attach", "attachments"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let paperclipCircle = SFSymbol(.paperclipCircle, releaseYear: ._2019_1, category: [ .objectsandtools, .variable ], keywords: ["attach", "attachments"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
@@ -113,12 +113,12 @@ public extension SFSymbol {
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: pin.circle
-    /// - Category: multicolor, objectsandtools
+    /// - Category: multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let pinCircle = SFSymbol(.pinCircle, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools ], keywords: ["pin"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let pinCircle = SFSymbol(.pinCircle, releaseYear: ._2019_1, category: [ .multicolor, .objectsandtools, .variable ], keywords: ["pin"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///

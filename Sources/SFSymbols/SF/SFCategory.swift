@@ -10,8 +10,9 @@ public extension SFSymbol {
     enum Category: String, CaseIterable {
         case all /// .squareGrid2X2
         case whatsnew /// .sparkles
+        case draw /// .scribble
+        case variable /// .sliderHorizontalBelowSquareAndSquareFilled
         case multicolor /// .paintpalette
-        case variablecolor /// .sliderHorizontalBelowSquareAndSquareFilled
         case communication /// .message
         case weather /// .cloudSun
         case maps /// .map
@@ -47,8 +48,9 @@ public extension SFSymbol.Category {
         switch self {
         case .all: return "All"
         case .whatsnew: return "What’s New"
+        case .draw: return "Draw"
+        case .variable: return "Variable"
         case .multicolor: return "Multicolor"
-        case .variablecolor: return "Variable Color"
         case .communication: return "Communication"
         case .weather: return "Weather"
         case .maps: return "Maps"

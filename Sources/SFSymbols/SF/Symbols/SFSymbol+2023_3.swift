@@ -35,10 +35,11 @@ public extension SFSymbol {
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
     /// - Symbol Name: apple.terminal.circle
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let appleTerminalCircle = SFSymbol(.appleTerminalCircle, releaseYear: ._2023_3, layerset: [.hierarchical: ._2023_3])
+    static let appleTerminalCircle = SFSymbol(.appleTerminalCircle, releaseYear: ._2023_3, category: [ .variable ], layerset: [.hierarchical: ._2023_3])
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///

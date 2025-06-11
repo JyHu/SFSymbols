@@ -52,42 +52,42 @@ public extension SFSymbol {
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.down.backward
-    /// - Category: cameraandphotos, variablecolor
+    /// - Category: cameraandphotos, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownBackward = SFSymbol(.square3Layers3DDownBackward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
+    static let square3Layers3DDownBackward = SFSymbol(.square3Layers3DDownBackward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variable ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.down.forward
-    /// - Category: cameraandphotos, variablecolor
+    /// - Category: cameraandphotos, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownForward = SFSymbol(.square3Layers3DDownForward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
+    static let square3Layers3DDownForward = SFSymbol(.square3Layers3DDownForward, releaseYear: ._2021_1, category: [ .cameraandphotos, .variable ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.down.left
-    /// - Category: cameraandphotos, variablecolor
+    /// - Category: cameraandphotos, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownLeft = SFSymbol(.square3Layers3DDownLeft, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
+    static let square3Layers3DDownLeft = SFSymbol(.square3Layers3DDownLeft, releaseYear: ._2021_1, category: [ .cameraandphotos, .variable ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.layers.3d.down.right
-    /// - Category: cameraandphotos, variablecolor
+    /// - Category: cameraandphotos, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let square3Layers3DDownRight = SFSymbol(.square3Layers3DDownRight, releaseYear: ._2021_1, category: [ .cameraandphotos, .variablecolor ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
+    static let square3Layers3DDownRight = SFSymbol(.square3Layers3DDownRight, releaseYear: ._2021_1, category: [ .cameraandphotos, .variable ], layerset: [.hierarchical: ._2021_1, .multicolor: ._2022])
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
     ///
