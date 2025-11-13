@@ -1,4 +1,0 @@
-module SFSymbols {
-    header "/Users/hujinyou/Documents/Project/Owner/SFSymbols/.build/arm64-apple-macosx/debug/SFSymbols.build/SFSymbols-Swift.h"
-    requires objc
-}
