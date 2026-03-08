@@ -25,6 +25,11 @@ struct ContentView: View {
                 .tabItem {
                     Label("Unknown", systemImage: SFName.xmark.rawValue)
                 }
+            
+            SFPickerView()
+                .tabItem {
+                    Label("SFPicker", systemImage: SFName.listDash.rawValue)
+                }
         }
     }
 }

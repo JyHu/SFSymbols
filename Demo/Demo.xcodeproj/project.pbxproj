@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		660101072F2387170091DD34 /* SFPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 660101062F23870B0091DD34 /* SFPickerView.swift */; };
 		C84685A629193F7D0071EA9D /* BatteryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84685A529193F7D0071EA9D /* BatteryView.swift */; };
 		C84685A829193F880071EA9D /* AllSymbolsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84685A729193F880071EA9D /* AllSymbolsView.swift */; };
 		C84685AA291959640071EA9D /* UnknownImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = C84685A9291959640071EA9D /* UnknownImages.swift */; };
@@ -42,6 +43,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		660101062F23870B0091DD34 /* SFPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFPickerView.swift; sourceTree = "<group>"; };
 		C84685A529193F7D0071EA9D /* BatteryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatteryView.swift; sourceTree = "<group>"; };
 		C84685A729193F880071EA9D /* AllSymbolsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllSymbolsView.swift; sourceTree = "<group>"; };
 		C84685A9291959640071EA9D /* UnknownImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnknownImages.swift; sourceTree = "<group>"; };
@@ -211,6 +213,7 @@
 				C84685A529193F7D0071EA9D /* BatteryView.swift */,
 				C84685A9291959640071EA9D /* UnknownImages.swift */,
 				C84685A729193F880071EA9D /* AllSymbolsView.swift */,
+				660101062F23870B0091DD34 /* SFPickerView.swift */,
 				C8C9EE732918E9DE00707201 /* Assets.xcassets */,
 				C8C9EE752918E9DE00707201 /* SwiftUIDemo.entitlements */,
 				C8C9EE762918E9DE00707201 /* Preview Content */,
@@ -469,6 +472,7 @@
 				C84685AA291959640071EA9D /* UnknownImages.swift in Sources */,
 				C8C9EE722918E9DD00707201 /* ContentView.swift in Sources */,
 				C8C9EE702918E9DD00707201 /* SwiftUIDemoApp.swift in Sources */,
+				660101072F2387170091DD34 /* SFPickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
