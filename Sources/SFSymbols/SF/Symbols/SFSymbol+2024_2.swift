@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2024.2
 
 @available(iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2, *)
@@ -9,31 +7,31 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: airpods.gen4
     /// - Category: devices
-    static let airpodsGen4 = SFSymbol(.airpodsGen4, releaseYear: ._2024_2, category: [ .devices ], keywords: ["audio"])
+    static var airpodsGen4: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen4) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: airpods.gen4.chargingcase.wireless
     /// - Category: devices
-    static let airpodsGen4ChargingcaseWireless = SFSymbol(.airpodsGen4ChargingcaseWireless, releaseYear: ._2024_2, category: [ .devices ], keywords: ["audio"])
+    static var airpodsGen4ChargingcaseWireless: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen4ChargingcaseWireless) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: airpods.gen4.chargingcase.wireless.fill
     /// - Category: devices
-    static let airpodsGen4ChargingcaseWirelessFill = SFSymbol(.airpodsGen4ChargingcaseWirelessFill, releaseYear: ._2024_2, category: [ .devices ], keywords: ["audio"])
+    static var airpodsGen4ChargingcaseWirelessFill: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen4ChargingcaseWirelessFill) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: airpods.gen4.left
     /// - Category: devices
-    static let airpodsGen4Left = SFSymbol(.airpodsGen4Left, releaseYear: ._2024_2, category: [ .devices ], keywords: ["audio"])
+    static var airpodsGen4Left: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen4Left) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: airpods.gen4.right
     /// - Category: devices
-    static let airpodsGen4Right = SFSymbol(.airpodsGen4Right, releaseYear: ._2024_2, category: [ .devices ], keywords: ["audio"])
+    static var airpodsGen4Right: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen4Right) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -43,27 +41,27 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
     /// - multicolor: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let appleWritingTools = SFSymbol(.appleWritingTools, releaseYear: ._2024_2, category: [ .multicolor ], layerset: [.hierarchical: ._2024_2, .multicolor: ._2024_2])
+    static var appleWritingTools: SFSymbol { SFSymbol(rawValue: SFName.appleWritingTools) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: exclamationmark.triangle.text.page
-    static let exclamationmarkTriangleTextPage = SFSymbol(.exclamationmarkTriangleTextPage, releaseYear: ._2024_2)
+    static var exclamationmarkTriangleTextPage: SFSymbol { SFSymbol(rawValue: SFName.exclamationmarkTriangleTextPage) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: exclamationmark.triangle.text.page.fill
-    static let exclamationmarkTriangleTextPageFill = SFSymbol(.exclamationmarkTriangleTextPageFill, releaseYear: ._2024_2)
+    static var exclamationmarkTriangleTextPageFill: SFSymbol { SFSymbol(rawValue: SFName.exclamationmarkTriangleTextPageFill) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: exclamationmark.triangle.text.page.fill.rtl
-    static let exclamationmarkTriangleTextPageFillRtl = SFSymbol(.exclamationmarkTriangleTextPageFillRtl, releaseYear: ._2024_2)
+    static var exclamationmarkTriangleTextPageFillRtl: SFSymbol { SFSymbol(rawValue: SFName.exclamationmarkTriangleTextPageFillRtl) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: exclamationmark.triangle.text.page.rtl
-    static let exclamationmarkTriangleTextPageRtl = SFSymbol(.exclamationmarkTriangleTextPageRtl, releaseYear: ._2024_2)
+    static var exclamationmarkTriangleTextPageRtl: SFSymbol { SFSymbol(rawValue: SFName.exclamationmarkTriangleTextPageRtl) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -72,7 +70,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let figureSeatedSideLeftAirDistributionUpperAndMiddleAndLower = SFSymbol(.figureSeatedSideLeftAirDistributionUpperAndMiddleAndLower, releaseYear: ._2024_2, category: [ .automotive, .human ], keywords: ["arrow", "human", "person"], layerset: [.hierarchical: ._2024_2])
+    static var figureSeatedSideLeftAirDistributionUpperAndMiddleAndLower: SFSymbol { SFSymbol(rawValue: SFName.figureSeatedSideLeftAirDistributionUpperAndMiddleAndLower) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -81,7 +79,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let figureSeatedSideRightAirDistributionUpperAndMiddleAndLower = SFSymbol(.figureSeatedSideRightAirDistributionUpperAndMiddleAndLower, releaseYear: ._2024_2, category: [ .automotive, .human ], keywords: ["arrow", "human", "person"], layerset: [.hierarchical: ._2024_2])
+    static var figureSeatedSideRightAirDistributionUpperAndMiddleAndLower: SFSymbol { SFSymbol(rawValue: SFName.figureSeatedSideRightAirDistributionUpperAndMiddleAndLower) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -90,7 +88,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let headphonesDots = SFSymbol(.headphonesDots, releaseYear: ._2024_2, category: [ .devices, .objectsandtools, .variable ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2024_2])
+    static var headphonesDots: SFSymbol { SFSymbol(rawValue: SFName.headphonesDots) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -98,7 +96,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let infoTriangle = SFSymbol(.infoTriangle, releaseYear: ._2024_2, layerset: [.hierarchical: ._2024_2])
+    static var infoTriangle: SFSymbol { SFSymbol(rawValue: SFName.infoTriangle) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -108,7 +106,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
     /// - multicolor: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let infoTriangleFill = SFSymbol(.infoTriangleFill, releaseYear: ._2024_2, category: [ .multicolor ], layerset: [.hierarchical: ._2024_2, .multicolor: ._2024_2])
+    static var infoTriangleFill: SFSymbol { SFSymbol(rawValue: SFName.infoTriangleFill) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -117,7 +115,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let insetFilledRectangleAndPersonFilledCircle = SFSymbol(.insetFilledRectangleAndPersonFilledCircle, releaseYear: ._2024_2, category: [ .human, .variable ], keywords: ["people", "screen sharing"], layerset: [.hierarchical: ._2024_2])
+    static var insetFilledRectangleAndPersonFilledCircle: SFSymbol { SFSymbol(rawValue: SFName.insetFilledRectangleAndPersonFilledCircle) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -127,7 +125,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
     /// - multicolor: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let insetFilledRectangleAndPersonFilledCircleFill = SFSymbol(.insetFilledRectangleAndPersonFilledCircleFill, releaseYear: ._2024_2, category: [ .human, .multicolor ], keywords: ["people", "screen sharing"], layerset: [.hierarchical: ._2024_2, .multicolor: ._2024_2])
+    static var insetFilledRectangleAndPersonFilledCircleFill: SFSymbol { SFSymbol(rawValue: SFName.insetFilledRectangleAndPersonFilledCircleFill) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -136,7 +134,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let questionmarkMessageAr = SFSymbol(.questionmarkMessageAr, releaseYear: ._2024_2, category: [ .communication ], layerset: [.hierarchical: ._2024_2])
+    static var questionmarkMessageAr: SFSymbol { SFSymbol(rawValue: SFName.questionmarkMessageAr) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -146,19 +144,19 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
     /// - multicolor: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let questionmarkMessageFillAr = SFSymbol(.questionmarkMessageFillAr, releaseYear: ._2024_2, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2024_2, .multicolor: ._2024_2])
+    static var questionmarkMessageFillAr: SFSymbol { SFSymbol(rawValue: SFName.questionmarkMessageFillAr) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: receipt
     /// - Category: objectsandtools
-    static let receipt = SFSymbol(.receipt, releaseYear: ._2024_2, category: [ .objectsandtools ])
+    static var receipt: SFSymbol { SFSymbol(rawValue: SFName.receipt) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
     /// - Symbol Name: receipt.fill
     /// - Category: objectsandtools
-    static let receiptFill = SFSymbol(.receiptFill, releaseYear: ._2024_2, category: [ .objectsandtools ])
+    static var receiptFill: SFSymbol { SFSymbol(rawValue: SFName.receiptFill) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -167,7 +165,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let wandAndOutline = SFSymbol(.wandAndOutline, releaseYear: ._2024_2, category: [ .editing, .objectsandtools ], layerset: [.hierarchical: ._2024_2])
+    static var wandAndOutline: SFSymbol { SFSymbol(rawValue: SFName.wandAndOutline) }
 
     /// Support only iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2 and later
     ///
@@ -176,5 +174,5 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.2, macOS 15.2, tvOS 18.2, watchOS 11.2, visionOS 2.2
-    static let wandAndOutlineInverse = SFSymbol(.wandAndOutlineInverse, releaseYear: ._2024_2, category: [ .editing, .objectsandtools ], layerset: [.hierarchical: ._2024_2])
+    static var wandAndOutlineInverse: SFSymbol { SFSymbol(rawValue: SFName.wandAndOutlineInverse) }
 }

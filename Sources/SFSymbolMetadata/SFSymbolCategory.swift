@@ -1,7 +1,7 @@
 import Foundation
 
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
-public extension SFSymbol {
+public extension SFSymbolMetadata {
     enum Layerset: String, CaseIterable {
         case hierarchical
         case multicolor
@@ -43,7 +43,7 @@ public extension SFSymbol {
     }
 }
 
-public extension SFSymbol.Category {
+public extension SFSymbolMetadata.Category {
     var name: String {
         switch self {
         case .all: return "All"

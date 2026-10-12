@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2023.3
 
 @available(iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1, *)
@@ -12,7 +10,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let appleMeditate = SFSymbol(.appleMeditate, releaseYear: ._2023_3, category: [ .health, .nature ], layerset: [.hierarchical: ._2023_3])
+    static var appleMeditate: SFSymbol { SFSymbol(rawValue: SFName.appleMeditate) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -21,7 +19,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let appleMeditateSquareStack = SFSymbol(.appleMeditateSquareStack, releaseYear: ._2023_3, category: [ .health, .nature ], layerset: [.hierarchical: ._2023_3])
+    static var appleMeditateSquareStack: SFSymbol { SFSymbol(rawValue: SFName.appleMeditateSquareStack) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -30,7 +28,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let appleMeditateSquareStackFill = SFSymbol(.appleMeditateSquareStackFill, releaseYear: ._2023_3, category: [ .health, .nature ], layerset: [.hierarchical: ._2023_3])
+    static var appleMeditateSquareStackFill: SFSymbol { SFSymbol(rawValue: SFName.appleMeditateSquareStackFill) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -39,7 +37,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let appleTerminalCircle = SFSymbol(.appleTerminalCircle, releaseYear: ._2023_3, category: [ .variable ], layerset: [.hierarchical: ._2023_3])
+    static var appleTerminalCircle: SFSymbol { SFSymbol(rawValue: SFName.appleTerminalCircle) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -49,7 +47,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let appleTerminalCircleFill = SFSymbol(.appleTerminalCircleFill, releaseYear: ._2023_3, category: [ .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var appleTerminalCircleFill: SFSymbol { SFSymbol(rawValue: SFName.appleTerminalCircleFill) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -57,7 +55,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let arrowDownAppDashed = SFSymbol(.arrowDownAppDashed, releaseYear: ._2023_3, layerset: [.hierarchical: ._2023_3])
+    static var arrowDownAppDashed: SFSymbol { SFSymbol(rawValue: SFName.arrowDownAppDashed) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -67,19 +65,19 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let arrowDownAppDashedTrianglebadgeExclamationmark = SFSymbol(.arrowDownAppDashedTrianglebadgeExclamationmark, releaseYear: ._2023_3, category: [ .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var arrowDownAppDashedTrianglebadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.arrowDownAppDashedTrianglebadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
     /// - Symbol Name: audio.jack.mono
     /// - Category: devices
-    static let audioJackMono = SFSymbol(.audioJackMono, releaseYear: ._2023_3, category: [ .devices ])
+    static var audioJackMono: SFSymbol { SFSymbol(rawValue: SFName.audioJackMono) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
     /// - Symbol Name: audio.jack.stereo
     /// - Category: devices
-    static let audioJackStereo = SFSymbol(.audioJackStereo, releaseYear: ._2023_3, category: [ .devices ])
+    static var audioJackStereo: SFSymbol { SFSymbol(rawValue: SFName.audioJackStereo) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -89,7 +87,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let ipadBadgeExclamationmark = SFSymbol(.ipadBadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var ipadBadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.ipadBadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -99,7 +97,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let ipadGen1BadgeExclamationmark = SFSymbol(.ipadGen1BadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var ipadGen1BadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.ipadGen1BadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -109,7 +107,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let ipadGen1LandscapeBadgeExclamationmark = SFSymbol(.ipadGen1LandscapeBadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var ipadGen1LandscapeBadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.ipadGen1LandscapeBadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -119,7 +117,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let ipadGen2BadgeExclamationmark = SFSymbol(.ipadGen2BadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var ipadGen2BadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.ipadGen2BadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -129,7 +127,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let ipadGen2LandscapeBadgeExclamationmark = SFSymbol(.ipadGen2LandscapeBadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var ipadGen2LandscapeBadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.ipadGen2LandscapeBadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -139,7 +137,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let ipadLandscapeBadgeExclamationmark = SFSymbol(.ipadLandscapeBadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var ipadLandscapeBadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.ipadLandscapeBadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -149,7 +147,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let iphoneBadgeExclamationmark = SFSymbol(.iphoneBadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var iphoneBadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.iphoneBadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -159,7 +157,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let iphoneGen1BadgeExclamationmark = SFSymbol(.iphoneGen1BadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var iphoneGen1BadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.iphoneGen1BadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -169,7 +167,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let iphoneGen2BadgeExclamationmark = SFSymbol(.iphoneGen2BadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var iphoneGen2BadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.iphoneGen2BadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -179,19 +177,19 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
     /// - multicolor: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let iphoneGen3BadgeExclamationmark = SFSymbol(.iphoneGen3BadgeExclamationmark, releaseYear: ._2023_3, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2023_3, .multicolor: ._2023_3])
+    static var iphoneGen3BadgeExclamationmark: SFSymbol { SFSymbol(rawValue: SFName.iphoneGen3BadgeExclamationmark) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
     /// - Symbol Name: medal.star
     /// - Category: objectsandtools
-    static let medalStar = SFSymbol(.medalStar, releaseYear: ._2023_3, category: [ .objectsandtools ])
+    static var medalStar: SFSymbol { SFSymbol(rawValue: SFName.medalStar) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
     /// - Symbol Name: medal.star.fill
     /// - Category: objectsandtools
-    static let medalStarFill = SFSymbol(.medalStarFill, releaseYear: ._2023_3, category: [ .objectsandtools ])
+    static var medalStarFill: SFSymbol { SFSymbol(rawValue: SFName.medalStarFill) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -199,7 +197,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let plusCircleDashed = SFSymbol(.plusCircleDashed, releaseYear: ._2023_3, layerset: [.hierarchical: ._2023_3])
+    static var plusCircleDashed: SFSymbol { SFSymbol(rawValue: SFName.plusCircleDashed) }
 
     /// Support only iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1 and later
     ///
@@ -208,5 +206,5 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.4, macOS 14.4, tvOS 17.4, watchOS 10.4, visionOS 1.1
-    static let translate = SFSymbol(.translate, releaseYear: ._2023_3, category: [ .communication ], layerset: [.hierarchical: ._2023_3])
+    static var translate: SFSymbol { SFSymbol(rawValue: SFName.translate) }
 }

@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2023.1
 
 @available(iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0, *)
@@ -9,13 +7,13 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: chevron.compact.backward
     /// - Category: arrows
-    static let chevronCompactBackward = SFSymbol(.chevronCompactBackward, releaseYear: ._2023_1, category: [ .arrows ])
+    static var chevronCompactBackward: SFSymbol { SFSymbol(rawValue: SFName.chevronCompactBackward) }
 
     /// Support only iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: chevron.compact.forward
     /// - Category: arrows
-    static let chevronCompactForward = SFSymbol(.chevronCompactForward, releaseYear: ._2023_1, category: [ .arrows ])
+    static var chevronCompactForward: SFSymbol { SFSymbol(rawValue: SFName.chevronCompactForward) }
 
     /// Support only iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0 and later
     ///
@@ -24,7 +22,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0
-    static let personCropSquareBadgeCamera = SFSymbol(.personCropSquareBadgeCamera, releaseYear: ._2023_1, category: [ .human ], keywords: ["people"], layerset: [.hierarchical: ._2023_1])
+    static var personCropSquareBadgeCamera: SFSymbol { SFSymbol(rawValue: SFName.personCropSquareBadgeCamera) }
 
     /// Support only iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0 and later
     ///
@@ -33,7 +31,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0
-    static let personCropSquareBadgeCameraFill = SFSymbol(.personCropSquareBadgeCameraFill, releaseYear: ._2023_1, category: [ .human ], keywords: ["people"], layerset: [.hierarchical: ._2023_1])
+    static var personCropSquareBadgeCameraFill: SFSymbol { SFSymbol(rawValue: SFName.personCropSquareBadgeCameraFill) }
 
     /// Support only iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0 and later
     ///
@@ -42,7 +40,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0
-    static let personCropSquareBadgeVideo = SFSymbol(.personCropSquareBadgeVideo, releaseYear: ._2023_1, category: [ .human ], keywords: ["people"], layerset: [.hierarchical: ._2023_1])
+    static var personCropSquareBadgeVideo: SFSymbol { SFSymbol(rawValue: SFName.personCropSquareBadgeVideo) }
 
     /// Support only iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0 and later
     ///
@@ -51,5 +49,5 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.1, macOS 14.1, tvOS 17.1, watchOS 10.1, visionOS 1.0
-    static let personCropSquareBadgeVideoFill = SFSymbol(.personCropSquareBadgeVideoFill, releaseYear: ._2023_1, category: [ .human ], keywords: ["people"], layerset: [.hierarchical: ._2023_1])
+    static var personCropSquareBadgeVideoFill: SFSymbol { SFSymbol(rawValue: SFName.personCropSquareBadgeVideoFill) }
 }

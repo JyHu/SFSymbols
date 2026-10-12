@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2020.1
 
 @available(iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0, *)
@@ -13,7 +11,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let aqiHigh = SFSymbol(.aqiHigh, releaseYear: ._2020_1, category: [ .multicolor, .variable, .weather ], keywords: ["!", "warning", "weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var aqiHigh: SFSymbol { SFSymbol(rawValue: SFName.aqiHigh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -23,7 +21,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let aqiLow = SFSymbol(.aqiLow, releaseYear: ._2020_1, category: [ .variable, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static var aqiLow: SFSymbol { SFSymbol(rawValue: SFName.aqiLow) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -33,7 +31,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let aqiMedium = SFSymbol(.aqiMedium, releaseYear: ._2020_1, category: [ .variable, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static var aqiMedium: SFSymbol { SFSymbol(rawValue: SFName.aqiMedium) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -42,7 +40,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let brazilianrealsignCircle = SFSymbol(.brazilianrealsignCircle, releaseYear: ._2020_1, category: [ .commerce, .indices, .variable ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021])
+    static var brazilianrealsignCircle: SFSymbol { SFSymbol(rawValue: SFName.brazilianrealsignCircle) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -52,7 +50,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let brazilianrealsignCircleFill = SFSymbol(.brazilianrealsignCircleFill, releaseYear: ._2020_1, category: [ .commerce, .indices, .multicolor ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var brazilianrealsignCircleFill: SFSymbol { SFSymbol(rawValue: SFName.brazilianrealsignCircleFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -61,7 +59,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let brazilianrealsignSquare = SFSymbol(.brazilianrealsignSquare, releaseYear: ._2020_1, category: [ .commerce, .indices ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021])
+    static var brazilianrealsignSquare: SFSymbol { SFSymbol(rawValue: SFName.brazilianrealsignSquare) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -71,7 +69,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let brazilianrealsignSquareFill = SFSymbol(.brazilianrealsignSquareFill, releaseYear: ._2020_1, category: [ .commerce, .indices, .multicolor ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var brazilianrealsignSquareFill: SFSymbol { SFSymbol(rawValue: SFName.brazilianrealsignSquareFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -80,7 +78,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let cartCircle = SFSymbol(.cartCircle, releaseYear: ._2020_1, category: [ .commerce, .objectsandtools, .variable ], layerset: [.hierarchical: ._2021])
+    static var cartCircle: SFSymbol { SFSymbol(rawValue: SFName.cartCircle) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -90,174 +88,174 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let cartCircleFill = SFSymbol(.cartCircleFill, releaseYear: ._2020_1, category: [ .commerce, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var cartCircleFill: SFSymbol { SFSymbol(rawValue: SFName.cartCircleFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character
     /// - Category: textformatting
-    static let character = SFSymbol(.character, releaseYear: ._2020_1, category: [ .textformatting ], keywords: ["a"])
+    static var character: SFSymbol { SFSymbol(rawValue: SFName.character) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.ar
     /// - Category: textformatting
-    static let characterAr = SFSymbol(.characterAr, releaseYear: ._2020_1, category: [ .textformatting ])
+    static var characterAr: SFSymbol { SFSymbol(rawValue: SFName.characterAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed
     /// - Category: objectsandtools
-    static let characterBookClosed = SFSymbol(.characterBookClosed, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosed: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosed) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.ar
     /// - Category: objectsandtools
-    static let characterBookClosedAr = SFSymbol(.characterBookClosedAr, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedAr: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill
     /// - Category: objectsandtools
-    static let characterBookClosedFill = SFSymbol(.characterBookClosedFill, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFill: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ar
     /// - Category: objectsandtools
-    static let characterBookClosedFillAr = SFSymbol(.characterBookClosedFillAr, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFillAr: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFillAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.he
     /// - Category: objectsandtools
-    static let characterBookClosedFillHe = SFSymbol(.characterBookClosedFillHe, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFillHe: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFillHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.hi
     /// - Category: objectsandtools
-    static let characterBookClosedFillHi = SFSymbol(.characterBookClosedFillHi, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFillHi: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFillHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ja
     /// - Category: objectsandtools
-    static let characterBookClosedFillJa = SFSymbol(.characterBookClosedFillJa, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFillJa: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFillJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ko
     /// - Category: objectsandtools
-    static let characterBookClosedFillKo = SFSymbol(.characterBookClosedFillKo, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFillKo: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFillKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.th
     /// - Category: objectsandtools
-    static let characterBookClosedFillTh = SFSymbol(.characterBookClosedFillTh, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFillTh: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFillTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.zh
     /// - Category: objectsandtools
-    static let characterBookClosedFillZh = SFSymbol(.characterBookClosedFillZh, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedFillZh: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedFillZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.he
     /// - Category: objectsandtools
-    static let characterBookClosedHe = SFSymbol(.characterBookClosedHe, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedHe: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.hi
     /// - Category: objectsandtools
-    static let characterBookClosedHi = SFSymbol(.characterBookClosedHi, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedHi: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.ja
     /// - Category: objectsandtools
-    static let characterBookClosedJa = SFSymbol(.characterBookClosedJa, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedJa: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.ko
     /// - Category: objectsandtools
-    static let characterBookClosedKo = SFSymbol(.characterBookClosedKo, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedKo: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.th
     /// - Category: objectsandtools
-    static let characterBookClosedTh = SFSymbol(.characterBookClosedTh, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedTh: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.book.closed.zh
     /// - Category: objectsandtools
-    static let characterBookClosedZh = SFSymbol(.characterBookClosedZh, releaseYear: ._2020_1, category: [ .objectsandtools ], keywords: ["dictionary"])
+    static var characterBookClosedZh: SFSymbol { SFSymbol(rawValue: SFName.characterBookClosedZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.he
     /// - Category: textformatting
-    static let characterHe = SFSymbol(.characterHe, releaseYear: ._2020_1, category: [ .textformatting ])
+    static var characterHe: SFSymbol { SFSymbol(rawValue: SFName.characterHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.hi
     /// - Category: textformatting
-    static let characterHi = SFSymbol(.characterHi, releaseYear: ._2020_1, category: [ .textformatting ])
+    static var characterHi: SFSymbol { SFSymbol(rawValue: SFName.characterHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.ja
     /// - Category: textformatting
-    static let characterJa = SFSymbol(.characterJa, releaseYear: ._2020_1, category: [ .textformatting ])
+    static var characterJa: SFSymbol { SFSymbol(rawValue: SFName.characterJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.ko
     /// - Category: textformatting
-    static let characterKo = SFSymbol(.characterKo, releaseYear: ._2020_1, category: [ .textformatting ])
+    static var characterKo: SFSymbol { SFSymbol(rawValue: SFName.characterKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.th
     /// - Category: textformatting
-    static let characterTh = SFSymbol(.characterTh, releaseYear: ._2020_1, category: [ .textformatting ])
+    static var characterTh: SFSymbol { SFSymbol(rawValue: SFName.characterTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: character.zh
     /// - Category: textformatting
-    static let characterZh = SFSymbol(.characterZh, releaseYear: ._2020_1, category: [ .textformatting ])
+    static var characterZh: SFSymbol { SFSymbol(rawValue: SFName.characterZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: clock.arrow.2.circlepath
     /// - Recommended: clock.arrow.trianglehead.2.counterclockwise.rotate.90
-    static let clockArrow2Circlepath = SFSymbol(.clockArrow2Circlepath, releaseYear: ._2020_1, recommendedRawValue: "clock.arrow.trianglehead.2.counterclockwise.rotate.90", keywords: ["sync", "time", "time machine", "timemachine"])
+    static var clockArrow2Circlepath: SFSymbol { SFSymbol(rawValue: SFName.clockArrow2Circlepath) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: directcurrent
-    static let directcurrent = SFSymbol(.directcurrent, releaseYear: ._2020_1)
+    static var directcurrent: SFSymbol { SFSymbol(rawValue: SFName.directcurrent) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text.below.ecg.fill.rtl
     /// - Recommended: waveform.path.ecg.text.page.fill.rtl
-    static let docTextBelowEcgFillRtl = SFSymbol(.docTextBelowEcgFillRtl, releaseYear: ._2020_1, recommendedRawValue: "waveform.path.ecg.text.page.fill.rtl")
+    static var docTextBelowEcgFillRtl: SFSymbol { SFSymbol(rawValue: SFName.docTextBelowEcgFillRtl) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: doc.text.below.ecg.rtl
     /// - Recommended: waveform.path.ecg.text.page.rtl
-    static let docTextBelowEcgRtl = SFSymbol(.docTextBelowEcgRtl, releaseYear: ._2020_1, recommendedRawValue: "waveform.path.ecg.text.page.rtl")
+    static var docTextBelowEcgRtl: SFSymbol { SFSymbol(rawValue: SFName.docTextBelowEcgRtl) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -266,7 +264,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let exclamationmarkApplewatch = SFSymbol(.exclamationmarkApplewatch, releaseYear: ._2020_1, category: [ .devices ], keywords: ["warning"], layerset: [.hierarchical: ._2021])
+    static var exclamationmarkApplewatch: SFSymbol { SFSymbol(rawValue: SFName.exclamationmarkApplewatch) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -275,7 +273,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let infinityCircle = SFSymbol(.infinityCircle, releaseYear: ._2020_1, category: [ .media, .variable ], layerset: [.hierarchical: ._2021])
+    static var infinityCircle: SFSymbol { SFSymbol(rawValue: SFName.infinityCircle) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -285,7 +283,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let infinityCircleFill = SFSymbol(.infinityCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var infinityCircleFill: SFSymbol { SFSymbol(rawValue: SFName.infinityCircleFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -295,19 +293,19 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let ipadBadgePlay = SFSymbol(.ipadBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var ipadBadgePlay: SFSymbol { SFSymbol(rawValue: SFName.ipadBadgePlay) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.homebutton.badge.play
     /// - Recommended: ipad.gen1.badge.play
-    static let ipadHomebuttonBadgePlay = SFSymbol(.ipadHomebuttonBadgePlay, releaseYear: ._2020_1, recommendedRawValue: "ipad.gen1.badge.play")
+    static var ipadHomebuttonBadgePlay: SFSymbol { SFSymbol(rawValue: SFName.ipadHomebuttonBadgePlay) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipad.homebutton.landscape.badge.play
     /// - Recommended: ipad.gen1.landscape.badge.play
-    static let ipadHomebuttonLandscapeBadgePlay = SFSymbol(.ipadHomebuttonLandscapeBadgePlay, releaseYear: ._2020_1, recommendedRawValue: "ipad.gen1.landscape.badge.play")
+    static var ipadHomebuttonLandscapeBadgePlay: SFSymbol { SFSymbol(rawValue: SFName.ipadHomebuttonLandscapeBadgePlay) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -317,7 +315,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let ipadLandscapeBadgePlay = SFSymbol(.ipadLandscapeBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var ipadLandscapeBadgePlay: SFSymbol { SFSymbol(rawValue: SFName.ipadLandscapeBadgePlay) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -327,19 +325,19 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let iphoneBadgePlay = SFSymbol(.iphoneBadgePlay, releaseYear: ._2020_1, category: [ .devices, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var iphoneBadgePlay: SFSymbol { SFSymbol(rawValue: SFName.iphoneBadgePlay) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.badge.play
     /// - Recommended: iphone.gen1.badge.play
-    static let iphoneHomebuttonBadgePlay = SFSymbol(.iphoneHomebuttonBadgePlay, releaseYear: ._2020_1, recommendedRawValue: "iphone.gen1.badge.play")
+    static var iphoneHomebuttonBadgePlay: SFSymbol { SFSymbol(rawValue: SFName.iphoneHomebuttonBadgePlay) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: iphone.homebutton.landscape
     /// - Recommended: iphone.gen1.landscape
-    static let iphoneHomebuttonLandscape = SFSymbol(.iphoneHomebuttonLandscape, releaseYear: ._2020_1, recommendedRawValue: "iphone.gen1.landscape")
+    static var iphoneHomebuttonLandscape: SFSymbol { SFSymbol(rawValue: SFName.iphoneHomebuttonLandscape) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -348,13 +346,13 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let iphoneLandscape = SFSymbol(.iphoneLandscape, releaseYear: ._2020_1, category: [ .devices ], layerset: [.hierarchical: ._2021])
+    static var iphoneLandscape: SFSymbol { SFSymbol(rawValue: SFName.iphoneLandscape) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: ipodtouch.landscape
     /// - Recommended: ipod.touch.landscape
-    static let ipodtouchLandscape = SFSymbol(.ipodtouchLandscape, releaseYear: ._2020_1, recommendedRawValue: "ipod.touch.landscape")
+    static var ipodtouchLandscape: SFSymbol { SFSymbol(rawValue: SFName.ipodtouchLandscape) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -363,13 +361,13 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let lockApplewatch = SFSymbol(.lockApplewatch, releaseYear: ._2020_1, category: [ .devices, .privacyandsecurity ], keywords: ["padlock", "password", "security"], layerset: [.hierarchical: ._2021])
+    static var lockApplewatch: SFSymbol { SFSymbol(rawValue: SFName.lockApplewatch) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: photo.tv
     /// - Category: devices
-    static let photoTv = SFSymbol(.photoTv, releaseYear: ._2020_1, category: [ .devices ], keywords: ["environment", "image", "mountain", "photograph", "picture", "place", "sun"])
+    static var photoTv: SFSymbol { SFSymbol(rawValue: SFName.photoTv) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -378,7 +376,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let playTv = SFSymbol(.playTv, releaseYear: ._2020_1, category: [ .devices ], layerset: [.hierarchical: ._2021])
+    static var playTv: SFSymbol { SFSymbol(rawValue: SFName.playTv) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -388,7 +386,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let playTvFill = SFSymbol(.playTvFill, releaseYear: ._2020_1, category: [ .devices ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var playTvFill: SFSymbol { SFSymbol(rawValue: SFName.playTvFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -398,7 +396,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let rectangleBadgePersonCrop = SFSymbol(.rectangleBadgePersonCrop, releaseYear: ._2020_1, category: [ .human, .multicolor ], keywords: ["people"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var rectangleBadgePersonCrop: SFSymbol { SFSymbol(rawValue: SFName.rectangleBadgePersonCrop) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -408,13 +406,13 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let rectangleFillBadgePersonCrop = SFSymbol(.rectangleFillBadgePersonCrop, releaseYear: ._2020_1, category: [ .human, .multicolor ], keywords: ["people"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var rectangleFillBadgePersonCrop: SFSymbol { SFSymbol(rawValue: SFName.rectangleFillBadgePersonCrop) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.topthird.inset
     /// - Recommended: inset.filled.topthird.rectangle
-    static let rectangleTopthirdInset = SFSymbol(.rectangleTopthirdInset, releaseYear: ._2020_1, recommendedRawValue: "inset.filled.topthird.rectangle")
+    static var rectangleTopthirdInset: SFSymbol { SFSymbol(rawValue: SFName.rectangleTopthirdInset) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -423,7 +421,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeat1Circle = SFSymbol(.repeat1Circle, releaseYear: ._2020_1, category: [ .media, .variable ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
+    static var repeat1Circle: SFSymbol { SFSymbol(rawValue: SFName.repeat1Circle) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -433,7 +431,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeat1CircleFill = SFSymbol(.repeat1CircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var repeat1CircleFill: SFSymbol { SFSymbol(rawValue: SFName.repeat1CircleFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -442,7 +440,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeatCircle = SFSymbol(.repeatCircle, releaseYear: ._2020_1, category: [ .media, .variable ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
+    static var repeatCircle: SFSymbol { SFSymbol(rawValue: SFName.repeatCircle) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -452,13 +450,13 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeatCircleFill = SFSymbol(.repeatCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var repeatCircleFill: SFSymbol { SFSymbol(rawValue: SFName.repeatCircleFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: shield.checkerboard
     /// - Recommended: shield.pattern.checkered
-    static let shieldCheckerboard = SFSymbol(.shieldCheckerboard, releaseYear: ._2020_1, recommendedRawValue: "shield.pattern.checkered")
+    static var shieldCheckerboard: SFSymbol { SFSymbol(rawValue: SFName.shieldCheckerboard) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -467,7 +465,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let shuffleCircle = SFSymbol(.shuffleCircle, releaseYear: ._2020_1, category: [ .media, .variable ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
+    static var shuffleCircle: SFSymbol { SFSymbol(rawValue: SFName.shuffleCircle) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -477,157 +475,157 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let shuffleCircleFill = SFSymbol(.shuffleCircleFill, releaseYear: ._2020_1, category: [ .media, .multicolor ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static var shuffleCircleFill: SFSymbol { SFSymbol(rawValue: SFName.shuffleCircleFill) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.below.photo.fill.rtl
     /// - Category: cameraandphotos
-    static let textBelowPhotoFillRtl = SFSymbol(.textBelowPhotoFillRtl, releaseYear: ._2020_1, category: [ .cameraandphotos ], keywords: ["environment", "image", "mountain", "photograph", "picture", "place", "sun"])
+    static var textBelowPhotoFillRtl: SFSymbol { SFSymbol(rawValue: SFName.textBelowPhotoFillRtl) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.below.photo.rtl
     /// - Category: cameraandphotos
-    static let textBelowPhotoRtl = SFSymbol(.textBelowPhotoRtl, releaseYear: ._2020_1, category: [ .cameraandphotos ], keywords: ["environment", "image", "mountain", "photograph", "picture", "place", "sun"])
+    static var textBelowPhotoRtl: SFSymbol { SFSymbol(rawValue: SFName.textBelowPhotoRtl) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.ar
     /// - Category: accessibility, textformatting
-    static let textformatSizeAr = SFSymbol(.textformatSizeAr, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeAr: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.he
     /// - Category: accessibility, textformatting
-    static let textformatSizeHe = SFSymbol(.textformatSizeHe, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeHe: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.hi
     /// - Category: accessibility, textformatting
-    static let textformatSizeHi = SFSymbol(.textformatSizeHi, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeHi: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.ja
     /// - Category: accessibility, textformatting
-    static let textformatSizeJa = SFSymbol(.textformatSizeJa, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeJa: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.ko
     /// - Category: accessibility, textformatting
-    static let textformatSizeKo = SFSymbol(.textformatSizeKo, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeKo: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger
     /// - Category: accessibility, textformatting
-    static let textformatSizeLarger = SFSymbol(.textformatSizeLarger, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLarger: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLarger) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger.ar
     /// - Category: accessibility, textformatting
-    static let textformatSizeLargerAr = SFSymbol(.textformatSizeLargerAr, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLargerAr: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLargerAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger.he
     /// - Category: accessibility, textformatting
-    static let textformatSizeLargerHe = SFSymbol(.textformatSizeLargerHe, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLargerHe: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLargerHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger.hi
     /// - Category: accessibility, textformatting
-    static let textformatSizeLargerHi = SFSymbol(.textformatSizeLargerHi, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLargerHi: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLargerHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger.ja
     /// - Category: accessibility, textformatting
-    static let textformatSizeLargerJa = SFSymbol(.textformatSizeLargerJa, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLargerJa: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLargerJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger.ko
     /// - Category: accessibility, textformatting
-    static let textformatSizeLargerKo = SFSymbol(.textformatSizeLargerKo, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLargerKo: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLargerKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger.th
     /// - Category: accessibility, textformatting
-    static let textformatSizeLargerTh = SFSymbol(.textformatSizeLargerTh, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLargerTh: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLargerTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.larger.zh
     /// - Category: accessibility, textformatting
-    static let textformatSizeLargerZh = SFSymbol(.textformatSizeLargerZh, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeLargerZh: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeLargerZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmaller = SFSymbol(.textformatSizeSmaller, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmaller: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmaller) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller.ar
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmallerAr = SFSymbol(.textformatSizeSmallerAr, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmallerAr: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmallerAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller.he
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmallerHe = SFSymbol(.textformatSizeSmallerHe, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmallerHe: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmallerHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller.hi
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmallerHi = SFSymbol(.textformatSizeSmallerHi, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmallerHi: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmallerHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller.ja
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmallerJa = SFSymbol(.textformatSizeSmallerJa, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmallerJa: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmallerJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller.ko
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmallerKo = SFSymbol(.textformatSizeSmallerKo, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmallerKo: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmallerKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller.th
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmallerTh = SFSymbol(.textformatSizeSmallerTh, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmallerTh: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmallerTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.smaller.zh
     /// - Category: accessibility, textformatting
-    static let textformatSizeSmallerZh = SFSymbol(.textformatSizeSmallerZh, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeSmallerZh: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeSmallerZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.th
     /// - Category: accessibility, textformatting
-    static let textformatSizeTh = SFSymbol(.textformatSizeTh, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeTh: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: textformat.size.zh
     /// - Category: accessibility, textformatting
-    static let textformatSizeZh = SFSymbol(.textformatSizeZh, releaseYear: ._2020_1, category: [ .accessibility, .textformatting ])
+    static var textformatSizeZh: SFSymbol { SFSymbol(rawValue: SFName.textformatSizeZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -636,7 +634,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSubscriptAr = SFSymbol(.textformatSubscriptAr, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSubscriptAr: SFSymbol { SFSymbol(rawValue: SFName.textformatSubscriptAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -645,7 +643,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSubscriptHe = SFSymbol(.textformatSubscriptHe, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSubscriptHe: SFSymbol { SFSymbol(rawValue: SFName.textformatSubscriptHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -654,7 +652,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSubscriptHi = SFSymbol(.textformatSubscriptHi, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSubscriptHi: SFSymbol { SFSymbol(rawValue: SFName.textformatSubscriptHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -663,7 +661,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSubscriptJa = SFSymbol(.textformatSubscriptJa, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSubscriptJa: SFSymbol { SFSymbol(rawValue: SFName.textformatSubscriptJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -672,7 +670,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSubscriptKo = SFSymbol(.textformatSubscriptKo, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSubscriptKo: SFSymbol { SFSymbol(rawValue: SFName.textformatSubscriptKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -681,7 +679,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSubscriptTh = SFSymbol(.textformatSubscriptTh, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSubscriptTh: SFSymbol { SFSymbol(rawValue: SFName.textformatSubscriptTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -690,7 +688,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSubscriptZh = SFSymbol(.textformatSubscriptZh, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSubscriptZh: SFSymbol { SFSymbol(rawValue: SFName.textformatSubscriptZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -699,7 +697,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSuperscriptAr = SFSymbol(.textformatSuperscriptAr, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSuperscriptAr: SFSymbol { SFSymbol(rawValue: SFName.textformatSuperscriptAr) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -708,7 +706,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSuperscriptHe = SFSymbol(.textformatSuperscriptHe, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSuperscriptHe: SFSymbol { SFSymbol(rawValue: SFName.textformatSuperscriptHe) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -717,7 +715,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSuperscriptHi = SFSymbol(.textformatSuperscriptHi, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSuperscriptHi: SFSymbol { SFSymbol(rawValue: SFName.textformatSuperscriptHi) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -726,7 +724,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSuperscriptJa = SFSymbol(.textformatSuperscriptJa, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSuperscriptJa: SFSymbol { SFSymbol(rawValue: SFName.textformatSuperscriptJa) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -735,7 +733,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSuperscriptKo = SFSymbol(.textformatSuperscriptKo, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSuperscriptKo: SFSymbol { SFSymbol(rawValue: SFName.textformatSuperscriptKo) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -744,7 +742,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSuperscriptTh = SFSymbol(.textformatSuperscriptTh, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSuperscriptTh: SFSymbol { SFSymbol(rawValue: SFName.textformatSuperscriptTh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -753,12 +751,12 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textformatSuperscriptZh = SFSymbol(.textformatSuperscriptZh, releaseYear: ._2020_1, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var textformatSuperscriptZh: SFSymbol { SFSymbol(rawValue: SFName.textformatSuperscriptZh) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: torus
-    static let torus = SFSymbol(.torus, releaseYear: ._2020_1)
+    static var torus: SFSymbol { SFSymbol(rawValue: SFName.torus) }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
@@ -767,5 +765,5 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let tvAndMediabox = SFSymbol(.tvAndMediabox, releaseYear: ._2020_1, category: [ .devices ], layerset: [.hierarchical: ._2021])
+    static var tvAndMediabox: SFSymbol { SFSymbol(rawValue: SFName.tvAndMediabox) }
 }

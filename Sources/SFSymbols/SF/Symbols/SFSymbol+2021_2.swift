@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2021.2
 
 @available(iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0, *)
@@ -9,71 +7,71 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: airpod.gen3.left
     /// - Category: devices
-    static let airpodGen3Left = SFSymbol(.airpodGen3Left, releaseYear: ._2021_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"])
+    static var airpodGen3Left: SFSymbol { SFSymbol(rawValue: SFName.airpodGen3Left) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: airpod.gen3.right
     /// - Category: devices
-    static let airpodGen3Right = SFSymbol(.airpodGen3Right, releaseYear: ._2021_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"])
+    static var airpodGen3Right: SFSymbol { SFSymbol(rawValue: SFName.airpodGen3Right) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: airpods.gen3
     /// - Category: devices
-    static let airpodsGen3 = SFSymbol(.airpodsGen3, releaseYear: ._2021_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"])
+    static var airpodsGen3: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen3) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: airpods.gen3.chargingcase.wireless
     /// - Category: devices
-    static let airpodsGen3ChargingcaseWireless = SFSymbol(.airpodsGen3ChargingcaseWireless, releaseYear: ._2021_2, category: [ .devices ], keywords: ["audio"])
+    static var airpodsGen3ChargingcaseWireless: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen3ChargingcaseWireless) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: airpods.gen3.chargingcase.wireless.fill
     /// - Category: devices
-    static let airpodsGen3ChargingcaseWirelessFill = SFSymbol(.airpodsGen3ChargingcaseWirelessFill, releaseYear: ._2021_2, category: [ .devices ], keywords: ["audio"])
+    static var airpodsGen3ChargingcaseWirelessFill: SFSymbol { SFSymbol(rawValue: SFName.airpodsGen3ChargingcaseWirelessFill) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro
     /// - Recommended: beats.fitpro
-    static let beatsFitPro = SFSymbol(.beatsFitPro, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro", keywords: ["audio", "sound", "speaker"])
+    static var beatsFitPro: SFSymbol { SFSymbol(rawValue: SFName.beatsFitPro) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.chargingcase
     /// - Recommended: beats.fitpro.chargingcase
-    static let beatsFitProChargingcase = SFSymbol(.beatsFitProChargingcase, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.chargingcase", keywords: ["audio", "sound", "speaker"])
+    static var beatsFitProChargingcase: SFSymbol { SFSymbol(rawValue: SFName.beatsFitProChargingcase) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.chargingcase.fill
     /// - Recommended: beats.fitpro.chargingcase.fill
-    static let beatsFitProChargingcaseFill = SFSymbol(.beatsFitProChargingcaseFill, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.chargingcase.fill", keywords: ["audio", "sound", "speaker"])
+    static var beatsFitProChargingcaseFill: SFSymbol { SFSymbol(rawValue: SFName.beatsFitProChargingcaseFill) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.left
     /// - Recommended: beats.fitpro.left
-    static let beatsFitProLeft = SFSymbol(.beatsFitProLeft, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.left", keywords: ["audio", "sound", "speaker"])
+    static var beatsFitProLeft: SFSymbol { SFSymbol(rawValue: SFName.beatsFitProLeft) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: beats.fit.pro.right
     /// - Recommended: beats.fitpro.right
-    static let beatsFitProRight = SFSymbol(.beatsFitProRight, releaseYear: ._2021_2, recommendedRawValue: "beats.fitpro.right", keywords: ["audio", "sound", "speaker"])
+    static var beatsFitProRight: SFSymbol { SFSymbol(rawValue: SFName.beatsFitProRight) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.leadinghalf.filled
-    static let rectangleLeadinghalfFilled = SFSymbol(.rectangleLeadinghalfFilled, releaseYear: ._2021_2)
+    static var rectangleLeadinghalfFilled: SFSymbol { SFSymbol(rawValue: SFName.rectangleLeadinghalfFilled) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.trailinghalf.filled
-    static let rectangleTrailinghalfFilled = SFSymbol(.rectangleTrailinghalfFilled, releaseYear: ._2021_2)
+    static var rectangleTrailinghalfFilled: SFSymbol { SFSymbol(rawValue: SFName.rectangleTrailinghalfFilled) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
@@ -82,7 +80,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0
-    static let square3Layers3DDownLeftSlash = SFSymbol(.square3Layers3DDownLeftSlash, releaseYear: ._2021_2, category: [ .cameraandphotos ], layerset: [.hierarchical: ._2021_2])
+    static var square3Layers3DDownLeftSlash: SFSymbol { SFSymbol(rawValue: SFName.square3Layers3DDownLeftSlash) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
@@ -91,11 +89,11 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0
-    static let square3Layers3DDownRightSlash = SFSymbol(.square3Layers3DDownRightSlash, releaseYear: ._2021_2, category: [ .cameraandphotos ], layerset: [.hierarchical: ._2021_2])
+    static var square3Layers3DDownRightSlash: SFSymbol { SFSymbol(rawValue: SFName.square3Layers3DDownRightSlash) }
 
     /// Support only iOS 15.2, macOS 12.1, tvOS 15.2, watchOS 8.3, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.3.stack.3d.slash
     /// - Recommended: square.3.layers.3d.slash
-    static let square3Stack3DSlash = SFSymbol(.square3Stack3DSlash, releaseYear: ._2021_2, recommendedRawValue: "square.3.layers.3d.slash")
+    static var square3Stack3DSlash: SFSymbol { SFSymbol(rawValue: SFName.square3Stack3DSlash) }
 }

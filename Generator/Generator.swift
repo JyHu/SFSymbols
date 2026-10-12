@@ -97,11 +97,19 @@ func parse() throws {
     
     result.forEach({ result[$0.key] = $0.value.sorted(by: { $0.name < $1.name }) })
     
-    let spmFolder = url.deletingLastPathComponent().deletingLastPathComponent().appending(path: "Sources/SFSymbols/SF")
-    
-    try export(spmSourceFolder: spmFolder, yearGroupedSymbols: result, releaseYears: yearToReleases)
-    try exportCategoryies(at: url, spmSourceFolder: spmFolder, layersets: layersets)
-    try export(yearOfReleases: yearToReleases, spmSourceFolder: spmFolder)
+    let sourcesFolder = url.deletingLastPathComponent().deletingLastPathComponent().appending(path: "Sources")
+    let coreSourceFolder = sourcesFolder.appending(path: "SFSymbols/SF")
+    let metadataSourceFolder = sourcesFolder.appending(path: "SFSymbolMetadata")
+
+    try FileManager.default.createDirectory(at: metadataSourceFolder, withIntermediateDirectories: true)
+    try export(
+        coreSourceFolder: coreSourceFolder,
+        metadataSourceFolder: metadataSourceFolder,
+        yearGroupedSymbols: result,
+        releaseYears: yearToReleases
+    )
+    try exportCategoryies(at: url, spmSourceFolder: metadataSourceFolder, layersets: layersets)
+    try export(yearOfReleases: yearToReleases, spmSourceFolder: metadataSourceFolder)
     
     print("Parse complete")
 }
@@ -320,7 +328,7 @@ func exportCategoryies(at folder: URL, spmSourceFolder: URL, layersets: Set<Stri
         import Foundation
 
         @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
-        public extension SFSymbol {
+        public extension SFSymbolMetadata {
             enum Layerset: String, CaseIterable {
         \(layerEnum)
             }
@@ -330,7 +338,7 @@ func exportCategoryies(at folder: URL, spmSourceFolder: URL, layersets: Set<Stri
             }
         }
         
-        public extension SFSymbol.Category {
+        public extension SFSymbolMetadata.Category {
             var name: String {
                 switch self {
         \(names)
@@ -339,7 +347,7 @@ func exportCategoryies(at folder: URL, spmSourceFolder: URL, layersets: Set<Stri
         }
         """
     
-    write(text: categoriesString, to: spmSourceFolder.appendingPathComponent("SFCategory.swift"))
+    write(text: categoriesString, to: spmSourceFolder.appendingPathComponent("SFSymbolCategory.swift"))
 }
 
 func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: URL) throws {
@@ -366,7 +374,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
         import Foundation
 
         @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
-        public extension SFSymbol {
+        public extension SFSymbolMetadata {
             enum ReleaseYear: Int, CaseIterable, Identifiable {
         \(years)
         
@@ -393,8 +401,8 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
 
         
         @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
-        public extension SFSymbol.ReleaseYear {
-            var availables: SFSymbol.Availables {
+        public extension SFSymbolMetadata.ReleaseYear {
+            var availables: SFSymbolMetadata.Availables {
                 switch self {
         \(yearCases)
                 }
@@ -403,7 +411,7 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
         
         """
     
-    write(text: codes, to: spmSourceFolder.appendingPathComponent("SFAvailables.swift"))
+    write(text: codes, to: spmSourceFolder.appendingPathComponent("SFSymbolAvailables.swift"))
 }
 
 /// 把解析的文件内容导出到代码文件中
@@ -421,41 +429,68 @@ func export(yearOfReleases: [String: [ApplePlatform: String]], spmSourceFolder: 
 ///             macOS: 11.0
 ///          ]
 ///       ]
-func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], releaseYears: [String: [ApplePlatform: String]]) throws {
+func export(coreSourceFolder: URL, metadataSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], releaseYears: [String: [ApplePlatform: String]]) throws {
     /// 按年份把所有数据从小到大排序
     let yearGroupedSymbols = yearGroupedSymbols.sorted(by: { $0.key < $1.key })
     
-    /// 把所有内容转换并导出到SFNames文件中
-    func exportNames() {
-        let sfnames = yearGroupedSymbols.flatMap { (monoYear, sortedSymbols) in
-            return sortedSymbols.map { sfsymbol in
+    /// 按兼容版本生成 SFName 和 SFSymbol 的静态成员。
+    func exportSymbolNames() throws {
+        let symbolsPath = coreSourceFolder.appendingPathComponent("Symbols")
+        if FileManager.default.fileExists(atPath: symbolsPath.path) {
+            try FileManager.default.removeItem(at: symbolsPath)
+        }
+        try FileManager.default.createDirectory(at: symbolsPath, withIntermediateDirectories: true)
+
+        let namesPath = coreSourceFolder.appendingPathComponent("Names")
+        if FileManager.default.fileExists(atPath: namesPath.path) {
+            try FileManager.default.removeItem(at: namesPath)
+        }
+        try FileManager.default.createDirectory(at: namesPath, withIntermediateDirectories: true)
+
+        for (monoYear, sortedSymbols) in yearGroupedSymbols {
+            let names = sortedSymbols.map { sfsymbol in
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
-                        \(releaseYears.availabilities(of: monoYear))
-                        case \(sfsymbol.name.codeName()) = "\(sfsymbol.name)"
+                        static var \(sfsymbol.name.codeName()): String { "\(sfsymbol.name)" }
                     """
-            }
-        }.joined(separator: "\n\n")
-        
-        let nameCodes =
-            """
-            
-            import Foundation
-            
-            public enum SFName: String, Identifiable {
-            
-                public var id: String {
-                    self.rawValue
+            }.joined(separator: "\n\n")
+
+            let symbols = sortedSymbols.map { sfsymbol in
+                return
+                    """
+                    \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
+                        static var \(sfsymbol.name.codeName()): SFSymbol { SFSymbol(rawValue: SFName.\(sfsymbol.name.codeName(escaped: false))) }
+                    """
+            }.joined(separator: "\n\n")
+
+            let availability = releaseYears.availabilities(of: monoYear)
+            let namesCode =
+                """
+                /// Released at \(monoYear)
+
+                \(availability)
+                public extension SFName {
+
+                \(names)
                 }
-            
-            \(sfnames)
-            
-            }
-            
-            """
-        
-        write(text: nameCodes, to: spmSourceFolder.appendingPathComponent("SFNames.swift"))
+                """
+
+            let symbolsCode =
+                """
+                /// Released at \(monoYear)
+
+                \(availability)
+                public extension SFSymbol {
+
+                \(symbols)
+                }
+                """
+
+            let fileName = monoYear.replacingOccurrences(of: ".", with: "_")
+            write(text: namesCode + "\n", to: namesPath.appendingPathComponent("SFName+\(fileName).swift"))
+            write(text: symbolsCode + "\n", to: symbolsPath.appendingPathComponent("SFSymbol+\(fileName).swift"))
+        }
     }
     
     func exportNSUIImages() {
@@ -465,7 +500,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
-                        static let \(sfsymbol.name.codeName()) = SymbolImage(sfname: .\(sfsymbol.name.codeName(escaped: false))
+                        static let \(sfsymbol.name.codeName()) = SymbolImage(sfsymbol: .\(sfsymbol.name.codeName(escaped: false)))
                     """
             }.joined(separator: "\n\n")
             
@@ -500,7 +535,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             \(groupedString)
             """
         
-        write(text: codes, to: spmSourceFolder.appendingPathComponent("SFImages+NSUIImage.swift"))
+        write(text: codes, to: coreSourceFolder.appendingPathComponent("SFImages+NSUIImage.swift"))
     }
     
     func exportSwiftUIImages() {
@@ -510,7 +545,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
-                        static let \(sfsymbol.name.codeName()) = Image(sfname: .\(sfsymbol.name.codeName(escaped: false)))
+                        static let \(sfsymbol.name.codeName()) = Image(sfsymbol: .\(sfsymbol.name.codeName(escaped: false)))
                     """
             }.joined(separator: "\n\n")
             
@@ -536,7 +571,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             public extension Image {
                 static let SF = SFSymbolSwiftUIImages.self
                 
-                init(sfname: SFName) {
+                init(sfsymbol: SFSymbol) {
                     self.init(systemName: sfname.rawValue)
                 }
             }
@@ -547,18 +582,15 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             
             """
         
-        write(text: codes, to: spmSourceFolder.appendingPathComponent("SFImages+SwiftUI.swift"))
+        write(text: codes, to: coreSourceFolder.appendingPathComponent("SFImages+SwiftUI.swift"))
     }
     
-    func exportSFSymbols() throws {
-        let symbolsPath = spmSourceFolder.path + "/Symbols"
-        for file in try FileManager.default.contentsOfDirectory(atPath: symbolsPath) {
-            if file.hasPrefix("SFSymbols") {
-                continue
-            }
-            
-            try FileManager.default.removeItem(atPath: symbolsPath + "/" + file)
+    func exportMetadata() throws {
+        let symbolsPath = metadataSourceFolder.appendingPathComponent("Symbols")
+        if FileManager.default.fileExists(atPath: symbolsPath.path) {
+            try FileManager.default.removeItem(at: symbolsPath)
         }
+        try FileManager.default.createDirectory(at: symbolsPath, withIntermediateDirectories: true)
         
         for (monoYear, sortedSymbols) in yearGroupedSymbols {
             let availabily = releaseYears.availabilities(of: monoYear)
@@ -604,18 +636,19 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
                 return
                     """
                     \(sfsymbol.comments(prefix: SP(1), releaseYears: releaseYears, monoYear: monoYear))
-                        static let \(sfsymbol.name.codeName()) = SFSymbol(.\(sfsymbol.name.codeName(escaped: false)), \(parts.joined(separator: ", ")))
+                        static let \(sfsymbol.name.codeName()) = SFSymbolMetadata(.\(sfsymbol.name.codeName(escaped: false)), \(parts.joined(separator: ", ")))
                     """
             }.joined(separator: "\n\n")
             
             let code =
                 """
                 import Foundation
+                import SFSymbols
                 
                 /// Released at \(monoYear)
                 
                 \(availabily)
-                public extension SFSymbol {
+                public extension SFSymbolMetadata {
                 
                 \(symbolStrings)
                 }
@@ -624,7 +657,7 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             
             let fileName = monoYear.replacingOccurrences(of: ".", with: "_")
             
-            write(text: code, to: spmSourceFolder.appendingPathComponent("Symbols/SFSymbol+\(fileName).swift"))
+            write(text: code, to: symbolsPath.appendingPathComponent("SFSymbolMetadata+\(fileName).swift"))
         }
     }
     
@@ -653,10 +686,11 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
         let code =
             """
             import Foundation
+            import SFSymbols
 
-            internal extension SFSymbols {
-                static func generateDatas() -> [SFSymbol] {
-                    var symbols: [SFSymbol] = []
+            internal extension SFSymbolCatalog {
+                static func generateData() -> [SFSymbolMetadata] {
+                    var symbols: [SFSymbolMetadata] = []
                     
             \(verCodes.joined(separator: "\n\n"))
             
@@ -666,14 +700,14 @@ func export(spmSourceFolder: URL, yearGroupedSymbols: [String: [SFSymbol]], rele
             
             """
         
-        write(text: code, to: spmSourceFolder.appendingPathComponent("Symbols/SFSymbols+.swift"))
+        write(text: code, to: metadataSourceFolder.appendingPathComponent("Symbols/SFSymbolCatalog+.swift"))
 
     }
     
-    exportNames()
+    try exportSymbolNames()
 //    exportNSUIImages()
 //    exportSwiftUIImages()
-    try exportSFSymbols()
+    try exportMetadata()
     
     exportSymbolsSet()
 }

@@ -19,26 +19,10 @@ public extension NSButton {
         self.sfsymbol = sfsymbol
     }
     
-    convenience init(sfname: SFName, target: Any?, action: Selector?) {
-        self.init(image: NSImage(), target: target, action: action)
-        self.sfname = sfname
-    }
-    
-    var sfname: SFName? {
-        set { image = newValue?.image }
-        get { return nil }
-    }
-    
     var sfsymbol: SFSymbol? {
         set { image = newValue?.image }
         get { return nil }
     }
-    
-    var alternateSFName: SFName? {
-        set { alternateImage = newValue?.image }
-        get { return nil }
-    }
-    
     
 }
 
@@ -50,12 +34,6 @@ public extension NSToolbarItem {
         self.sfsymbol = sfsymbol
     }
     
-    convenience init(itemIdentifier: Identifier, sfname: SFName, target: AnyObject? = nil, action: Selector? = nil) {
-        self.init(itemIdentifier: itemIdentifier)
-        self.target = target
-        self.action = action
-        self.sfname = sfname
-    }
 }
 
 public extension NSToolbarItemGroup {
@@ -79,25 +57,6 @@ public extension NSToolbarItemGroup {
         self.init(itemIdentifier: itemIdentifier, images: imgs, selectionMode: selectionModel, labels: lbs.count == 0 ? nil : lbs, target: target, action: action)
     }
     
-    convenience init(itemIdentifier: Identifier, sfnames: [SFName], selectionModel: SelectionMode, labels: [String]?, target: AnyObject?, action: Selector?) {
-        
-        var imgs: [NSImage] = []
-        var lbs: [String] = []
-        
-        for (index, sfname) in sfnames.enumerated() {
-            guard let image = sfname.image else {
-                continue
-            }
-            
-            imgs.append(image)
-            
-            if let labels = labels, index < labels.count {
-                lbs.append(labels[index])
-            }
-        }
-        
-        self.init(itemIdentifier: itemIdentifier, images: imgs, selectionMode: selectionModel, labels: lbs.count == 0 ? nil : lbs, target: target, action: action)
-    }
 }
 
 public extension NSImageView {
@@ -109,9 +68,6 @@ public extension NSImageView {
         }
     }
     
-    convenience init(sfname: SFName) {
-        self.init(image: NSImage(systemSymbolName: sfname.rawValue) ?? NSImage())
-    }
 }
 
 public extension NSSegmentedControl {
@@ -119,9 +75,6 @@ public extension NSSegmentedControl {
         setImage(symbol.image, forSegment: segment)
     }
     
-    func setSFName(_ name: SFName, forSegment segment: Int) {
-        setImage(name.image, forSegment: segment)
-    }
 }
 
 #endif

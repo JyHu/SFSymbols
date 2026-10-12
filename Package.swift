@@ -22,8 +22,11 @@ let package = Package(
         .target(
             name: "SFSymbols",
             dependencies: []),
+        .target(
+            name: "SFSymbolMetadata",
+            dependencies: ["SFSymbols"]),
         .testTarget(
             name: "SFSymbolsTests",
-            dependencies: ["SFSymbols"]),
+            dependencies: ["SFSymbols", "SFSymbolMetadata"]),
     ]
 )

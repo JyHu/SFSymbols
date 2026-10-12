@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  SFSymbolMetadata+UIKitCocoa.swift
 //  
 //
 //  Created by hujinyou on 2024/5/13.
@@ -18,7 +18,7 @@ import UIKit
 ///
 
 
-public extension SFSymbol {
+public extension SFSymbolMetadata {
     
 #if os(macOS)
     typealias SymbolImage = NSImage
@@ -61,7 +61,7 @@ public extension SFSymbol {
 /// UIKit/Cocoa 中使用的辅助方法
 ///
 ///
-public extension SFSymbol {
+public extension SFSymbolMetadata {
 #if os(macOS)
     typealias SymbolWeight = NSFont.Weight
     typealias SymbolScale = NSImage.SymbolScale
@@ -77,7 +77,7 @@ public extension SFSymbol {
 #endif
     
     
-    func applying(pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale? = nil) -> SFSymbol {
+    func applying(pointSize: CGFloat, weight: SymbolWeight, scale: SymbolScale? = nil) -> SFSymbolMetadata {
         if let scale = scale {
             return applying(SymbolConfiguration(pointSize: pointSize, weight: weight, scale: scale))
         } else {
@@ -85,7 +85,7 @@ public extension SFSymbol {
         }
     }
     
-    func applying(textStyle style: SymbolTextStyle, scale: SymbolScale? = nil) -> SFSymbol {
+    func applying(textStyle style: SymbolTextStyle, scale: SymbolScale? = nil) -> SFSymbolMetadata {
         if let scale = scale {
             return applying(SymbolConfiguration(textStyle: style, scale: scale))
         } else {
@@ -93,13 +93,13 @@ public extension SFSymbol {
         }
     }
     
-    func applying(scale: SymbolScale) -> SFSymbol {
+    func applying(scale: SymbolScale) -> SFSymbolMetadata {
         return applying(SymbolConfiguration(scale: scale))
     }
     
     /// 仅支持 (iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
     /// 低于上述版本的都会直接返回self，没有任何效果
-    func applying(hierarchicalColor: SymbolColor) -> SFSymbol {
+    func applying(hierarchicalColor: SymbolColor) -> SFSymbolMetadata {
         if #available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *) {
             return applying(SymbolConfiguration(hierarchicalColor: hierarchicalColor))
         }
@@ -109,7 +109,7 @@ public extension SFSymbol {
     
     /// 仅支持 (iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *)
     /// 低于上述版本的都会直接返回self，没有任何效果
-    func applying(paletteColors: [SymbolColor]) -> SFSymbol {
+    func applying(paletteColors: [SymbolColor]) -> SFSymbolMetadata {
         if #available(iOS 15.0, tvOS 15.0, macOS 12.0, watchOS 8.0, *) {
             return applying(SymbolConfiguration(paletteColors: paletteColors))
         }
@@ -117,15 +117,15 @@ public extension SFSymbol {
     }
     
 #if !os(macOS)
-    func applying(pointSize: CGFloat) -> SFSymbol {
+    func applying(pointSize: CGFloat) -> SFSymbolMetadata {
         return applying(SymbolConfiguration(pointSize: pointSize))
     }
     
-    func applying(weight: UIImage.SymbolWeight) -> SFSymbol {
+    func applying(weight: UIImage.SymbolWeight) -> SFSymbolMetadata {
         return applying(SymbolConfiguration(weight: weight))
     }
     
-    func applying(font: UIFont, scale: UIImage.SymbolScale? = nil) -> SFSymbol {
+    func applying(font: UIFont, scale: UIImage.SymbolScale? = nil) -> SFSymbolMetadata {
         if let scale = scale {
             return applying(SymbolConfiguration(font: font, scale: scale))
         } else {
@@ -134,7 +134,7 @@ public extension SFSymbol {
     }
     
 #if os(iOS)
-    func initial(traitCollection: UITraitCollection?) -> SFSymbol {
+    func initial(traitCollection: UITraitCollection?) -> SFSymbolMetadata {
         if traitCollection == nil { return self }
         
         var mutableSelf = self
@@ -144,7 +144,7 @@ public extension SFSymbol {
 #endif
     /// 仅支持 (iOS 16.0, watchOS 9.0, tvOS 16.0, *)
     /// 低于上述版本的都会直接返回self，没有任何效果
-    func initial(variableValue: Double) -> SFSymbol {
+    func initial(variableValue: Double) -> SFSymbolMetadata {
         if #available(iOS 16.0, watchOS 9.0, tvOS 16.0, *) {
             var mutableSelf = self
             mutableSelf.variableValue = variableValue
@@ -156,7 +156,7 @@ public extension SFSymbol {
 #endif
 }
 
-private extension SFSymbol {
+private extension SFSymbolMetadata {
     func applying(_ configuration: SymbolConfiguration) -> Self {
         var mutableSelf = self
         

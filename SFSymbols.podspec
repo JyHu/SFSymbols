@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
     s.tvos.deployment_target = '13.0'
     s.watchos.deployment_target = '6.0'
     s.osx.deployment_target = '11.0'
-    s.source_files = 'Sources/SFSymbols/*.swift'
+    s.source_files = 'Sources/SFSymbols/**/*.swift'
 end

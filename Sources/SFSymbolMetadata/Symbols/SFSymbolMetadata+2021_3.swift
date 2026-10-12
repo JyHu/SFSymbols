@@ -1,0 +1,66 @@
+import Foundation
+import SFSymbols
+
+/// Released at 2021.3
+
+@available(iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0, *)
+public extension SFSymbolMetadata {
+
+    /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
+    ///
+    /// - Symbol Name: camera.macro
+    /// - Category: cameraandphotos, nature
+    static let cameraMacro = SFSymbolMetadata(.cameraMacro, releaseYear: ._2021_3, category: [ .cameraandphotos, .nature ], keywords: ["macro"])
+
+    /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
+    ///
+    /// - Symbol Name: camera.macro.circle
+    /// - Category: cameraandphotos, nature, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0
+    static let cameraMacroCircle = SFSymbolMetadata(.cameraMacroCircle, releaseYear: ._2021_3, category: [ .cameraandphotos, .nature, .variable ], keywords: ["macro"], layerset: [.hierarchical: ._2021_3])
+
+    /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
+    ///
+    /// - Symbol Name: camera.macro.circle.fill
+    /// - Category: cameraandphotos, multicolor, nature
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0
+    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
+    static let cameraMacroCircleFill = SFSymbolMetadata(.cameraMacroCircleFill, releaseYear: ._2021_3, category: [ .cameraandphotos, .multicolor, .nature ], keywords: ["macro"], layerset: [.hierarchical: ._2021_3, .multicolor: ._2022])
+
+    /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
+    ///
+    /// - Symbol Name: dots.and.line.vertical.and.cursorarrow.rectangle
+    /// - Recommended: dots.and.line.vertical.and.pointer.arrow.rectangle
+    static let dotsAndLineVerticalAndCursorarrowRectangle = SFSymbolMetadata(.dotsAndLineVerticalAndCursorarrowRectangle, releaseYear: ._2021_3, recommendedRawValue: "dots.and.line.vertical.and.pointer.arrow.rectangle", keywords: ["cursor"])
+
+    /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
+    ///
+    /// - Symbol Name: key.viewfinder
+    /// - Category: objectsandtools, privacyandsecurity
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0
+    static let keyViewfinder = SFSymbolMetadata(.keyViewfinder, releaseYear: ._2021_3, category: [ .objectsandtools, .privacyandsecurity ], keywords: ["password", "security"], layerset: [.hierarchical: ._2021_3])
+
+    /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
+    ///
+    /// - Symbol Name: person.badge.key
+    /// - Category: human, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0
+    static let personBadgeKey = SFSymbolMetadata(.personBadgeKey, releaseYear: ._2021_3, category: [ .human, .objectsandtools ], keywords: ["passkey", "password", "people", "privacyandsecurity", "user"], layerset: [.hierarchical: ._2021_3])
+
+    /// Support only iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0 and later
+    ///
+    /// - Symbol Name: person.badge.key.fill
+    /// - Category: human, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 15.4, macOS 12.3, tvOS 15.4, watchOS 8.5, visionOS 1.0
+    static let personBadgeKeyFill = SFSymbolMetadata(.personBadgeKeyFill, releaseYear: ._2021_3, category: [ .human, .objectsandtools ], keywords: ["passkey", "password", "people", "privacyandsecurity", "user"], layerset: [.hierarchical: ._2021_3])
+}

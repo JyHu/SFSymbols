@@ -19,7 +19,6 @@ private extension String {
 internal extension NSObject {
     private struct _SFAssociationKeys {
         static var sfsymbol = "com.auu.SFAssociationKeys.sfsymbol"
-        static var sfname = "com.auu.SFAssociationKeys.sfname"
     }
     
     var _SF_associated_symbol: SFSymbol? {
@@ -28,15 +27,6 @@ internal extension NSObject {
         }
         get {
             return objc_getAssociatedObject(self, _SFAssociationKeys.sfsymbol.sf_unsafePointer) as? SFSymbol
-        }
-    }
-    
-    var _SF_associated_name: SFName? {
-        set {
-            objc_setAssociatedObject(self, _SFAssociationKeys.sfname.sf_unsafePointer, newValue, .OBJC_ASSOCIATION_ASSIGN)
-        }
-        get {
-            return objc_getAssociatedObject(self, _SFAssociationKeys.sfname.sf_unsafePointer) as? SFName
         }
     }
 }
@@ -60,7 +50,7 @@ public typealias SFAssociationImage = UIImage
 ///
 ///
 ///
-/// 方便的使各UI组件支持SFSymbol和SFName来设置图片资源
+/// 方便地使各 UI 组件支持 SFSymbol 图片资源
 ///
 /// 如果需要支持，只需要该组件添加一下 SFAssociationProtocol 协议支持，如：
 ///
@@ -68,7 +58,6 @@ public typealias SFAssociationImage = UIImage
 /// extension NSButton: SFAssociationProtocol { }
 /// let button = NSButton()
 /// button.sfsymbol = .return
-/// button.sfname = .return
 /// ```
 ///
 ///
@@ -85,14 +74,6 @@ public extension SFAssociationProtocol where Self: NSObject {
             self._SF_associated_symbol = newValue
         }
         get { return self._SF_associated_symbol }
-    }
-
-    var sfname: SFName? {
-        set {
-            self.image = newValue?.image
-            self._SF_associated_name = newValue
-        }
-        get { return self._SF_associated_name }
     }
 }
 

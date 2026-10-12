@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2022.2
 
 @available(iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0, *)
@@ -12,7 +10,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _1LaneAr = SFSymbol(._1LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _1LaneAr: SFSymbol { SFSymbol(rawValue: SFName._1LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -21,7 +19,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _1LaneHi = SFSymbol(._1LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _1LaneHi: SFSymbol { SFSymbol(rawValue: SFName._1LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -30,7 +28,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _10LaneAr = SFSymbol(._10LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _10LaneAr: SFSymbol { SFSymbol(rawValue: SFName._10LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -39,7 +37,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _10LaneHi = SFSymbol(._10LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _10LaneHi: SFSymbol { SFSymbol(rawValue: SFName._10LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -48,7 +46,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _11LaneAr = SFSymbol(._11LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _11LaneAr: SFSymbol { SFSymbol(rawValue: SFName._11LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -57,7 +55,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _11LaneHi = SFSymbol(._11LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _11LaneHi: SFSymbol { SFSymbol(rawValue: SFName._11LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -66,7 +64,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _12LaneAr = SFSymbol(._12LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _12LaneAr: SFSymbol { SFSymbol(rawValue: SFName._12LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -75,7 +73,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _12LaneHi = SFSymbol(._12LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _12LaneHi: SFSymbol { SFSymbol(rawValue: SFName._12LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -84,7 +82,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _2LaneAr = SFSymbol(._2LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _2LaneAr: SFSymbol { SFSymbol(rawValue: SFName._2LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -93,7 +91,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _2LaneHi = SFSymbol(._2LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _2LaneHi: SFSymbol { SFSymbol(rawValue: SFName._2LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -102,7 +100,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _3LaneAr = SFSymbol(._3LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _3LaneAr: SFSymbol { SFSymbol(rawValue: SFName._3LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -111,7 +109,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _3LaneHi = SFSymbol(._3LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _3LaneHi: SFSymbol { SFSymbol(rawValue: SFName._3LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -120,7 +118,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _4LaneAr = SFSymbol(._4LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _4LaneAr: SFSymbol { SFSymbol(rawValue: SFName._4LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -129,7 +127,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _4LaneHi = SFSymbol(._4LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _4LaneHi: SFSymbol { SFSymbol(rawValue: SFName._4LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -138,7 +136,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _5LaneAr = SFSymbol(._5LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _5LaneAr: SFSymbol { SFSymbol(rawValue: SFName._5LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -147,7 +145,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _5LaneHi = SFSymbol(._5LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _5LaneHi: SFSymbol { SFSymbol(rawValue: SFName._5LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -156,7 +154,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _6LaneAr = SFSymbol(._6LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _6LaneAr: SFSymbol { SFSymbol(rawValue: SFName._6LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -165,7 +163,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _6LaneHi = SFSymbol(._6LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _6LaneHi: SFSymbol { SFSymbol(rawValue: SFName._6LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -174,7 +172,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _7LaneAr = SFSymbol(._7LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _7LaneAr: SFSymbol { SFSymbol(rawValue: SFName._7LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -183,7 +181,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _7LaneHi = SFSymbol(._7LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _7LaneHi: SFSymbol { SFSymbol(rawValue: SFName._7LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -192,7 +190,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _8LaneAr = SFSymbol(._8LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _8LaneAr: SFSymbol { SFSymbol(rawValue: SFName._8LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -201,7 +199,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _8LaneHi = SFSymbol(._8LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _8LaneHi: SFSymbol { SFSymbol(rawValue: SFName._8LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -210,7 +208,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _9LaneAr = SFSymbol(._9LaneAr, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _9LaneAr: SFSymbol { SFSymbol(rawValue: SFName._9LaneAr) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -219,13 +217,13 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let _9LaneHi = SFSymbol(._9LaneHi, releaseYear: ._2022_2, category: [ .fitness ], keywords: ["running", "sports"], layerset: [.hierarchical: ._2022_2])
+    static var _9LaneHi: SFSymbol { SFSymbol(rawValue: SFName._9LaneHi) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: axle.2
     /// - Category: automotive
-    static let axle2 = SFSymbol(.axle2, releaseYear: ._2022_2, category: [ .automotive ])
+    static var axle2: SFSymbol { SFSymbol(rawValue: SFName.axle2) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -234,7 +232,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let axle2FrontAndRearEngaged = SFSymbol(.axle2FrontAndRearEngaged, releaseYear: ._2022_2, category: [ .automotive ], layerset: [.hierarchical: ._2023])
+    static var axle2FrontAndRearEngaged: SFSymbol { SFSymbol(rawValue: SFName.axle2FrontAndRearEngaged) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -243,7 +241,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let axle2FrontEngaged = SFSymbol(.axle2FrontEngaged, releaseYear: ._2022_2, category: [ .automotive ], layerset: [.hierarchical: ._2023])
+    static var axle2FrontEngaged: SFSymbol { SFSymbol(rawValue: SFName.axle2FrontEngaged) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -252,7 +250,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let axle2RearEngaged = SFSymbol(.axle2RearEngaged, releaseYear: ._2022_2, category: [ .automotive ], layerset: [.hierarchical: ._2023])
+    static var axle2RearEngaged: SFSymbol { SFSymbol(rawValue: SFName.axle2RearEngaged) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -261,7 +259,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let beatsPowerbeatsLeft = SFSymbol(.beatsPowerbeatsLeft, releaseYear: ._2022_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2022_2])
+    static var beatsPowerbeatsLeft: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeatsLeft) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -270,7 +268,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let beatsPowerbeatsRight = SFSymbol(.beatsPowerbeatsRight, releaseYear: ._2022_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2022_2])
+    static var beatsPowerbeatsRight: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeatsRight) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -279,7 +277,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let beatsPowerbeats3Left = SFSymbol(.beatsPowerbeats3Left, releaseYear: ._2022_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2022_2])
+    static var beatsPowerbeats3Left: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeats3Left) }
 
     /// Support only iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0 and later
     ///
@@ -288,5 +286,5 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.4, macOS 13.3, tvOS 16.4, watchOS 9.4, visionOS 1.0
-    static let beatsPowerbeats3Right = SFSymbol(.beatsPowerbeats3Right, releaseYear: ._2022_2, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2022_2])
+    static var beatsPowerbeats3Right: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeats3Right) }
 }

@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2020.2
 
 @available(iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0, *)
@@ -9,7 +7,7 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: airpodsmax
     /// - Recommended: airpods.max
-    static let airpodsmax = SFSymbol(.airpodsmax, releaseYear: ._2020_2, recommendedRawValue: "airpods.max", keywords: ["audio", "sound", "speaker"])
+    static var airpodsmax: SFSymbol { SFSymbol(rawValue: SFName.airpodsmax) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -18,7 +16,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let applewatchSideRight = SFSymbol(.applewatchSideRight, releaseYear: ._2020_2, category: [ .devices ], layerset: [.hierarchical: ._2021])
+    static var applewatchSideRight: SFSymbol { SFSymbol(rawValue: SFName.applewatchSideRight) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -27,7 +25,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterBubble = SFSymbol(.characterBubble, releaseYear: ._2020_2, category: [ .communication ], keywords: ["a"], layerset: [.hierarchical: ._2021])
+    static var characterBubble: SFSymbol { SFSymbol(rawValue: SFName.characterBubble) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -36,7 +34,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterBubbleAr = SFSymbol(.characterBubbleAr, releaseYear: ._2020_2, category: [ .communication ], layerset: [.hierarchical: ._2021])
+    static var characterBubbleAr: SFSymbol { SFSymbol(rawValue: SFName.characterBubbleAr) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -46,7 +44,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let characterBubbleFill = SFSymbol(.characterBubbleFill, releaseYear: ._2020_2, category: [ .communication, .multicolor ], keywords: ["a"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var characterBubbleFill: SFSymbol { SFSymbol(rawValue: SFName.characterBubbleFill) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -56,7 +54,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let characterBubbleFillAr = SFSymbol(.characterBubbleFillAr, releaseYear: ._2020_2, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var characterBubbleFillAr: SFSymbol { SFSymbol(rawValue: SFName.characterBubbleFillAr) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -66,7 +64,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let characterBubbleFillHe = SFSymbol(.characterBubbleFillHe, releaseYear: ._2020_2, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static var characterBubbleFillHe: SFSymbol { SFSymbol(rawValue: SFName.characterBubbleFillHe) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -75,7 +73,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterBubbleHe = SFSymbol(.characterBubbleHe, releaseYear: ._2020_2, category: [ .communication ], layerset: [.hierarchical: ._2021])
+    static var characterBubbleHe: SFSymbol { SFSymbol(rawValue: SFName.characterBubbleHe) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -84,7 +82,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeam = SFSymbol(.characterCursorIbeam, releaseYear: ._2020_2, category: [ .textformatting ], keywords: ["a"], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeam: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeam) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -93,7 +91,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeamAr = SFSymbol(.characterCursorIbeamAr, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeamAr: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeamAr) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -102,7 +100,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeamHe = SFSymbol(.characterCursorIbeamHe, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeamHe: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeamHe) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -111,7 +109,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeamHi = SFSymbol(.characterCursorIbeamHi, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeamHi: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeamHi) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -120,7 +118,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeamJa = SFSymbol(.characterCursorIbeamJa, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeamJa: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeamJa) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -129,7 +127,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeamKo = SFSymbol(.characterCursorIbeamKo, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeamKo: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeamKo) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -138,7 +136,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeamTh = SFSymbol(.characterCursorIbeamTh, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeamTh: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeamTh) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -147,7 +145,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterCursorIbeamZh = SFSymbol(.characterCursorIbeamZh, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterCursorIbeamZh: SFSymbol { SFSymbol(rawValue: SFName.characterCursorIbeamZh) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -156,7 +154,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextbox = SFSymbol(.characterTextbox, releaseYear: ._2020_2, category: [ .textformatting ], keywords: ["a"], layerset: [.hierarchical: ._2021])
+    static var characterTextbox: SFSymbol { SFSymbol(rawValue: SFName.characterTextbox) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -165,7 +163,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextboxAr = SFSymbol(.characterTextboxAr, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterTextboxAr: SFSymbol { SFSymbol(rawValue: SFName.characterTextboxAr) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -174,7 +172,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextboxHe = SFSymbol(.characterTextboxHe, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterTextboxHe: SFSymbol { SFSymbol(rawValue: SFName.characterTextboxHe) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -183,7 +181,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextboxHi = SFSymbol(.characterTextboxHi, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterTextboxHi: SFSymbol { SFSymbol(rawValue: SFName.characterTextboxHi) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -192,7 +190,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextboxJa = SFSymbol(.characterTextboxJa, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterTextboxJa: SFSymbol { SFSymbol(rawValue: SFName.characterTextboxJa) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -201,7 +199,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextboxKo = SFSymbol(.characterTextboxKo, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterTextboxKo: SFSymbol { SFSymbol(rawValue: SFName.characterTextboxKo) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -210,7 +208,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextboxTh = SFSymbol(.characterTextboxTh, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterTextboxTh: SFSymbol { SFSymbol(rawValue: SFName.characterTextboxTh) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
@@ -219,59 +217,59 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let characterTextboxZh = SFSymbol(.characterTextboxZh, releaseYear: ._2020_2, category: [ .textformatting ], layerset: [.hierarchical: ._2021])
+    static var characterTextboxZh: SFSymbol { SFSymbol(rawValue: SFName.characterTextboxZh) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: hifispeaker.and.homepodmini
     /// - Recommended: hifispeaker.and.homepod.mini
-    static let hifispeakerAndHomepodmini = SFSymbol(.hifispeakerAndHomepodmini, releaseYear: ._2020_2, recommendedRawValue: "hifispeaker.and.homepod.mini", keywords: ["audio", "sound", "speaker"])
+    static var hifispeakerAndHomepodmini: SFSymbol { SFSymbol(rawValue: SFName.hifispeakerAndHomepodmini) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: hifispeaker.and.homepodmini.fill
     /// - Recommended: hifispeaker.and.homepod.mini.fill
-    static let hifispeakerAndHomepodminiFill = SFSymbol(.hifispeakerAndHomepodminiFill, releaseYear: ._2020_2, recommendedRawValue: "hifispeaker.and.homepod.mini.fill", keywords: ["audio", "sound", "speaker"])
+    static var hifispeakerAndHomepodminiFill: SFSymbol { SFSymbol(rawValue: SFName.hifispeakerAndHomepodminiFill) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepod.and.homepodmini
     /// - Recommended: homepod.and.homepod.mini
-    static let homepodAndHomepodmini = SFSymbol(.homepodAndHomepodmini, releaseYear: ._2020_2, recommendedRawValue: "homepod.and.homepod.mini", keywords: ["audio", "sound", "speaker"])
+    static var homepodAndHomepodmini: SFSymbol { SFSymbol(rawValue: SFName.homepodAndHomepodmini) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepod.and.homepodmini.fill
     /// - Recommended: homepod.and.homepod.mini.fill
-    static let homepodAndHomepodminiFill = SFSymbol(.homepodAndHomepodminiFill, releaseYear: ._2020_2, recommendedRawValue: "homepod.and.homepod.mini.fill", keywords: ["audio", "sound", "speaker"])
+    static var homepodAndHomepodminiFill: SFSymbol { SFSymbol(rawValue: SFName.homepodAndHomepodminiFill) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini
     /// - Recommended: homepod.mini
-    static let homepodmini = SFSymbol(.homepodmini, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini", keywords: ["audio", "sound", "speaker"])
+    static var homepodmini: SFSymbol { SFSymbol(rawValue: SFName.homepodmini) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini.2
     /// - Recommended: homepod.mini.2
-    static let homepodmini2 = SFSymbol(.homepodmini2, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini.2", keywords: ["audio", "sound", "speaker"])
+    static var homepodmini2: SFSymbol { SFSymbol(rawValue: SFName.homepodmini2) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini.2.fill
     /// - Recommended: homepod.mini.2.fill
-    static let homepodmini2Fill = SFSymbol(.homepodmini2Fill, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini.2.fill", keywords: ["audio", "sound", "speaker"])
+    static var homepodmini2Fill: SFSymbol { SFSymbol(rawValue: SFName.homepodmini2Fill) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: homepodmini.fill
     /// - Recommended: homepod.mini.fill
-    static let homepodminiFill = SFSymbol(.homepodminiFill, releaseYear: ._2020_2, recommendedRawValue: "homepod.mini.fill", keywords: ["audio", "sound", "speaker"])
+    static var homepodminiFill: SFSymbol { SFSymbol(rawValue: SFName.homepodminiFill) }
 
     /// Support only iOS 14.5, macOS 11.3, tvOS 14.5, watchOS 7.4, visionOS 1.0 and later
     ///
     /// - Symbol Name: rectangle.topthird.inset.fill
     /// - Recommended: inset.filled.topthird.rectangle
-    static let rectangleTopthirdInsetFill = SFSymbol(.rectangleTopthirdInsetFill, releaseYear: ._2020_2, recommendedRawValue: "inset.filled.topthird.rectangle")
+    static var rectangleTopthirdInsetFill: SFSymbol { SFSymbol(rawValue: SFName.rectangleTopthirdInsetFill) }
 }

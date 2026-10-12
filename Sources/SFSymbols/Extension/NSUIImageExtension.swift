@@ -10,10 +10,6 @@
 import Cocoa
 
 public extension NSImage {
-    convenience init?(sfname: SFName) {
-        self.init(systemSymbolName: sfname.rawValue)
-    }
-    
     convenience init?(sfsymbol: SFSymbol) {
         self.init(systemSymbolName: sfsymbol.rawValue)
     }
@@ -23,9 +19,9 @@ public extension NSImage {
     }
 }
 
-extension SFName {
+public extension SFSymbol {
     var image: NSImage? {
-        return NSImage(sfname: self)
+        return NSImage(sfsymbol: self)
     }
 }
 
@@ -34,10 +30,6 @@ extension SFName {
 import UIKit
 
 public extension UIImage {    
-    convenience init?(sfname: SFName) {
-        self.init(systemSymbolName: sfname.rawValue)
-    }
-    
     convenience init?(sfsymbol: SFSymbol) {
         self.init(systemSymbolName: sfsymbol.rawValue)
     }
@@ -53,9 +45,9 @@ public extension UIImage {
     }
 }
 
-public extension SFName {
+public extension SFSymbol {
     var image: UIImage? {
-        return UIImage(sfname: self)
+        return UIImage(sfsymbol: self)
     }
 }
 

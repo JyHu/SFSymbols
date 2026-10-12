@@ -21,9 +21,6 @@ public extension UIImageView {
         }
     }
     
-    convenience init(sfname: SFName) {
-        self.init(image: UIImage(systemSymbolName: sfname.rawValue) ?? UIImage())
-    }
 }
 
 public extension UIButton {
@@ -31,9 +28,6 @@ public extension UIButton {
         setImage(symbol.image, for: state)
     }
     
-    func setSFName(_ name: SFName, for state: UIControl.State) {
-        setImage(name.image, for: state)
-    }
 }
 
 #endif

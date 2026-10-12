@@ -2,7 +2,7 @@
 import Foundation
 
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
-public extension SFSymbol {
+public extension SFSymbolMetadata {
     enum ReleaseYear: Int, CaseIterable, Identifiable {
         case _2019   = 201900
         case _2019_1 = 201901
@@ -77,8 +77,8 @@ public extension SFSymbol {
 
 
 @available(iOS 13.0, macOS 11.0, watchOS 6.0, tvOS 13.0, visionOS 1.0, *)
-public extension SFSymbol.ReleaseYear {
-    var availables: SFSymbol.Availables {
+public extension SFSymbolMetadata.ReleaseYear {
+    var availables: SFSymbolMetadata.Availables {
         switch self {
             case ._2019  : return ._2019
             case ._2019_1: return ._2019_1

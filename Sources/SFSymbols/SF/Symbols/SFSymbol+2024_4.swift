@@ -1,5 +1,3 @@
-import Foundation
-
 /// Released at 2024.4
 
 @available(iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5, *)
@@ -13,7 +11,7 @@ public extension SFSymbol {
     /// Availabilities:
     /// - hierarchical: iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5
     /// - multicolor: iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5
-    static let appleIntelligenceBadgeXmark = SFSymbol(.appleIntelligenceBadgeXmark, releaseYear: ._2024_4, category: [ .multicolor ], layerset: [.hierarchical: ._2024_4, .multicolor: ._2024_4])
+    static var appleIntelligenceBadgeXmark: SFSymbol { SFSymbol(rawValue: SFName.appleIntelligenceBadgeXmark) }
 
     /// Support only iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5 and later
     ///
@@ -22,19 +20,19 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5
-    static let beatsPowerbeatsPro2 = SFSymbol(.beatsPowerbeatsPro2, releaseYear: ._2024_4, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2024_4])
+    static var beatsPowerbeatsPro2: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeatsPro2) }
 
     /// Support only iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5 and later
     ///
     /// - Symbol Name: beats.powerbeats.pro.2.chargingcase
     /// - Category: devices
-    static let beatsPowerbeatsPro2Chargingcase = SFSymbol(.beatsPowerbeatsPro2Chargingcase, releaseYear: ._2024_4, category: [ .devices ], keywords: ["audio"])
+    static var beatsPowerbeatsPro2Chargingcase: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeatsPro2Chargingcase) }
 
     /// Support only iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5 and later
     ///
     /// - Symbol Name: beats.powerbeats.pro.2.chargingcase.fill
     /// - Category: devices
-    static let beatsPowerbeatsPro2ChargingcaseFill = SFSymbol(.beatsPowerbeatsPro2ChargingcaseFill, releaseYear: ._2024_4, category: [ .devices ], keywords: ["audio"])
+    static var beatsPowerbeatsPro2ChargingcaseFill: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeatsPro2ChargingcaseFill) }
 
     /// Support only iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5 and later
     ///
@@ -43,7 +41,7 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5
-    static let beatsPowerbeatsPro2Left = SFSymbol(.beatsPowerbeatsPro2Left, releaseYear: ._2024_4, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2024_4])
+    static var beatsPowerbeatsPro2Left: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeatsPro2Left) }
 
     /// Support only iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5 and later
     ///
@@ -52,5 +50,5 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.5, macOS 15.5, tvOS 18.5, watchOS 11.5, visionOS 2.5
-    static let beatsPowerbeatsPro2Right = SFSymbol(.beatsPowerbeatsPro2Right, releaseYear: ._2024_4, category: [ .devices ], keywords: ["audio", "sound", "speaker"], layerset: [.hierarchical: ._2024_4])
+    static var beatsPowerbeatsPro2Right: SFSymbol { SFSymbol(rawValue: SFName.beatsPowerbeatsPro2Right) }
 }
