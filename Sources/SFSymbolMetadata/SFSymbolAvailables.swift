@@ -27,12 +27,14 @@ public extension SFSymbolMetadata {
         case _2024_3 = 202403
         case _2024_4 = 202404
         case _2025   = 202500
+        case _2025_1 = 202501
+        case _2026   = 202600
 
         public var id: Int {
             rawValue
         }
     }
-    
+
     /// Each suported sysmtem version number of the SF Symbol.
     struct Availables {
         public var iOS: Double
@@ -72,6 +74,8 @@ public extension SFSymbolMetadata {
         public static let _2024_3 = Availables(iOS: 18.4, tvOS: 18.4, macOS: 15.4, watchOS: 11.4, visionOS: 2.4)
         public static let _2024_4 = Availables(iOS: 18.5, tvOS: 18.5, macOS: 15.5, watchOS: 11.5, visionOS: 2.5)
         public static let _2025   = Availables(iOS: 26.0, tvOS: 26.0, macOS: 26.0, watchOS: 26.0, visionOS: 26.0)
+        public static let _2025_1 = Availables(iOS: 26.1, tvOS: 26.1, macOS: 26.1, watchOS: 26.1, visionOS: 26.1)
+        public static let _2026   = Availables(iOS: 27.0, tvOS: 27.0, macOS: 27.0, watchOS: 27.0, visionOS: 27.0)
     }
 }
 
@@ -103,6 +107,8 @@ public extension SFSymbolMetadata.ReleaseYear {
             case ._2024_3: return ._2024_3
             case ._2024_4: return ._2024_4
             case ._2025  : return ._2025
+            case ._2025_1: return ._2025_1
+            case ._2026  : return ._2026
         }
     }
 }

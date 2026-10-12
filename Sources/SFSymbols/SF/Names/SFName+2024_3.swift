@@ -397,7 +397,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4
-    /// - multicolor: iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4
     static var characterTextboxBadgeSparklesMl: String { "character.textbox.badge.sparkles.ml" }
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
@@ -929,6 +928,7 @@ public extension SFName {
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///
     /// - Symbol Name: memories.slash
+    /// - Category: arrows
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4
@@ -1176,12 +1176,18 @@ public extension SFName {
     ///
     /// - Symbol Name: robotic.vacuum.and.ellipsis
     /// - Category: home, objectsandtools, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
     static var roboticVacuumAndEllipsis: String { "robotic.vacuum.and.ellipsis" }
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///
     /// - Symbol Name: robotic.vacuum.and.ellipsis.fill
     /// - Category: home, objectsandtools, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
     static var roboticVacuumAndEllipsisFill: String { "robotic.vacuum.and.ellipsis.fill" }
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later

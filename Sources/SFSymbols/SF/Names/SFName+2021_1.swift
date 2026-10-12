@@ -54,7 +54,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownBackward: String { "square.3.layers.3d.down.backward" }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
@@ -64,7 +63,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownForward: String { "square.3.layers.3d.down.forward" }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
@@ -74,7 +72,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownLeft: String { "square.3.layers.3d.down.left" }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
@@ -84,7 +81,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownRight: String { "square.3.layers.3d.down.right" }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later

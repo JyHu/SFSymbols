@@ -98,8 +98,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let paperclipCircle = SFSymbolMetadata(.paperclipCircle, releaseYear: ._2019_1, category: [ .objectsandtools, .variable ], keywords: ["attach", "attachments"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let paperclipCircle = SFSymbolMetadata(.paperclipCircle, releaseYear: ._2019_1, category: [ .objectsandtools, .variable ], keywords: ["attach", "attachments"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later
     ///

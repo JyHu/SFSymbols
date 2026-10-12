@@ -816,11 +816,10 @@ public extension SFName {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.forward.and.arrow.down.backward.square.fill
-    /// - Category: arrows, cameraandphotos, multicolor
+    /// - Category: arrows, cameraandphotos
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
     static var arrowUpForwardAndArrowDownBackwardSquareFill: String { "arrow.up.forward.and.arrow.down.backward.square.fill" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -1599,7 +1598,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var bellBadgeWaveform: String { "bell.badge.waveform" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -1609,7 +1607,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var bellBadgeWaveformFill: String { "bell.badge.waveform.fill" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -2809,7 +2806,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var characterMagnify: String { "character.magnify" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -3553,7 +3549,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var earBadgeWaveform: String { "ear.badge.waveform" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -4657,7 +4652,7 @@ public extension SFName {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: head.profile.arrow.forward.and.visionpro
-    /// - Recommended: head.profile.arrow.forward.and.vision.pro
+    /// - Recommended: head.profile.vision.pro.remove
     static var headProfileArrowForwardAndVisionpro: String { "head.profile.arrow.forward.and.visionpro" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -5461,13 +5456,13 @@ public extension SFName {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow.and.cursorarrow
-    /// - Recommended: macwindow.and.pointer.arrow
+    /// - Recommended: interface.window.and.pointer.arrow
     static var macwindowAndCursorarrow: String { "macwindow.and.cursorarrow" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow.and.cursorarrow.rtl
-    /// - Recommended: macwindow.and.pointer.arrow.rtl
+    /// - Recommended: interface.window.and.pointer.arrow.rtl
     static var macwindowAndCursorarrowRtl: String { "macwindow.and.cursorarrow.rtl" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -5503,7 +5498,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var messageBadgeWaveform: String { "message.badge.waveform" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -5513,7 +5507,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var messageBadgeWaveformFill: String { "message.badge.waveform.fill" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -6125,7 +6118,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var phoneBadgeWaveform: String { "phone.badge.waveform" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -6135,7 +6127,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var phoneBadgeWaveformFill: String { "phone.badge.waveform.fill" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -6347,7 +6338,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pointTopleftDownToPointBottomrightCurvepath: String { "point.topleft.down.to.point.bottomright.curvepath" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -6357,7 +6347,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pointTopleftDownToPointBottomrightCurvepathFill: String { "point.topleft.down.to.point.bottomright.curvepath.fill" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -6367,7 +6356,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pointTopleftDownToPointBottomrightFilledCurvepath: String { "point.topleft.down.to.point.bottomright.filled.curvepath" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -6377,7 +6365,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pointTopleftFilledDownToPointBottomrightCurvepath: String { "point.topleft.filled.down.to.point.bottomright.curvepath" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -7119,7 +7106,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave2Bubble: String { "speaker.wave.2.bubble" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -7149,7 +7135,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave2BubbleRtl: String { "speaker.wave.2.bubble.rtl" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -7391,7 +7376,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var sunHorizon: String { "sun.horizon" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -8117,7 +8101,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var videoBadgeWaveform: String { "video.badge.waveform" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -8127,7 +8110,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var videoBadgeWaveformFill: String { "video.badge.waveform.fill" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -8357,10 +8339,7 @@ public extension SFName {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.and.person.filled
-    /// - Category: communication, human, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
+    /// - Recommended: waveform.and.person
     static var waveformAndPersonFilled: String { "waveform.and.person.filled" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
@@ -8370,7 +8349,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var waveformBadgeMagnifyingglass: String { "waveform.badge.magnifyingglass" }
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later

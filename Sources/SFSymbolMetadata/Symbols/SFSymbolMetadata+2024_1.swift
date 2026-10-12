@@ -618,22 +618,22 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: memories.badge.checkmark
-    /// - Category: multicolor
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1
     /// - multicolor: iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1
-    static let memoriesBadgeCheckmark = SFSymbolMetadata(.memoriesBadgeCheckmark, releaseYear: ._2024_1, category: [ .multicolor ], layerset: [.hierarchical: ._2024_1, .multicolor: ._2024_1])
+    static let memoriesBadgeCheckmark = SFSymbolMetadata(.memoriesBadgeCheckmark, releaseYear: ._2024_1, category: [ .arrows, .multicolor ], layerset: [.hierarchical: ._2024_1, .multicolor: ._2024_1])
 
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: memories.badge.xmark
-    /// - Category: multicolor
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1
     /// - multicolor: iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1
-    static let memoriesBadgeXmark = SFSymbolMetadata(.memoriesBadgeXmark, releaseYear: ._2024_1, category: [ .multicolor ], layerset: [.hierarchical: ._2024_1, .multicolor: ._2024_1])
+    static let memoriesBadgeXmark = SFSymbolMetadata(.memoriesBadgeXmark, releaseYear: ._2024_1, category: [ .arrows, .multicolor ], layerset: [.hierarchical: ._2024_1, .multicolor: ._2024_1])
 
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
@@ -795,10 +795,7 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: waveform.path.ecg.text.page
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let waveformPathEcgTextPage = SFSymbolMetadata(.waveformPathEcgTextPage, releaseYear: ._2024_1, layerset: [.multicolor: ._2023])
+    static let waveformPathEcgTextPage = SFSymbolMetadata(.waveformPathEcgTextPage, releaseYear: ._2024_1)
 
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
@@ -813,10 +810,7 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: waveform.path.ecg.text.page.rtl
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let waveformPathEcgTextPageRtl = SFSymbolMetadata(.waveformPathEcgTextPageRtl, releaseYear: ._2024_1, layerset: [.multicolor: ._2023])
+    static let waveformPathEcgTextPageRtl = SFSymbolMetadata(.waveformPathEcgTextPageRtl, releaseYear: ._2024_1)
 
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///

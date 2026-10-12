@@ -518,11 +518,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: airplay.audio
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let airplayAudio = SFSymbolMetadata(.airplayAudio, releaseYear: ._2024, category: [ .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let airplayAudio = SFSymbolMetadata(.airplayAudio, releaseYear: ._2024, category: [ .variable ])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -541,8 +537,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let airplayAudioCircle = SFSymbolMetadata(.airplayAudioCircle, releaseYear: ._2024, category: [ .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let airplayAudioCircle = SFSymbolMetadata(.airplayAudioCircle, releaseYear: ._2024, category: [ .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -807,10 +802,7 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: apple.image.playground
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let appleImagePlayground = SFSymbolMetadata(.appleImagePlayground, releaseYear: ._2024, keywords: ["sparkles"], layerset: [.hierarchical: ._2024])
+    static let appleImagePlayground = SFSymbolMetadata(.appleImagePlayground, releaseYear: ._2024, keywords: ["sparkles"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -818,18 +810,13 @@ public extension SFSymbolMetadata {
     /// - Category: multicolor
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let appleImagePlaygroundFill = SFSymbolMetadata(.appleImagePlaygroundFill, releaseYear: ._2024, category: [ .multicolor ], keywords: ["sparkles"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    static let appleImagePlaygroundFill = SFSymbolMetadata(.appleImagePlaygroundFill, releaseYear: ._2024, category: [ .multicolor ], keywords: ["sparkles"], layerset: [.multicolor: ._2024])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: apple.intelligence
-    /// - Category: multicolor
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let appleIntelligence = SFSymbolMetadata(.appleIntelligence, releaseYear: ._2024, category: [ .multicolor ], layerset: [.multicolor: ._2024])
+    static let appleIntelligence = SFSymbolMetadata(.appleIntelligence, releaseYear: ._2024)
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1075,8 +1062,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowRightPageOnClipboard = SFSymbolMetadata(.arrowRightPageOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "pasteboard"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let arrowRightPageOnClipboard = SFSymbolMetadata(.arrowRightPageOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "pasteboard"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1154,8 +1140,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowTrianglehead2ClockwiseRotate90PageOnClipboard = SFSymbolMetadata(.arrowTrianglehead2ClockwiseRotate90PageOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "pasteboard"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let arrowTrianglehead2ClockwiseRotate90PageOnClipboard = SFSymbolMetadata(.arrowTrianglehead2ClockwiseRotate90PageOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "pasteboard"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1486,8 +1471,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowUpPageOnClipboard = SFSymbolMetadata(.arrowUpPageOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "pasteboard"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let arrowUpPageOnClipboard = SFSymbolMetadata(.arrowUpPageOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "pasteboard"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1541,21 +1525,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australiandollarsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let australiandollarsignBankBuilding = SFSymbolMetadata(.australiandollarsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: australiandollarsign.building.classical
+    static let australiandollarsignBankBuilding = SFSymbolMetadata(.australiandollarsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "australiandollarsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australiandollarsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let australiandollarsignBankBuildingFill = SFSymbolMetadata(.australiandollarsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: australiandollarsign.building.classical.fill
+    static let australiandollarsignBankBuildingFill = SFSymbolMetadata(.australiandollarsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "australiandollarsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1605,21 +1582,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let australsignBankBuilding = SFSymbolMetadata(.australsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: australsign.building.classical
+    static let australsignBankBuilding = SFSymbolMetadata(.australsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "australsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let australsignBankBuildingFill = SFSymbolMetadata(.australsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: australsign.building.classical.fill
+    static let australsignBankBuildingFill = SFSymbolMetadata(.australsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "australsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1669,21 +1639,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bahtsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let bahtsignBankBuilding = SFSymbolMetadata(.bahtsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: bahtsign.building.classical
+    static let bahtsignBankBuilding = SFSymbolMetadata(.bahtsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "bahtsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bahtsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let bahtsignBankBuildingFill = SFSymbolMetadata(.bahtsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: bahtsign.building.classical.fill
+    static let bahtsignBankBuildingFill = SFSymbolMetadata(.bahtsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "bahtsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1725,7 +1688,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: base.unit
     /// - Category: maps
-    static let baseUnit = SFSymbolMetadata(.baseUnit, releaseYear: ._2024, category: [ .maps ])
+    static let baseUnit = SFSymbolMetadata(.baseUnit, releaseYear: ._2024, category: [ .maps ], keywords: ["distance", "measure", "scale"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1897,21 +1860,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bitcoinsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let bitcoinsignBankBuilding = SFSymbolMetadata(.bitcoinsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: bitcoinsign.building.classical
+    static let bitcoinsignBankBuilding = SFSymbolMetadata(.bitcoinsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "bitcoinsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bitcoinsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let bitcoinsignBankBuildingFill = SFSymbolMetadata(.bitcoinsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: bitcoinsign.building.classical.fill
+    static let bitcoinsignBankBuildingFill = SFSymbolMetadata(.bitcoinsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "bitcoinsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -1961,21 +1917,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: brazilianrealsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let brazilianrealsignBankBuilding = SFSymbolMetadata(.brazilianrealsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: brazilianrealsign.building.classical
+    static let brazilianrealsignBankBuilding = SFSymbolMetadata(.brazilianrealsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "brazilianrealsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: brazilianrealsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let brazilianrealsignBankBuildingFill = SFSymbolMetadata(.brazilianrealsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: brazilianrealsign.building.classical.fill
+    static let brazilianrealsignBankBuildingFill = SFSymbolMetadata(.brazilianrealsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "brazilianrealsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -2631,21 +2580,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cedisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let cedisignBankBuilding = SFSymbolMetadata(.cedisignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: cedisign.building.classical
+    static let cedisignBankBuilding = SFSymbolMetadata(.cedisignBankBuilding, releaseYear: ._2024, recommendedRawValue: "cedisign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cedisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let cedisignBankBuildingFill = SFSymbolMetadata(.cedisignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: cedisign.building.classical.fill
+    static let cedisignBankBuildingFill = SFSymbolMetadata(.cedisignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "cedisign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -2695,21 +2637,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: centsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let centsignBankBuilding = SFSymbolMetadata(.centsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: centsign.building.classical
+    static let centsignBankBuilding = SFSymbolMetadata(.centsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "centsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: centsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let centsignBankBuildingFill = SFSymbolMetadata(.centsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: centsign.building.classical.fill
+    static let centsignBankBuildingFill = SFSymbolMetadata(.centsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "centsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -3163,11 +3098,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: chart.bar.horizontal.page
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    /// - multicolor: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let chartBarHorizontalPage = SFSymbolMetadata(.chartBarHorizontalPage, releaseYear: ._2024, category: [ .variable ], layerset: [.hierarchical: ._2022_1, .multicolor: ._2022_1])
+    static let chartBarHorizontalPage = SFSymbolMetadata(.chartBarHorizontalPage, releaseYear: ._2024, category: [ .variable ])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -3175,9 +3106,8 @@ public extension SFSymbolMetadata {
     /// - Category: multicolor, variable
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
     /// - multicolor: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    static let chartBarHorizontalPageFill = SFSymbolMetadata(.chartBarHorizontalPageFill, releaseYear: ._2024, category: [ .multicolor, .variable ], layerset: [.hierarchical: ._2022_1, .multicolor: ._2022_1])
+    static let chartBarHorizontalPageFill = SFSymbolMetadata(.chartBarHorizontalPageFill, releaseYear: ._2024, category: [ .multicolor, .variable ], layerset: [.multicolor: ._2022_1])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -3392,21 +3322,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: chineseyuanrenminbisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let chineseyuanrenminbisignBankBuilding = SFSymbolMetadata(.chineseyuanrenminbisignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: chineseyuanrenminbisign.building.classical
+    static let chineseyuanrenminbisignBankBuilding = SFSymbolMetadata(.chineseyuanrenminbisignBankBuilding, releaseYear: ._2024, recommendedRawValue: "chineseyuanrenminbisign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: chineseyuanrenminbisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let chineseyuanrenminbisignBankBuildingFill = SFSymbolMetadata(.chineseyuanrenminbisignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: chineseyuanrenminbisign.building.classical.fill
+    static let chineseyuanrenminbisignBankBuildingFill = SFSymbolMetadata(.chineseyuanrenminbisignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "chineseyuanrenminbisign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -3512,21 +3435,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: coloncurrencysign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let coloncurrencysignBankBuilding = SFSymbolMetadata(.coloncurrencysignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: coloncurrencysign.building.classical
+    static let coloncurrencysignBankBuilding = SFSymbolMetadata(.coloncurrencysignBankBuilding, releaseYear: ._2024, recommendedRawValue: "coloncurrencysign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: coloncurrencysign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let coloncurrencysignBankBuildingFill = SFSymbolMetadata(.coloncurrencysignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: coloncurrencysign.building.classical.fill
+    static let coloncurrencysignBankBuildingFill = SFSymbolMetadata(.coloncurrencysignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "coloncurrencysign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -3865,21 +3781,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cruzeirosign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let cruzeirosignBankBuilding = SFSymbolMetadata(.cruzeirosignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: cruzeirosign.building.classical
+    static let cruzeirosignBankBuilding = SFSymbolMetadata(.cruzeirosignBankBuilding, releaseYear: ._2024, recommendedRawValue: "cruzeirosign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cruzeirosign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let cruzeirosignBankBuildingFill = SFSymbolMetadata(.cruzeirosignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: cruzeirosign.building.classical.fill
+    static let cruzeirosignBankBuildingFill = SFSymbolMetadata(.cruzeirosignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "cruzeirosign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -3947,21 +3856,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: danishkronesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let danishkronesignBankBuilding = SFSymbolMetadata(.danishkronesignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: danishkronesign.building.classical
+    static let danishkronesignBankBuilding = SFSymbolMetadata(.danishkronesignBankBuilding, releaseYear: ._2024, recommendedRawValue: "danishkronesign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: danishkronesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let danishkronesignBankBuildingFill = SFSymbolMetadata(.danishkronesignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: danishkronesign.building.classical.fill
+    static let danishkronesignBankBuildingFill = SFSymbolMetadata(.danishkronesignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "danishkronesign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -4192,8 +4094,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let documentOnClipboard = SFSymbolMetadata(.documentOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "paste", "pasteboard"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let documentOnClipboard = SFSymbolMetadata(.documentOnClipboard, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["clipboard", "paste", "pasteboard"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -4211,8 +4112,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let documentOnDocument = SFSymbolMetadata(.documentOnDocument, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["copy"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let documentOnDocument = SFSymbolMetadata(.documentOnDocument, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["copy"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -4253,21 +4153,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dollarsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let dollarsignBankBuilding = SFSymbolMetadata(.dollarsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: dollarsign.building.classical
+    static let dollarsignBankBuilding = SFSymbolMetadata(.dollarsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "dollarsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dollarsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let dollarsignBankBuildingFill = SFSymbolMetadata(.dollarsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: dollarsign.building.classical.fill
+    static let dollarsignBankBuildingFill = SFSymbolMetadata(.dollarsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "dollarsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -4317,21 +4210,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dongsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let dongsignBankBuilding = SFSymbolMetadata(.dongsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: dongsign.building.classical
+    static let dongsignBankBuilding = SFSymbolMetadata(.dongsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "dongsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dongsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let dongsignBankBuildingFill = SFSymbolMetadata(.dongsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: dongsign.building.classical.fill
+    static let dongsignBankBuildingFill = SFSymbolMetadata(.dongsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "dongsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -4495,21 +4381,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurosign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let eurosignBankBuilding = SFSymbolMetadata(.eurosignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: eurosign.building.classical
+    static let eurosignBankBuilding = SFSymbolMetadata(.eurosignBankBuilding, releaseYear: ._2024, recommendedRawValue: "eurosign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurosign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let eurosignBankBuildingFill = SFSymbolMetadata(.eurosignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: eurosign.building.classical.fill
+    static let eurosignBankBuildingFill = SFSymbolMetadata(.eurosignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "eurosign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -4559,21 +4438,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurozonesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let eurozonesignBankBuilding = SFSymbolMetadata(.eurozonesignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: eurozonesign.building.classical
+    static let eurozonesignBankBuilding = SFSymbolMetadata(.eurozonesignBankBuilding, releaseYear: ._2024, recommendedRawValue: "eurozonesign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurozonesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let eurozonesignBankBuildingFill = SFSymbolMetadata(.eurozonesignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: eurozonesign.building.classical.fill
+    static let eurozonesignBankBuildingFill = SFSymbolMetadata(.eurozonesignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "eurozonesign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -6903,21 +6775,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: florinsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let florinsignBankBuilding = SFSymbolMetadata(.florinsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: florinsign.building.classical
+    static let florinsignBankBuilding = SFSymbolMetadata(.florinsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "florinsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: florinsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let florinsignBankBuildingFill = SFSymbolMetadata(.florinsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: florinsign.building.classical.fill
+    static let florinsignBankBuildingFill = SFSymbolMetadata(.florinsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "florinsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -6991,21 +6856,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: francsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let francsignBankBuilding = SFSymbolMetadata(.francsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: francsign.building.classical
+    static let francsignBankBuilding = SFSymbolMetadata(.francsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "francsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: francsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let francsignBankBuildingFill = SFSymbolMetadata(.francsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: francsign.building.classical.fill
+    static let francsignBankBuildingFill = SFSymbolMetadata(.francsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "francsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -7142,21 +7000,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: guaranisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let guaranisignBankBuilding = SFSymbolMetadata(.guaranisignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: guaranisign.building.classical
+    static let guaranisignBankBuilding = SFSymbolMetadata(.guaranisignBankBuilding, releaseYear: ._2024, recommendedRawValue: "guaranisign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: guaranisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let guaranisignBankBuildingFill = SFSymbolMetadata(.guaranisignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: guaranisign.building.classical.fill
+    static let guaranisignBankBuildingFill = SFSymbolMetadata(.guaranisignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "guaranisign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -7321,11 +7172,8 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: head.profile.arrow.forward.and.vision.pro
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let headProfileArrowForwardAndVisionPro = SFSymbolMetadata(.headProfileArrowForwardAndVisionPro, releaseYear: ._2024, category: [ .devices ], layerset: [.hierarchical: ._2023])
+    /// - Recommended: head.profile.vision.pro.remove
+    static let headProfileArrowForwardAndVisionPro = SFSymbolMetadata(.headProfileArrowForwardAndVisionPro, releaseYear: ._2024, recommendedRawValue: "head.profile.vision.pro.remove")
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -7968,21 +7816,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: hryvniasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let hryvniasignBankBuilding = SFSymbolMetadata(.hryvniasignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: hryvniasign.building.classical
+    static let hryvniasignBankBuilding = SFSymbolMetadata(.hryvniasignBankBuilding, releaseYear: ._2024, recommendedRawValue: "hryvniasign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: hryvniasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let hryvniasignBankBuildingFill = SFSymbolMetadata(.hryvniasignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: hryvniasign.building.classical.fill
+    static let hryvniasignBankBuildingFill = SFSymbolMetadata(.hryvniasignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "hryvniasign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -8032,21 +7873,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: indianrupeesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let indianrupeesignBankBuilding = SFSymbolMetadata(.indianrupeesignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: indianrupeesign.building.classical
+    static let indianrupeesignBankBuilding = SFSymbolMetadata(.indianrupeesignBankBuilding, releaseYear: ._2024, recommendedRawValue: "indianrupeesign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: indianrupeesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let indianrupeesignBankBuildingFill = SFSymbolMetadata(.indianrupeesignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: indianrupeesign.building.classical.fill
+    static let indianrupeesignBankBuildingFill = SFSymbolMetadata(.indianrupeesignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "indianrupeesign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -8446,19 +8280,17 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: inset.filled.rectangle.and.person.filled
-    /// - Category: human
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let insetFilledRectangleAndPersonFilled = SFSymbolMetadata(.insetFilledRectangleAndPersonFilled, releaseYear: ._2024, category: [ .human ], keywords: ["people", "screen sharing"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: inset.filled.rectangle.and.person
+    static let insetFilledRectangleAndPersonFilled = SFSymbolMetadata(.insetFilledRectangleAndPersonFilled, releaseYear: ._2024, recommendedRawValue: "inset.filled.rectangle.and.person", keywords: ["people", "screen sharing"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: inset.filled.rectangle.badge.record
+    /// - Category: human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let insetFilledRectangleBadgeRecord = SFSymbolMetadata(.insetFilledRectangleBadgeRecord, releaseYear: ._2024, layerset: [.hierarchical: ._2023])
+    static let insetFilledRectangleBadgeRecord = SFSymbolMetadata(.insetFilledRectangleBadgeRecord, releaseYear: ._2024, category: [ .human ], layerset: [.hierarchical: ._2023])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -8867,8 +8699,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let ipadLandscapeAndIphone = SFSymbolMetadata(.ipadLandscapeAndIphone, releaseYear: ._2024, category: [ .devices ], keywords: ["ipad", "iphone"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let ipadLandscapeAndIphone = SFSymbolMetadata(.ipadLandscapeAndIphone, releaseYear: ._2024, category: [ .devices ], keywords: ["ipad", "iphone"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -9249,21 +9080,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: kipsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let kipsignBankBuilding = SFSymbolMetadata(.kipsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: kipsign.building.classical
+    static let kipsignBankBuilding = SFSymbolMetadata(.kipsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "kipsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: kipsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let kipsignBankBuildingFill = SFSymbolMetadata(.kipsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: kipsign.building.classical.fill
+    static let kipsignBankBuildingFill = SFSymbolMetadata(.kipsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "kipsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -9350,21 +9174,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: larisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let larisignBankBuilding = SFSymbolMetadata(.larisignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: larisign.building.classical
+    static let larisignBankBuilding = SFSymbolMetadata(.larisignBankBuilding, releaseYear: ._2024, recommendedRawValue: "larisign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: larisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let larisignBankBuildingFill = SFSymbolMetadata(.larisignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: larisign.building.classical.fill
+    static let larisignBankBuildingFill = SFSymbolMetadata(.larisignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "larisign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -9468,21 +9285,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: lirasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let lirasignBankBuilding = SFSymbolMetadata(.lirasignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: lirasign.building.classical
+    static let lirasignBankBuilding = SFSymbolMetadata(.lirasignBankBuilding, releaseYear: ._2024, recommendedRawValue: "lirasign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: lirasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let lirasignBankBuildingFill = SFSymbolMetadata(.lirasignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: lirasign.building.classical.fill
+    static let lirasignBankBuildingFill = SFSymbolMetadata(.lirasignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "lirasign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -9555,8 +9365,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let lockDocumentFill = SFSymbolMetadata(.lockDocumentFill, releaseYear: ._2024, category: [ .objectsandtools, .privacyandsecurity ], keywords: ["padlock", "password", "security"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let lockDocumentFill = SFSymbolMetadata(.lockDocumentFill, releaseYear: ._2024, category: [ .objectsandtools, .privacyandsecurity ], keywords: ["padlock", "password", "security"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -9611,20 +9420,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: malaysianringgitsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let malaysianringgitsignBankBuilding = SFSymbolMetadata(.malaysianringgitsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: malaysianringgitsign.building.classical
+    static let malaysianringgitsignBankBuilding = SFSymbolMetadata(.malaysianringgitsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "malaysianringgitsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: malaysianringgitsign.bank.building.fill
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let malaysianringgitsignBankBuildingFill = SFSymbolMetadata(.malaysianringgitsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: malaysianringgitsign.building.classical.fill
+    static let malaysianringgitsignBankBuildingFill = SFSymbolMetadata(.malaysianringgitsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "malaysianringgitsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -9712,21 +9515,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: manatsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let manatsignBankBuilding = SFSymbolMetadata(.manatsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: manatsign.building.classical
+    static let manatsignBankBuilding = SFSymbolMetadata(.manatsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "manatsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: manatsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let manatsignBankBuildingFill = SFSymbolMetadata(.manatsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: manatsign.building.classical.fill
+    static let manatsignBankBuildingFill = SFSymbolMetadata(.manatsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "manatsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -9965,21 +9761,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: millsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let millsignBankBuilding = SFSymbolMetadata(.millsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: millsign.building.classical
+    static let millsignBankBuilding = SFSymbolMetadata(.millsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "millsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: millsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let millsignBankBuildingFill = SFSymbolMetadata(.millsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: millsign.building.classical.fill
+    static let millsignBankBuildingFill = SFSymbolMetadata(.millsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "millsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10062,27 +9851,20 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: music.microphone
-    /// - Category: objectsandtools
-    static let musicMicrophone = SFSymbolMetadata(.musicMicrophone, releaseYear: ._2024, category: [ .objectsandtools ], keywords: ["microphone"])
+    /// - Recommended: microphone.dynamic.on.stand
+    static let musicMicrophone = SFSymbolMetadata(.musicMicrophone, releaseYear: ._2024, recommendedRawValue: "microphone.dynamic.on.stand", keywords: ["microphone"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: music.microphone.circle
-    /// - Category: objectsandtools, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let musicMicrophoneCircle = SFSymbolMetadata(.musicMicrophoneCircle, releaseYear: ._2024, category: [ .objectsandtools, .variable ], keywords: ["microphone"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: microphone.dynamic.on.stand.circle
+    static let musicMicrophoneCircle = SFSymbolMetadata(.musicMicrophoneCircle, releaseYear: ._2024, recommendedRawValue: "microphone.dynamic.on.stand.circle", keywords: ["microphone"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: music.microphone.circle.fill
-    /// - Category: multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let musicMicrophoneCircleFill = SFSymbolMetadata(.musicMicrophoneCircleFill, releaseYear: ._2024, category: [ .multicolor, .objectsandtools ], keywords: ["microphone"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    /// - Recommended: microphone.dynamic.on.stand.circle.fill
+    static let musicMicrophoneCircleFill = SFSymbolMetadata(.musicMicrophoneCircleFill, releaseYear: ._2024, recommendedRawValue: "microphone.dynamic.on.stand.circle.fill", keywords: ["microphone"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10096,21 +9878,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: nairasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let nairasignBankBuilding = SFSymbolMetadata(.nairasignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: nairasign.building.classical
+    static let nairasignBankBuilding = SFSymbolMetadata(.nairasignBankBuilding, releaseYear: ._2024, recommendedRawValue: "nairasign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: nairasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let nairasignBankBuildingFill = SFSymbolMetadata(.nairasignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: nairasign.building.classical.fill
+    static let nairasignBankBuildingFill = SFSymbolMetadata(.nairasignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "nairasign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10160,21 +9935,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: norwegiankronesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let norwegiankronesignBankBuilding = SFSymbolMetadata(.norwegiankronesignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: norwegiankronesign.building.classical
+    static let norwegiankronesignBankBuilding = SFSymbolMetadata(.norwegiankronesignBankBuilding, releaseYear: ._2024, recommendedRawValue: "norwegiankronesign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: norwegiankronesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let norwegiankronesignBankBuildingFill = SFSymbolMetadata(.norwegiankronesignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: norwegiankronesign.building.classical.fill
+    static let norwegiankronesignBankBuildingFill = SFSymbolMetadata(.norwegiankronesignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "norwegiankronesign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10486,20 +10254,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: person.crop.badge.magnifyingglass
-    /// - Category: human
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let personCropBadgeMagnifyingglass = SFSymbolMetadata(.personCropBadgeMagnifyingglass, releaseYear: ._2024, category: [ .human ], keywords: ["people"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: person.crop.circle.badge.magnifyingglass
+    static let personCropBadgeMagnifyingglass = SFSymbolMetadata(.personCropBadgeMagnifyingglass, releaseYear: ._2024, recommendedRawValue: "person.crop.circle.badge.magnifyingglass", keywords: ["people"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: person.crop.badge.magnifyingglass.fill
-    /// - Category: human
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let personCropBadgeMagnifyingglassFill = SFSymbolMetadata(.personCropBadgeMagnifyingglassFill, releaseYear: ._2024, category: [ .human ], keywords: ["people"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: person.crop.circle.badge.magnifyingglass.fill
+    static let personCropBadgeMagnifyingglassFill = SFSymbolMetadata(.personCropBadgeMagnifyingglassFill, releaseYear: ._2024, recommendedRawValue: "person.crop.circle.badge.magnifyingglass.fill", keywords: ["people"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10555,21 +10317,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: peruviansolessign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let peruviansolessignBankBuilding = SFSymbolMetadata(.peruviansolessignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: peruviansolessign.building.classical
+    static let peruviansolessignBankBuilding = SFSymbolMetadata(.peruviansolessignBankBuilding, releaseYear: ._2024, recommendedRawValue: "peruviansolessign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: peruviansolessign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let peruviansolessignBankBuildingFill = SFSymbolMetadata(.peruviansolessignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: peruviansolessign.building.classical.fill
+    static let peruviansolessignBankBuildingFill = SFSymbolMetadata(.peruviansolessignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "peruviansolessign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10657,21 +10412,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesetasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let pesetasignBankBuilding = SFSymbolMetadata(.pesetasignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: pesetasign.building.classical
+    static let pesetasignBankBuilding = SFSymbolMetadata(.pesetasignBankBuilding, releaseYear: ._2024, recommendedRawValue: "pesetasign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesetasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let pesetasignBankBuildingFill = SFSymbolMetadata(.pesetasignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: pesetasign.building.classical.fill
+    static let pesetasignBankBuildingFill = SFSymbolMetadata(.pesetasignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "pesetasign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10721,21 +10469,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesosign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let pesosignBankBuilding = SFSymbolMetadata(.pesosignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: pesosign.building.classical
+    static let pesosignBankBuilding = SFSymbolMetadata(.pesosignBankBuilding, releaseYear: ._2024, recommendedRawValue: "pesosign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesosign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let pesosignBankBuildingFill = SFSymbolMetadata(.pesosignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: pesosign.building.classical.fill
+    static let pesosignBankBuildingFill = SFSymbolMetadata(.pesosignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "pesosign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -10915,21 +10656,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: polishzlotysign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let polishzlotysignBankBuilding = SFSymbolMetadata(.polishzlotysignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: polishzlotysign.building.classical
+    static let polishzlotysignBankBuilding = SFSymbolMetadata(.polishzlotysignBankBuilding, releaseYear: ._2024, recommendedRawValue: "polishzlotysign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: polishzlotysign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let polishzlotysignBankBuildingFill = SFSymbolMetadata(.polishzlotysignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: polishzlotysign.building.classical.fill
+    static let polishzlotysignBankBuildingFill = SFSymbolMetadata(.polishzlotysignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "polishzlotysign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11037,18 +10771,12 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: questionmark.text.page
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let questionmarkTextPage = SFSymbolMetadata(.questionmarkTextPage, releaseYear: ._2024, layerset: [.multicolor: ._2023])
+    static let questionmarkTextPage = SFSymbolMetadata(.questionmarkTextPage, releaseYear: ._2024)
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: questionmark.text.page.ar
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let questionmarkTextPageAr = SFSymbolMetadata(.questionmarkTextPageAr, releaseYear: ._2024, layerset: [.multicolor: ._2023])
+    static let questionmarkTextPageAr = SFSymbolMetadata(.questionmarkTextPageAr, releaseYear: ._2024)
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11068,10 +10796,7 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: questionmark.text.page.rtl
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let questionmarkTextPageRtl = SFSymbolMetadata(.questionmarkTextPageRtl, releaseYear: ._2024, layerset: [.multicolor: ._2023])
+    static let questionmarkTextPageRtl = SFSymbolMetadata(.questionmarkTextPageRtl, releaseYear: ._2024)
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11208,21 +10933,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rublesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let rublesignBankBuilding = SFSymbolMetadata(.rublesignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: rublesign.building.classical
+    static let rublesignBankBuilding = SFSymbolMetadata(.rublesignBankBuilding, releaseYear: ._2024, recommendedRawValue: "rublesign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rublesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let rublesignBankBuildingFill = SFSymbolMetadata(.rublesignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: rublesign.building.classical.fill
+    static let rublesignBankBuildingFill = SFSymbolMetadata(.rublesignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "rublesign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11303,21 +11021,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rupeesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let rupeesignBankBuilding = SFSymbolMetadata(.rupeesignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: rupeesign.building.classical
+    static let rupeesignBankBuilding = SFSymbolMetadata(.rupeesignBankBuilding, releaseYear: ._2024, recommendedRawValue: "rupeesign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rupeesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let rupeesignBankBuildingFill = SFSymbolMetadata(.rupeesignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: rupeesign.building.classical.fill
+    static let rupeesignBankBuildingFill = SFSymbolMetadata(.rupeesignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "rupeesign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11404,21 +11115,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: shekelsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let shekelsignBankBuilding = SFSymbolMetadata(.shekelsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: shekelsign.building.classical
+    static let shekelsignBankBuilding = SFSymbolMetadata(.shekelsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "shekelsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: shekelsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let shekelsignBankBuildingFill = SFSymbolMetadata(.shekelsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: shekelsign.building.classical.fill
+    static let shekelsignBankBuildingFill = SFSymbolMetadata(.shekelsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "shekelsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11480,21 +11184,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: singaporedollarsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let singaporedollarsignBankBuilding = SFSymbolMetadata(.singaporedollarsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: singaporedollarsign.building.classical
+    static let singaporedollarsignBankBuilding = SFSymbolMetadata(.singaporedollarsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "singaporedollarsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: singaporedollarsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let singaporedollarsignBankBuildingFill = SFSymbolMetadata(.singaporedollarsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: singaporedollarsign.building.classical.fill
+    static let singaporedollarsignBankBuildingFill = SFSymbolMetadata(.singaporedollarsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "singaporedollarsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11672,21 +11369,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: sterlingsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let sterlingsignBankBuilding = SFSymbolMetadata(.sterlingsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: sterlingsign.building.classical
+    static let sterlingsignBankBuilding = SFSymbolMetadata(.sterlingsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "sterlingsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: sterlingsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let sterlingsignBankBuildingFill = SFSymbolMetadata(.sterlingsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: sterlingsign.building.classical.fill
+    static let sterlingsignBankBuildingFill = SFSymbolMetadata(.sterlingsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "sterlingsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11830,21 +11520,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: swedishkronasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let swedishkronasignBankBuilding = SFSymbolMetadata(.swedishkronasignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: swedishkronasign.building.classical
+    static let swedishkronasignBankBuilding = SFSymbolMetadata(.swedishkronasignBankBuilding, releaseYear: ._2024, recommendedRawValue: "swedishkronasign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: swedishkronasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let swedishkronasignBankBuildingFill = SFSymbolMetadata(.swedishkronasignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: swedishkronasign.building.classical.fill
+    static let swedishkronasignBankBuildingFill = SFSymbolMetadata(.swedishkronasignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "swedishkronasign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11903,21 +11586,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tengesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let tengesignBankBuilding = SFSymbolMetadata(.tengesignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: tengesign.building.classical
+    static let tengesignBankBuilding = SFSymbolMetadata(.tengesignBankBuilding, releaseYear: ._2024, recommendedRawValue: "tengesign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tengesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let tengesignBankBuildingFill = SFSymbolMetadata(.tengesignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: tengesign.building.classical.fill
+    static let tengesignBankBuildingFill = SFSymbolMetadata(.tengesignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "tengesign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11963,7 +11639,7 @@ public extension SFSymbolMetadata {
     /// Availabilities:
     /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let textBubbleBadgeClock = SFSymbolMetadata(.textBubbleBadgeClock, releaseYear: ._2024, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    static let textBubbleBadgeClock = SFSymbolMetadata(.textBubbleBadgeClock, releaseYear: ._2024, category: [ .communication, .multicolor ], keywords: ["speech"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11973,7 +11649,7 @@ public extension SFSymbolMetadata {
     /// Availabilities:
     /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let textBubbleBadgeClockFill = SFSymbolMetadata(.textBubbleBadgeClockFill, releaseYear: ._2024, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    static let textBubbleBadgeClockFill = SFSymbolMetadata(.textBubbleBadgeClockFill, releaseYear: ._2024, category: [ .communication, .multicolor ], keywords: ["speech"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11983,7 +11659,7 @@ public extension SFSymbolMetadata {
     /// Availabilities:
     /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let textBubbleBadgeClockFillRtl = SFSymbolMetadata(.textBubbleBadgeClockFillRtl, releaseYear: ._2024, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    static let textBubbleBadgeClockFillRtl = SFSymbolMetadata(.textBubbleBadgeClockFillRtl, releaseYear: ._2024, category: [ .communication, .multicolor ], keywords: ["speech"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -11993,7 +11669,7 @@ public extension SFSymbolMetadata {
     /// Availabilities:
     /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let textBubbleBadgeClockRtl = SFSymbolMetadata(.textBubbleBadgeClockRtl, releaseYear: ._2024, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    static let textBubbleBadgeClockRtl = SFSymbolMetadata(.textBubbleBadgeClockRtl, releaseYear: ._2024, category: [ .communication, .multicolor ], keywords: ["speech"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -12924,21 +12600,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tugriksign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let tugriksignBankBuilding = SFSymbolMetadata(.tugriksignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: tugriksign.building.classical
+    static let tugriksignBankBuilding = SFSymbolMetadata(.tugriksignBankBuilding, releaseYear: ._2024, recommendedRawValue: "tugriksign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tugriksign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let tugriksignBankBuildingFill = SFSymbolMetadata(.tugriksignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: tugriksign.building.classical.fill
+    static let tugriksignBankBuildingFill = SFSymbolMetadata(.tugriksignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "tugriksign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -12988,21 +12657,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: turkishlirasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let turkishlirasignBankBuilding = SFSymbolMetadata(.turkishlirasignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: turkishlirasign.building.classical
+    static let turkishlirasignBankBuilding = SFSymbolMetadata(.turkishlirasignBankBuilding, releaseYear: ._2024, recommendedRawValue: "turkishlirasign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: turkishlirasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let turkishlirasignBankBuildingFill = SFSymbolMetadata(.turkishlirasignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: turkishlirasign.building.classical.fill
+    static let turkishlirasignBankBuildingFill = SFSymbolMetadata(.turkishlirasignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "turkishlirasign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -13226,8 +12888,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let waterWavesAndArrowTriangleheadDown = SFSymbolMetadata(.waterWavesAndArrowTriangleheadDown, releaseYear: ._2024, category: [ .fitness, .nature, .variable ], keywords: ["dive", "ocean", "sea", "sports", "surface", "swim", "water", "wave"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let waterWavesAndArrowTriangleheadDown = SFSymbolMetadata(.waterWavesAndArrowTriangleheadDown, releaseYear: ._2024, category: [ .fitness, .nature, .variable ], keywords: ["dive", "ocean", "sea", "sports", "surface", "swim", "water", "wave"], layerset: [.hierarchical: ._2022])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -13246,8 +12907,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let waterWavesAndArrowTriangleheadUp = SFSymbolMetadata(.waterWavesAndArrowTriangleheadUp, releaseYear: ._2024, category: [ .fitness, .nature, .variable ], keywords: ["dive", "ocean", "sea", "sports", "surface", "swim", "water", "wave"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let waterWavesAndArrowTriangleheadUp = SFSymbolMetadata(.waterWavesAndArrowTriangleheadUp, releaseYear: ._2024, category: [ .fitness, .nature, .variable ], keywords: ["dive", "ocean", "sea", "sports", "surface", "swim", "water", "wave"], layerset: [.hierarchical: ._2022])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -13382,8 +13042,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let waveformBadgeMicrophone = SFSymbolMetadata(.waveformBadgeMicrophone, releaseYear: ._2024, category: [ .communication, .variable ], keywords: ["microphone"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let waveformBadgeMicrophone = SFSymbolMetadata(.waveformBadgeMicrophone, releaseYear: ._2024, category: [ .communication, .variable ], keywords: ["microphone"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -13475,21 +13134,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: wonsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let wonsignBankBuilding = SFSymbolMetadata(.wonsignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: wonsign.building.classical
+    static let wonsignBankBuilding = SFSymbolMetadata(.wonsignBankBuilding, releaseYear: ._2024, recommendedRawValue: "wonsign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: wonsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let wonsignBankBuildingFill = SFSymbolMetadata(.wonsignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: wonsign.building.classical.fill
+    static let wonsignBankBuildingFill = SFSymbolMetadata(.wonsignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "wonsign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
@@ -13551,21 +13203,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: yensign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let yensignBankBuilding = SFSymbolMetadata(.yensignBankBuilding, releaseYear: ._2024, category: [ .commerce, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024])
+    /// - Recommended: yensign.building.classical
+    static let yensignBankBuilding = SFSymbolMetadata(.yensignBankBuilding, releaseYear: ._2024, recommendedRawValue: "yensign.building.classical", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: yensign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    static let yensignBankBuildingFill = SFSymbolMetadata(.yensignBankBuildingFill, releaseYear: ._2024, category: [ .commerce, .multicolor, .objectsandtools ], keywords: ["currencies", "currency"], layerset: [.hierarchical: ._2024, .multicolor: ._2024])
+    /// - Recommended: yensign.building.classical.fill
+    static let yensignBankBuildingFill = SFSymbolMetadata(.yensignBankBuildingFill, releaseYear: ._2024, recommendedRawValue: "yensign.building.classical.fill", keywords: ["currencies", "currency"])
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///

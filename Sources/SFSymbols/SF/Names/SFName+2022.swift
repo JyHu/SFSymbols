@@ -74,7 +74,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var alarmWavesLeftAndRight: String { "alarm.waves.left.and.right" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -84,7 +83,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var alarmWavesLeftAndRightFill: String { "alarm.waves.left.and.right.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -389,7 +387,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var balloon2: String { "balloon.2" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -530,7 +527,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var bellAndWavesLeftAndRight: String { "bell.and.waves.left.and.right" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -540,7 +536,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var bellAndWavesLeftAndRightFill: String { "bell.and.waves.left.and.right.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -679,18 +674,12 @@ public extension SFName {
     ///
     /// - Symbol Name: brakesignal
     /// - Category: automotive
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var brakesignal: String { "brakesignal" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: brakesignal.dashed
     /// - Category: automotive
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var brakesignalDashed: String { "brakesignal.dashed" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -773,7 +762,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var carbonDioxideCloudFill: String { "carbon.dioxide.cloud.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -792,7 +780,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var carbonMonoxideCloudFill: String { "carbon.monoxide.cloud.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -877,10 +864,6 @@ public extension SFName {
     ///
     /// - Symbol Name: cellularbars
     /// - Category: connectivity, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var cellularbars: String { "cellularbars" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -949,7 +932,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var chartLineDowntrendXyaxis: String { "chart.line.downtrend.xyaxis" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -977,7 +959,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var chartLineFlattrendXyaxis: String { "chart.line.flattrend.xyaxis" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -1656,7 +1637,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var curtainsClosed: String { "curtains.closed" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -1666,7 +1646,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var curtainsOpen: String { "curtains.open" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -1784,7 +1763,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var distributeHorizontalCenter: String { "distribute.horizontal.center" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -1794,7 +1772,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var distributeHorizontalCenterFill: String { "distribute.horizontal.center.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -1858,7 +1835,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var distributeVerticalCenter: String { "distribute.vertical.center" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -1868,7 +1844,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var distributeVerticalCenterFill: String { "distribute.vertical.center.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -2149,7 +2124,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var dropKeypadRectangleFill: String { "drop.keypad.rectangle.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -2189,7 +2163,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var ellipsisMessage: String { "ellipsis.message" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -2312,7 +2285,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var exclamationmarkLockFill: String { "exclamationmark.lock.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -2455,7 +2427,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var fanDeskFill: String { "fan.desk.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -2474,7 +2445,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var fanFloorFill: String { "fan.floor.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3402,7 +3372,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var hearingdeviceAndSignalMeter: String { "hearingdevice.and.signal.meter" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3412,7 +3381,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var hearingdeviceAndSignalMeterFill: String { "hearingdevice.and.signal.meter.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3422,7 +3390,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var hearingdeviceEarFill: String { "hearingdevice.ear.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3687,7 +3654,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var keyboardOnehandedLeftFill: String { "keyboard.onehanded.left.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3697,7 +3663,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var keyboardOnehandedRightFill: String { "keyboard.onehanded.right.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3927,7 +3892,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var lightbulb2: String { "lightbulb.2" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -3987,7 +3951,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var lightswitchOffFill: String { "lightswitch.off.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4025,7 +3988,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var lightswitchOnFill: String { "lightswitch.on.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4390,7 +4352,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var mirrorSideLeft: String { "mirror.side.left" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4400,7 +4361,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var mirrorSideRight: String { "mirror.side.right" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4410,7 +4370,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var moonHaze: String { "moon.haze" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4627,7 +4586,7 @@ public extension SFName {
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: numbersign
-    /// - Category: textformatting
+    /// - Recommended: numero.sign
     static var numbersign: String { "numbersign" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4701,7 +4660,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var partyPopper: String { "party.popper" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4711,7 +4669,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var partyPopperFill: String { "party.popper.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4721,7 +4678,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pedestrianGateClosed: String { "pedestrian.gate.closed" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4731,7 +4687,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pedestrianGateOpen: String { "pedestrian.gate.open" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4960,7 +4915,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var phoneDownWavesLeftAndRight: String { "phone.down.waves.left.and.right" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -4989,9 +4943,6 @@ public extension SFName {
     ///
     /// - Symbol Name: pill
     /// - Category: health, objectsandtools
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pill: String { "pill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5001,7 +4952,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pillCircle: String { "pill.circle" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5140,7 +5090,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletStripFill: String { "poweroutlet.strip.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5159,7 +5108,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeAFill: String { "poweroutlet.type.a.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5197,7 +5145,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeBFill: String { "poweroutlet.type.b.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5235,7 +5182,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeCFill: String { "poweroutlet.type.c.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5273,7 +5219,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeDFill: String { "poweroutlet.type.d.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5311,7 +5256,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeEFill: String { "poweroutlet.type.e.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5349,7 +5293,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeFFill: String { "poweroutlet.type.f.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5387,7 +5330,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeGFill: String { "poweroutlet.type.g.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5425,7 +5367,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeHFill: String { "poweroutlet.type.h.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5463,7 +5404,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeIFill: String { "poweroutlet.type.i.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5501,7 +5441,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeJFill: String { "poweroutlet.type.j.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5539,7 +5478,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeKFill: String { "poweroutlet.type.k.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5577,7 +5515,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeLFill: String { "poweroutlet.type.l.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5615,7 +5552,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeMFill: String { "poweroutlet.type.m.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5653,7 +5589,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeNFill: String { "poweroutlet.type.n.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5691,7 +5626,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var poweroutletTypeOFill: String { "poweroutlet.type.o.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5802,7 +5736,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var rectanglePortraitOnRectanglePortraitAngled: String { "rectangle.portrait.on.rectangle.portrait.angled" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5910,7 +5843,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var sensor: String { "sensor" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5920,7 +5852,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var sensorFill: String { "sensor.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -5990,7 +5921,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var shower: String { "shower" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6000,7 +5930,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var showerFill: String { "shower.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6010,7 +5939,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var showerHandheld: String { "shower.handheld" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6020,7 +5948,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var showerHandheldFill: String { "shower.handheld.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6030,7 +5957,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var showerSidejet: String { "shower.sidejet" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6040,7 +5966,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var showerSidejetFill: String { "shower.sidejet.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6078,7 +6003,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var sliderHorizontal2SquareOnSquare: String { "slider.horizontal.2.square.on.square" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6300,7 +6224,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var sprinklerAndDroplets: String { "sprinkler.and.droplets" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6310,7 +6233,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var sprinklerAndDropletsFill: String { "sprinkler.and.droplets.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6326,7 +6248,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square2Layers3D: String { "square.2.layers.3d" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6336,7 +6257,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square2Layers3DBottomFilled: String { "square.2.layers.3d.bottom.filled" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6346,7 +6266,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square2Layers3DTopFilled: String { "square.2.layers.3d.top.filled" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6356,7 +6275,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3D: String { "square.3.layers.3d" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6366,7 +6284,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DBottomFilled: String { "square.3.layers.3d.bottom.filled" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6394,7 +6311,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DMiddleFilled: String { "square.3.layers.3d.middle.filled" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6413,7 +6329,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DTopFilled: String { "square.3.layers.3d.top.filled" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6484,7 +6399,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareOnSquareIntersectionDashed: String { "square.on.square.intersection.dashed" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6531,7 +6445,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var starSquareOnSquare: String { "star.square.on.square" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6540,7 +6453,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var starSquareOnSquareFill: String { "star.square.on.square.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -6703,7 +6615,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var switchProgrammableFill: String { "switch.programmable.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7164,7 +7075,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var videoDoorbellFill: String { "video.doorbell.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7232,10 +7142,6 @@ public extension SFName {
     ///
     /// - Symbol Name: water.waves
     /// - Category: fitness, nature, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var waterWaves: String { "water.waves" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7290,7 +7196,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var webCameraFill: String { "web.camera.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7300,7 +7205,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wifiRouter: String { "wifi.router" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7310,7 +7214,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wifiRouterFill: String { "wifi.router.fill" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7472,7 +7375,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var windshieldFrontAndWiper: String { "windshield.front.and.wiper" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7482,7 +7384,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var windshieldFrontAndWiperAndDrop: String { "windshield.front.and.wiper.and.drop" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later
@@ -7498,7 +7399,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var windshieldRearAndWiper: String { "windshield.rear.and.wiper" }
 
     /// Support only iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0 and later

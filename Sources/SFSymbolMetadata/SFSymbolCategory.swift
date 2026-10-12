@@ -39,7 +39,7 @@ public extension SFSymbolMetadata {
         case shapes /// .squareOnCircle
         case arrows /// .arrowForward
         case indices /// .aCircle
-        case math /// .xSquareroot
+        case math /// .radicandSquareroot
     }
 }
 

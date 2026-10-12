@@ -123,7 +123,17 @@ public let categoryToSymbols: [SFSymbolMetadata.Category: [SFSymbolMetadata]]
 public let releaseToSymbols: [SFSymbolMetadata.ReleaseYear: [SFSymbolMetadata]]
 ```
 
-## 3. Symbol查看
+## 3. 数据生成
+
+更新 `Generator/Files` 中的数据后执行：
+
+```bash
+python3 Generator/generator.py
+```
+
+脚本只使用 Python 标准库，也可以直接执行 `./Generator/generator.py`。脚本根据自身路径定位仓库，不要求当前工作目录位于项目根目录。
+
+## 4. Symbol查看
 
 `Viewer`目录下是相关源码。
 

@@ -3228,7 +3228,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let arrowUpArrowDown = SFSymbolMetadata(.arrowUpArrowDown, releaseYear: ._2019, category: [ .arrows ], layerset: [.hierarchical: ._2023])
+    static let arrowUpArrowDown = SFSymbolMetadata(.arrowUpArrowDown, releaseYear: ._2019, category: [ .arrows ], keywords: ["sort"], layerset: [.hierarchical: ._2023])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3237,7 +3237,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowUpArrowDownCircle = SFSymbolMetadata(.arrowUpArrowDownCircle, releaseYear: ._2019, category: [ .arrows, .variable ], layerset: [.hierarchical: ._2021])
+    static let arrowUpArrowDownCircle = SFSymbolMetadata(.arrowUpArrowDownCircle, releaseYear: ._2019, category: [ .arrows, .variable ], keywords: ["sort"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3247,7 +3247,7 @@ public extension SFSymbolMetadata {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowUpArrowDownCircleFill = SFSymbolMetadata(.arrowUpArrowDownCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let arrowUpArrowDownCircleFill = SFSymbolMetadata(.arrowUpArrowDownCircleFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], keywords: ["sort"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3256,7 +3256,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let arrowUpArrowDownSquare = SFSymbolMetadata(.arrowUpArrowDownSquare, releaseYear: ._2019, category: [ .arrows ], layerset: [.hierarchical: ._2021])
+    static let arrowUpArrowDownSquare = SFSymbolMetadata(.arrowUpArrowDownSquare, releaseYear: ._2019, category: [ .arrows ], keywords: ["sort"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -3266,7 +3266,7 @@ public extension SFSymbolMetadata {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let arrowUpArrowDownSquareFill = SFSymbolMetadata(.arrowUpArrowDownSquareFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let arrowUpArrowDownSquareFill = SFSymbolMetadata(.arrowUpArrowDownSquareFill, releaseYear: ._2019, category: [ .arrows, .multicolor ], keywords: ["sort"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -4314,13 +4314,13 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: bin.xmark
     /// - Recommended: xmark.bin
-    static let binXmark = SFSymbolMetadata(.binXmark, releaseYear: ._2019, recommendedRawValue: "xmark.bin", keywords: ["junk", "mail"])
+    static let binXmark = SFSymbolMetadata(.binXmark, releaseYear: ._2019, recommendedRawValue: "xmark.bin", keywords: ["junk", "mail", "spam"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: bin.xmark.fill
     /// - Recommended: xmark.bin.fill
-    static let binXmarkFill = SFSymbolMetadata(.binXmarkFill, releaseYear: ._2019, recommendedRawValue: "xmark.bin.fill", keywords: ["junk", "mail"])
+    static let binXmarkFill = SFSymbolMetadata(.binXmarkFill, releaseYear: ._2019, recommendedRawValue: "xmark.bin.fill", keywords: ["junk", "mail", "spam"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -4589,8 +4589,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let bubbleLeftAndBubbleRight = SFSymbolMetadata(.bubbleLeftAndBubbleRight, releaseYear: ._2019, category: [ .communication ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let bubbleLeftAndBubbleRight = SFSymbolMetadata(.bubbleLeftAndBubbleRight, releaseYear: ._2019, category: [ .communication ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -4783,8 +4782,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let cameraOnRectangle = SFSymbolMetadata(.cameraOnRectangle, releaseYear: ._2019, category: [ .cameraandphotos, .objectsandtools ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let cameraOnRectangle = SFSymbolMetadata(.cameraOnRectangle, releaseYear: ._2019, category: [ .cameraandphotos, .objectsandtools ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -4856,8 +4854,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let captionsBubbleFill = SFSymbolMetadata(.captionsBubbleFill, releaseYear: ._2019, category: [ .accessibility, .communication ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let captionsBubbleFill = SFSymbolMetadata(.captionsBubbleFill, releaseYear: ._2019, category: [ .accessibility, .communication ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5001,22 +4998,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: chart.bar
-    /// - Category: connectivity, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let chartBar = SFSymbolMetadata(.chartBar, releaseYear: ._2019, category: [ .connectivity, .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    /// - Category: variable
+    static let chartBar = SFSymbolMetadata(.chartBar, releaseYear: ._2019, category: [ .variable ])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: chart.bar.fill
-    /// - Category: connectivity, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let chartBarFill = SFSymbolMetadata(.chartBarFill, releaseYear: ._2019, category: [ .connectivity, .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    /// - Category: variable
+    static let chartBarFill = SFSymbolMetadata(.chartBarFill, releaseYear: ._2019, category: [ .variable ])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5064,8 +5053,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let checkmarkRectangle = SFSymbolMetadata(.checkmarkRectangle, releaseYear: ._2019, category: [ .privacyandsecurity ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let checkmarkRectangle = SFSymbolMetadata(.checkmarkRectangle, releaseYear: ._2019, category: [ .privacyandsecurity ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5238,7 +5226,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: chevron.left.slash.chevron.right
     /// - Recommended: chevron.left.forwardslash.chevron.right
-    static let chevronLeftSlashChevronRight = SFSymbolMetadata(.chevronLeftSlashChevronRight, releaseYear: ._2019, recommendedRawValue: "chevron.left.forwardslash.chevron.right")
+    static let chevronLeftSlashChevronRight = SFSymbolMetadata(.chevronLeftSlashChevronRight, releaseYear: ._2019, recommendedRawValue: "chevron.left.forwardslash.chevron.right", keywords: ["code"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5424,12 +5412,12 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: clear.fill
-    /// - Category: keyboard
+    /// - Category: keyboard, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let clearFill = SFSymbolMetadata(.clearFill, releaseYear: ._2019, category: [ .keyboard ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    static let clearFill = SFSymbolMetadata(.clearFill, releaseYear: ._2019, category: [ .keyboard, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5583,8 +5571,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let cloudMoon = SFSymbolMetadata(.cloudMoon, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let cloudMoon = SFSymbolMetadata(.cloudMoon, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5593,8 +5580,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let cloudMoonBolt = SFSymbolMetadata(.cloudMoonBolt, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let cloudMoonBolt = SFSymbolMetadata(.cloudMoonBolt, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5623,8 +5609,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let cloudMoonRain = SFSymbolMetadata(.cloudMoonRain, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let cloudMoonRain = SFSymbolMetadata(.cloudMoonRain, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5700,8 +5685,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let cloudSun = SFSymbolMetadata(.cloudSun, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let cloudSun = SFSymbolMetadata(.cloudSun, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5710,8 +5694,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let cloudSunBolt = SFSymbolMetadata(.cloudSunBolt, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let cloudSunBolt = SFSymbolMetadata(.cloudSunBolt, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -5740,8 +5723,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let cloudSunRain = SFSymbolMetadata(.cloudSunRain, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let cloudSunRain = SFSymbolMetadata(.cloudSunRain, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6235,8 +6217,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let dotRadiowavesLeftAndRight = SFSymbolMetadata(.dotRadiowavesLeftAndRight, releaseYear: ._2019, category: [ .connectivity, .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let dotRadiowavesLeftAndRight = SFSymbolMetadata(.dotRadiowavesLeftAndRight, releaseYear: ._2019, category: [ .connectivity, .variable ], keywords: ["radio", "station"], layerset: [.hierarchical: ._2022])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6245,8 +6226,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let dotRadiowavesRight = SFSymbolMetadata(.dotRadiowavesRight, releaseYear: ._2019, category: [ .connectivity, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let dotRadiowavesRight = SFSymbolMetadata(.dotRadiowavesRight, releaseYear: ._2019, category: [ .connectivity, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6360,11 +6340,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: ellipsis
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let ellipsis = SFSymbolMetadata(.ellipsis, releaseYear: ._2019, category: [ .variable ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let ellipsis = SFSymbolMetadata(.ellipsis, releaseYear: ._2019, category: [ .variable ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -6373,8 +6349,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let ellipsisCircle = SFSymbolMetadata(.ellipsisCircle, releaseYear: ._2019, category: [ .variable ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let ellipsisCircle = SFSymbolMetadata(.ellipsisCircle, releaseYear: ._2019, category: [ .variable ], keywords: ["action", "dot.3", "extra", "more", "overflow", "…"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8707,11 +8682,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: livephoto
     /// - Category: cameraandphotos, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let livephoto = SFSymbolMetadata(.livephoto, releaseYear: ._2019, category: [ .cameraandphotos, .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let livephoto = SFSymbolMetadata(.livephoto, releaseYear: ._2019, category: [ .cameraandphotos, .variable ])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8922,8 +8893,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let lockShieldFill = SFSymbolMetadata(.lockShieldFill, releaseYear: ._2019, category: [ .objectsandtools, .privacyandsecurity ], keywords: ["padlock", "password", "security"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let lockShieldFill = SFSymbolMetadata(.lockShieldFill, releaseYear: ._2019, category: [ .objectsandtools, .privacyandsecurity ], keywords: ["padlock", "password", "security"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -8986,12 +8956,8 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow
-    /// - Category: multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let macwindow = SFSymbolMetadata(.macwindow, releaseYear: ._2019, category: [ .multicolor ], layerset: [.hierarchical: ._2022, .multicolor: ._2021])
+    /// - Recommended: interface.window
+    static let macwindow = SFSymbolMetadata(.macwindow, releaseYear: ._2019, recommendedRawValue: "interface.window")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -9074,9 +9040,8 @@ public extension SFSymbolMetadata {
     /// - Category: maps, multicolor, objectsandtools
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let mappin = SFSymbolMetadata(.mappin, releaseYear: ._2019, category: [ .maps, .multicolor, .objectsandtools ], layerset: [.hierarchical: ._2022, .multicolor: ._2021])
+    static let mappin = SFSymbolMetadata(.mappin, releaseYear: ._2019, category: [ .maps, .multicolor, .objectsandtools ], layerset: [.multicolor: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -9101,27 +9066,28 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: memories
-    static let memories = SFSymbolMetadata(.memories, releaseYear: ._2019, keywords: ["arrow", "play"])
+    /// - Category: arrows
+    static let memories = SFSymbolMetadata(.memories, releaseYear: ._2019, category: [ .arrows ], keywords: ["arrow", "play"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: memories.badge.minus
-    /// - Category: multicolor
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0
-    static let memoriesBadgeMinus = SFSymbolMetadata(.memoriesBadgeMinus, releaseYear: ._2019, category: [ .multicolor ], keywords: ["arrow", "play", "remove"], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
+    static let memoriesBadgeMinus = SFSymbolMetadata(.memoriesBadgeMinus, releaseYear: ._2019, category: [ .arrows, .multicolor ], keywords: ["arrow", "play", "remove"], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: memories.badge.plus
-    /// - Category: multicolor
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0
-    static let memoriesBadgePlus = SFSymbolMetadata(.memoriesBadgePlus, releaseYear: ._2019, category: [ .multicolor ], keywords: ["add", "arrow", "play"], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
+    static let memoriesBadgePlus = SFSymbolMetadata(.memoriesBadgePlus, releaseYear: ._2019, category: [ .arrows, .multicolor ], keywords: ["add", "arrow", "play"], layerset: [.hierarchical: ._2021, .multicolor: ._2020])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -9455,8 +9421,8 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: music.mic
-    /// - Recommended: music.microphone
-    static let musicMic = SFSymbolMetadata(.musicMic, releaseYear: ._2019, recommendedRawValue: "music.microphone", keywords: ["microphone"])
+    /// - Recommended: microphone.dynamic.on.stand
+    static let musicMic = SFSymbolMetadata(.musicMic, releaseYear: ._2019, recommendedRawValue: "microphone.dynamic.on.stand", keywords: ["microphone"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -9556,46 +9522,32 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: number
-    /// - Category: math
-    static let number = SFSymbolMetadata(.number, releaseYear: ._2019, category: [ .math ], keywords: ["#", "hash", "octothorpe", "pound"])
+    /// - Recommended: number.sign
+    static let number = SFSymbolMetadata(.number, releaseYear: ._2019, recommendedRawValue: "number.sign", keywords: ["#", "hash", "octothorpe", "pound"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: number.circle
-    /// - Category: math, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let numberCircle = SFSymbolMetadata(.numberCircle, releaseYear: ._2019, category: [ .math, .variable ], keywords: ["#", "hash", "octothorpe", "pound"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: number.sign.circle
+    static let numberCircle = SFSymbolMetadata(.numberCircle, releaseYear: ._2019, recommendedRawValue: "number.sign.circle", keywords: ["#", "hash", "octothorpe", "pound"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: number.circle.fill
-    /// - Category: math, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let numberCircleFill = SFSymbolMetadata(.numberCircleFill, releaseYear: ._2019, category: [ .math, .multicolor ], keywords: ["#", "hash", "octothorpe", "pound"], layerset: [.hierarchical: ._2021, .multicolor: ._2021])
+    /// - Recommended: number.sign.circle.fill
+    static let numberCircleFill = SFSymbolMetadata(.numberCircleFill, releaseYear: ._2019, recommendedRawValue: "number.sign.circle.fill", keywords: ["#", "hash", "octothorpe", "pound"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: number.square
-    /// - Category: math
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let numberSquare = SFSymbolMetadata(.numberSquare, releaseYear: ._2019, category: [ .math ], keywords: ["#", "hash", "octothorpe", "pound"], layerset: [.hierarchical: ._2021])
+    /// - Recommended: number.sign.square
+    static let numberSquare = SFSymbolMetadata(.numberSquare, releaseYear: ._2019, recommendedRawValue: "number.sign.square", keywords: ["#", "hash", "octothorpe", "pound"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: number.square.fill
-    /// - Category: math, multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let numberSquareFill = SFSymbolMetadata(.numberSquareFill, releaseYear: ._2019, category: [ .math, .multicolor ], keywords: ["#", "hash", "octothorpe", "pound"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    /// - Recommended: number.sign.square.fill
+    static let numberSquareFill = SFSymbolMetadata(.numberSquareFill, releaseYear: ._2019, recommendedRawValue: "number.sign.square.fill", keywords: ["#", "hash", "octothorpe", "pound"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10152,8 +10104,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let perspective = SFSymbolMetadata(.perspective, releaseYear: ._2019, category: [ .cameraandphotos, .editing ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let perspective = SFSymbolMetadata(.perspective, releaseYear: ._2019, category: [ .cameraandphotos, .editing ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10405,8 +10356,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let photoOnRectangle = SFSymbolMetadata(.photoOnRectangle, releaseYear: ._2019, category: [ .cameraandphotos ], keywords: ["environment", "image", "mountain", "photograph", "picture", "place", "sun"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let photoOnRectangle = SFSymbolMetadata(.photoOnRectangle, releaseYear: ._2019, category: [ .cameraandphotos ], keywords: ["environment", "image", "mountain", "photograph", "picture", "place", "sun"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10610,8 +10560,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let plusRectangleFillOnRectangleFill = SFSymbolMetadata(.plusRectangleFillOnRectangleFill, releaseYear: ._2019, legacyRawValue: "plus.rectangle.on.rectangle.fill", keywords: ["add"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let plusRectangleFillOnRectangleFill = SFSymbolMetadata(.plusRectangleFillOnRectangleFill, releaseYear: ._2019, legacyRawValue: "plus.rectangle.on.rectangle.fill", keywords: ["add"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10619,8 +10568,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let plusRectangleOnRectangle = SFSymbolMetadata(.plusRectangleOnRectangle, releaseYear: ._2019, keywords: ["add"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let plusRectangleOnRectangle = SFSymbolMetadata(.plusRectangleOnRectangle, releaseYear: ._2019, keywords: ["add"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10655,8 +10603,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let plusSquareFillOnSquareFill = SFSymbolMetadata(.plusSquareFillOnSquareFill, releaseYear: ._2019, legacyRawValue: "plus.square.on.square.fill", keywords: ["add", "duplicate"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let plusSquareFillOnSquareFill = SFSymbolMetadata(.plusSquareFillOnSquareFill, releaseYear: ._2019, legacyRawValue: "plus.square.on.square.fill", keywords: ["add", "duplicate"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10664,8 +10611,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let plusSquareOnSquare = SFSymbolMetadata(.plusSquareOnSquare, releaseYear: ._2019, keywords: ["add", "duplicate"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let plusSquareOnSquare = SFSymbolMetadata(.plusSquareOnSquare, releaseYear: ._2019, keywords: ["add", "duplicate"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10876,8 +10822,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let questionmarkVideoFill = SFSymbolMetadata(.questionmarkVideoFill, releaseYear: ._2019, category: [ .communication ], keywords: ["facetime"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let questionmarkVideoFill = SFSymbolMetadata(.questionmarkVideoFill, releaseYear: ._2019, category: [ .communication ], keywords: ["facetime"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -10964,11 +10909,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: rays
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let rays = SFSymbolMetadata(.rays, releaseYear: ._2019, category: [ .variable ], keywords: ["light"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let rays = SFSymbolMetadata(.rays, releaseYear: ._2019, category: [ .variable ], keywords: ["light"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11147,8 +11088,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let rectangleOnRectangle = SFSymbolMetadata(.rectangleOnRectangle, releaseYear: ._2019, category: [ .gaming ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let rectangleOnRectangle = SFSymbolMetadata(.rectangleOnRectangle, releaseYear: ._2019, category: [ .gaming ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11156,8 +11096,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let rectangleOnRectangleAngled = SFSymbolMetadata(.rectangleOnRectangleAngled, releaseYear: ._2019, layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let rectangleOnRectangleAngled = SFSymbolMetadata(.rectangleOnRectangleAngled, releaseYear: ._2019, layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11264,17 +11203,17 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat
-    /// - Category: media
-    static let `repeat` = SFSymbolMetadata(.repeat, releaseYear: ._2019, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"])
+    /// - Category: arrows, media
+    static let `repeat` = SFSymbolMetadata(.repeat, releaseYear: ._2019, category: [ .arrows, .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat.1
-    /// - Category: media
+    /// - Category: arrows, media
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let repeat1 = SFSymbolMetadata(.repeat1, releaseYear: ._2019, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
+    static let repeat1 = SFSymbolMetadata(.repeat1, releaseYear: ._2019, category: [ .arrows, .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11567,8 +11506,8 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: shuffle
-    /// - Category: media
-    static let shuffle = SFSymbolMetadata(.shuffle, releaseYear: ._2019, category: [ .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"])
+    /// - Category: arrows, media
+    static let shuffle = SFSymbolMetadata(.shuffle, releaseYear: ._2019, category: [ .arrows, .media ], keywords: ["arrow", "arrow.trianglehead", "trianglehead"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11587,8 +11526,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let signature = SFSymbolMetadata(.signature, releaseYear: ._2019, category: [ .commerce, .editing, .textformatting ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let signature = SFSymbolMetadata(.signature, releaseYear: ._2019, category: [ .commerce, .editing, .textformatting ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -11634,11 +11572,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: slowmo
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let slowmo = SFSymbolMetadata(.slowmo, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let slowmo = SFSymbolMetadata(.slowmo, releaseYear: ._2019, category: [ .variable ])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12033,8 +11967,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let squareOnCircle = SFSymbolMetadata(.squareOnCircle, releaseYear: ._2019, layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let squareOnCircle = SFSymbolMetadata(.squareOnCircle, releaseYear: ._2019, layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12042,8 +11975,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let squareOnSquare = SFSymbolMetadata(.squareOnSquare, releaseYear: ._2019, layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let squareOnSquare = SFSymbolMetadata(.squareOnSquare, releaseYear: ._2019, layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12099,8 +12031,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let squareStack3DDownRight = SFSymbolMetadata(.squareStack3DDownRight, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let squareStack3DDownRight = SFSymbolMetadata(.squareStack3DDownRight, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12109,8 +12040,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let squareStack3DDownRightFill = SFSymbolMetadata(.squareStack3DDownRightFill, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let squareStack3DDownRightFill = SFSymbolMetadata(.squareStack3DDownRightFill, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12119,8 +12049,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let squareStack3DUp = SFSymbolMetadata(.squareStack3DUp, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let squareStack3DUp = SFSymbolMetadata(.squareStack3DUp, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12129,8 +12058,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let squareStack3DUpFill = SFSymbolMetadata(.squareStack3DUpFill, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let squareStack3DUpFill = SFSymbolMetadata(.squareStack3DUpFill, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12422,8 +12350,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let sunDust = SFSymbolMetadata(.sunDust, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let sunDust = SFSymbolMetadata(.sunDust, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12442,8 +12369,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let sunHaze = SFSymbolMetadata(.sunHaze, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let sunHaze = SFSymbolMetadata(.sunHaze, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12489,8 +12415,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let sunrise = SFSymbolMetadata(.sunrise, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["arrow", "weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let sunrise = SFSymbolMetadata(.sunrise, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["arrow", "weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12509,8 +12434,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let sunset = SFSymbolMetadata(.sunset, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["arrow", "weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let sunset = SFSymbolMetadata(.sunset, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["arrow", "weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12768,7 +12692,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let textBubble = SFSymbolMetadata(.textBubble, releaseYear: ._2019, category: [ .communication ], layerset: [.hierarchical: ._2021])
+    static let textBubble = SFSymbolMetadata(.textBubble, releaseYear: ._2019, category: [ .communication ], keywords: ["speech"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12778,7 +12702,7 @@ public extension SFSymbolMetadata {
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let textBubbleFill = SFSymbolMetadata(.textBubbleFill, releaseYear: ._2019, category: [ .communication, .multicolor ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let textBubbleFill = SFSymbolMetadata(.textBubbleFill, releaseYear: ._2019, category: [ .communication, .multicolor ], keywords: ["speech"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -12905,18 +12829,13 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let thermometerSun = SFSymbolMetadata(.thermometerSun, releaseYear: ._2019, category: [ .nature, .variable, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let thermometerSun = SFSymbolMetadata(.thermometerSun, releaseYear: ._2019, category: [ .nature, .variable, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: timelapse
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let timelapse = SFSymbolMetadata(.timelapse, releaseYear: ._2019, category: [ .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let timelapse = SFSymbolMetadata(.timelapse, releaseYear: ._2019, category: [ .variable ])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13506,8 +13425,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let wandAndRays = SFSymbolMetadata(.wandAndRays, releaseYear: ._2019, category: [ .editing, .objectsandtools, .variable ], keywords: ["magic"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let wandAndRays = SFSymbolMetadata(.wandAndRays, releaseYear: ._2019, category: [ .editing, .objectsandtools, .variable ], keywords: ["magic"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13516,8 +13434,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let wandAndRaysInverse = SFSymbolMetadata(.wandAndRaysInverse, releaseYear: ._2019, category: [ .editing, .objectsandtools, .variable ], keywords: ["magic"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let wandAndRaysInverse = SFSymbolMetadata(.wandAndRaysInverse, releaseYear: ._2019, category: [ .editing, .objectsandtools, .variable ], keywords: ["magic"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13535,11 +13452,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: waveform
     /// - Category: communication, maps, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let waveform = SFSymbolMetadata(.waveform, releaseYear: ._2019, category: [ .communication, .maps, .variable ], keywords: ["audio", "high", "record", "speech", "voice memo"], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let waveform = SFSymbolMetadata(.waveform, releaseYear: ._2019, category: [ .communication, .maps, .variable ], keywords: ["audio", "high", "record", "speech", "voice memo"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13548,8 +13461,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let waveformCircle = SFSymbolMetadata(.waveformCircle, releaseYear: ._2019, category: [ .communication, .maps, .variable ], keywords: ["audio", "high", "record", "speech", "voice memo"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let waveformCircle = SFSymbolMetadata(.waveformCircle, releaseYear: ._2019, category: [ .communication, .maps, .variable ], keywords: ["audio", "high", "record", "speech", "voice memo"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13598,9 +13510,8 @@ public extension SFSymbolMetadata {
     /// - Category: connectivity, multicolor, variable
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0
-    static let wifi = SFSymbolMetadata(.wifi, releaseYear: ._2019, category: [ .connectivity, .multicolor, .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2020_1])
+    static let wifi = SFSymbolMetadata(.wifi, releaseYear: ._2019, category: [ .connectivity, .multicolor, .variable ], layerset: [.multicolor: ._2020_1])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13625,10 +13536,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: wind
     /// - Category: nature, weather
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0
-    static let wind = SFSymbolMetadata(.wind, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.multicolor: ._2020])
+    static let wind = SFSymbolMetadata(.wind, releaseYear: ._2019, category: [ .nature, .weather ], keywords: ["weather"])
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
@@ -13731,11 +13639,8 @@ public extension SFSymbolMetadata {
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: x.squareroot
-    /// - Category: math
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    static let xSquareroot = SFSymbolMetadata(.xSquareroot, releaseYear: ._2019, category: [ .math ], layerset: [.hierarchical: ._2021])
+    /// - Recommended: radicand.squareroot
+    static let xSquareroot = SFSymbolMetadata(.xSquareroot, releaseYear: ._2019, recommendedRawValue: "radicand.squareroot")
 
     /// Support only iOS 13.0, macOS 10.15, tvOS 13.0, watchOS 6.0, visionOS 1.0 and later
     ///

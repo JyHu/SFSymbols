@@ -515,10 +515,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: airplay.audio
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var airplayAudio: SFSymbol { SFSymbol(rawValue: SFName.airplayAudio) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -538,7 +534,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var airplayAudioCircle: SFSymbol { SFSymbol(rawValue: SFName.airplayAudioCircle) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -804,9 +799,6 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: apple.image.playground
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     static var appleImagePlayground: SFSymbol { SFSymbol(rawValue: SFName.appleImagePlayground) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -815,17 +807,12 @@ public extension SFSymbol {
     /// - Category: multicolor
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     static var appleImagePlaygroundFill: SFSymbol { SFSymbol(rawValue: SFName.appleImagePlaygroundFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: apple.intelligence
-    /// - Category: multicolor
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
     static var appleIntelligence: SFSymbol { SFSymbol(rawValue: SFName.appleIntelligence) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1072,7 +1059,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var arrowRightPageOnClipboard: SFSymbol { SFSymbol(rawValue: SFName.arrowRightPageOnClipboard) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1151,7 +1137,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var arrowTrianglehead2ClockwiseRotate90PageOnClipboard: SFSymbol { SFSymbol(rawValue: SFName.arrowTrianglehead2ClockwiseRotate90PageOnClipboard) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1483,7 +1468,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var arrowUpPageOnClipboard: SFSymbol { SFSymbol(rawValue: SFName.arrowUpPageOnClipboard) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1538,20 +1522,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australiandollarsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: australiandollarsign.building.classical
     static var australiandollarsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.australiandollarsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australiandollarsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: australiandollarsign.building.classical.fill
     static var australiandollarsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.australiandollarsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1602,20 +1579,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: australsign.building.classical
     static var australsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.australsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: australsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: australsign.building.classical.fill
     static var australsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.australsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1666,20 +1636,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bahtsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: bahtsign.building.classical
     static var bahtsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.bahtsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bahtsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: bahtsign.building.classical.fill
     static var bahtsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.bahtsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1894,20 +1857,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bitcoinsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: bitcoinsign.building.classical
     static var bitcoinsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.bitcoinsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: bitcoinsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: bitcoinsign.building.classical.fill
     static var bitcoinsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.bitcoinsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -1958,20 +1914,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: brazilianrealsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: brazilianrealsign.building.classical
     static var brazilianrealsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.brazilianrealsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: brazilianrealsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: brazilianrealsign.building.classical.fill
     static var brazilianrealsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.brazilianrealsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -2628,20 +2577,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cedisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: cedisign.building.classical
     static var cedisignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.cedisignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cedisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: cedisign.building.classical.fill
     static var cedisignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.cedisignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -2692,20 +2634,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: centsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: centsign.building.classical
     static var centsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.centsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: centsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: centsign.building.classical.fill
     static var centsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.centsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -3160,10 +3095,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: chart.bar.horizontal.page
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
-    /// - multicolor: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
     static var chartBarHorizontalPage: SFSymbol { SFSymbol(rawValue: SFName.chartBarHorizontalPage) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -3172,7 +3103,6 @@ public extension SFSymbol {
     /// - Category: multicolor, variable
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
     /// - multicolor: iOS 16.1, macOS 13.0, tvOS 16.1, watchOS 9.1, visionOS 1.0
     static var chartBarHorizontalPageFill: SFSymbol { SFSymbol(rawValue: SFName.chartBarHorizontalPageFill) }
 
@@ -3389,20 +3319,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: chineseyuanrenminbisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: chineseyuanrenminbisign.building.classical
     static var chineseyuanrenminbisignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.chineseyuanrenminbisignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: chineseyuanrenminbisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: chineseyuanrenminbisign.building.classical.fill
     static var chineseyuanrenminbisignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.chineseyuanrenminbisignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -3509,20 +3432,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: coloncurrencysign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: coloncurrencysign.building.classical
     static var coloncurrencysignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.coloncurrencysignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: coloncurrencysign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: coloncurrencysign.building.classical.fill
     static var coloncurrencysignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.coloncurrencysignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -3862,20 +3778,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cruzeirosign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: cruzeirosign.building.classical
     static var cruzeirosignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.cruzeirosignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: cruzeirosign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: cruzeirosign.building.classical.fill
     static var cruzeirosignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.cruzeirosignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -3944,20 +3853,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: danishkronesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: danishkronesign.building.classical
     static var danishkronesignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.danishkronesignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: danishkronesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: danishkronesign.building.classical.fill
     static var danishkronesignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.danishkronesignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -4189,7 +4091,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var documentOnClipboard: SFSymbol { SFSymbol(rawValue: SFName.documentOnClipboard) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -4208,7 +4109,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var documentOnDocument: SFSymbol { SFSymbol(rawValue: SFName.documentOnDocument) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -4250,20 +4150,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dollarsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: dollarsign.building.classical
     static var dollarsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.dollarsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dollarsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: dollarsign.building.classical.fill
     static var dollarsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.dollarsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -4314,20 +4207,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dongsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: dongsign.building.classical
     static var dongsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.dongsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: dongsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: dongsign.building.classical.fill
     static var dongsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.dongsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -4492,20 +4378,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurosign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: eurosign.building.classical
     static var eurosignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.eurosignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurosign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: eurosign.building.classical.fill
     static var eurosignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.eurosignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -4556,20 +4435,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurozonesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: eurozonesign.building.classical
     static var eurozonesignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.eurozonesignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: eurozonesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: eurozonesign.building.classical.fill
     static var eurozonesignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.eurozonesignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -6900,20 +6772,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: florinsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: florinsign.building.classical
     static var florinsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.florinsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: florinsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: florinsign.building.classical.fill
     static var florinsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.florinsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -6988,20 +6853,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: francsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: francsign.building.classical
     static var francsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.francsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: francsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: francsign.building.classical.fill
     static var francsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.francsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -7139,20 +6997,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: guaranisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: guaranisign.building.classical
     static var guaranisignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.guaranisignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: guaranisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: guaranisign.building.classical.fill
     static var guaranisignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.guaranisignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -7318,10 +7169,7 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: head.profile.arrow.forward.and.vision.pro
-    /// - Category: devices
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
+    /// - Recommended: head.profile.vision.pro.remove
     static var headProfileArrowForwardAndVisionPro: SFSymbol { SFSymbol(rawValue: SFName.headProfileArrowForwardAndVisionPro) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -7965,20 +7813,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: hryvniasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: hryvniasign.building.classical
     static var hryvniasignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.hryvniasignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: hryvniasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: hryvniasign.building.classical.fill
     static var hryvniasignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.hryvniasignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -8029,20 +7870,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: indianrupeesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: indianrupeesign.building.classical
     static var indianrupeesignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.indianrupeesignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: indianrupeesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: indianrupeesign.building.classical.fill
     static var indianrupeesignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.indianrupeesignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -8443,15 +8277,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: inset.filled.rectangle.and.person.filled
-    /// - Category: human
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
+    /// - Recommended: inset.filled.rectangle.and.person
     static var insetFilledRectangleAndPersonFilled: SFSymbol { SFSymbol(rawValue: SFName.insetFilledRectangleAndPersonFilled) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: inset.filled.rectangle.badge.record
+    /// - Category: human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
@@ -8864,7 +8696,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var ipadLandscapeAndIphone: SFSymbol { SFSymbol(rawValue: SFName.ipadLandscapeAndIphone) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -9246,20 +9077,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: kipsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: kipsign.building.classical
     static var kipsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.kipsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: kipsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: kipsign.building.classical.fill
     static var kipsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.kipsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -9347,20 +9171,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: larisign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: larisign.building.classical
     static var larisignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.larisignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: larisign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: larisign.building.classical.fill
     static var larisignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.larisignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -9465,20 +9282,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: lirasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: lirasign.building.classical
     static var lirasignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.lirasignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: lirasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: lirasign.building.classical.fill
     static var lirasignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.lirasignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -9552,7 +9362,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var lockDocumentFill: SFSymbol { SFSymbol(rawValue: SFName.lockDocumentFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -9608,19 +9417,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: malaysianringgitsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: malaysianringgitsign.building.classical
     static var malaysianringgitsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.malaysianringgitsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: malaysianringgitsign.bank.building.fill
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: malaysianringgitsign.building.classical.fill
     static var malaysianringgitsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.malaysianringgitsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -9709,20 +9512,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: manatsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: manatsign.building.classical
     static var manatsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.manatsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: manatsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: manatsign.building.classical.fill
     static var manatsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.manatsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -9962,20 +9758,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: millsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: millsign.building.classical
     static var millsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.millsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: millsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: millsign.building.classical.fill
     static var millsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.millsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10059,26 +9848,19 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: music.microphone
-    /// - Category: objectsandtools
+    /// - Recommended: microphone.dynamic.on.stand
     static var musicMicrophone: SFSymbol { SFSymbol(rawValue: SFName.musicMicrophone) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: music.microphone.circle
-    /// - Category: objectsandtools, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
+    /// - Recommended: microphone.dynamic.on.stand.circle
     static var musicMicrophoneCircle: SFSymbol { SFSymbol(rawValue: SFName.musicMicrophoneCircle) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: music.microphone.circle.fill
-    /// - Category: multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
+    /// - Recommended: microphone.dynamic.on.stand.circle.fill
     static var musicMicrophoneCircleFill: SFSymbol { SFSymbol(rawValue: SFName.musicMicrophoneCircleFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10093,20 +9875,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: nairasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: nairasign.building.classical
     static var nairasignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.nairasignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: nairasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: nairasign.building.classical.fill
     static var nairasignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.nairasignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10157,20 +9932,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: norwegiankronesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: norwegiankronesign.building.classical
     static var norwegiankronesignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.norwegiankronesignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: norwegiankronesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: norwegiankronesign.building.classical.fill
     static var norwegiankronesignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.norwegiankronesignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10483,19 +10251,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: person.crop.badge.magnifyingglass
-    /// - Category: human
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: person.crop.circle.badge.magnifyingglass
     static var personCropBadgeMagnifyingglass: SFSymbol { SFSymbol(rawValue: SFName.personCropBadgeMagnifyingglass) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: person.crop.badge.magnifyingglass.fill
-    /// - Category: human
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: person.crop.circle.badge.magnifyingglass.fill
     static var personCropBadgeMagnifyingglassFill: SFSymbol { SFSymbol(rawValue: SFName.personCropBadgeMagnifyingglassFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10552,20 +10314,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: peruviansolessign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: peruviansolessign.building.classical
     static var peruviansolessignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.peruviansolessignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: peruviansolessign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: peruviansolessign.building.classical.fill
     static var peruviansolessignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.peruviansolessignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10654,20 +10409,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesetasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: pesetasign.building.classical
     static var pesetasignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.pesetasignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesetasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: pesetasign.building.classical.fill
     static var pesetasignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.pesetasignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10718,20 +10466,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesosign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: pesosign.building.classical
     static var pesosignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.pesosignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: pesosign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: pesosign.building.classical.fill
     static var pesosignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.pesosignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -10912,20 +10653,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: polishzlotysign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: polishzlotysign.building.classical
     static var polishzlotysignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.polishzlotysignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: polishzlotysign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: polishzlotysign.building.classical.fill
     static var polishzlotysignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.polishzlotysignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11034,17 +10768,11 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: questionmark.text.page
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
     static var questionmarkTextPage: SFSymbol { SFSymbol(rawValue: SFName.questionmarkTextPage) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: questionmark.text.page.ar
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
     static var questionmarkTextPageAr: SFSymbol { SFSymbol(rawValue: SFName.questionmarkTextPageAr) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11065,9 +10793,6 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: questionmark.text.page.rtl
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
     static var questionmarkTextPageRtl: SFSymbol { SFSymbol(rawValue: SFName.questionmarkTextPageRtl) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11205,20 +10930,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rublesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: rublesign.building.classical
     static var rublesignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.rublesignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rublesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: rublesign.building.classical.fill
     static var rublesignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.rublesignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11300,20 +11018,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rupeesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: rupeesign.building.classical
     static var rupeesignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.rupeesignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: rupeesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: rupeesign.building.classical.fill
     static var rupeesignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.rupeesignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11401,20 +11112,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: shekelsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: shekelsign.building.classical
     static var shekelsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.shekelsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: shekelsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: shekelsign.building.classical.fill
     static var shekelsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.shekelsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11477,20 +11181,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: singaporedollarsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: singaporedollarsign.building.classical
     static var singaporedollarsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.singaporedollarsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: singaporedollarsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: singaporedollarsign.building.classical.fill
     static var singaporedollarsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.singaporedollarsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11669,20 +11366,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: sterlingsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: sterlingsign.building.classical
     static var sterlingsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.sterlingsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: sterlingsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: sterlingsign.building.classical.fill
     static var sterlingsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.sterlingsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11827,20 +11517,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: swedishkronasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: swedishkronasign.building.classical
     static var swedishkronasignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.swedishkronasignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: swedishkronasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: swedishkronasign.building.classical.fill
     static var swedishkronasignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.swedishkronasignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -11900,20 +11583,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tengesign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: tengesign.building.classical
     static var tengesignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.tengesignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tengesign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: tengesign.building.classical.fill
     static var tengesignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.tengesignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -12921,20 +12597,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tugriksign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: tugriksign.building.classical
     static var tugriksignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.tugriksignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: tugriksign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: tugriksign.building.classical.fill
     static var tugriksignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.tugriksignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -12985,20 +12654,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: turkishlirasign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: turkishlirasign.building.classical
     static var turkishlirasignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.turkishlirasignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: turkishlirasign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: turkishlirasign.building.classical.fill
     static var turkishlirasignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.turkishlirasignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -13223,7 +12885,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var waterWavesAndArrowTriangleheadDown: SFSymbol { SFSymbol(rawValue: SFName.waterWavesAndArrowTriangleheadDown) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -13243,7 +12904,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var waterWavesAndArrowTriangleheadUp: SFSymbol { SFSymbol(rawValue: SFName.waterWavesAndArrowTriangleheadUp) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -13379,7 +13039,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var waveformBadgeMicrophone: SFSymbol { SFSymbol(rawValue: SFName.waveformBadgeMicrophone) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -13472,20 +13131,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: wonsign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: wonsign.building.classical
     static var wonsignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.wonsignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: wonsign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: wonsign.building.classical.fill
     static var wonsignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.wonsignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
@@ -13548,20 +13200,13 @@ public extension SFSymbol {
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: yensign.bank.building
-    /// - Category: commerce, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: yensign.building.classical
     static var yensignBankBuilding: SFSymbol { SFSymbol(rawValue: SFName.yensignBankBuilding) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later
     ///
     /// - Symbol Name: yensign.bank.building.fill
-    /// - Category: commerce, multicolor, objectsandtools
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
+    /// - Recommended: yensign.building.classical.fill
     static var yensignBankBuildingFill: SFSymbol { SFSymbol(rawValue: SFName.yensignBankBuildingFill) }
 
     /// Support only iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0 and later

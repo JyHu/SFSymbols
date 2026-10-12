@@ -6,7 +6,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: 1.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -15,8 +15,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 1.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _1CalendarAr: String { "1.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 1.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _1CalendarHi: String { "1.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 10.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -25,8 +45,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 10.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _10CalendarAr: String { "10.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 10.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _10CalendarHi: String { "10.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 11.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -35,8 +75,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 11.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _11CalendarAr: String { "11.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 11.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _11CalendarHi: String { "11.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 12.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -45,8 +105,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 12.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _12CalendarAr: String { "12.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 12.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _12CalendarHi: String { "12.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 13.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -55,8 +135,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 13.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _13CalendarAr: String { "13.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 13.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _13CalendarHi: String { "13.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 14.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -65,8 +165,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 14.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _14CalendarAr: String { "14.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 14.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _14CalendarHi: String { "14.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 15.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -75,8 +195,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 15.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _15CalendarAr: String { "15.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 15.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _15CalendarHi: String { "15.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 16.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -85,8 +225,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 16.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _16CalendarAr: String { "16.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 16.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _16CalendarHi: String { "16.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 17.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -95,8 +255,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 17.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _17CalendarAr: String { "17.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 17.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _17CalendarHi: String { "17.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 18.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -105,8 +285,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 18.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _18CalendarAr: String { "18.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 18.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _18CalendarHi: String { "18.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 19.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -115,8 +315,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 19.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _19CalendarAr: String { "19.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 19.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _19CalendarHi: String { "19.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 2.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -125,8 +345,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 2.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _2CalendarAr: String { "2.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 2.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _2CalendarHi: String { "2.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 20.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -135,8 +375,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 20.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _20CalendarAr: String { "20.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 20.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _20CalendarHi: String { "20.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 21.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -145,8 +405,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 21.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _21CalendarAr: String { "21.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 21.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _21CalendarHi: String { "21.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 22.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -155,8 +435,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 22.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _22CalendarAr: String { "22.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 22.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _22CalendarHi: String { "22.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 23.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -165,8 +465,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 23.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _23CalendarAr: String { "23.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 23.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _23CalendarHi: String { "23.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 24.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -175,8 +495,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 24.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _24CalendarAr: String { "24.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 24.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _24CalendarHi: String { "24.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 25.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -185,8 +525,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 25.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _25CalendarAr: String { "25.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 25.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _25CalendarHi: String { "25.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 26.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -195,8 +555,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 26.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _26CalendarAr: String { "26.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 26.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _26CalendarHi: String { "26.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 27.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -205,8 +585,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 27.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _27CalendarAr: String { "27.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 27.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _27CalendarHi: String { "27.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 28.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -215,8 +615,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 28.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _28CalendarAr: String { "28.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 28.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _28CalendarHi: String { "28.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 29.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -225,8 +645,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 29.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _29CalendarAr: String { "29.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 29.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _29CalendarHi: String { "29.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 3.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -235,8 +675,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 3.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _3CalendarAr: String { "3.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 3.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _3CalendarHi: String { "3.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 30.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -245,8 +705,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 30.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _30CalendarAr: String { "30.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 30.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _30CalendarHi: String { "30.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 31.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -255,8 +735,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 31.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _31CalendarAr: String { "31.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 31.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _31CalendarHi: String { "31.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 4.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -265,8 +765,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 4.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _4CalendarAr: String { "4.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 4.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _4CalendarHi: String { "4.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 5.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -275,8 +795,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 5.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _5CalendarAr: String { "5.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 5.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _5CalendarHi: String { "5.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 6.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -285,8 +825,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 6.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _6CalendarAr: String { "6.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 6.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _6CalendarHi: String { "6.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 7.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -295,8 +855,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 7.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _7CalendarAr: String { "7.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 7.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _7CalendarHi: String { "7.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 8.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -305,8 +885,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 8.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _8CalendarAr: String { "8.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 8.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _8CalendarHi: String { "8.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: 9.calendar
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -315,8 +915,40 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: 9.calendar.ar
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _9CalendarAr: String { "9.calendar.ar" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: 9.calendar.hi
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var _9CalendarHi: String { "9.calendar.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: ac
+    /// - Recommended: air.conditioner
+    static var ac: String { "ac" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: ac.slash
+    /// - Recommended: air.conditioner.slash
+    static var acSlash: String { "ac.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: airplane.cloud
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -325,7 +957,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.landed
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -334,7 +966,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.path.dotted
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -343,7 +975,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.ticket
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -352,7 +984,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.ticket.fill
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -361,13 +993,13 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.up.forward
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     static var airplaneUpForward: String { "airplane.up.forward" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.up.forward.app
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -376,7 +1008,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.up.forward.app.fill
-    /// - Category: multicolor, transportation, whatsnew
+    /// - Category: multicolor, transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -386,13 +1018,13 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.up.right
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     static var airplaneUpRight: String { "airplane.up.right" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.up.right.app
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -401,7 +1033,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplane.up.right.app.fill
-    /// - Category: multicolor, transportation, whatsnew
+    /// - Category: multicolor, transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -411,43 +1043,37 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: airplaneseat
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     static var airplaneseat: String { "airplaneseat" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: app.background.dotted
-    /// - Category: whatsnew
     static var appBackgroundDotted: String { "app.background.dotted" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: app.grid
-    /// - Category: whatsnew
     static var appGrid: String { "app.grid" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: app.shadow
-    /// - Category: whatsnew
     static var appShadow: String { "app.shadow" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: app.specular
-    /// - Category: whatsnew
     static var appSpecular: String { "app.specular" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: app.translucent
-    /// - Category: whatsnew
     static var appTranslucent: String { "app.translucent" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apple.books.pages
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -456,7 +1082,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apple.books.pages.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -466,7 +1092,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apple.classical.pages
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -475,7 +1100,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apple.classical.pages.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -484,8 +1109,17 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: apple.homekit
+    /// - Category: home, multicolor, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
+    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
+    static var appleHomekit: String { "apple.homekit" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: apple.podcasts.pages
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -494,7 +1128,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apple.podcasts.pages.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -504,7 +1138,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: appletv.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -514,7 +1148,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: appletv.badge.checkmark.fill
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -524,7 +1158,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: appletv.badge.exclamationmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -534,7 +1168,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: appletv.badge.exclamationmark.fill
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -544,7 +1178,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: applewatch.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -553,8 +1187,18 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: applewatch.badge.exclamationmark
+    /// - Category: devices, multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var applewatchBadgeExclamationmark: String { "applewatch.badge.exclamationmark" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: apps.ipad.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -564,7 +1208,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apps.ipad.badge.checkmark.rtl
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -574,7 +1218,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apps.ipad.badge.plus
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -584,7 +1228,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apps.ipad.on.rectangle.portrait.dashed
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -593,7 +1237,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apps.ipad.on.rectangle.portrait.dashed.rtl
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -602,7 +1246,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apps.iphone.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -612,7 +1256,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: apps.iphone.badge.checkmark.rtl
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -622,7 +1266,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: aqi.medium.gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -631,7 +1275,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.down.circle.badge.pause
-    /// - Category: arrows, multicolor, variable, whatsnew
+    /// - Category: arrows, multicolor, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -641,7 +1285,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.down.circle.badge.pause.fill
-    /// - Category: arrows, multicolor, whatsnew
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -651,7 +1295,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.down.circle.badge.xmark
-    /// - Category: arrows, multicolor, variable, whatsnew
+    /// - Category: arrows, multicolor, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -661,7 +1305,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.down.circle.badge.xmark.fill
-    /// - Category: arrows, multicolor, whatsnew
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -671,7 +1315,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.forward.folder
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -680,7 +1324,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.forward.folder.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -690,7 +1334,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.forward.folder.fill.rtl
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -700,7 +1344,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.forward.folder.rtl
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -708,8 +1352,14 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: arrow.trianglehead.turn.up.right
+    /// - Category: arrows
+    static var arrowTriangleheadTurnUpRight: String { "arrow.trianglehead.turn.up.right" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: arrow.up.folder
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -718,7 +1368,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: arrow.up.folder.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -728,7 +1378,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: backpack.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -737,7 +1387,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: backpack.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -747,7 +1397,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: bed.double.badge.checkmark
-    /// - Category: health, home, multicolor, objectsandtools, whatsnew
+    /// - Category: health, home, multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -757,7 +1407,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: bed.double.badge.checkmark.fill
-    /// - Category: health, home, multicolor, objectsandtools, whatsnew
+    /// - Category: health, home, multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -767,7 +1417,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: bell.badge.waveform.slash
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -776,7 +1426,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: bell.badge.waveform.slash.fill
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -785,7 +1435,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: bicycle.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -794,7 +1444,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: bicycle.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -803,8 +1453,40 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: blood.pressure.cuff
+    /// - Category: health, objectsandtools
+    static var bloodPressureCuff: String { "blood.pressure.cuff" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: blood.pressure.cuff.badge.gauge.with.needle
+    /// - Category: health, multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var bloodPressureCuffBadgeGaugeWithNeedle: String { "blood.pressure.cuff.badge.gauge.with.needle" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: blood.pressure.cuff.badge.gauge.with.needle.fill
+    /// - Category: health, multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var bloodPressureCuffBadgeGaugeWithNeedleFill: String { "blood.pressure.cuff.badge.gauge.with.needle.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: blood.pressure.cuff.fill
+    /// - Category: health, objectsandtools
+    static var bloodPressureCuffFill: String { "blood.pressure.cuff.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: book.badge.plus
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -814,7 +1496,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: book.badge.plus.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -824,7 +1506,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: briefcase.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -833,7 +1515,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: briefcase.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -843,7 +1525,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.badge
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -853,7 +1535,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.badge.lock
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -863,7 +1545,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.leading.circle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -872,7 +1554,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.leading.circle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -882,7 +1564,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.left.circle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -891,7 +1573,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.left.circle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -901,7 +1583,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.right.circle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -910,7 +1592,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.right.circle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -920,7 +1602,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.trailing.circle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -929,7 +1611,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: calendar.day.timeline.trailing.circle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -939,7 +1621,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: camera.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -948,7 +1630,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: camera.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -957,8 +1639,35 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: car.rear.road.lane.dashed.arrowtriangle.2.outward
+    /// - Category: automotive
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var carRearRoadLaneDashedArrowtriangle2Outward: String { "car.rear.road.lane.dashed.arrowtriangle.2.outward" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: car.window.left.badge.lock
+    /// - Category: automotive
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var carWindowLeftBadgeLock: String { "car.window.left.badge.lock" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: car.window.right.badge.lock
+    /// - Category: automotive
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var carWindowRightBadgeLock: String { "car.window.right.badge.lock" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: cellularbars.circle
-    /// - Category: connectivity, variable, whatsnew
+    /// - Category: connectivity, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -967,7 +1676,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: cellularbars.circle.fill
-    /// - Category: connectivity, multicolor, variable, whatsnew
+    /// - Category: connectivity, multicolor, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -977,151 +1686,151 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.bn
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedBn: String { "character.book.closed.bn" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.bn
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillBn: String { "character.book.closed.fill.bn" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.gu
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillGu: String { "character.book.closed.fill.gu" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.kn
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillKn: String { "character.book.closed.fill.kn" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ml
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillMl: String { "character.book.closed.fill.ml" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.mni
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillMni: String { "character.book.closed.fill.mni" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.mr
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillMr: String { "character.book.closed.fill.mr" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.or
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillOr: String { "character.book.closed.fill.or" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.pa
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillPa: String { "character.book.closed.fill.pa" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.sat
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillSat: String { "character.book.closed.fill.sat" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.si
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillSi: String { "character.book.closed.fill.si" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.ta
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillTa: String { "character.book.closed.fill.ta" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.fill.te
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedFillTe: String { "character.book.closed.fill.te" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.gu
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedGu: String { "character.book.closed.gu" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.kn
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedKn: String { "character.book.closed.kn" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.ml
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedMl: String { "character.book.closed.ml" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.mni
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedMni: String { "character.book.closed.mni" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.mr
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedMr: String { "character.book.closed.mr" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.or
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedOr: String { "character.book.closed.or" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.pa
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedPa: String { "character.book.closed.pa" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.sat
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedSat: String { "character.book.closed.sat" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.si
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedSi: String { "character.book.closed.si" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.ta
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedTa: String { "character.book.closed.ta" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.book.closed.te
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var characterBookClosedTe: String { "character.book.closed.te" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.bn
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1130,7 +1839,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.bn
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1140,7 +1849,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.gu
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1150,7 +1859,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.kn
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1160,7 +1869,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.ml
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1170,7 +1879,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.mni
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1180,7 +1889,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.mr
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1190,7 +1899,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.or
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1200,7 +1909,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.pa
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1210,7 +1919,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.sat
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1220,7 +1929,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.si
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1230,7 +1939,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.ta
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1240,7 +1949,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.fill.te
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1250,7 +1959,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.gu
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1259,7 +1968,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.kn
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1268,7 +1977,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.ml
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1277,7 +1986,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.mni
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1286,7 +1995,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.mr
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1295,7 +2004,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.or
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1304,7 +2013,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.pa
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1313,7 +2022,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.sat
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1322,7 +2031,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.si
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1331,7 +2040,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.ta
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1340,7 +2049,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.bubble.te
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1349,7 +2058,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1358,7 +2067,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.ar
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1367,7 +2076,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.bn
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1376,7 +2085,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.gu
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1385,7 +2094,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.he
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1394,7 +2103,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.hi
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1403,7 +2112,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.ja
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1412,7 +2121,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.kn
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1421,7 +2130,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.ko
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1430,7 +2139,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.ml
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1439,7 +2148,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.mni
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1448,7 +2157,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.mr
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1457,7 +2166,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.or
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1466,7 +2175,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.pa
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1475,7 +2184,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.sat
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1484,7 +2193,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.si
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1493,7 +2202,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.ta
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1502,7 +2211,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.te
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1511,7 +2219,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.th
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1520,7 +2228,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: character.text.justify.zh
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1528,8 +2236,16 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: chart.bar.xaxis.descending
+    /// - Category: variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var chartBarXaxisDescending: String { "chart.bar.xaxis.descending" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: checkmark.app
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1538,7 +2254,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: checkmark.app.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1548,7 +2264,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: checkmark.arrow.trianglehead.clockwise
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1557,7 +2272,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: checkmark.circle.badge.airplane
-    /// - Category: maps, transportation, whatsnew
+    /// - Category: maps, transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1566,7 +2281,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: checkmark.circle.badge.airplane.fill
-    /// - Category: maps, transportation, whatsnew
+    /// - Category: maps, transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1575,7 +2290,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: checkmark.circle.badge.plus
-    /// - Category: multicolor, privacyandsecurity, variable, whatsnew
+    /// - Category: multicolor, privacyandsecurity, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1585,7 +2300,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: checkmark.circle.badge.plus.fill
-    /// - Category: multicolor, privacyandsecurity, whatsnew
+    /// - Category: multicolor, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1594,8 +2309,17 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: checkmark.circle.dotted
+    /// - Category: privacyandsecurity
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var checkmarkCircleDotted: String { "checkmark.circle.dotted" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: checkmark.circle.trianglebadge.exclamationmark.fill
-    /// - Category: multicolor, privacyandsecurity, whatsnew
+    /// - Category: multicolor, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1605,7 +2329,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: circle.grid.2x2.topleft.checkmark.filled
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1615,7 +2339,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: circle.on.square
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1624,7 +2347,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: circle.on.square.intersection.dotted
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1633,13 +2355,12 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: circle.on.square.merge
-    /// - Category: whatsnew
     static var circleOnSquareMerge: String { "circle.on.square.merge" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: clock.arrow.trianglehead.clockwise.rotate.90.path.dotted
-    /// - Category: objectsandtools, time, whatsnew
+    /// - Category: objectsandtools, time
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1648,7 +2369,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: clock.badge.airplane
-    /// - Category: objectsandtools, time, whatsnew
+    /// - Category: objectsandtools, time
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1657,7 +2378,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: clock.badge.airplane.fill
-    /// - Category: objectsandtools, time, whatsnew
+    /// - Category: objectsandtools, time
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1666,7 +2387,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: coat.circle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1675,7 +2396,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: coat.circle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1702,20 +2423,29 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: creditcard.arrow.trianglehead.2.clockwise.rotate.90
+    /// - Category: commerce, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var creditcardArrowTrianglehead2ClockwiseRotate90: String { "creditcard.arrow.trianglehead.2.clockwise.rotate.90" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: creditcard.rewards
-    /// - Category: commerce, whatsnew
+    /// - Category: commerce
     static var creditcardRewards: String { "creditcard.rewards" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: creditcard.rewards.fill
-    /// - Category: commerce, whatsnew
+    /// - Category: commerce
     static var creditcardRewardsFill: String { "creditcard.rewards.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: cube.circle
-    /// - Category: objectsandtools, variable, whatsnew
+    /// - Category: objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1724,7 +2454,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: cube.circle.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1734,7 +2464,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: desktopcomputer.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1744,7 +2474,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: desktopcomputer.badge.shield.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1753,8 +2483,17 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: display.and.screwdriver
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var displayAndScrewdriver: String { "display.and.screwdriver" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: document.on.trash
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1763,7 +2502,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: document.on.trash.fill
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1781,7 +2520,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: dot.crosshair
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1798,7 +2536,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbud.left
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1807,7 +2545,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbud.right
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1816,25 +2554,25 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.bone.conduction
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     static var earbudsBoneConduction: String { "earbuds.bone.conduction" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.bone.conduction.left
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     static var earbudsBoneConductionLeft: String { "earbuds.bone.conduction.left" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.bone.conduction.right
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     static var earbudsBoneConductionRight: String { "earbuds.bone.conduction.right" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.in.ear
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1843,7 +2581,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.in.ear.left
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1852,7 +2590,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.in.ear.right
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1861,7 +2599,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.stemless
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1870,7 +2608,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.stemless.left
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1879,7 +2617,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: earbuds.stemless.right
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1888,16 +2626,17 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ellipsis.calendar
-    /// - Category: objectsandtools, variable, whatsnew
+    /// - Category: multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 27.0, macOS 27.0, tvOS 27.0, watchOS 27.0, visionOS 27.0
     static var ellipsisCalendar: String { "ellipsis.calendar" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ellipsis.circle.badge
-    /// - Category: multicolor, variable, whatsnew
+    /// - Category: multicolor, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1907,7 +2646,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ellipsis.circle.badge.fill
-    /// - Category: multicolor, variable, whatsnew
+    /// - Category: multicolor, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1917,7 +2656,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: envelope.and.hand.raised
-    /// - Category: communication, privacyandsecurity, whatsnew
+    /// - Category: communication, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1926,7 +2665,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: envelope.and.hand.raised.fill
-    /// - Category: communication, privacyandsecurity, whatsnew
+    /// - Category: communication, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1935,7 +2674,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: envelope.badge.minus
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1945,7 +2684,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: envelope.badge.minus.fill
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1955,7 +2694,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: envelope.badge.plus
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1965,7 +2704,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: envelope.badge.plus.fill
-    /// - Category: communication, multicolor, whatsnew
+    /// - Category: communication, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1974,8 +2713,18 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: envelope.open.badge.clock.fill
+    /// - Category: communication, multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var envelopeOpenBadgeClockFill: String { "envelope.open.badge.clock.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: environments
-    /// - Category: nature, whatsnew
+    /// - Category: nature
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1984,7 +2733,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: environments.circle
-    /// - Category: nature, variable, whatsnew
+    /// - Category: nature, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -1993,7 +2742,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: environments.circle.fill
-    /// - Category: multicolor, nature, whatsnew
+    /// - Category: multicolor, nature
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2003,7 +2752,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: environments.fill
-    /// - Category: nature, whatsnew
+    /// - Category: nature
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2012,7 +2761,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: environments.slash
-    /// - Category: nature, whatsnew
+    /// - Category: nature
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2021,7 +2770,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: environments.slash.circle
-    /// - Category: nature, variable, whatsnew
+    /// - Category: nature, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2030,7 +2779,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: environments.slash.circle.fill
-    /// - Category: multicolor, nature, whatsnew
+    /// - Category: multicolor, nature
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2040,7 +2789,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: environments.slash.fill
-    /// - Category: nature, whatsnew
+    /// - Category: nature
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2049,7 +2798,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eraser.badge.xmark
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2059,7 +2808,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eraser.badge.xmark.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2069,7 +2818,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eraser.slash
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2078,7 +2826,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eraser.slash.fill
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2087,7 +2834,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eraser.trianglebadge.exclamationmark
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2097,7 +2844,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eraser.trianglebadge.exclamationmark.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2107,19 +2854,28 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eye.half.closed
-    /// - Category: accessibility, human, whatsnew
+    /// - Category: accessibility, human
     static var eyeHalfClosed: String { "eye.half.closed" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: eye.half.closed.fill
-    /// - Category: accessibility, human, whatsnew
+    /// - Category: accessibility, human
     static var eyeHalfClosedFill: String { "eye.half.closed.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: f.cursive.slash
+    /// - Category: cameraandphotos
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var fCursiveSlash: String { "f.cursive.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: fan.badge.arrow.up.and.down.and.arrow.left.and.right
-    /// - Category: automotive, objectsandtools, whatsnew
+    /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2128,7 +2884,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: fan.badge.arrow.up.and.down.and.arrow.left.and.right.fill
-    /// - Category: automotive, objectsandtools, whatsnew
+    /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2137,7 +2893,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: fan.circle
-    /// - Category: automotive, home, objectsandtools, variable, whatsnew
+    /// - Category: automotive, home, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2146,7 +2902,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: fan.circle.fill
-    /// - Category: automotive, home, multicolor, objectsandtools, whatsnew
+    /// - Category: automotive, home, multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2156,7 +2912,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: fan.gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2165,7 +2921,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.seated.side.left.air.distribution.indirect
-    /// - Category: automotive, human, whatsnew
+    /// - Category: automotive, human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2174,7 +2930,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.seated.side.left.air.distribution.lower.angled.and.upper.angled
-    /// - Category: automotive, human, whatsnew
+    /// - Category: automotive, human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2183,7 +2939,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.seated.side.left.air.distribution.upper.angled.and.dottedline.and.lower.angled
-    /// - Category: automotive, human, whatsnew
+    /// - Category: automotive, human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2192,7 +2948,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.seated.side.right.air.distribution.indirect
-    /// - Category: automotive, human, whatsnew
+    /// - Category: automotive, human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2201,7 +2957,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.seated.side.right.air.distribution.lower.angled.and.upper.angled
-    /// - Category: automotive, human, whatsnew
+    /// - Category: automotive, human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2210,7 +2966,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.seated.side.right.air.distribution.upper.angled.and.dottedline.and.lower.angled
-    /// - Category: automotive, human, whatsnew
+    /// - Category: automotive, human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2219,19 +2975,19 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.seated.side.right.child.lap
-    /// - Category: human, whatsnew
+    /// - Category: human
     static var figureSeatedSideRightChildLap: String { "figure.seated.side.right.child.lap" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.walk.suitcase.rolling
-    /// - Category: human, maps, transportation, whatsnew
+    /// - Category: human, maps, transportation
     static var figureWalkSuitcaseRolling: String { "figure.walk.suitcase.rolling" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.walk.suitcase.rolling.circle
-    /// - Category: human, maps, transportation, variable, whatsnew
+    /// - Category: human, maps, transportation, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2240,7 +2996,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: figure.walk.suitcase.rolling.circle.fill
-    /// - Category: human, maps, multicolor, transportation, whatsnew
+    /// - Category: human, maps, multicolor, transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2268,13 +3024,12 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: finder
-    /// - Category: whatsnew
     static var finder: String { "finder" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: flame.gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2283,37 +3038,37 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: fuelpump.thermometer
-    /// - Category: automotive, objectsandtools, transportation, whatsnew
+    /// - Category: automotive, objectsandtools, transportation
     static var fuelpumpThermometer: String { "fuelpump.thermometer" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: fuelpump.thermometer.fill
-    /// - Category: automotive, objectsandtools, transportation, whatsnew
+    /// - Category: automotive, objectsandtools, transportation
     static var fuelpumpThermometerFill: String { "fuelpump.thermometer.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: gauge.chart.lefthalf.righthalf
-    /// - Category: commerce, home, variable, whatsnew
+    /// - Category: commerce, home, variable
     static var gaugeChartLefthalfRighthalf: String { "gauge.chart.lefthalf.righthalf" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: gauge.chart.leftthird.topthird.rightthird
-    /// - Category: commerce, home, variable, whatsnew
+    /// - Category: commerce, home, variable
     static var gaugeChartLeftthirdTopthirdRightthird: String { "gauge.chart.leftthird.topthird.rightthird" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     static var gaugeOpen: String { "gauge.open" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: gauge.open.righthalf.dotted.with.needle.and.arrow.trianglehead.backward
-    /// - Category: automotive, whatsnew
+    /// - Category: automotive
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2321,14 +3076,34 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: globe.badge.clock
+    /// - Category: multicolor, time
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var globeBadgeClock: String { "globe.badge.clock" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: globe.badge.clock.fill
+    /// - Category: multicolor, time
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var globeBadgeClockFill: String { "globe.badge.clock.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: globe.fill
-    /// - Category: keyboard, whatsnew
+    /// - Category: keyboard
     static var globeFill: String { "globe.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: graph.2d
-    /// - Category: math, whatsnew
+    /// - Category: math
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2337,7 +3112,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: graph.3d
-    /// - Category: math, whatsnew
+    /// - Category: math
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2346,13 +3121,19 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: guidepoint.horizontal
-    /// - Category: editing, whatsnew
+    /// - Category: editing
     static var guidepointHorizontal: String { "guidepoint.horizontal" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: guidepoint.vertical
+    /// - Category: editing
+    static var guidepointVertical: String { "guidepoint.vertical" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: guidepoint.vertical.arrowtriangle.forward
-    /// - Category: editing, whatsnew
+    /// - Category: editing
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2361,7 +3142,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: guidepoint.vertical.numbers
-    /// - Category: editing, whatsnew
+    /// - Category: editing
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2369,8 +3150,32 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: hand.thumbsdown.filled.hand.thumbsup
+    /// - Category: human
+    static var handThumbsdownFilledHandThumbsup: String { "hand.thumbsdown.filled.hand.thumbsup" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: hand.thumbsdown.hand.thumbsup
+    /// - Category: human
+    static var handThumbsdownHandThumbsup: String { "hand.thumbsdown.hand.thumbsup" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: hand.thumbsdown.hand.thumbsup.fill
+    /// - Category: human
+    static var handThumbsdownHandThumbsupFill: String { "hand.thumbsdown.hand.thumbsup.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: hand.thumbsdown.hand.thumbsup.filled
+    /// - Category: human
+    static var handThumbsdownHandThumbsupFilled: String { "hand.thumbsdown.hand.thumbsup.filled" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: handbag.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2379,7 +3184,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: handbag.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2389,13 +3194,13 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: headphones.over.ear
-    /// - Category: devices, objectsandtools, whatsnew
+    /// - Category: devices, objectsandtools
     static var headphonesOverEar: String { "headphones.over.ear" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: headphones.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2404,7 +3209,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: headphones.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2413,8 +3218,44 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: heart.badge.bolt
+    /// - Category: health
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var heartBadgeBolt: String { "heart.badge.bolt" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: heart.badge.bolt.fill
+    /// - Category: health
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var heartBadgeBoltFill: String { "heart.badge.bolt.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: heart.badge.bolt.slash
+    /// - Category: health
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var heartBadgeBoltSlash: String { "heart.badge.bolt.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: heart.badge.bolt.slash.fill
+    /// - Category: health
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var heartBadgeBoltSlashFill: String { "heart.badge.bolt.slash.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: heart.gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2423,7 +3264,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: heat.waves.circle
-    /// - Category: arrows, automotive, variable, whatsnew
+    /// - Category: arrows, automotive, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2432,7 +3273,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: heat.waves.circle.fill
-    /// - Category: arrows, automotive, multicolor, whatsnew
+    /// - Category: arrows, automotive, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2442,7 +3283,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: heat.waves.gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2450,8 +3291,18 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: highlighter.badge.ellipsis
+    /// - Category: editing, multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var highlighterBadgeEllipsis: String { "highlighter.badge.ellipsis" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: homepod.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2461,7 +3312,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: homepod.badge.checkmark.fill
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2471,7 +3322,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: homepod.badge.checkmark.fill.rtl
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2481,7 +3332,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: homepod.badge.checkmark.rtl
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2527,7 +3378,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: homepod.mini.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2537,7 +3388,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: homepod.mini.badge.checkmark.fill
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2547,7 +3398,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: homepod.mini.badge.checkmark.fill.rtl
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2557,7 +3408,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: homepod.mini.badge.checkmark.rtl
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2576,14 +3427,31 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: humidifier.and.ellipsis
+    /// - Category: home, objectsandtools, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var humidifierAndEllipsis: String { "humidifier.and.ellipsis" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: humidifier.and.ellipsis.fill
+    /// - Category: home, objectsandtools, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var humidifierAndEllipsisFill: String { "humidifier.and.ellipsis.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: icloud.dashed
-    /// - Category: connectivity, whatsnew
+    /// - Category: connectivity
     static var icloudDashed: String { "icloud.dashed" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: inset.filled.bottomleading.bottomtrailing.rectangle
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2592,7 +3460,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: inset.filled.bottomleft.bottomright.rectangle
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2600,8 +3467,17 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: inset.filled.circle.slash
+    /// - Category: variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var insetFilledCircleSlash: String { "inset.filled.circle.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: inset.filled.leftthird.middlethird.rightthird.rectangle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2610,7 +3486,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: inset.filled.pano
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2619,6 +3494,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: inset.filled.rectangle.and.pointer.arrow
+    /// - Category: human
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
@@ -2627,7 +3503,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: inset.filled.topthird.middlethird.bottomthird.rectangle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2636,7 +3512,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ipad.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2646,13 +3522,13 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ipad.gen1.crop.homebutton.circle
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     static var ipadGen1CropHomebuttonCircle: String { "ipad.gen1.crop.homebutton.circle" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ipad.gen1.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2661,7 +3537,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ipad.gen2.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2669,8 +3545,44 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: ipad.landscape.and.applewatch
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var ipadLandscapeAndApplewatch: String { "ipad.landscape.and.applewatch" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: ipad.landscape.and.ipod
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var ipadLandscapeAndIpod: String { "ipad.landscape.and.ipod" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: iphone.and.ipod
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var iphoneAndIpod: String { "iphone.and.ipod" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: iphone.and.vision.pro
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var iphoneAndVisionPro: String { "iphone.and.vision.pro" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: iphone.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2680,13 +3592,13 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: iphone.gen1.crop.homebutton.circle
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     static var iphoneGen1CropHomebuttonCircle: String { "iphone.gen1.crop.homebutton.circle" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: iphone.gen1.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2695,7 +3607,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: iphone.gen2.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2704,7 +3616,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: iphone.gen3.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2713,7 +3625,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: iphone.pattern.diagonalline
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2722,7 +3634,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: iphone.pattern.diagonalline.on.rectangle.portrait.dashed
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2730,8 +3642,26 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: ipod.and.applewatch
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var ipodAndApplewatch: String { "ipod.and.applewatch" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: ipod.and.vision.pro
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var ipodAndVisionPro: String { "ipod.and.vision.pro" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: jacket.circle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2740,7 +3670,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: jacket.circle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2750,7 +3680,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: jacket.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2759,7 +3689,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: jacket.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2769,7 +3699,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: key.circle
-    /// - Category: automotive, objectsandtools, privacyandsecurity, variable, whatsnew
+    /// - Category: automotive, objectsandtools, privacyandsecurity, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2778,7 +3708,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: key.circle.fill
-    /// - Category: automotive, multicolor, objectsandtools, privacyandsecurity, whatsnew
+    /// - Category: automotive, multicolor, objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2788,7 +3718,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: key.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2797,7 +3727,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: key.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2807,7 +3737,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: key.shield
-    /// - Category: privacyandsecurity, whatsnew
+    /// - Category: privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2816,7 +3746,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: key.shield.fill
-    /// - Category: multicolor, privacyandsecurity, whatsnew
+    /// - Category: multicolor, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2826,7 +3756,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: laptopcomputer.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2842,19 +3772,39 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: line.diagonal.trianglehead.up.right.left.down
-    /// - Category: communication, whatsnew
+    /// - Category: communication
     static var lineDiagonalTriangleheadUpRightLeftDown: String { "line.diagonal.trianglehead.up.right.left.down" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: lines.measurement.horizontal.aligned.bottom
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     static var linesMeasurementHorizontalAlignedBottom: String { "lines.measurement.horizontal.aligned.bottom" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: list.bullet.badge.ellipsis
+    /// - Category: multicolor, textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var listBulletBadgeEllipsis: String { "list.bullet.badge.ellipsis" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: list.dash.badge.ellipsis
+    /// - Category: multicolor, textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var listDashBadgeEllipsis: String { "list.dash.badge.ellipsis" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: list.dash.header.rectangle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2863,8 +3813,38 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: list.number.badge.ellipsis
+    /// - Category: multicolor, textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var listNumberBadgeEllipsis: String { "list.number.badge.ellipsis" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: list.number.badge.ellipsis.hi
+    /// - Category: multicolor, textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var listNumberBadgeEllipsisHi: String { "list.number.badge.ellipsis.hi" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: list.number.badge.ellipsis.rtl
+    /// - Category: multicolor, textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var listNumberBadgeEllipsisRtl: String { "list.number.badge.ellipsis.rtl" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: lock.badge.checkmark
-    /// - Category: multicolor, objectsandtools, privacyandsecurity, whatsnew
+    /// - Category: multicolor, objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2874,7 +3854,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: lock.badge.checkmark.fill
-    /// - Category: multicolor, objectsandtools, privacyandsecurity, whatsnew
+    /// - Category: multicolor, objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2884,7 +3864,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: lock.badge.xmark
-    /// - Category: multicolor, objectsandtools, privacyandsecurity, whatsnew
+    /// - Category: multicolor, objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2894,7 +3874,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: lock.badge.xmark.fill
-    /// - Category: multicolor, objectsandtools, privacyandsecurity, whatsnew
+    /// - Category: multicolor, objectsandtools, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2904,7 +3884,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: lock.heart
-    /// - Category: health, privacyandsecurity, variable, whatsnew
+    /// - Category: health, privacyandsecurity, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2913,7 +3893,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: lock.heart.fill
-    /// - Category: health, multicolor, privacyandsecurity, whatsnew
+    /// - Category: health, multicolor, privacyandsecurity
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2923,7 +3903,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: lock.rectangle.dashed
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2931,8 +3910,26 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: lock.square.dashed
+    /// - Category: objectsandtools, privacyandsecurity
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var lockSquareDashed: String { "lock.square.dashed" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: macbook.and.ipod
+    /// - Category: devices
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var macbookAndIpod: String { "macbook.and.ipod" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: macbook.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2941,8 +3938,18 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: macbook.badge.exclamationmark
+    /// - Category: devices, multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var macbookBadgeExclamationmark: String { "macbook.badge.exclamationmark" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: macbook.badge.shield.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2952,7 +3959,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macbook.gen1.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2961,7 +3968,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macbook.gen2.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2970,7 +3977,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macbook.sizes
-    /// - Category: devices, whatsnew
+    /// - Category: devices
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2979,7 +3986,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macbook.trianglebadge.exclamationmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2989,7 +3996,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macmini.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -2999,7 +4006,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macmini.badge.checkmark.fill
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3009,27 +4016,19 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macpro.gen3.badge.ckeckmark
-    /// - Category: devices, multicolor, whatsnew
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
-    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - Recommended: macpro.gen3.badge.checkmark
     static var macproGen3BadgeCkeckmark: String { "macpro.gen3.badge.ckeckmark" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macpro.gen3.badge.ckeckmark.fill
-    /// - Category: devices, multicolor, whatsnew
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
-    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - Recommended: macpro.gen3.badge.checkmark.fill
     static var macproGen3BadgeCkeckmarkFill: String { "macpro.gen3.badge.ckeckmark.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macstudio.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3039,7 +4038,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macstudio.badge.checkmark.fill
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3049,23 +4048,24 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macwindow.and.pointer.arrow
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
+    /// - Recommended: interface.window.and.pointer.arrow
     static var macwindowAndPointerArrow: String { "macwindow.and.pointer.arrow" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: macwindow.and.pointer.arrow.rtl
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
+    /// - Recommended: interface.window.and.pointer.arrow.rtl
     static var macwindowAndPointerArrowRtl: String { "macwindow.and.pointer.arrow.rtl" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: macwindow.stack
+    /// - Recommended: interface.window.stack
+    static var macwindowStack: String { "macwindow.stack" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: minus.arrow.trianglehead.clockwise
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3074,7 +4074,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: minus.plus.lines.measurement.horizontal.aligned.bottom
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3083,7 +4083,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: music.note.arrow.trianglehead.clockwise
-    /// - Category: arrows, whatsnew
+    /// - Category: arrows
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3092,7 +4092,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: music.note.slash
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3101,7 +4100,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: music.note.square.stack
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3110,7 +4108,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: music.note.square.stack.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3120,7 +4118,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: music.pages
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3129,7 +4126,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: music.pages.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3139,73 +4136,73 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.bn
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersBn: String { "numbers.bn" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.gu
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersGu: String { "numbers.gu" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.km
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersKm: String { "numbers.km" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.kn
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersKn: String { "numbers.kn" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.ml
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersMl: String { "numbers.ml" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.mni
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersMni: String { "numbers.mni" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.mr
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersMr: String { "numbers.mr" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.my
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersMy: String { "numbers.my" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.or
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersOr: String { "numbers.or" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.pa
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersPa: String { "numbers.pa" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.sat
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersSat: String { "numbers.sat" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: numbers.te
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var numbersTe: String { "numbers.te" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
@@ -3217,13 +4214,32 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: paint.bucket.classic
-    /// - Category: whatsnew
     static var paintBucketClassic: String { "paint.bucket.classic" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: pedestrian.gate.closed.trianglebadge.exclamationmark
+    /// - Category: home, multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pedestrianGateClosedTrianglebadgeExclamationmark: String { "pedestrian.gate.closed.trianglebadge.exclamationmark" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pedestrian.gate.open.trianglebadge.exclamationmark
+    /// - Category: home, multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pedestrianGateOpenTrianglebadgeExclamationmark: String { "pedestrian.gate.open.trianglebadge.exclamationmark" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: person.2.badge
-    /// - Category: human, multicolor, whatsnew
+    /// - Category: human, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3233,7 +4249,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: person.2.badge.fill
-    /// - Category: human, multicolor, whatsnew
+    /// - Category: human, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3242,8 +4258,27 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: person.2.shield
+    /// - Category: human
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var person2Shield: String { "person.2.shield" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: person.2.shield.fill
+    /// - Category: human, multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var person2ShieldFill: String { "person.2.shield.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: person.crop.circle.badge.ellipsis
-    /// - Category: human, multicolor, whatsnew
+    /// - Category: human, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3253,7 +4288,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: person.crop.circle.badge.ellipsis.fill
-    /// - Category: human, multicolor, whatsnew
+    /// - Category: human, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3263,7 +4298,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: person.spatialaudio.3d.fill
-    /// - Category: human, variable, whatsnew
+    /// - Category: human, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3272,7 +4307,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: person.spatialaudio.fill
-    /// - Category: human, variable, whatsnew
+    /// - Category: human, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3281,7 +4316,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: person.spatialaudio.stereo.3d.fill
-    /// - Category: human, variable, whatsnew
+    /// - Category: human, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3290,7 +4325,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: person.spatialaudio.stereo.fill
-    /// - Category: human, variable, whatsnew
+    /// - Category: human, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3298,8 +4333,28 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: person.text.rectangle.trianglebadge.exclamationmark
+    /// - Category: human, multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var personTextRectangleTrianglebadgeExclamationmark: String { "person.text.rectangle.trianglebadge.exclamationmark" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: person.text.rectangle.trianglebadge.exclamationmark.fill
+    /// - Category: human, multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var personTextRectangleTrianglebadgeExclamationmarkFill: String { "person.text.rectangle.trianglebadge.exclamationmark.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: pet.carrier
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3308,7 +4363,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: pet.carrier.circle
-    /// - Category: objectsandtools, variable, whatsnew
+    /// - Category: objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3317,7 +4372,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: pet.carrier.circle.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3327,7 +4382,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: pet.carrier.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3337,7 +4392,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: phone.pause
-    /// - Category: communication, media, whatsnew
+    /// - Category: communication, media
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3346,7 +4401,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: phone.pause.circle
-    /// - Category: communication, media, variable, whatsnew
+    /// - Category: communication, media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3355,7 +4410,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: phone.pause.circle.fill
-    /// - Category: communication, media, multicolor, whatsnew
+    /// - Category: communication, media, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3365,7 +4420,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: phone.pause.fill
-    /// - Category: communication, media, whatsnew
+    /// - Category: communication, media
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3374,7 +4429,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: play.diamond
-    /// - Category: media, whatsnew
+    /// - Category: media
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3383,7 +4438,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: play.diamond.fill
-    /// - Category: media, multicolor, whatsnew
+    /// - Category: media, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3393,7 +4448,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: plus.arrow.trianglehead.counterclockwise
-    /// - Category: arrows, media, whatsnew
+    /// - Category: arrows, media
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3402,7 +4457,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: plus.capsule
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3411,7 +4465,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: plus.capsule.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3448,7 +4502,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pointerArrowClick2: String { "pointer.arrow.click.2" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
@@ -3460,6 +4513,73 @@ public extension SFName {
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pointerArrowClickBadgeClock: String { "pointer.arrow.click.badge.clock" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad
+    static var pointerArrowIpad: String { "pointer.arrow.ipad" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad.and.square.on.square.dashed
+    /// - Category: accessibility
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pointerArrowIpadAndSquareOnSquareDashed: String { "pointer.arrow.ipad.and.square.on.square.dashed" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad.rays
+    /// - Category: accessibility
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pointerArrowIpadRays: String { "pointer.arrow.ipad.rays" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad.slash
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pointerArrowIpadSlash: String { "pointer.arrow.ipad.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad.slash.square
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pointerArrowIpadSlashSquare: String { "pointer.arrow.ipad.slash.square" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad.slash.square.fill
+    /// - Category: multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pointerArrowIpadSlashSquareFill: String { "pointer.arrow.ipad.slash.square.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad.square
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pointerArrowIpadSquare: String { "pointer.arrow.ipad.square" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: pointer.arrow.ipad.square.fill
+    /// - Category: multicolor
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var pointerArrowIpadSquareFill: String { "pointer.arrow.ipad.square.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
@@ -3532,13 +4652,40 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: rectangle.3.group.dashed
-    /// - Category: whatsnew
     static var rectangle3GroupDashed: String { "rectangle.3.group.dashed" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: rectangle.grid.1x3
+    static var rectangleGrid1X3: String { "rectangle.grid.1x3" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: rectangle.grid.1x3.fill
+    static var rectangleGrid1X3Fill: String { "rectangle.grid.1x3.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: rectangle.landscape.rotate.slash
+    /// - Category: devices, editing, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var rectangleLandscapeRotateSlash: String { "rectangle.landscape.rotate.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: rectangle.portrait.rotate.slash
+    /// - Category: devices, editing, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var rectanglePortraitRotateSlash: String { "rectangle.portrait.rotate.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: rectangle.stack.slash
-    /// - Category: cameraandphotos, whatsnew
+    /// - Category: cameraandphotos
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3547,7 +4694,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: rectangle.stack.slash.fill
-    /// - Category: cameraandphotos, whatsnew
+    /// - Category: cameraandphotos
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3556,7 +4703,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: repeat.badge.xmark
-    /// - Category: media, multicolor
+    /// - Category: arrows, media, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4
@@ -3566,19 +4713,19 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ring
-    /// - Category: commerce, home, whatsnew
+    /// - Category: commerce, home
     static var ring: String { "ring" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: ring.dashed
-    /// - Category: commerce, home, variable, whatsnew
+    /// - Category: commerce, home, variable
     static var ringDashed: String { "ring.dashed" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: sensor.radiowaves.left.and.right
-    /// - Category: devices, variable, whatsnew
+    /// - Category: devices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3587,7 +4734,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: sensor.radiowaves.left.and.right.fill
-    /// - Category: devices, variable, whatsnew
+    /// - Category: devices, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3596,28 +4743,80 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: service.dog
-    /// - Category: accessibility, nature, whatsnew
+    /// - Category: accessibility, nature
     static var serviceDog: String { "service.dog" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: service.dog.fill
-    /// - Category: accessibility, nature, whatsnew
+    /// - Category: accessibility, nature
     static var serviceDogFill: String { "service.dog.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
-    /// - Symbol Name: siri
-    /// - Category: accessibility, multicolor, whatsnew
+    /// - Symbol Name: shoe.arrow.trianglehead.up.and.down
+    /// - Category: automotive, objectsandtools
     ///
     /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var shoeArrowTriangleheadUpAndDown: String { "shoe.arrow.trianglehead.up.and.down" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: shoe.arrow.trianglehead.up.and.down.fill
+    /// - Category: automotive, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var shoeArrowTriangleheadUpAndDownFill: String { "shoe.arrow.trianglehead.up.and.down.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: shoe.arrow.trianglehead.up.right
+    /// - Category: automotive, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var shoeArrowTriangleheadUpRight: String { "shoe.arrow.trianglehead.up.right" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: shoe.arrow.trianglehead.up.right.circle
+    /// - Category: automotive, objectsandtools, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var shoeArrowTriangleheadUpRightCircle: String { "shoe.arrow.trianglehead.up.right.circle" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: shoe.arrow.trianglehead.up.right.circle.fill
+    /// - Category: automotive, multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
     /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var shoeArrowTriangleheadUpRightCircleFill: String { "shoe.arrow.trianglehead.up.right.circle.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: shoe.arrow.trianglehead.up.right.fill
+    /// - Category: automotive, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var shoeArrowTriangleheadUpRightFill: String { "shoe.arrow.trianglehead.up.right.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: siri
+    /// - Category: accessibility
     static var siri: String { "siri" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: slider.horizontal.below.circle.lefthalf.filled
-    /// - Category: editing, whatsnew
+    /// - Category: editing
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3626,7 +4825,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: slider.horizontal.below.circle.lefthalf.filled.inverse
-    /// - Category: editing, whatsnew
+    /// - Category: editing
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3635,7 +4834,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: slider.horizontal.below.circle.righthalf.filled
-    /// - Category: editing, whatsnew
+    /// - Category: editing
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3644,7 +4843,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: slider.horizontal.below.circle.righthalf.filled.inverse
-    /// - Category: editing, whatsnew
+    /// - Category: editing
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3652,26 +4851,41 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: sparkle.text.clipboard
+    /// - Category: health, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var sparkleTextClipboard: String { "sparkle.text.clipboard" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: sparkle.text.clipboard.fill
+    /// - Category: health, multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var sparkleTextClipboardFill: String { "sparkle.text.clipboard.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: sparkles.2
-    /// - Category: whatsnew
     static var sparkles2: String { "sparkles.2" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: spatial.capture
-    /// - Category: whatsnew
     static var spatialCapture: String { "spatial.capture" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: spatial.capture.fill
-    /// - Category: whatsnew
     static var spatialCaptureFill: String { "spatial.capture.fill" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: spatial.capture.on.hexagon
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3680,7 +4894,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: spatial.capture.on.hexagon.fill
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3689,7 +4902,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: spatial.capture.slash
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3698,7 +4910,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: spatial.capture.slash.fill
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3707,7 +4918,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: speaker.trianglebadge.exclamationmark
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3717,7 +4928,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: speaker.trianglebadge.exclamationmark.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3736,7 +4947,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: strikethrough.double
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3744,8 +4955,23 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: stroke.line.diagonal
+    /// - Category: communication
+    static var strokeLineDiagonal: String { "stroke.line.diagonal" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: stroke.line.diagonal.slash
+    /// - Category: communication
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var strokeLineDiagonalSlash: String { "stroke.line.diagonal.slash" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: suitcase.circle
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3754,7 +4980,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.circle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3764,7 +4990,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.film
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3773,7 +4999,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.film.circle
-    /// - Category: objectsandtools, variable, whatsnew
+    /// - Category: objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3782,7 +5008,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.film.circle.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3792,7 +5018,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.film.fill
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3801,7 +5027,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.suitcase
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3810,7 +5036,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.suitcase.circle
-    /// - Category: objectsandtools, variable, whatsnew
+    /// - Category: objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3819,7 +5045,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.suitcase.circle.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3829,7 +5055,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.and.suitcase.fill
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3838,7 +5064,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.circle
-    /// - Category: objectsandtools, variable, whatsnew
+    /// - Category: objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3847,7 +5073,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: suitcase.rolling.circle.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3857,14 +5083,42 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: text.below.folder
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var textBelowFolder: String { "text.below.folder" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: text.below.folder.fill
-    /// - Category: objectsandtools, whatsnew
+    /// - Category: objectsandtools
     static var textBelowFolderFill: String { "text.below.folder.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: text.line.2.summary
+    /// - Category: textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var textLine2Summary: String { "text.line.2.summary" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: text.line.2.summary.badge.xmark
+    /// - Category: multicolor, textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var textLine2SummaryBadgeXmark: String { "text.line.2.summary.badge.xmark" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: text.line.3.summary
+    /// - Category: textformatting
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var textLine3Summary: String { "text.line.3.summary" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
@@ -3878,7 +5132,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: text.pad.header.badge.clock
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3888,7 +5142,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: text.pad.header.badge.clock.rtl
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3908,7 +5162,6 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: text.rectangle
-    /// - Category: whatsnew
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3917,7 +5170,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: text.rectangle.fill
-    /// - Category: multicolor, whatsnew
+    /// - Category: multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3927,7 +5180,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: text.square.filled
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3936,13 +5189,22 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: textformat.numbers.mr
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     static var textformatNumbersMr: String { "textformat.numbers.mr" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: thermometer.and.ellipsis
+    /// - Category: home, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var thermometerAndEllipsis: String { "thermometer.and.ellipsis" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: thermometer.gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3951,7 +5213,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: thermometer.tirepressure
-    /// - Category: automotive, whatsnew
+    /// - Category: automotive
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3960,7 +5222,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: thermometer.variable.badge.clock
-    /// - Category: health, home, multicolor, nature, weather, whatsnew
+    /// - Category: health, home, multicolor, nature, weather
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3970,7 +5232,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: thermometer.variable.badge.play
-    /// - Category: health, home, multicolor, nature, weather, whatsnew
+    /// - Category: health, home, multicolor, nature, weather
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3979,8 +5241,27 @@ public extension SFName {
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: ticket.circle
+    /// - Category: objectsandtools, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var ticketCircle: String { "ticket.circle" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
+    /// - Symbol Name: ticket.circle.fill
+    /// - Category: multicolor, objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    /// - multicolor: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var ticketCircleFill: String { "ticket.circle.fill" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: tram.card
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3989,7 +5270,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: tram.card.fill
-    /// - Category: multicolor, transportation, whatsnew
+    /// - Category: multicolor, transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -3999,7 +5280,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: tray.badge
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4009,7 +5290,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: tray.badge.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4019,7 +5300,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: umbrella.circle
-    /// - Category: objectsandtools, variable, whatsnew
+    /// - Category: objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4028,7 +5309,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: umbrella.circle.fill
-    /// - Category: multicolor, objectsandtools, whatsnew
+    /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4038,7 +5319,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: umbrella.gauge.open
-    /// - Category: variable, whatsnew
+    /// - Category: variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4047,7 +5328,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: umbrella.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4056,7 +5337,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: umbrella.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4066,7 +5347,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: underline.double
-    /// - Category: textformatting, whatsnew
+    /// - Category: textformatting
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4075,7 +5356,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: vent.heat.waves.upward
-    /// - Category: arrows, automotive, whatsnew
+    /// - Category: arrows, automotive
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4084,7 +5365,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: vision.pro.badge.checkmark
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4094,7 +5375,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: vision.pro.badge.checkmark.fill
-    /// - Category: devices, multicolor, whatsnew
+    /// - Category: devices, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4104,7 +5385,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: wallet.sensor.tag.radiowaves.left.and.right
-    /// - Category: devices, objectsandtools, variable, whatsnew
+    /// - Category: devices, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4113,7 +5394,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: wallet.sensor.tag.radiowaves.left.and.right.fill
-    /// - Category: devices, multicolor, objectsandtools, variable, whatsnew
+    /// - Category: devices, multicolor, objectsandtools, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4123,19 +5404,28 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: waveform.low
-    /// - Category: communication, maps, variable, whatsnew
+    /// - Category: communication, maps, variable
     static var waveformLow: String { "waveform.low" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: waveform.mid
-    /// - Category: communication, maps, variable, whatsnew
+    /// - Category: communication, maps, variable
     static var waveformMid: String { "waveform.mid" }
 
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
+    /// - Symbol Name: wifi.badge.lock
+    /// - Category: connectivity, variable
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static var wifiBadgeLock: String { "wifi.badge.lock" }
+
+    /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
+    ///
     /// - Symbol Name: xmark.circle.badge.airplane
-    /// - Category: transportation, whatsnew
+    /// - Category: transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
@@ -4144,7 +5434,7 @@ public extension SFName {
     /// Support only iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0 and later
     ///
     /// - Symbol Name: xmark.circle.badge.airplane.fill
-    /// - Category: multicolor, transportation, whatsnew
+    /// - Category: multicolor, transportation
     ///
     /// Availabilities:
     /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0

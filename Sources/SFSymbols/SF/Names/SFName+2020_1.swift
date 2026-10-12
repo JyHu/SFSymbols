@@ -17,20 +17,12 @@ public extension SFName {
     ///
     /// - Symbol Name: aqi.low
     /// - Category: variable, weather
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var aqiLow: String { "aqi.low" }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: aqi.medium
     /// - Category: variable, weather
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var aqiMedium: String { "aqi.medium" }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
@@ -385,7 +377,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var playTvFill: String { "play.tv.fill" }
 
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
@@ -417,7 +408,7 @@ public extension SFName {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat.1.circle
-    /// - Category: media, variable
+    /// - Category: arrows, media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -426,7 +417,7 @@ public extension SFName {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat.1.circle.fill
-    /// - Category: media, multicolor
+    /// - Category: arrows, media, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -436,7 +427,7 @@ public extension SFName {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat.circle
-    /// - Category: media, variable
+    /// - Category: arrows, media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -445,7 +436,7 @@ public extension SFName {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: repeat.circle.fill
-    /// - Category: media, multicolor
+    /// - Category: arrows, media, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -461,7 +452,7 @@ public extension SFName {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: shuffle.circle
-    /// - Category: media, variable
+    /// - Category: arrows, media, variable
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
@@ -470,7 +461,7 @@ public extension SFName {
     /// Support only iOS 14.2, macOS 11.0, tvOS 14.2, watchOS 7.1, visionOS 1.0 and later
     ///
     /// - Symbol Name: shuffle.circle.fill
-    /// - Category: media, multicolor
+    /// - Category: arrows, media, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0

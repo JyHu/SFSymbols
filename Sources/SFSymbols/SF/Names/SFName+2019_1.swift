@@ -95,7 +95,6 @@ public extension SFName {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     static var paperclipCircle: String { "paperclip.circle" }
 
     /// Support only iOS 13.1, macOS 10.15, tvOS 13.0, watchOS 6.1, visionOS 1.0 and later

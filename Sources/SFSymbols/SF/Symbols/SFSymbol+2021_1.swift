@@ -54,7 +54,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownBackward: SFSymbol { SFSymbol(rawValue: SFName.square3Layers3DDownBackward) }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
@@ -64,7 +63,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownForward: SFSymbol { SFSymbol(rawValue: SFName.square3Layers3DDownForward) }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
@@ -74,7 +72,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownLeft: SFSymbol { SFSymbol(rawValue: SFName.square3Layers3DDownLeft) }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later
@@ -84,7 +81,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var square3Layers3DDownRight: SFSymbol { SFSymbol(rawValue: SFName.square3Layers3DDownRight) }
 
     /// Support only iOS 15.1, macOS 12.0, tvOS 15.1, watchOS 8.1, visionOS 1.0 and later

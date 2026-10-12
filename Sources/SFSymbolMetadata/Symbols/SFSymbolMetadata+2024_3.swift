@@ -400,8 +400,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4
-    /// - multicolor: iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4
-    static let characterTextboxBadgeSparklesMl = SFSymbolMetadata(.characterTextboxBadgeSparklesMl, releaseYear: ._2024_3, category: [ .textformatting ], layerset: [.hierarchical: ._2024_3, .multicolor: ._2024_3])
+    static let characterTextboxBadgeSparklesMl = SFSymbolMetadata(.characterTextboxBadgeSparklesMl, releaseYear: ._2024_3, category: [ .textformatting ], layerset: [.hierarchical: ._2024_3])
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///
@@ -932,10 +931,11 @@ public extension SFSymbolMetadata {
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///
     /// - Symbol Name: memories.slash
+    /// - Category: arrows
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4
-    static let memoriesSlash = SFSymbolMetadata(.memoriesSlash, releaseYear: ._2024_3, keywords: ["arrow", "play"], layerset: [.hierarchical: ._2024_3])
+    static let memoriesSlash = SFSymbolMetadata(.memoriesSlash, releaseYear: ._2024_3, category: [ .arrows ], keywords: ["arrow", "play"], layerset: [.hierarchical: ._2024_3])
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///
@@ -1146,7 +1146,7 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: repeat.badge.xmark.circle.fill
     /// - Recommended: repeat.badge.xmark
-    static let repeatBadgeXmarkCircleFill = SFSymbolMetadata(.repeatBadgeXmarkCircleFill, releaseYear: ._2024_3, recommendedRawValue: "repeat.badge.xmark")
+    static let repeatBadgeXmarkCircleFill = SFSymbolMetadata(.repeatBadgeXmarkCircleFill, releaseYear: ._2024_3, recommendedRawValue: "repeat.badge.xmark", keywords: ["arrow", "arrow.trianglehead", "trianglehead"])
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///
@@ -1179,13 +1179,19 @@ public extension SFSymbolMetadata {
     ///
     /// - Symbol Name: robotic.vacuum.and.ellipsis
     /// - Category: home, objectsandtools, variable
-    static let roboticVacuumAndEllipsis = SFSymbolMetadata(.roboticVacuumAndEllipsis, releaseYear: ._2024_3, category: [ .home, .objectsandtools, .variable ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static let roboticVacuumAndEllipsis = SFSymbolMetadata(.roboticVacuumAndEllipsis, releaseYear: ._2024_3, category: [ .home, .objectsandtools, .variable ], layerset: [.hierarchical: ._2025])
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///
     /// - Symbol Name: robotic.vacuum.and.ellipsis.fill
     /// - Category: home, objectsandtools, variable
-    static let roboticVacuumAndEllipsisFill = SFSymbolMetadata(.roboticVacuumAndEllipsisFill, releaseYear: ._2024_3, category: [ .home, .objectsandtools, .variable ])
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 26.0, macOS 26.0, tvOS 26.0, watchOS 26.0, visionOS 26.0
+    static let roboticVacuumAndEllipsisFill = SFSymbolMetadata(.roboticVacuumAndEllipsisFill, releaseYear: ._2024_3, category: [ .home, .objectsandtools, .variable ], layerset: [.hierarchical: ._2025])
 
     /// Support only iOS 18.4, macOS 15.4, tvOS 18.4, watchOS 11.4, visionOS 2.4 and later
     ///

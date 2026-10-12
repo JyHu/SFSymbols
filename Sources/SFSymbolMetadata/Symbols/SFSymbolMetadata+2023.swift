@@ -819,12 +819,11 @@ public extension SFSymbolMetadata {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: arrow.up.forward.and.arrow.down.backward.square.fill
-    /// - Category: arrows, cameraandphotos, multicolor
+    /// - Category: arrows, cameraandphotos
     ///
     /// Availabilities:
     /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let arrowUpForwardAndArrowDownBackwardSquareFill = SFSymbolMetadata(.arrowUpForwardAndArrowDownBackwardSquareFill, releaseYear: ._2023, category: [ .arrows, .cameraandphotos, .multicolor ], layerset: [.hierarchical: ._2023, .multicolor: ._2023])
+    static let arrowUpForwardAndArrowDownBackwardSquareFill = SFSymbolMetadata(.arrowUpForwardAndArrowDownBackwardSquareFill, releaseYear: ._2023, category: [ .arrows, .cameraandphotos ], layerset: [.hierarchical: ._2023])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -1602,8 +1601,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let bellBadgeWaveform = SFSymbolMetadata(.bellBadgeWaveform, releaseYear: ._2023, category: [ .objectsandtools, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let bellBadgeWaveform = SFSymbolMetadata(.bellBadgeWaveform, releaseYear: ._2023, category: [ .objectsandtools, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -1612,8 +1610,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let bellBadgeWaveformFill = SFSymbolMetadata(.bellBadgeWaveformFill, releaseYear: ._2023, category: [ .objectsandtools, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let bellBadgeWaveformFill = SFSymbolMetadata(.bellBadgeWaveformFill, releaseYear: ._2023, category: [ .objectsandtools, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -2812,8 +2809,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let characterMagnify = SFSymbolMetadata(.characterMagnify, releaseYear: ._2023, category: [ .accessibility, .textformatting ], keywords: ["a"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let characterMagnify = SFSymbolMetadata(.characterMagnify, releaseYear: ._2023, category: [ .accessibility, .textformatting ], keywords: ["a"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -3556,8 +3552,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let earBadgeWaveform = SFSymbolMetadata(.earBadgeWaveform, releaseYear: ._2023, category: [ .accessibility, .health, .human, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let earBadgeWaveform = SFSymbolMetadata(.earBadgeWaveform, releaseYear: ._2023, category: [ .accessibility, .health, .human, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -4660,8 +4655,8 @@ public extension SFSymbolMetadata {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: head.profile.arrow.forward.and.visionpro
-    /// - Recommended: head.profile.arrow.forward.and.vision.pro
-    static let headProfileArrowForwardAndVisionpro = SFSymbolMetadata(.headProfileArrowForwardAndVisionpro, releaseYear: ._2023, recommendedRawValue: "head.profile.arrow.forward.and.vision.pro")
+    /// - Recommended: head.profile.vision.pro.remove
+    static let headProfileArrowForwardAndVisionpro = SFSymbolMetadata(.headProfileArrowForwardAndVisionpro, releaseYear: ._2023, recommendedRawValue: "head.profile.vision.pro.remove")
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -5464,14 +5459,14 @@ public extension SFSymbolMetadata {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow.and.cursorarrow
-    /// - Recommended: macwindow.and.pointer.arrow
-    static let macwindowAndCursorarrow = SFSymbolMetadata(.macwindowAndCursorarrow, releaseYear: ._2023, recommendedRawValue: "macwindow.and.pointer.arrow", keywords: ["cursor"])
+    /// - Recommended: interface.window.and.pointer.arrow
+    static let macwindowAndCursorarrow = SFSymbolMetadata(.macwindowAndCursorarrow, releaseYear: ._2023, recommendedRawValue: "interface.window.and.pointer.arrow", keywords: ["cursor"])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow.and.cursorarrow.rtl
-    /// - Recommended: macwindow.and.pointer.arrow.rtl
-    static let macwindowAndCursorarrowRtl = SFSymbolMetadata(.macwindowAndCursorarrowRtl, releaseYear: ._2023, recommendedRawValue: "macwindow.and.pointer.arrow.rtl", keywords: ["cursor"])
+    /// - Recommended: interface.window.and.pointer.arrow.rtl
+    static let macwindowAndCursorarrowRtl = SFSymbolMetadata(.macwindowAndCursorarrowRtl, releaseYear: ._2023, recommendedRawValue: "interface.window.and.pointer.arrow.rtl", keywords: ["cursor"])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -5506,8 +5501,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let messageBadgeWaveform = SFSymbolMetadata(.messageBadgeWaveform, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let messageBadgeWaveform = SFSymbolMetadata(.messageBadgeWaveform, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -5516,8 +5510,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let messageBadgeWaveformFill = SFSymbolMetadata(.messageBadgeWaveformFill, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let messageBadgeWaveformFill = SFSymbolMetadata(.messageBadgeWaveformFill, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -6128,8 +6121,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let phoneBadgeWaveform = SFSymbolMetadata(.phoneBadgeWaveform, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let phoneBadgeWaveform = SFSymbolMetadata(.phoneBadgeWaveform, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -6138,8 +6130,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let phoneBadgeWaveformFill = SFSymbolMetadata(.phoneBadgeWaveformFill, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let phoneBadgeWaveformFill = SFSymbolMetadata(.phoneBadgeWaveformFill, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -6350,8 +6341,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let pointTopleftDownToPointBottomrightCurvepath = SFSymbolMetadata(.pointTopleftDownToPointBottomrightCurvepath, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let pointTopleftDownToPointBottomrightCurvepath = SFSymbolMetadata(.pointTopleftDownToPointBottomrightCurvepath, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -6360,8 +6350,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let pointTopleftDownToPointBottomrightCurvepathFill = SFSymbolMetadata(.pointTopleftDownToPointBottomrightCurvepathFill, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let pointTopleftDownToPointBottomrightCurvepathFill = SFSymbolMetadata(.pointTopleftDownToPointBottomrightCurvepathFill, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -6370,8 +6359,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let pointTopleftDownToPointBottomrightFilledCurvepath = SFSymbolMetadata(.pointTopleftDownToPointBottomrightFilledCurvepath, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let pointTopleftDownToPointBottomrightFilledCurvepath = SFSymbolMetadata(.pointTopleftDownToPointBottomrightFilledCurvepath, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -6380,8 +6368,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let pointTopleftFilledDownToPointBottomrightCurvepath = SFSymbolMetadata(.pointTopleftFilledDownToPointBottomrightCurvepath, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let pointTopleftFilledDownToPointBottomrightCurvepath = SFSymbolMetadata(.pointTopleftFilledDownToPointBottomrightCurvepath, releaseYear: ._2023, category: [ .maps ], keywords: ["activities", "path", "trail"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -7122,8 +7109,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let speakerWave2Bubble = SFSymbolMetadata(.speakerWave2Bubble, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let speakerWave2Bubble = SFSymbolMetadata(.speakerWave2Bubble, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2022])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -7152,8 +7138,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let speakerWave2BubbleRtl = SFSymbolMetadata(.speakerWave2BubbleRtl, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2022, .multicolor: ._2022])
+    static let speakerWave2BubbleRtl = SFSymbolMetadata(.speakerWave2BubbleRtl, releaseYear: ._2023, category: [ .communication, .variable ], layerset: [.hierarchical: ._2022])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -7394,8 +7379,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let sunHorizon = SFSymbolMetadata(.sunHorizon, releaseYear: ._2023, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let sunHorizon = SFSymbolMetadata(.sunHorizon, releaseYear: ._2023, category: [ .nature, .weather ], keywords: ["weather"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -8120,8 +8104,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let videoBadgeWaveform = SFSymbolMetadata(.videoBadgeWaveform, releaseYear: ._2023, category: [ .communication, .variable ], keywords: ["facetime"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let videoBadgeWaveform = SFSymbolMetadata(.videoBadgeWaveform, releaseYear: ._2023, category: [ .communication, .variable ], keywords: ["facetime"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -8130,8 +8113,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let videoBadgeWaveformFill = SFSymbolMetadata(.videoBadgeWaveformFill, releaseYear: ._2023, category: [ .communication, .variable ], keywords: ["facetime"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let videoBadgeWaveformFill = SFSymbolMetadata(.videoBadgeWaveformFill, releaseYear: ._2023, category: [ .communication, .variable ], keywords: ["facetime"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -8360,11 +8342,8 @@ public extension SFSymbolMetadata {
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: waveform.and.person.filled
-    /// - Category: communication, human, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
-    static let waveformAndPersonFilled = SFSymbolMetadata(.waveformAndPersonFilled, releaseYear: ._2023, category: [ .communication, .human, .variable ], keywords: ["people", "person"], layerset: [.hierarchical: ._2023])
+    /// - Recommended: waveform.and.person
+    static let waveformAndPersonFilled = SFSymbolMetadata(.waveformAndPersonFilled, releaseYear: ._2023, recommendedRawValue: "waveform.and.person", keywords: ["people", "person"])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///
@@ -8373,8 +8352,7 @@ public extension SFSymbolMetadata {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    static let waveformBadgeMagnifyingglass = SFSymbolMetadata(.waveformBadgeMagnifyingglass, releaseYear: ._2023, category: [ .accessibility, .communication, .variable ], keywords: ["search"], layerset: [.hierarchical: ._2021, .multicolor: ._2022])
+    static let waveformBadgeMagnifyingglass = SFSymbolMetadata(.waveformBadgeMagnifyingglass, releaseYear: ._2023, category: [ .accessibility, .communication, .variable ], keywords: ["search"], layerset: [.hierarchical: ._2021])
 
     /// Support only iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0 and later
     ///

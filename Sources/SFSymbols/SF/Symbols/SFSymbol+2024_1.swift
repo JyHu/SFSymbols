@@ -615,7 +615,7 @@ public extension SFSymbol {
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: memories.badge.checkmark
-    /// - Category: multicolor
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1
@@ -625,7 +625,7 @@ public extension SFSymbol {
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: memories.badge.xmark
-    /// - Category: multicolor
+    /// - Category: arrows, multicolor
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1
@@ -792,9 +792,6 @@ public extension SFSymbol {
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: waveform.path.ecg.text.page
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
     static var waveformPathEcgTextPage: SFSymbol { SFSymbol(rawValue: SFName.waveformPathEcgTextPage) }
 
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
@@ -810,9 +807,6 @@ public extension SFSymbol {
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later
     ///
     /// - Symbol Name: waveform.path.ecg.text.page.rtl
-    ///
-    /// Availabilities:
-    /// - multicolor: iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, visionOS 1.0
     static var waveformPathEcgTextPageRtl: SFSymbol { SFSymbol(rawValue: SFName.waveformPathEcgTextPageRtl) }
 
     /// Support only iOS 18.1, macOS 15.1, tvOS 18.1, watchOS 11.1, visionOS 2.1 and later

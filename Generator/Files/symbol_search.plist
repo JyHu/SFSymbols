@@ -6,6 +6,14 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>1.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>1.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>1.lane</key>
 	<array>
 		<string>running</string>
@@ -37,6 +45,14 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>10.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>10.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>10.lane</key>
 	<array>
 		<string>running</string>
@@ -53,6 +69,14 @@
 		<string>sports</string>
 	</array>
 	<key>11.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>11.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>11.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -75,6 +99,14 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>12.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>12.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>12.lane</key>
 	<array>
 		<string>running</string>
@@ -94,7 +126,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>13.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>13.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>14.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>14.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>14.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -102,7 +150,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>15.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>15.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>16.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>16.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>16.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -110,7 +174,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>17.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>17.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>18.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>18.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>18.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -118,7 +198,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>19.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>19.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>2.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>2.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>2.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -141,7 +237,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>20.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>20.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>21.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>21.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>21.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -149,7 +261,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>22.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>22.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>23.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>23.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>23.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -157,7 +285,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>24.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>24.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>25.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>25.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>25.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -165,7 +309,23 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>26.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>26.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>27.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>27.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>27.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -173,11 +333,35 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>28.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>28.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>29.calendar</key>
 	<array>
 		<string>date</string>
 	</array>
+	<key>29.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>29.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>3.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>3.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>3.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -200,11 +384,35 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>30.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>30.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>31.calendar</key>
 	<array>
 		<string>date</string>
 	</array>
+	<key>31.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>31.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>4.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>4.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>4.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -227,6 +435,14 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>5.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>5.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>5.lane</key>
 	<array>
 		<string>running</string>
@@ -243,6 +459,14 @@
 		<string>sports</string>
 	</array>
 	<key>6.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>6.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>6.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -265,6 +489,14 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>7.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>7.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>7.lane</key>
 	<array>
 		<string>running</string>
@@ -284,6 +516,14 @@
 	<array>
 		<string>date</string>
 	</array>
+	<key>8.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>8.calendar.hi</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>8.lane</key>
 	<array>
 		<string>running</string>
@@ -300,6 +540,14 @@
 		<string>sports</string>
 	</array>
 	<key>9.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>9.calendar.ar</key>
+	<array>
+		<string>date</string>
+	</array>
+	<key>9.calendar.hi</key>
 	<array>
 		<string>date</string>
 	</array>
@@ -451,6 +699,68 @@
 	<array>
 		<string>audio</string>
 	</array>
+	<key>airpods.pro.gen1</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>airpods.pro.gen1.chargingcase.wireless</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen1.chargingcase.wireless.fill</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen1.chargingcase.wireless.radiowaves.left.and.right</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen1.chargingcase.wireless.radiowaves.left.and.right.fill</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen1.left</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>airpods.pro.gen1.right</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>airpods.pro.gen3</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen3.chargingcase.wireless</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen3.chargingcase.wireless.fill</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen3.chargingcase.wireless.radiowaves.left.and.right</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen3.chargingcase.wireless.radiowaves.left.and.right.fill</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen3.left</key>
+	<array>
+		<string>audio</string>
+	</array>
+	<key>airpods.pro.gen3.right</key>
+	<array>
+		<string>audio</string>
+	</array>
 	<key>airpods.pro.left</key>
 	<array>
 		<string>audio</string>
@@ -501,7 +811,39 @@
 	<array>
 		<string>alarm</string>
 	</array>
+	<key>alarm.badge.exclamationmark</key>
+	<array>
+		<string>alarm</string>
+	</array>
+	<key>alarm.badge.exclamationmark.fill</key>
+	<array>
+		<string>alarm</string>
+	</array>
+	<key>alarm.badge.minus</key>
+	<array>
+		<string>alarm</string>
+	</array>
+	<key>alarm.badge.minus.fill</key>
+	<array>
+		<string>alarm</string>
+	</array>
+	<key>alarm.badge.xmark</key>
+	<array>
+		<string>alarm</string>
+	</array>
+	<key>alarm.badge.xmark.fill</key>
+	<array>
+		<string>alarm</string>
+	</array>
 	<key>alarm.fill</key>
+	<array>
+		<string>alarm</string>
+	</array>
+	<key>alarm.slash</key>
+	<array>
+		<string>alarm</string>
+	</array>
+	<key>alarm.slash.fill</key>
 	<array>
 		<string>alarm</string>
 	</array>
@@ -688,6 +1030,7 @@
 	<array>
 		<string>activities</string>
 		<string>path</string>
+		<string>trail</string>
 	</array>
 	<key>apple.image.playground</key>
 	<array>
@@ -1138,6 +1481,26 @@
 	<array>
 		<string>people</string>
 	</array>
+	<key>arrow.up.arrow.down</key>
+	<array>
+		<string>sort</string>
+	</array>
+	<key>arrow.up.arrow.down.circle</key>
+	<array>
+		<string>sort</string>
+	</array>
+	<key>arrow.up.arrow.down.circle.fill</key>
+	<array>
+		<string>sort</string>
+	</array>
+	<key>arrow.up.arrow.down.square</key>
+	<array>
+		<string>sort</string>
+	</array>
+	<key>arrow.up.arrow.down.square.fill</key>
+	<array>
+		<string>sort</string>
+	</array>
 	<key>arrow.up.backward</key>
 	<array>
 		<string>left</string>
@@ -1494,12 +1857,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>australiandollarsign.bank.building</key>
+	<key>australiandollarsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>australiandollarsign.bank.building.fill</key>
+	<key>australiandollarsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -1534,12 +1897,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>australsign.bank.building</key>
+	<key>australsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>australsign.bank.building.fill</key>
+	<key>australsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -1622,12 +1985,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>bahtsign.bank.building</key>
+	<key>bahtsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>bahtsign.bank.building.fill</key>
+	<key>bahtsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -1684,6 +2047,12 @@
 	<array>
 		<string>high</string>
 		<string>medium</string>
+	</array>
+	<key>base.unit</key>
+	<array>
+		<string>distance</string>
+		<string>measure</string>
+		<string>scale</string>
 	</array>
 	<key>baseball</key>
 	<array>
@@ -2089,12 +2458,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>bitcoinsign.bank.building</key>
+	<key>bitcoinsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>bitcoinsign.bank.building.fill</key>
+	<key>bitcoinsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -2286,12 +2655,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>brazilianrealsign.bank.building</key>
+	<key>brazilianrealsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>brazilianrealsign.bank.building.fill</key>
+	<key>brazilianrealsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -2354,19 +2723,19 @@
 		<string>COVID</string>
 		<string>deep cleaning</string>
 	</array>
-	<key>building.columns</key>
+	<key>building.classical.columns</key>
 	<array>
 		<string>library</string>
 	</array>
-	<key>building.columns.circle</key>
+	<key>building.classical.columns.circle</key>
+	<array>
+		<string>library</string>
+	</array>
+	<key>building.classical.columns.fill</key>
 	<array>
 		<string>library</string>
 	</array>
 	<key>building.columns.circle.fill</key>
-	<array>
-		<string>library</string>
-	</array>
-	<key>building.columns.fill</key>
 	<array>
 		<string>library</string>
 	</array>
@@ -2432,6 +2801,10 @@
 	<key>calendar.circle.fill</key>
 	<array>
 		<string>calendar</string>
+		<string>date</string>
+	</array>
+	<key>calendar.day</key>
+	<array>
 		<string>date</string>
 	</array>
 	<key>calendar.day.timeline.leading</key>
@@ -2656,12 +3029,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>cedisign.bank.building</key>
+	<key>cedisign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>cedisign.bank.building.fill</key>
+	<key>cedisign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -2696,12 +3069,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>centsign.bank.building</key>
+	<key>centsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>centsign.bank.building.fill</key>
+	<key>centsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -3018,6 +3391,10 @@
 	<array>
 		<string>right</string>
 	</array>
+	<key>chevron.left.forwardslash.chevron.right</key>
+	<array>
+		<string>code</string>
+	</array>
 	<key>chineseyuanrenminbisign</key>
 	<array>
 		<string>currencies</string>
@@ -3028,12 +3405,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>chineseyuanrenminbisign.bank.building</key>
+	<key>chineseyuanrenminbisign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>chineseyuanrenminbisign.bank.building.fill</key>
+	<key>chineseyuanrenminbisign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -3408,12 +3785,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>coloncurrencysign.bank.building</key>
+	<key>coloncurrencysign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>coloncurrencysign.bank.building.fill</key>
+	<key>coloncurrencysign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -3574,12 +3951,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>cruzeirosign.bank.building</key>
+	<key>cruzeirosign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>cruzeirosign.bank.building.fill</key>
+	<key>cruzeirosign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -3640,12 +4017,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>danishkronesign.bank.building</key>
+	<key>danishkronesign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>danishkronesign.bank.building.fill</key>
+	<key>danishkronesign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -3955,12 +4332,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>dollarsign.bank.building</key>
+	<key>dollarsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>dollarsign.bank.building.fill</key>
+	<key>dollarsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -3995,12 +4372,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>dongsign.bank.building</key>
+	<key>dongsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>dongsign.bank.building.fill</key>
+	<key>dongsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -4056,6 +4433,11 @@
 	<key>dot.radiowaves.forward</key>
 	<array>
 		<string>right</string>
+	</array>
+	<key>dot.radiowaves.left.and.right</key>
+	<array>
+		<string>radio</string>
+		<string>station</string>
 	</array>
 	<key>dot.scope</key>
 	<array>
@@ -4549,6 +4931,12 @@
 		<string>letter</string>
 		<string>mail</string>
 	</array>
+	<key>envelope.open.badge.clock.fill</key>
+	<array>
+		<string>address</string>
+		<string>letter</string>
+		<string>mail</string>
+	</array>
 	<key>envelope.open.fill</key>
 	<array>
 		<string>address</string>
@@ -4609,12 +4997,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>eurosign.bank.building</key>
+	<key>eurosign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>eurosign.bank.building.fill</key>
+	<key>eurosign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -4649,12 +5037,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>eurozonesign.bank.building</key>
+	<key>eurozonesign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>eurozonesign.bank.building.fill</key>
+	<key>eurozonesign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -4999,6 +5387,18 @@
 		<string>human</string>
 		<string>person</string>
 	</array>
+	<key>figure.2.ascending</key>
+	<array>
+		<string>adult</string>
+		<string>child</string>
+		<string>family</string>
+		<string>human</string>
+		<string>kid</string>
+		<string>parent</string>
+		<string>person</string>
+		<string>teen</string>
+		<string>teenager</string>
+	</array>
 	<key>figure.2.circle</key>
 	<array>
 		<string>human</string>
@@ -5008,6 +5408,18 @@
 	<array>
 		<string>human</string>
 		<string>person</string>
+	</array>
+	<key>figure.2.descending</key>
+	<array>
+		<string>adult</string>
+		<string>child</string>
+		<string>family</string>
+		<string>human</string>
+		<string>kid</string>
+		<string>parent</string>
+		<string>person</string>
+		<string>teen</string>
+		<string>teenager</string>
 	</array>
 	<key>figure.2.left.holdinghands</key>
 	<array>
@@ -5069,6 +5481,7 @@
 	<array>
 		<string>human</string>
 		<string>person</string>
+		<string>teen</string>
 	</array>
 	<key>figure.australian.football</key>
 	<array>
@@ -6809,6 +7222,18 @@
 		<string>human</string>
 		<string>person</string>
 	</array>
+	<key>figure.stand.and.figure.teen</key>
+	<array>
+		<string>adult</string>
+		<string>child</string>
+		<string>family</string>
+		<string>human</string>
+		<string>kid</string>
+		<string>parent</string>
+		<string>person</string>
+		<string>teen</string>
+		<string>teenager</string>
+	</array>
 	<key>figure.stand.dress</key>
 	<array>
 		<string>human</string>
@@ -6931,6 +7356,46 @@
 		<string>human</string>
 		<string>person</string>
 		<string>sports</string>
+	</array>
+	<key>figure.teen</key>
+	<array>
+		<string>human</string>
+		<string>person</string>
+		<string>teen</string>
+	</array>
+	<key>figure.teen.and.lock</key>
+	<array>
+		<string>human</string>
+		<string>person</string>
+		<string>teen</string>
+	</array>
+	<key>figure.teen.and.lock.fill</key>
+	<array>
+		<string>human</string>
+		<string>person</string>
+		<string>teen</string>
+	</array>
+	<key>figure.teen.and.lock.open</key>
+	<array>
+		<string>human</string>
+		<string>person</string>
+		<string>teen</string>
+	</array>
+	<key>figure.teen.and.lock.open.fill</key>
+	<array>
+		<string>human</string>
+		<string>person</string>
+		<string>teen</string>
+	</array>
+	<key>figure.teen.shield</key>
+	<array>
+		<string>human</string>
+		<string>teen</string>
+	</array>
+	<key>figure.teen.shield.fill</key>
+	<array>
+		<string>human</string>
+		<string>teen</string>
 	</array>
 	<key>figure.tennis</key>
 	<array>
@@ -7333,12 +7798,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>florinsign.bank.building</key>
+	<key>florinsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>florinsign.bank.building.fill</key>
+	<key>florinsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -7452,12 +7917,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>francsign.bank.building</key>
+	<key>francsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>francsign.bank.building.fill</key>
+	<key>francsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -7521,6 +7986,10 @@
 		<string>control</string>
 		<string>cruise</string>
 		<string>warning</string>
+	</array>
+	<key>gauge.range.33to100.dotted.with.needle</key>
+	<array>
+		<string>timer</string>
 	</array>
 	<key>gauge.with.dots.needle.0percent</key>
 	<array>
@@ -7632,6 +8101,11 @@
 	<key>globe.americas.fill</key>
 	<array>
 		<string>earth</string>
+	</array>
+	<key>globe.and.person</key>
+	<array>
+		<string>earth</string>
+		<string>language</string>
 	</array>
 	<key>globe.asia.australia</key>
 	<array>
@@ -7757,12 +8231,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>guaranisign.bank.building</key>
+	<key>guaranisign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>guaranisign.bank.building.fill</key>
+	<key>guaranisign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -8096,6 +8570,42 @@
 		<string>sound</string>
 		<string>speaker</string>
 	</array>
+	<key>hifispeaker.2.badge.checkmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.2.badge.checkmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.2.badge.checkmark.fill.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.2.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.2.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.2.badge.exclamationmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
 	<key>hifispeaker.2.badge.minus</key>
 	<array>
 		<string>audio</string>
@@ -8132,6 +8642,42 @@
 		<string>sound</string>
 		<string>speaker</string>
 	</array>
+	<key>hifispeaker.and.homepod.badge.checkmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.badge.checkmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.badge.checkmark.fill.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.badge.exclamationmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
 	<key>hifispeaker.and.homepod.badge.minus</key>
 	<array>
 		<string>audio</string>
@@ -8163,6 +8709,42 @@
 		<string>speaker</string>
 	</array>
 	<key>hifispeaker.and.homepod.mini</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.mini.badge.checkmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.mini.badge.checkmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.mini.badge.checkmark.fill.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.mini.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.mini.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.and.homepod.mini.badge.exclamationmark.fill</key>
 	<array>
 		<string>audio</string>
 		<string>sound</string>
@@ -8210,6 +8792,42 @@
 		<string>sound</string>
 		<string>speaker</string>
 	</array>
+	<key>hifispeaker.badge.checkmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.badge.checkmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.badge.checkmark.fill.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>hifispeaker.badge.exclamationmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
 	<key>hifispeaker.badge.minus</key>
 	<array>
 		<string>audio</string>
@@ -8245,6 +8863,11 @@
 		<string>write</string>
 		<string>writing</string>
 	</array>
+	<key>highlighter.badge.ellipsis</key>
+	<array>
+		<string>write</string>
+		<string>writing</string>
+	</array>
 	<key>hockey.puck</key>
 	<array>
 		<string>sports</string>
@@ -8268,6 +8891,42 @@
 		<string>speaker</string>
 	</array>
 	<key>homepod.2</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.2.badge.checkmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.2.badge.checkmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.2.badge.checkmark.fill.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.2.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.2.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.2.badge.exclamationmark.fill</key>
 	<array>
 		<string>audio</string>
 		<string>sound</string>
@@ -8304,6 +8963,42 @@
 		<string>speaker</string>
 	</array>
 	<key>homepod.and.homepod.mini</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.and.homepod.mini.badge.checkmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.and.homepod.mini.badge.checkmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.and.homepod.mini.badge.checkmark.fill.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.and.homepod.mini.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.and.homepod.mini.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.and.homepod.mini.badge.exclamationmark.fill</key>
 	<array>
 		<string>audio</string>
 		<string>sound</string>
@@ -8375,6 +9070,18 @@
 		<string>sound</string>
 		<string>speaker</string>
 	</array>
+	<key>homepod.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.badge.exclamationmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
 	<key>homepod.badge.minus</key>
 	<array>
 		<string>audio</string>
@@ -8412,6 +9119,42 @@
 		<string>speaker</string>
 	</array>
 	<key>homepod.mini.2</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.2.badge.checkmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.2.badge.checkmark.fill</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.2.badge.checkmark.fill.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.2.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.2.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.2.badge.exclamationmark.fill</key>
 	<array>
 		<string>audio</string>
 		<string>sound</string>
@@ -8478,6 +9221,18 @@
 		<string>speaker</string>
 	</array>
 	<key>homepod.mini.badge.checkmark.rtl</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.badge.exclamationmark</key>
+	<array>
+		<string>audio</string>
+		<string>sound</string>
+		<string>speaker</string>
+	</array>
+	<key>homepod.mini.badge.exclamationmark.fill</key>
 	<array>
 		<string>audio</string>
 		<string>sound</string>
@@ -8621,12 +9376,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>hryvniasign.bank.building</key>
+	<key>hryvniasign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>hryvniasign.bank.building.fill</key>
+	<key>hryvniasign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -8703,12 +9458,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>indianrupeesign.bank.building</key>
+	<key>indianrupeesign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>indianrupeesign.bank.building.fill</key>
+	<key>indianrupeesign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -8737,7 +9492,23 @@
 	<array>
 		<string>info</string>
 	</array>
+	<key>info.app</key>
+	<array>
+		<string>info</string>
+	</array>
+	<key>info.app.fill</key>
+	<array>
+		<string>info</string>
+	</array>
 	<key>info.circle</key>
+	<array>
+		<string>info</string>
+	</array>
+	<key>info.circle.badge</key>
+	<array>
+		<string>info</string>
+	</array>
+	<key>info.circle.badge.fill</key>
 	<array>
 		<string>info</string>
 	</array>
@@ -8758,7 +9529,7 @@
 		<string>completed</string>
 		<string>task</string>
 	</array>
-	<key>inset.filled.rectangle.and.person.filled</key>
+	<key>inset.filled.rectangle.and.person</key>
 	<array>
 		<string>people</string>
 		<string>screen sharing</string>
@@ -8773,9 +9544,39 @@
 		<string>people</string>
 		<string>screen sharing</string>
 	</array>
+	<key>inset.filled.rectangle.and.person.slash</key>
+	<array>
+		<string>people</string>
+		<string>screen sharing</string>
+	</array>
+	<key>inset.filled.rectangle.and.person.slash.rtl</key>
+	<array>
+		<string>people</string>
+		<string>screen sharing</string>
+	</array>
 	<key>inset.filled.rectangle.and.pointer.arrow</key>
 	<array>
 		<string>cursor</string>
+	</array>
+	<key>interface.window.and.pointer.arrow</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>interface.window.and.pointer.arrow.rtl</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>interface.window.badge.plus</key>
+	<array>
+		<string>+</string>
+		<string>add</string>
+		<string>create</string>
+		<string>new</string>
+	</array>
+	<key>ipad.landscape.and.applewatch</key>
+	<array>
+		<string>applewatch</string>
+		<string>ipad</string>
 	</array>
 	<key>ipad.landscape.and.iphone</key>
 	<array>
@@ -8786,6 +9587,11 @@
 	<array>
 		<string>ipad</string>
 		<string>iphone</string>
+	</array>
+	<key>ipad.landscape.and.ipod</key>
+	<array>
+		<string>applewatch</string>
+		<string>ipad</string>
 	</array>
 	<key>iphone.gen1.slash</key>
 	<array>
@@ -8942,12 +9748,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>kipsign.bank.building</key>
+	<key>kipsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>kipsign.bank.building.fill</key>
+	<key>kipsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -9068,12 +9874,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>larisign.bank.building</key>
+	<key>larisign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>larisign.bank.building.fill</key>
+	<key>larisign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -9216,12 +10022,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>lirasign.bank.building</key>
+	<key>lirasign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>lirasign.bank.building.fill</key>
+	<key>lirasign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -9598,6 +10404,12 @@
 		<string>password</string>
 		<string>security</string>
 	</array>
+	<key>lock.square.dashed</key>
+	<array>
+		<string>padlock</string>
+		<string>password</string>
+		<string>security</string>
+	</array>
 	<key>lock.square.fill</key>
 	<array>
 		<string>padlock</string>
@@ -9680,21 +10492,6 @@
 	<array>
 		<string>mac studio</string>
 	</array>
-	<key>macwindow.and.pointer.arrow</key>
-	<array>
-		<string>cursor</string>
-	</array>
-	<key>macwindow.and.pointer.arrow.rtl</key>
-	<array>
-		<string>cursor</string>
-	</array>
-	<key>macwindow.badge.plus</key>
-	<array>
-		<string>+</string>
-		<string>add</string>
-		<string>create</string>
-		<string>new</string>
-	</array>
 	<key>magnifyingglass</key>
 	<array>
 		<string>search</string>
@@ -9753,12 +10550,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>malaysianringgitsign.bank.building</key>
+	<key>malaysianringgitsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>malaysianringgitsign.bank.building.fill</key>
+	<key>malaysianringgitsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -9793,12 +10590,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>manatsign.bank.building</key>
+	<key>manatsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>manatsign.bank.building.fill</key>
+	<key>manatsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -9918,6 +10715,18 @@
 		<string>dictate</string>
 		<string>dictation</string>
 	</array>
+	<key>microphone.dynamic.on.stand</key>
+	<array>
+		<string>microphone</string>
+	</array>
+	<key>microphone.dynamic.on.stand.circle</key>
+	<array>
+		<string>microphone</string>
+	</array>
+	<key>microphone.dynamic.on.stand.circle.fill</key>
+	<array>
+		<string>microphone</string>
+	</array>
 	<key>microphone.fill</key>
 	<array>
 		<string>dictate</string>
@@ -9959,12 +10768,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>millsign.bank.building</key>
+	<key>millsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>millsign.bank.building.fill</key>
+	<key>millsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -10248,18 +11057,6 @@
 		<string>multiply</string>
 		<string>times</string>
 	</array>
-	<key>music.microphone</key>
-	<array>
-		<string>microphone</string>
-	</array>
-	<key>music.microphone.circle</key>
-	<array>
-		<string>microphone</string>
-	</array>
-	<key>music.microphone.circle.fill</key>
-	<array>
-		<string>microphone</string>
-	</array>
 	<key>music.note</key>
 	<array>
 		<string>media</string>
@@ -10304,12 +11101,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>nairasign.bank.building</key>
+	<key>nairasign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>nairasign.bank.building.fill</key>
+	<key>nairasign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -10344,12 +11141,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>norwegiankronesign.bank.building</key>
+	<key>norwegiankronesign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>norwegiankronesign.bank.building.fill</key>
+	<key>norwegiankronesign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -10422,42 +11219,42 @@
 	<array>
 		<string>≠</string>
 	</array>
-	<key>number</key>
+	<key>number.sign</key>
 	<array>
 		<string>#</string>
 		<string>hash</string>
 		<string>octothorpe</string>
 		<string>pound</string>
 	</array>
-	<key>number.circle</key>
+	<key>number.sign.circle</key>
 	<array>
 		<string>#</string>
 		<string>hash</string>
 		<string>octothorpe</string>
 		<string>pound</string>
 	</array>
-	<key>number.circle.fill</key>
+	<key>number.sign.circle.fill</key>
 	<array>
 		<string>#</string>
 		<string>hash</string>
 		<string>octothorpe</string>
 		<string>pound</string>
 	</array>
-	<key>number.square</key>
+	<key>number.sign.square</key>
 	<array>
 		<string>#</string>
 		<string>hash</string>
 		<string>octothorpe</string>
 		<string>pound</string>
 	</array>
-	<key>number.square.fill</key>
+	<key>number.sign.square.fill</key>
 	<array>
 		<string>#</string>
 		<string>hash</string>
 		<string>octothorpe</string>
 		<string>pound</string>
 	</array>
-	<key>numbersign</key>
+	<key>numero.sign</key>
 	<array>
 		<string>numero</string>
 	</array>
@@ -10752,6 +11549,16 @@
 		<string>people</string>
 		<string>shared</string>
 	</array>
+	<key>person.2.shield</key>
+	<array>
+		<string>people</string>
+		<string>shared</string>
+	</array>
+	<key>person.2.shield.fill</key>
+	<array>
+		<string>people</string>
+		<string>shared</string>
+	</array>
 	<key>person.2.slash</key>
 	<array>
 		<string>people</string>
@@ -10807,6 +11614,26 @@
 		<string>human</string>
 		<string>person</string>
 	</array>
+	<key>person.badge.checkmark</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.checkmark.fill</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.checkmark.seal</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.checkmark.seal.fill</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
 	<key>person.badge.clock</key>
 	<array>
 		<string>people</string>
@@ -10817,6 +11644,26 @@
 	<array>
 		<string>people</string>
 		<string>time</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.creditcard</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.creditcard.fill</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.gearshape</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.gearshape.fill</key>
+	<array>
+		<string>people</string>
 		<string>user</string>
 	</array>
 	<key>person.badge.key</key>
@@ -10833,6 +11680,16 @@
 		<string>password</string>
 		<string>people</string>
 		<string>privacyandsecurity</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.location</key>
+	<array>
+		<string>people</string>
+		<string>user</string>
+	</array>
+	<key>person.badge.location.fill</key>
+	<array>
+		<string>people</string>
 		<string>user</string>
 	</array>
 	<key>person.badge.minus</key>
@@ -10928,14 +11785,6 @@
 	<array>
 		<string>people</string>
 	</array>
-	<key>person.crop.badge.magnifyingglass</key>
-	<array>
-		<string>people</string>
-	</array>
-	<key>person.crop.badge.magnifyingglass.fill</key>
-	<array>
-		<string>people</string>
-	</array>
 	<key>person.crop.circle</key>
 	<array>
 		<string>account</string>
@@ -11014,6 +11863,14 @@
 		<string>contact</string>
 		<string>people</string>
 		<string>user</string>
+	</array>
+	<key>person.crop.circle.badge.magnifyingglass</key>
+	<array>
+		<string>people</string>
+	</array>
+	<key>person.crop.circle.badge.magnifyingglass.fill</key>
+	<array>
+		<string>people</string>
 	</array>
 	<key>person.crop.circle.badge.minus</key>
 	<array>
@@ -11313,6 +12170,18 @@
 		<string>physical distancing</string>
 		<string>social distancing</string>
 	</array>
+	<key>person.number.sign.rectangle</key>
+	<array>
+		<string>card</string>
+		<string>id</string>
+		<string>people</string>
+	</array>
+	<key>person.number.sign.rectangle.fill</key>
+	<array>
+		<string>card</string>
+		<string>id</string>
+		<string>people</string>
+	</array>
 	<key>person.slash</key>
 	<array>
 		<string>people</string>
@@ -11349,7 +12218,31 @@
 		<string>id</string>
 		<string>people</string>
 	</array>
+	<key>person.text.rectangle.badge.clock</key>
+	<array>
+		<string>card</string>
+		<string>id</string>
+		<string>people</string>
+	</array>
+	<key>person.text.rectangle.badge.clock.fill</key>
+	<array>
+		<string>card</string>
+		<string>id</string>
+		<string>people</string>
+	</array>
 	<key>person.text.rectangle.fill</key>
+	<array>
+		<string>card</string>
+		<string>id</string>
+		<string>people</string>
+	</array>
+	<key>person.text.rectangle.trianglebadge.exclamationmark</key>
+	<array>
+		<string>card</string>
+		<string>id</string>
+		<string>people</string>
+	</array>
+	<key>person.text.rectangle.trianglebadge.exclamationmark.fill</key>
 	<array>
 		<string>card</string>
 		<string>id</string>
@@ -11363,17 +12256,25 @@
 	<array>
 		<string>people</string>
 	</array>
+	<key>person.wave.2.inward</key>
+	<array>
+		<string>people</string>
+	</array>
+	<key>person.wave.2.inward.fill</key>
+	<array>
+		<string>people</string>
+	</array>
 	<key>peruviansolessign</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>peruviansolessign.bank.building</key>
+	<key>peruviansolessign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>peruviansolessign.bank.building.fill</key>
+	<key>peruviansolessign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -11408,12 +12309,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>pesetasign.bank.building</key>
+	<key>pesetasign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>pesetasign.bank.building.fill</key>
+	<key>pesetasign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -11448,12 +12349,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>pesosign.bank.building</key>
+	<key>pesosign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>pesosign.bank.building.fill</key>
+	<key>pesosign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -11644,6 +12545,26 @@
 		<string>place</string>
 		<string>sun</string>
 	</array>
+	<key>photo.badge.questionmark</key>
+	<array>
+		<string>environment</string>
+		<string>image</string>
+		<string>mountain</string>
+		<string>photograph</string>
+		<string>picture</string>
+		<string>place</string>
+		<string>sun</string>
+	</array>
+	<key>photo.badge.questionmark.fill</key>
+	<array>
+		<string>environment</string>
+		<string>image</string>
+		<string>mountain</string>
+		<string>photograph</string>
+		<string>picture</string>
+		<string>place</string>
+		<string>sun</string>
+	</array>
 	<key>photo.badge.shield.exclamationmark</key>
 	<array>
 		<string>environment</string>
@@ -11725,6 +12646,26 @@
 		<string>sun</string>
 	</array>
 	<key>photo.on.rectangle.angled.fill</key>
+	<array>
+		<string>environment</string>
+		<string>image</string>
+		<string>mountain</string>
+		<string>photograph</string>
+		<string>picture</string>
+		<string>place</string>
+		<string>sun</string>
+	</array>
+	<key>photo.slash</key>
+	<array>
+		<string>environment</string>
+		<string>image</string>
+		<string>mountain</string>
+		<string>photograph</string>
+		<string>picture</string>
+		<string>place</string>
+		<string>sun</string>
+	</array>
+	<key>photo.slash.fill</key>
 	<array>
 		<string>environment</string>
 		<string>image</string>
@@ -11839,6 +12780,16 @@
 	<key>pin.slash.fill</key>
 	<array>
 		<string>remove</string>
+	</array>
+	<key>pizza.slice</key>
+	<array>
+		<string>baking</string>
+		<string>food</string>
+	</array>
+	<key>pizza.slice.fill</key>
+	<array>
+		<string>baking</string>
+		<string>food</string>
 	</array>
 	<key>play.desktopcomputer</key>
 	<array>
@@ -12188,6 +13139,39 @@
 	<array>
 		<string>cursor</string>
 	</array>
+	<key>pointer.arrow.ipad</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>pointer.arrow.ipad.and.square.on.square.dashed</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>pointer.arrow.ipad.rays</key>
+	<array>
+		<string>cursor</string>
+		<string>light</string>
+	</array>
+	<key>pointer.arrow.ipad.slash</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>pointer.arrow.ipad.slash.square</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>pointer.arrow.ipad.slash.square.fill</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>pointer.arrow.ipad.square</key>
+	<array>
+		<string>cursor</string>
+	</array>
+	<key>pointer.arrow.ipad.square.fill</key>
+	<array>
+		<string>cursor</string>
+	</array>
 	<key>pointer.arrow.motionlines</key>
 	<array>
 		<string>cursor</string>
@@ -12231,12 +13215,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>polishzlotysign.bank.building</key>
+	<key>polishzlotysign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>polishzlotysign.bank.building.fill</key>
+	<key>polishzlotysign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -12719,6 +13703,10 @@
 	<array>
 		<string>voicemail</string>
 	</array>
+	<key>recordingtape.badge</key>
+	<array>
+		<string>voicemail</string>
+	</array>
 	<key>recordingtape.circle</key>
 	<array>
 		<string>voicemail</string>
@@ -12837,6 +13825,10 @@
 	<array>
 		<string>arrow</string>
 	</array>
+	<key>rectangle.landscape.rotate.slash</key>
+	<array>
+		<string>arrow</string>
+	</array>
 	<key>rectangle.on.rectangle.dashed</key>
 	<array>
 		<string>digital rights management</string>
@@ -12851,6 +13843,10 @@
 		<string>remove</string>
 	</array>
 	<key>rectangle.portrait.rotate</key>
+	<array>
+		<string>arrow</string>
+	</array>
+	<key>rectangle.portrait.rotate.slash</key>
 	<array>
 		<string>arrow</string>
 	</array>
@@ -12976,6 +13972,12 @@
 		<string>arrow.trianglehead</string>
 		<string>trianglehead</string>
 	</array>
+	<key>repeat.badge.xmark</key>
+	<array>
+		<string>arrow</string>
+		<string>arrow.trianglehead</string>
+		<string>trianglehead</string>
+	</array>
 	<key>repeat.circle</key>
 	<array>
 		<string>arrow</string>
@@ -13038,12 +14040,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>rublesign.bank.building</key>
+	<key>rublesign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>rublesign.bank.building.fill</key>
+	<key>rublesign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -13094,12 +14096,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>rupeesign.bank.building</key>
+	<key>rupeesign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>rupeesign.bank.building.fill</key>
+	<key>rupeesign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -13154,6 +14156,17 @@
 		<string>…</string>
 	</array>
 	<key>scope</key>
+	<array>
+		<string>circle</string>
+		<string>crosshair</string>
+		<string>inspect</string>
+		<string>locate</string>
+		<string>measure</string>
+		<string>point</string>
+		<string>select</string>
+		<string>target</string>
+	</array>
+	<key>scope.continuous</key>
 	<array>
 		<string>circle</string>
 		<string>crosshair</string>
@@ -13230,12 +14243,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>shekelsign.bank.building</key>
+	<key>shekelsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>shekelsign.bank.building.fill</key>
+	<key>shekelsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -13404,12 +14417,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>singaporedollarsign.bank.building</key>
+	<key>singaporedollarsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>singaporedollarsign.bank.building.fill</key>
+	<key>singaporedollarsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -13435,6 +14448,14 @@
 		<string>currency</string>
 	</array>
 	<key>siri</key>
+	<array>
+		<string>siri</string>
+	</array>
+	<key>siri.gen1</key>
+	<array>
+		<string>siri</string>
+	</array>
+	<key>siri.gen2</key>
 	<array>
 		<string>siri</string>
 	</array>
@@ -13509,6 +14530,11 @@
 		<string>edit</string>
 	</array>
 	<key>slider.horizontal.below.sun.max</key>
+	<array>
+		<string>adjust</string>
+		<string>edit</string>
+	</array>
+	<key>slider.horizontal.below.sun.min</key>
 	<array>
 		<string>adjust</string>
 		<string>edit</string>
@@ -13607,6 +14633,14 @@
 	<key>sparkle.magnifyingglass</key>
 	<array>
 		<string>search</string>
+	</array>
+	<key>sparkle.text.clipboard</key>
+	<array>
+		<string>notes</string>
+	</array>
+	<key>sparkle.text.clipboard.fill</key>
+	<array>
+		<string>notes</string>
 	</array>
 	<key>sparkles</key>
 	<array>
@@ -13984,6 +15018,10 @@
 		<string>create</string>
 		<string>new</string>
 	</array>
+	<key>square.grid.month</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>square.on.square.badge.person.crop</key>
 	<array>
 		<string>people</string>
@@ -14074,6 +15112,10 @@
 		<string>mail</string>
 		<string>vip</string>
 	</array>
+	<key>star.calendar</key>
+	<array>
+		<string>date</string>
+	</array>
 	<key>star.circle</key>
 	<array>
 		<string>favorite</string>
@@ -14087,6 +15129,14 @@
 		<string>favorite</string>
 		<string>mail</string>
 		<string>vip</string>
+	</array>
+	<key>star.rectangle</key>
+	<array>
+		<string>favorite</string>
+	</array>
+	<key>star.rectangle.fill</key>
+	<array>
+		<string>favorite</string>
 	</array>
 	<key>star.slash</key>
 	<array>
@@ -14142,12 +15192,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>sterlingsign.bank.building</key>
+	<key>sterlingsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>sterlingsign.bank.building.fill</key>
+	<key>sterlingsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -14453,12 +15503,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>swedishkronasign.bank.building</key>
+	<key>swedishkronasign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>swedishkronasign.bank.building.fill</key>
+	<key>swedishkronasign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -14597,12 +15647,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>tengesign.bank.building</key>
+	<key>tengesign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>tengesign.bank.building.fill</key>
+	<key>tengesign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -14762,12 +15812,72 @@
 	<array>
 		<string>dictionary</string>
 	</array>
+	<key>text.bubble</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.clock</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.clock.fill</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.clock.fill.rtl</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.clock.rtl</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.sparkles</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.sparkles.fill</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.sparkles.fill.rtl</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.badge.sparkles.rtl</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.fill</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.fill.rtl</key>
+	<array>
+		<string>speech</string>
+	</array>
+	<key>text.bubble.rtl</key>
+	<array>
+		<string>speech</string>
+	</array>
 	<key>text.insert</key>
 	<array>
 		<string>arrow</string>
 		<string>beginning</string>
 		<string>next</string>
 		<string>play next</string>
+	</array>
+	<key>text.line.2.summary</key>
+	<array>
+		<string>summarize</string>
+	</array>
+	<key>text.line.2.summary.badge.xmark</key>
+	<array>
+		<string>summarize</string>
+	</array>
+	<key>text.line.3.summary</key>
+	<array>
+		<string>summarize</string>
 	</array>
 	<key>text.magnifyingglass</key>
 	<array>
@@ -15197,12 +16307,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>tugriksign.bank.building</key>
+	<key>tugriksign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>tugriksign.bank.building.fill</key>
+	<key>tugriksign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -15237,12 +16347,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>turkishlirasign.bank.building</key>
+	<key>turkishlirasign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>turkishlirasign.bank.building.fill</key>
+	<key>turkishlirasign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -15304,6 +16414,30 @@
 	<key>video.badge.plus</key>
 	<array>
 		<string>add</string>
+		<string>facetime</string>
+	</array>
+	<key>video.badge.questionmark</key>
+	<array>
+		<string>facetime</string>
+	</array>
+	<key>video.badge.questionmark.ar</key>
+	<array>
+		<string>facetime</string>
+	</array>
+	<key>video.badge.questionmark.fill</key>
+	<array>
+		<string>facetime</string>
+	</array>
+	<key>video.badge.questionmark.fill.ar</key>
+	<array>
+		<string>facetime</string>
+	</array>
+	<key>video.badge.shield.exclamationmark</key>
+	<array>
+		<string>facetime</string>
+	</array>
+	<key>video.badge.shield.exclamationmark.fill</key>
+	<array>
 		<string>facetime</string>
 	</array>
 	<key>video.badge.waveform</key>
@@ -15372,6 +16506,10 @@
 	<key>video.square.fill</key>
 	<array>
 		<string>facetime</string>
+	</array>
+	<key>viewfinder.and.person</key>
+	<array>
+		<string>people</string>
 	</array>
 	<key>viewfinder.trianglebadge.exclamationmark</key>
 	<array>
@@ -15514,7 +16652,7 @@
 		<string>speech</string>
 		<string>voice memo</string>
 	</array>
-	<key>waveform.and.person.filled</key>
+	<key>waveform.and.person</key>
 	<array>
 		<string>people</string>
 		<string>person</string>
@@ -15625,6 +16763,10 @@
 	<array>
 		<string>2x2</string>
 	</array>
+	<key>widget.small.badge.exclamationmark</key>
+	<array>
+		<string>2x2</string>
+	</array>
 	<key>widget.small.badge.plus</key>
 	<array>
 		<string>2x2</string>
@@ -15697,12 +16839,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>wonsign.bank.building</key>
+	<key>wonsign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>wonsign.bank.building.fill</key>
+	<key>wonsign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
@@ -15738,19 +16880,25 @@
 	<array>
 		<string>junk</string>
 		<string>mail</string>
+		<string>spam</string>
 	</array>
 	<key>xmark.bin.circle</key>
 	<array>
 		<string>junk</string>
+		<string>mail</string>
+		<string>spam</string>
 	</array>
 	<key>xmark.bin.circle.fill</key>
 	<array>
 		<string>junk</string>
+		<string>mail</string>
+		<string>spam</string>
 	</array>
 	<key>xmark.bin.fill</key>
 	<array>
 		<string>junk</string>
 		<string>mail</string>
+		<string>spam</string>
 	</array>
 	<key>xmark.circle</key>
 	<array>
@@ -15858,12 +17006,12 @@
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>yensign.bank.building</key>
+	<key>yensign.building.classical</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>
 	</array>
-	<key>yensign.bank.building.fill</key>
+	<key>yensign.building.classical.fill</key>
 	<array>
 		<string>currencies</string>
 		<string>currency</string>

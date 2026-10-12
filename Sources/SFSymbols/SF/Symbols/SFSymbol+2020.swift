@@ -28,7 +28,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var _4kTvFill: SFSymbol { SFSymbol(rawValue: SFName._4kTvFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -278,7 +277,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var applewatchRadiowavesLeftAndRight: SFSymbol { SFSymbol(rawValue: SFName.applewatchRadiowavesLeftAndRight) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -1502,9 +1500,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: atom
     /// - Category: nature
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     static var atom: SFSymbol { SFSymbol(rawValue: SFName.atom) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -1822,7 +1817,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var building2: SFSymbol { SFSymbol(rawValue: SFName.building2) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -1853,11 +1847,13 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: building.columns
+    /// - Recommended: building.classical.columns
     static var buildingColumns: SFSymbol { SFSymbol(rawValue: SFName.buildingColumns) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: building.columns.fill
+    /// - Recommended: building.classical.columns.fill
     static var buildingColumnsFill: SFSymbol { SFSymbol(rawValue: SFName.buildingColumnsFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -1949,7 +1945,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var cameraFilters: SFSymbol { SFSymbol(rawValue: SFName.cameraFilters) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -1959,7 +1954,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var cameraMeteringCenterWeighted: SFSymbol { SFSymbol(rawValue: SFName.cameraMeteringCenterWeighted) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -1975,7 +1969,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var cameraMeteringMatrix: SFSymbol { SFSymbol(rawValue: SFName.cameraMeteringMatrix) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -1985,7 +1978,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var cameraMeteringMultispot: SFSymbol { SFSymbol(rawValue: SFName.cameraMeteringMultispot) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -2058,7 +2050,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var car2: SFSymbol { SFSymbol(rawValue: SFName.car2) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -2121,7 +2112,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var chartBarXaxis: SFSymbol { SFSymbol(rawValue: SFName.chartBarXaxis) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -2156,7 +2146,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var checkmarkRectanglePortrait: SFSymbol { SFSymbol(rawValue: SFName.checkmarkRectanglePortrait) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -2533,7 +2522,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var crossCaseFill: SFSymbol { SFSymbol(rawValue: SFName.crossCaseFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -2868,7 +2856,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var display2: SFSymbol { SFSymbol(rawValue: SFName.display2) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -3041,7 +3028,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var dotRadiowavesForward: SFSymbol { SFSymbol(rawValue: SFName.dotRadiowavesForward) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -3179,7 +3165,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var ellipsisBubble: SFSymbol { SFSymbol(rawValue: SFName.ellipsisBubble) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -3199,7 +3184,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var ellipsisRectangle: SFSymbol { SFSymbol(rawValue: SFName.ellipsisRectangle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -3240,12 +3224,18 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: esim
     /// - Category: objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 27.0, macOS 27.0, tvOS 27.0, watchOS 27.0, visionOS 27.0
     static var esim: SFSymbol { SFSymbol(rawValue: SFName.esim) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: esim.fill
     /// - Category: objectsandtools
+    ///
+    /// Availabilities:
+    /// - hierarchical: iOS 27.0, macOS 27.0, tvOS 27.0, watchOS 27.0, visionOS 27.0
     static var esimFill: SFSymbol { SFSymbol(rawValue: SFName.esimFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -3797,7 +3787,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     static var giftCircle: SFSymbol { SFSymbol(rawValue: SFName.giftCircle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -3873,7 +3862,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var hSquareOnSquare: SFSymbol { SFSymbol(rawValue: SFName.hSquareOnSquare) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4079,11 +4067,7 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: homekit
-    /// - Category: home, multicolor, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
+    /// - Recommended: apple.homekit
     static var homekit: SFSymbol { SFSymbol(rawValue: SFName.homekit) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4234,7 +4218,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var iphoneRadiowavesLeftAndRight: SFSymbol { SFSymbol(rawValue: SFName.iphoneRadiowavesLeftAndRight) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4297,7 +4280,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var jSquareOnSquare: SFSymbol { SFSymbol(rawValue: SFName.jSquareOnSquare) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4355,6 +4337,7 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: keyboard.macwindow
+    /// - Recommended: keyboard.interface.window
     static var keyboardMacwindow: SFSymbol { SFSymbol(rawValue: SFName.keyboardMacwindow) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4403,7 +4386,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var lJoystickFill: SFSymbol { SFSymbol(rawValue: SFName.lJoystickFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4454,7 +4436,6 @@ public extension SFSymbol {
     /// - Category: multicolor, nature
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     static var ladybugFill: SFSymbol { SFSymbol(rawValue: SFName.ladybugFill) }
 
@@ -4534,7 +4515,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var level: SFSymbol { SFSymbol(rawValue: SFName.level) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4731,7 +4711,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var lockRectangleOnRectangle: SFSymbol { SFSymbol(rawValue: SFName.lockRectangleOnRectangle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4741,7 +4720,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var lockRectangleOnRectangleFill: SFSymbol { SFSymbol(rawValue: SFName.lockRectangleOnRectangleFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4885,29 +4863,19 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow.badge.plus
-    /// - Category: multicolor
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0
+    /// - Recommended: interface.window.badge.plus
     static var macwindowBadgePlus: SFSymbol { SFSymbol(rawValue: SFName.macwindowBadgePlus) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow.on.rectangle
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
+    /// - Recommended: interface.window.on.rectangle
     static var macwindowOnRectangle: SFSymbol { SFSymbol(rawValue: SFName.macwindowOnRectangle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: macwindow.on.rectangle.rtl
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
+    /// - Recommended: interface.window.on.rectangle.rtl
     static var macwindowOnRectangleRtl: SFSymbol { SFSymbol(rawValue: SFName.macwindowOnRectangleRtl) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4921,7 +4889,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var mailAndTextMagnifyingglass: SFSymbol { SFSymbol(rawValue: SFName.mailAndTextMagnifyingglass) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -4930,7 +4897,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var mailAndTextMagnifyingglassRtl: SFSymbol { SFSymbol(rawValue: SFName.mailAndTextMagnifyingglassRtl) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5129,7 +5095,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var musicNoteHouseFill: SFSymbol { SFSymbol(rawValue: SFName.musicNoteHouseFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5284,7 +5249,6 @@ public extension SFSymbol {
     /// - Category: multicolor, objectsandtools
     ///
     /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     /// - multicolor: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
     static var paintpaletteFill: SFSymbol { SFSymbol(rawValue: SFName.paintpaletteFill) }
 
@@ -5578,7 +5542,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var photoOnRectangleAngled: SFSymbol { SFSymbol(rawValue: SFName.photoOnRectangleAngled) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5600,7 +5563,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 18.0, macOS 15.0, tvOS 18.0, watchOS 11.0, visionOS 2.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pills: SFSymbol { SFSymbol(rawValue: SFName.pills) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5619,7 +5581,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pip: SFSymbol { SFSymbol(rawValue: SFName.pip) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5628,7 +5589,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pipEnter: SFSymbol { SFSymbol(rawValue: SFName.pipEnter) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5637,7 +5597,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pipExit: SFSymbol { SFSymbol(rawValue: SFName.pipExit) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5654,7 +5613,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pipRemove: SFSymbol { SFSymbol(rawValue: SFName.pipRemove) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5663,7 +5621,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var pipSwap: SFSymbol { SFSymbol(rawValue: SFName.pipSwap) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5741,7 +5698,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var plusRectangleOnFolder: SFSymbol { SFSymbol(rawValue: SFName.plusRectangleOnFolder) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5920,7 +5876,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var questionmarkFolderFill: SFSymbol { SFSymbol(rawValue: SFName.questionmarkFolderFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5930,7 +5885,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var questionmarkFolderFillAr: SFSymbol { SFSymbol(rawValue: SFName.questionmarkFolderFillAr) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -5985,7 +5939,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var questionmarkVideoFillAr: SFSymbol { SFSymbol(rawValue: SFName.questionmarkVideoFillAr) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6035,7 +5988,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var rJoystickFill: SFSymbol { SFSymbol(rawValue: SFName.rJoystickFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6062,7 +6014,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var rSquareOnSquare: SFSymbol { SFSymbol(rawValue: SFName.rSquareOnSquare) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6151,7 +6102,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var rectangleAndPencilAndEllipsis: SFSymbol { SFSymbol(rawValue: SFName.rectangleAndPencilAndEllipsis) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6161,7 +6111,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var rectangleAndPencilAndEllipsisRtl: SFSymbol { SFSymbol(rawValue: SFName.rectangleAndPencilAndEllipsisRtl) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6171,7 +6120,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var rectangleAndTextMagnifyingglass: SFSymbol { SFSymbol(rawValue: SFName.rectangleAndTextMagnifyingglass) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6181,7 +6129,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var rectangleAndTextMagnifyingglassRtl: SFSymbol { SFSymbol(rawValue: SFName.rectangleAndTextMagnifyingglassRtl) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6707,7 +6654,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var signatureAr: SFSymbol { SFSymbol(rawValue: SFName.signatureAr) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6717,7 +6663,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var signatureHe: SFSymbol { SFSymbol(rawValue: SFName.signatureHe) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6760,7 +6705,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var simcard2: SFSymbol { SFSymbol(rawValue: SFName.simcard2) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6779,7 +6723,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var simcardFill: SFSymbol { SFSymbol(rawValue: SFName.simcardFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6877,7 +6820,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave1: SFSymbol { SFSymbol(rawValue: SFName.speakerWave1) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6887,7 +6829,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave1Fill: SFSymbol { SFSymbol(rawValue: SFName.speakerWave1Fill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6897,7 +6838,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave2: SFSymbol { SFSymbol(rawValue: SFName.speakerWave2) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6907,7 +6847,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave2Circle: SFSymbol { SFSymbol(rawValue: SFName.speakerWave2Circle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6927,7 +6866,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave2Fill: SFSymbol { SFSymbol(rawValue: SFName.speakerWave2Fill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6937,7 +6875,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave3: SFSymbol { SFSymbol(rawValue: SFName.speakerWave3) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -6947,7 +6884,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var speakerWave3Fill: SFSymbol { SFSymbol(rawValue: SFName.speakerWave3Fill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7159,7 +7095,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareOnSquareDashed: SFSymbol { SFSymbol(rawValue: SFName.squareOnSquareDashed) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7168,7 +7103,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareOnSquareSquareshapeControlhandles: SFSymbol { SFSymbol(rawValue: SFName.squareOnSquareSquareshapeControlhandles) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7226,7 +7160,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareStack3DDownForward: SFSymbol { SFSymbol(rawValue: SFName.squareStack3DDownForward) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7236,27 +7169,18 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareStack3DDownForwardFill: SFSymbol { SFSymbol(rawValue: SFName.squareStack3DDownForwardFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.forward.dottedline
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareStack3DForwardDottedline: SFSymbol { SFSymbol(rawValue: SFName.squareStack3DForwardDottedline) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: square.stack.3d.forward.dottedline.fill
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareStack3DForwardDottedlineFill: SFSymbol { SFSymbol(rawValue: SFName.squareStack3DForwardDottedlineFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7288,7 +7212,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var squareshapeControlhandlesOnSquareshapeControlhandles: SFSymbol { SFSymbol(rawValue: SFName.squareshapeControlhandlesOnSquareshapeControlhandles) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7470,10 +7393,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: target
     /// - Category: variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var target: SFSymbol { SFSymbol(rawValue: SFName.target) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7511,6 +7430,7 @@ public extension SFSymbol {
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
     ///
     /// - Symbol Name: text.and.command.macwindow
+    /// - Recommended: text.and.command.interface.window
     static var textAndCommandMacwindow: SFSymbol { SFSymbol(rawValue: SFName.textAndCommandMacwindow) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7896,10 +7816,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: wave.3.backward
     /// - Category: connectivity, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3Backward: SFSymbol { SFSymbol(rawValue: SFName.wave3Backward) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7909,7 +7825,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3BackwardCircle: SFSymbol { SFSymbol(rawValue: SFName.wave3BackwardCircle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7926,9 +7841,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: wave.3.forward
     /// - Category: connectivity, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3Forward: SFSymbol { SFSymbol(rawValue: SFName.wave3Forward) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7938,7 +7850,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3ForwardCircle: SFSymbol { SFSymbol(rawValue: SFName.wave3ForwardCircle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7955,10 +7866,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: wave.3.left
     /// - Category: connectivity, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3Left: SFSymbol { SFSymbol(rawValue: SFName.wave3Left) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7968,7 +7875,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3LeftCircle: SFSymbol { SFSymbol(rawValue: SFName.wave3LeftCircle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7985,10 +7891,6 @@ public extension SFSymbol {
     ///
     /// - Symbol Name: wave.3.right
     /// - Category: connectivity, variable
-    ///
-    /// Availabilities:
-    /// - hierarchical: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3Right: SFSymbol { SFSymbol(rawValue: SFName.wave3Right) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -7998,7 +7900,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wave3RightCircle: SFSymbol { SFSymbol(rawValue: SFName.wave3RightCircle) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -8034,7 +7935,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wrenchAndScrewdriver: SFSymbol { SFSymbol(rawValue: SFName.wrenchAndScrewdriver) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
@@ -8044,7 +7944,6 @@ public extension SFSymbol {
     ///
     /// Availabilities:
     /// - hierarchical: iOS 15.0, macOS 12.0, tvOS 15.0, watchOS 8.0, visionOS 1.0
-    /// - multicolor: iOS 16.0, macOS 13.0, tvOS 16.0, watchOS 9.0, visionOS 1.0
     static var wrenchAndScrewdriverFill: SFSymbol { SFSymbol(rawValue: SFName.wrenchAndScrewdriverFill) }
 
     /// Support only iOS 14.0, macOS 11.0, tvOS 14.0, watchOS 7.0, visionOS 1.0 and later
